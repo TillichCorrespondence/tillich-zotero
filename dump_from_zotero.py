@@ -27,7 +27,7 @@ def parse_and_pretty_save(xml_input_file, xml_output_file):
 
 API_KEY = os.environ.get("ZOTERO_API_KEY")
 USER_ID = os.environ.get("ZOTERO_USER_ID")
-COLLECTION_ID = "5701116"
+COLLECTION_ID = os.environ.get("ZOTERO_COLLECTION_ID", "5701116")
 PAGE_SIZE = 1
 zotero_url = f"https://api.zotero.org/groups/{COLLECTION_ID}/items?format=tei&limit={PAGE_SIZE}"  # noqa:
 headers = {

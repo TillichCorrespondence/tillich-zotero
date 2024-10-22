@@ -1,0 +1,28 @@
+name: Dump Zotero Group as TEI/XML
+
+on:
+  schedule:
+  - cron: "28 4 * * *"
+  workflow_dispatch:
+
+jobs:
+  download:
+    name: dump baserow
+    runs-on: ubuntu-latest
+    env:
+      ZOTERO_API_KEY: ${{ secrets.ZOTERO_API_KEY }}
+      ZOTERO_USER_ID: ${{ secrets.ZOTERO_USER_ID }}
+      ZOTERO_COLLECTION_ID: 5701116
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install Python Packages
+        run: pip install -r requirements.txt
+      - name: dump the data
+        run: dump_from_zotero.py
+      - name: Commit data
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Data update from Zotero
