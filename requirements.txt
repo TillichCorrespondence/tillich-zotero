@@ -1,1 +1,1 @@
-acdh-tei-pyutils
+acdh-tei-pyutils>=1.5,<2

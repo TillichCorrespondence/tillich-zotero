@@ -2,7 +2,11 @@ import requests
 import time
 import os
 from acdh_tei_pyutils.tei import TeiReader
+from acdh_tei_pyutils.utils import make_bibl_label
 from lxml import etree
+
+
+file_name = "listbibl.xml"
 
 
 def parse_and_pretty_save(xml_input_file, xml_output_file):
@@ -74,6 +78,12 @@ for i in range(0, int(item_count), PAGE_SIZE):
         )
         root_node.append(x)
     time.sleep(2)
-    doc.tree_to_file("listbibl.xml")
+    doc.tree_to_file(file_name)
 
-parse_and_pretty_save("listbibl.xml", "listbibl.xml")
+print("adding labels as @n attributes")
+doc = TeiReader(file_name)
+for x in doc.any_xpath(".//tei:biblStruct[@xml:id]"):
+    x.attrib["n"] = make_bibl_label(x)
+doc.tree_to_file(file_name)
+
+parse_and_pretty_save(file_name, file_name)
