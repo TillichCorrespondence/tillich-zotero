@@ -83,7 +83,11 @@ for i in range(0, int(item_count), PAGE_SIZE):
 print("adding labels as @n attributes")
 doc = TeiReader(file_name)
 for x in doc.any_xpath(".//tei:biblStruct[@xml:id]"):
-    x.attrib["n"] = make_bibl_label(x)
+    try:
+        x.attrib["n"] = make_bibl_label(x)
+    except Exception as e:
+        print(e)
+        x.attrib["n"] = "o.A, o.T, o.J"
 doc.tree_to_file(file_name)
 
 parse_and_pretty_save(file_name, file_name)

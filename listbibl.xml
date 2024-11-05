@@ -16,6 +16,59 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__NGB74MWZ" corresp="http://zotero.org/groups/5701116/items/NGB74MWZ" n="Homer, Odyssee, 2014">
+          <monogr>
+            <title level="m">Odyssee</title>
+            <author>
+              <name>Homer</name>
+            </author>
+            <respStmt>
+              <resp>translator</resp>
+              <persName>
+                <forename>Anton</forename>
+                <surname>Weiher</surname>
+              </persName>
+            </respStmt>
+            <imprint>
+              <pubPlace>Berlin/Boston</pubPlace>
+              <publisher>De Gruyter</publisher>
+              <date>2014</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="tillich__PPRVJ89J" corresp="http://zotero.org/groups/5701116/items/PPRVJ89J" n="Ferderer, Vernetzungen im konservativ-erwecklichen Protestantismus um 1900 – Ein netz..., 2023">
+          <analytic>
+            <title level="a">Vernetzungen im konservativ-erwecklichen Protestantismus um 1900 – Ein netzwerkanalytischer Beitrag zur Neupietismusforschung</title>
+            <author>
+              <forename>Eduard</forename>
+              <surname>Ferderer</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Kopf und Herz vereint zusammen. Grundlinien pietistischer Hochschulbildung</title>
+            <editor>
+              <forename>Friedrich von</forename>
+              <surname>Lüdke</surname>
+            </editor>
+            <editor>
+              <forename>N.</forename>
+              <surname>Schmidt</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Darmstadt</pubPlace>
+              <biblScope unit="page">52–71</biblScope>
+              <date>2023</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__VQ4Z2EDV" corresp="http://zotero.org/groups/5701116/items/VQ4Z2EDV" n="o.A, o.T, o.J">
+          <monogr>
+            <title/>
+            <imprint>
+              <date/>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__XXM9AV77" corresp="http://zotero.org/groups/5701116/items/XXM9AV77" n="o.A, Zeitwende. Kultur, Kirche, Zeitgeschehen, 1925">
           <monogr>
             <title level="m">Zeitwende. Kultur, Kirche, Zeitgeschehen</title>
