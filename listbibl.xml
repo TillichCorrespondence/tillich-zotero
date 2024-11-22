@@ -16,6 +16,25 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__M79367QH" corresp="http://zotero.org/groups/5701116/items/M79367QH" n="Homer, Odyssee, 2014">
+          <monogr>
+            <title level="m">Odyssee</title>
+            <author>
+              <name>Homer</name>
+            </author>
+            <respStmt>
+              <resp>translator</resp>
+              <persName>
+                <forename>Anton</forename>
+                <surname>Weiher</surname>
+              </persName>
+            </respStmt>
+            <imprint>
+              <publisher>De Gruyter</publisher>
+              <date>2014</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__NGB74MWZ" corresp="http://zotero.org/groups/5701116/items/NGB74MWZ" n="Homer, Odyssee, 2014">
           <monogr>
             <title level="m">Odyssee</title>
