@@ -16,6 +16,38 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="bookSection" xml:id="tillich__GQ7HTB9V" corresp="http://zotero.org/groups/5701116/items/GQ7HTB9V" n="Tillich, Predigt zum Semesterschluß. Von Dr. Paul Tillich, Prof. für Religionsphilos..., 1928">
+          <analytic>
+            <title level="a">Predigt zum Semesterschluß. Von Dr. Paul Tillich, Prof. für Religionsphilosophie a. d. techn. Hochschule Dresden</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Von der Heiligung des Lebens</title>
+            <imprint>
+              <pubPlace>Leipzig</pubPlace>
+              <biblScope unit="page">13-16</biblScope>
+              <publisher>J. C. Hinrichs</publisher>
+              <date>1928</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__UMVTX9JU" corresp="http://zotero.org/groups/5701116/items/UMVTX9JU" n="Hartmann, Von der Heiligung des Lebens, 1928">
+          <monogr>
+            <title level="m">Von der Heiligung des Lebens</title>
+            <author>
+              <forename>Hans</forename>
+              <surname>Hartmann</surname>
+            </author>
+            <imprint>
+              <pubPlace>Leipzig</pubPlace>
+              <publisher>J. C. Hinrichs</publisher>
+              <date>1928</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="bookSection" xml:id="tillich__E6ZMBM84" corresp="http://zotero.org/groups/5701116/items/E6ZMBM84" n="Tillich, Mythus und Mythologie: I. Begrifflich und religionspsychologisch, 1930">
           <analytic>
             <title level="a">Mythus und Mythologie: I. Begrifflich und religionspsychologisch</title>
