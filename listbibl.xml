@@ -16,6 +16,98 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__RATTCBW8" corresp="http://zotero.org/groups/5701116/items/RATTCBW8" n="Häring, Das christliche Leben (Ethik), 1907">
+          <monogr>
+            <title level="m">Das christliche Leben (Ethik)</title>
+            <author>
+              <forename>T.</forename>
+              <surname>Häring</surname>
+            </author>
+            <imprint>
+              <publisher>Vereinsbuchhandlung</publisher>
+              <date>1907</date>
+              <note type="url">https://books.google.at/books?id=zcArAAAAYAAJ</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__QNMM37ZA" corresp="http://zotero.org/groups/5701116/items/QNMM37ZA" n="Zahn, Einleitung in das Neue Testament, 1900">
+          <monogr>
+            <title level="m">Einleitung in das Neue Testament</title>
+            <author>
+              <forename>T.</forename>
+              <surname>Zahn</surname>
+            </author>
+            <imprint>
+              <publisher>Deichert</publisher>
+              <date>1900</date>
+              <note type="url">https://books.google.at/books?id=ymVY6simsiQC</note>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Einleitung in das Neue Testament</title>
+            <biblScope unit="volume">Bd. 2</biblScope>
+          </series>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__A82EIMUY" corresp="http://zotero.org/groups/5701116/items/A82EIMUY" n="Zahn, Einleitung in das Neue Testament, 1897">
+          <monogr>
+            <title level="m">Einleitung in das Neue Testament</title>
+            <idno type="ISBN">978-0-8370-1975-8</idno>
+            <author>
+              <forename>T.</forename>
+              <surname>Zahn</surname>
+            </author>
+            <imprint>
+              <publisher>Deichert</publisher>
+              <date>1897</date>
+              <note type="url">https://books.google.at/books?id=OwMVAAAAYAAJ</note>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Einleitung in das Neue Testament</title>
+            <biblScope unit="volume">Bd. 1</biblScope>
+          </series>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__H667WU44" corresp="http://zotero.org/groups/5701116/items/H667WU44" n="Grisebach, Gegenwart. Eine kritische Ethik., 1928">
+          <monogr>
+            <title level="m">Gegenwart. Eine kritische Ethik.</title>
+            <author>
+              <forename>Eberhard</forename>
+              <surname>Grisebach</surname>
+            </author>
+            <imprint>
+              <pubPlace>Halle</pubPlace>
+              <publisher>Niemeyer</publisher>
+              <date>1928</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__VQ4Z2EDV" corresp="http://zotero.org/groups/5701116/items/VQ4Z2EDV" n="Grisebach, Die Grenzen des Erziehers und seine Verantwortung, 1924">
+          <monogr>
+            <title level="m">Die Grenzen des Erziehers und seine Verantwortung</title>
+            <author>
+              <forename>Eberhard</forename>
+              <surname>Grisebach</surname>
+            </author>
+            <imprint>
+              <pubPlace>Halle</pubPlace>
+              <publisher>Niemeyer</publisher>
+              <date>1924</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__8TCXNFE2" corresp="http://zotero.org/groups/5701116/items/8TCXNFE2" n="Rickert, Der Gegenstand der Erkenntnis. Einführung in die Transzendentalphilosophie, 1915">
+          <monogr>
+            <title level="m">Der Gegenstand der Erkenntnis. Einführung in die Transzendentalphilosophie</title>
+            <author>
+              <forename>Heinrich</forename>
+              <surname>Rickert</surname>
+            </author>
+            <edition>3. völlig umgearbeitete und erweiterte Auflage</edition>
+            <imprint>
+              <date>1915</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="bookSection" xml:id="tillich__GQ7HTB9V" corresp="http://zotero.org/groups/5701116/items/GQ7HTB9V" n="Tillich, Predigt zum Semesterschluß. Von Dr. Paul Tillich, Prof. für Religionsphilos..., 1928">
           <analytic>
             <title level="a">Predigt zum Semesterschluß. Von Dr. Paul Tillich, Prof. für Religionsphilosophie a. d. techn. Hochschule Dresden</title>
@@ -129,14 +221,6 @@
               <pubPlace>Darmstadt</pubPlace>
               <biblScope unit="page">52–71</biblScope>
               <date>2023</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="tillich__VQ4Z2EDV" corresp="http://zotero.org/groups/5701116/items/VQ4Z2EDV" n="o.A., o.T., None">
-          <monogr>
-            <title/>
-            <imprint>
-              <date/>
             </imprint>
           </monogr>
         </biblStruct>
