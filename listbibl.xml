@@ -16,6 +16,39 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__QUUXTCBH" corresp="http://zotero.org/groups/5701116/items/QUUXTCBH" n="Hallenser Wingolf, Zur Einführung in den Hallenser Wingolf 1894-1907: Geschichte, Prinzip, Ges..., 1907">
+          <monogr>
+            <title level="m">Zur Einführung in den Hallenser Wingolf 1894-1907: Geschichte, Prinzip, Geselligkeit</title>
+            <author>
+              <name>Hallenser Wingolf</name>
+            </author>
+            <imprint>
+              <pubPlace>Halle</pubPlace>
+              <date>1907</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__8MY8ZTHR" corresp="http://zotero.org/groups/5701116/items/8MY8ZTHR" n="Oettli, Bis auf Alexander den Grossen, 1905">
+          <monogr>
+            <title level="m">Bis auf Alexander den Grossen</title>
+            <author>
+              <forename>Samuel 1846-1911</forename>
+              <surname>Oettli</surname>
+            </author>
+            <editor>
+              <forename>Calwer</forename>
+              <surname>Verlagsverein</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Calw Stuttgart</pubPlace>
+              <publisher>Verl. d. Vereinsbuchh.</publisher>
+              <date>1905</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Die Geschichte Israels</title>
+          </series>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__QU3WUKUR" corresp="http://zotero.org/groups/5701116/items/QU3WUKUR" n="Hašek, Die Abenteuer des braven Soldaten Schwejk, 1926">
           <monogr>
             <title level="m">Die Abenteuer des braven Soldaten Schwejk</title>
