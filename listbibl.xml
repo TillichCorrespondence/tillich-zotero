@@ -16,6 +16,41 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__HV8QBMS6" corresp="http://zotero.org/groups/5701116/items/HV8QBMS6" n="Dreiser, Ton in des Töpfers Hand. Tragödie in 4 Akten, übers. von Paul Eger, o.J.">
+          <monogr>
+            <title level="m">Ton in des Töpfers Hand. Tragödie in 4 Akten, übers. von Paul Eger</title>
+            <author>
+              <forename>Theodor</forename>
+              <surname>Dreiser</surname>
+            </author>
+            <imprint>
+              <pubPlace>Berlin</pubPlace>
+              <publisher>Drei Masken-Verlag</publisher>
+              <date>o.J.</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__HAVYU5NG" corresp="http://zotero.org/groups/5701116/items/HAVYU5NG" n="Dickens, David Copperfield des Jüngeren: Lebensgeschichte und Erfahrungen (die unter..., 1883">
+          <monogr>
+            <title level="m">David Copperfield des Jüngeren: Lebensgeschichte und Erfahrungen (die unter keiner Bedingung veröffentlicht werden sollten).</title>
+            <author>
+              <forename>C.</forename>
+              <surname>Dickens</surname>
+            </author>
+            <author>
+              <forename>H.</forename>
+              <surname>Lobedan</surname>
+            </author>
+            <imprint>
+              <publisher>W. Spemann</publisher>
+              <date>1883</date>
+              <note type="url">https://books.google.at/books?id=_cI0AAAAMAAJ</note>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Charles Dickens Werke / Uebers. von Helene Lobedan. Mit e. Einl. von L. Pröscholdt</title>
+          </series>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__QUUXTCBH" corresp="http://zotero.org/groups/5701116/items/QUUXTCBH" n="Hallenser Wingolf, Zur Einführung in den Hallenser Wingolf 1894-1907: Geschichte, Prinzip, Ges..., 1907">
           <monogr>
             <title level="m">Zur Einführung in den Hallenser Wingolf 1894-1907: Geschichte, Prinzip, Geselligkeit</title>
