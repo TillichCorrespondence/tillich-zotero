@@ -16,6 +16,20 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__S93QNG5P" corresp="http://zotero.org/groups/5701116/items/S93QNG5P" n="Bizer (Hg.), Blätter zur kirchlichen Lage, 1933">
+          <monogr>
+            <title level="m">Blätter zur kirchlichen Lage</title>
+            <editor>
+              <forename>Ernst</forename>
+              <surname>Bizer</surname>
+            </editor>
+            <imprint>
+              <biblScope unit="volume">1</biblScope>
+              <publisher>Brücke-Verlag</publisher>
+              <date>1933</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__HV8QBMS6" corresp="http://zotero.org/groups/5701116/items/HV8QBMS6" n="Dreiser, Ton in des Töpfers Hand. Tragödie in 4 Akten, übers. von Paul Eger, o.J.">
           <monogr>
             <title level="m">Ton in des Töpfers Hand. Tragödie in 4 Akten, übers. von Paul Eger</title>
