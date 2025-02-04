@@ -16,6 +16,89 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__5BXSXI66" corresp="http://zotero.org/groups/5701116/items/5BXSXI66" n="Ibsen, Nora oder Ein Puppenheim: Schauspiel in drei Aufzügen, 1880">
+          <monogr>
+            <title level="m">Nora oder Ein Puppenheim: Schauspiel in drei Aufzügen</title>
+            <author>
+              <forename>Henrik</forename>
+              <surname>Ibsen</surname>
+            </author>
+            <author>
+              <forename>Wilhelm</forename>
+              <surname>Lange</surname>
+            </author>
+            <imprint>
+              <pubPlace>Leipzig</pubPlace>
+              <publisher>Reclam</publisher>
+              <date>1880</date>
+              <note type="url">https://books.google.at/books?id=b_N9ivuAxAgC</note>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Reclams Universal-Bibliothek</title>
+          </series>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__VTE2LHGA" corresp="http://zotero.org/groups/5701116/items/VTE2LHGA" n="Windelband, Präludien. Aufsätze und Reden zur Einleitung in die Philosophie, 1884">
+          <monogr>
+            <title level="m">Präludien. Aufsätze und Reden zur Einleitung in die Philosophie</title>
+            <author>
+              <forename>Wilhelm</forename>
+              <surname>Windelband</surname>
+            </author>
+            <imprint>
+              <pubPlace>Freiburg i. B. und Tübingen</pubPlace>
+              <publisher>Akademische Verlagsbuchhandlung von J. C. B. Mohr (Paul Siebeck)</publisher>
+              <date>1884</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__2LCL8RRU" corresp="http://zotero.org/groups/5701116/items/2LCL8RRU" n="Schiller, Wallenstein: Ein dramat. Gedicht ; [2 Tle], 1898">
+          <monogr>
+            <title level="m">Wallenstein: Ein dramat. Gedicht ; [2 Tle]</title>
+            <author>
+              <forename>F.</forename>
+              <surname>Schiller</surname>
+            </author>
+            <edition>5. verbesserte Aufl.</edition>
+            <imprint>
+              <publisher>Ferd. Hirt</publisher>
+              <date>1898</date>
+              <note type="url">https://books.google.at/books?id=uOn9gWU9ouwC</note>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Aus Märchen, Sage und Dichtung</title>
+          </series>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__D3MTHG8T" corresp="http://zotero.org/groups/5701116/items/D3MTHG8T" n="Loofs, Leitfaden zum Studium der Dogmengeschichte, 1906">
+          <monogr>
+            <title level="m">Leitfaden zum Studium der Dogmengeschichte</title>
+            <author>
+              <forename>Friedrich</forename>
+              <surname>Loofs</surname>
+            </author>
+            <edition>4. völlig überarbeitete Aufl.</edition>
+            <imprint>
+              <pubPlace>Halle</pubPlace>
+              <publisher>Max Niemeyer</publisher>
+              <date>1906</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__RT9TEINB" corresp="http://zotero.org/groups/5701116/items/RT9TEINB" n="Brecht, Die Dreigroschenoper. Der Erstdruck 1928, 2004">
+          <monogr>
+            <title level="m">Die Dreigroschenoper. Der Erstdruck 1928</title>
+            <author>
+              <forename>Bertolt</forename>
+              <surname>Brecht</surname>
+            </author>
+            <imprint>
+              <pubPlace>Frankfurt/Main</pubPlace>
+              <publisher>Suhrkamp</publisher>
+              <date>2004</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__S93QNG5P" corresp="http://zotero.org/groups/5701116/items/S93QNG5P" n="Bizer (Hg.), Blätter zur kirchlichen Lage, 1933">
           <monogr>
             <title level="m">Blätter zur kirchlichen Lage</title>
