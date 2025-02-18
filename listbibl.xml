@@ -16,6 +16,121 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__KMCRV2SQ" corresp="http://zotero.org/groups/5701116/items/KMCRV2SQ" n="Juvenal, Satiere VI, None">
+          <monogr>
+            <title level="m">Satiere VI</title>
+            <author>
+              <name>Juvenal</name>
+            </author>
+            <imprint>
+              <date/>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__CCA3U7KD" corresp="http://zotero.org/groups/5701116/items/CCA3U7KD" n="Reyer, Einführung in die Phänomenologie, 1926">
+          <monogr>
+            <title level="m">Einführung in die Phänomenologie</title>
+            <author>
+              <forename>Wilhelm</forename>
+              <surname>Reyer</surname>
+            </author>
+            <imprint>
+              <pubPlace>Leipzig</pubPlace>
+              <publisher>Felix Meiner</publisher>
+              <date>1926</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="presentation" xml:id="tillich__UAIDZ76M" corresp="http://zotero.org/groups/5701116/items/UAIDZ76M" n="o.A., Die Philosophie in der Volkshochschule, 1920">
+          <monogr>
+            <title level="m">Die Philosophie in der Volkshochschule</title>
+            <respStmt>
+              <resp>presenter</resp>
+              <persName>
+                <forename>Richard</forename>
+                <surname>Wegener</surname>
+              </persName>
+            </respStmt>
+            <imprint>
+              <date>1920</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="presentation" xml:id="tillich__JNSVK2X8" corresp="http://zotero.org/groups/5701116/items/JNSVK2X8" n="o.A., Volksschule und Weltanschauung, 1920">
+          <monogr>
+            <title level="m">Volksschule und Weltanschauung</title>
+            <respStmt>
+              <resp>presenter</resp>
+              <persName>
+                <forename>Paul</forename>
+                <surname>Tillich</surname>
+              </persName>
+            </respStmt>
+            <imprint>
+              <date>1920</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="presentation" xml:id="tillich__P5K76TPK" corresp="http://zotero.org/groups/5701116/items/P5K76TPK" n="o.A., Der christliche Einheitsgedanke in Krieg und Frieden, 1919">
+          <monogr>
+            <title level="m">Der christliche Einheitsgedanke in Krieg und Frieden</title>
+            <respStmt>
+              <resp>presenter</resp>
+              <persName>
+                <forename>Adolf</forename>
+                <surname>Deißmann</surname>
+              </persName>
+            </respStmt>
+            <imprint>
+              <date>1919</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="presentation" xml:id="tillich__PI6J4Z7I" corresp="http://zotero.org/groups/5701116/items/PI6J4Z7I" n="o.A., Die Idee des ewigen Friedens im Altertum, 1919">
+          <monogr>
+            <title level="m">Die Idee des ewigen Friedens im Altertum</title>
+            <respStmt>
+              <resp>presenter</resp>
+              <persName>
+                <forename>Hugo</forename>
+                <surname>Gressmann</surname>
+              </persName>
+            </respStmt>
+            <imprint>
+              <date>1919</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="presentation" xml:id="tillich__F7CDACJJ" corresp="http://zotero.org/groups/5701116/items/F7CDACJJ" n="o.A., Das Christentum und die politischen Parteien, 1919">
+          <monogr>
+            <title level="m">Das Christentum und die politischen Parteien</title>
+            <respStmt>
+              <resp>presenter</resp>
+              <persName>
+                <forename>Cajus</forename>
+                <surname>Fabricius</surname>
+              </persName>
+            </respStmt>
+            <imprint>
+              <date>1919</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="presentation" xml:id="tillich__UC8XF3SC" corresp="http://zotero.org/groups/5701116/items/UC8XF3SC" n="o.A., Die Bedeutung der Theologischen Fakultät, 1919">
+          <monogr>
+            <title level="m">Die Bedeutung der Theologischen Fakultät</title>
+            <respStmt>
+              <resp>presenter</resp>
+              <persName>
+                <forename>Adolf von</forename>
+                <surname>Harnack</surname>
+              </persName>
+            </respStmt>
+            <imprint>
+              <date>1919</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__CMKHE3NC" corresp="http://zotero.org/groups/5701116/items/CMKHE3NC" n="Sternberger, Der verstandene Tod. Eine Untersuchung zu Martin Heideggers Existenzialonto..., 1934">
           <monogr>
             <title level="m">Der verstandene Tod. Eine Untersuchung zu Martin Heideggers Existenzialontologie.</title>
