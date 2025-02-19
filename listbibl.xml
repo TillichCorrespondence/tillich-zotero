@@ -16,6 +16,70 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__U5FS7TMF" corresp="http://zotero.org/groups/5701116/items/U5FS7TMF" n="Stammler, Wirtschaft und Recht nach der materialistischen Geschichtsauffassung. Eine ..., 1896">
+          <monogr>
+            <title level="m">Wirtschaft und Recht nach der materialistischen Geschichtsauffassung. Eine sozialphilosophische Untersuchung</title>
+            <author>
+              <forename>Rudolph</forename>
+              <surname>Stammler</surname>
+            </author>
+            <imprint>
+              <pubPlace>Leipzig</pubPlace>
+              <publisher>Veit</publisher>
+              <date>1896</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__WY7DYMT8" corresp="http://zotero.org/groups/5701116/items/WY7DYMT8" n="von Goethe, Faust: eine Tragödie ; 2. Theil, 1870">
+          <monogr>
+            <title level="m">Faust: eine Tragödie ; 2. Theil</title>
+            <author>
+              <forename>J.W.</forename>
+              <surname>von Goethe</surname>
+            </author>
+            <imprint>
+              <publisher>Reclam</publisher>
+              <date>1870</date>
+              <note type="url">https://books.google.at/books?id=tjYSs-POEGMC</note>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Reclams Universal-Bibliothek</title>
+          </series>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__YCT86RMW" corresp="http://zotero.org/groups/5701116/items/YCT86RMW" n="Spinoza, Die Ethik des Spinoza im Urtexte, 1875">
+          <monogr>
+            <title level="m">Die Ethik des Spinoza im Urtexte</title>
+            <author>
+              <forename>B.</forename>
+              <surname>Spinoza</surname>
+            </author>
+            <author>
+              <forename>H.</forename>
+              <surname>Ginsberg</surname>
+            </author>
+            <imprint>
+              <publisher>Koschny</publisher>
+              <date>1875</date>
+              <note type="url">https://books.google.at/books?id=0hFGhZlxeekC</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__QBT8T4YZ" corresp="http://zotero.org/groups/5701116/items/QBT8T4YZ" n="Strauss, Die Christliche Glaubenslehre in Ihrer Geschichtlichen Entwicklung, 1840">
+          <monogr>
+            <title level="m">Die Christliche Glaubenslehre in Ihrer Geschichtlichen Entwicklung</title>
+            <idno type="ISBN">978-5-87815-757-5</idno>
+            <author>
+              <forename>D.F.</forename>
+              <surname>Strauss</surname>
+            </author>
+            <imprint>
+              <publisher>Osiander</publisher>
+              <date>1840</date>
+              <note type="url">https://books.google.at/books?id=hhYSAwAAQBAJ</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__KMCRV2SQ" corresp="http://zotero.org/groups/5701116/items/KMCRV2SQ" n="Juvenal, Satiere VI, None">
           <monogr>
             <title level="m">Satiere VI</title>
