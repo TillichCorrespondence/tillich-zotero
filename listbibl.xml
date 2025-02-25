@@ -16,6 +16,63 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__UWQCSKGA" corresp="http://zotero.org/groups/5701116/items/UWQCSKGA" n="Rilke, Das Stunden-Buch: enthaltend die drei Bücher : Vom moenchischen Leben, Von ..., 1899">
+          <monogr>
+            <title level="m">Das Stunden-Buch: enthaltend die drei Bücher : Vom moenchischen Leben, Von der Pilgerschaft, Von der Armuth und vom Tode</title>
+            <author>
+              <forename>R.M.</forename>
+              <surname>Rilke</surname>
+            </author>
+            <author>
+              <forename>W.</forename>
+              <surname>Tiemann</surname>
+            </author>
+            <author>
+              <forename>W.</forename>
+              <surname>Drugulin (Firm)</surname>
+            </author>
+            <imprint>
+              <publisher>Insel-Verlag</publisher>
+              <date>1899</date>
+              <note type="url">https://books.google.at/books?id=xYlvDz28q-QC</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__8H4L8FYW" corresp="http://zotero.org/groups/5701116/items/8H4L8FYW" n="Simmel, Goethe, 1913">
+          <monogr>
+            <title level="m">Goethe</title>
+            <author>
+              <forename>G.</forename>
+              <surname>Simmel</surname>
+            </author>
+            <imprint>
+              <publisher>Klinkhardt &amp; Biermann</publisher>
+              <date>1913</date>
+              <note type="url">https://books.google.at/books?id=uBnjXO70EBEC</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="tillich__F227PW4S" corresp="http://zotero.org/groups/5701116/items/F227PW4S" n="Tillich, Vorlesung über Religionsphilosophie (Sommersemester 1920), 2001">
+          <analytic>
+            <title level="a">Vorlesung über Religionsphilosophie (Sommersemester 1920)</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Berliner Vorlesungen I (1919-1920)</title>
+            <imprint>
+              <pubPlace>Berlin/New York</pubPlace>
+              <biblScope unit="volume">XII</biblScope>
+              <biblScope unit="page">333-565</biblScope>
+              <date>2001</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Ergänzungs- und Nachlassbände zu den Gesammelten Werken von Paul Tillich</title>
+          </series>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__U5FS7TMF" corresp="http://zotero.org/groups/5701116/items/U5FS7TMF" n="Stammler, Wirtschaft und Recht nach der materialistischen Geschichtsauffassung. Eine ..., 1896">
           <monogr>
             <title level="m">Wirtschaft und Recht nach der materialistischen Geschichtsauffassung. Eine sozialphilosophische Untersuchung</title>
