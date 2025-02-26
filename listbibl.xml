@@ -16,6 +16,42 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="bookSection" xml:id="tillich__A5KCD63S" corresp="http://zotero.org/groups/5701116/items/A5KCD63S" n="Tillich, Paul Tillich: Mystik und Schuldbewußtsein in Schellings philosophischer Ent..., 2022">
+          <analytic>
+            <title level="a">Paul Tillich: Mystik und Schuldbewußtsein in Schellings philosophischer Entwicklung (1912)</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Rezensionen / Reviews 1911–1955</title>
+            <imprint>
+              <pubPlace>Berlin/Boston</pubPlace>
+              <publisher>DeGruyter</publisher>
+              <date>2022</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">ERGÄNZUNGS- UND NACHLASSBÄNDE ZU DEN GESAMMELTEN WERKEN VON PAUL TILLICH</title>
+            <biblScope unit="volume">XXI</biblScope>
+          </series>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__CKMZW7QG" corresp="http://zotero.org/groups/5701116/items/CKMZW7QG" n="Weiß, F.J.W.v. Schelling, Werke. Auswahl in drei Bänden, 1907">
+          <monogr>
+            <title level="m">F.J.W.v. Schelling, Werke. Auswahl in drei Bänden</title>
+            <extent>3</extent>
+            <author>
+              <forename>Otto</forename>
+              <surname>Weiß</surname>
+            </author>
+            <imprint>
+              <pubPlace>Leipzig</pubPlace>
+              <publisher>Fritz Eckardt Verlag</publisher>
+              <date>1907</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__UWQCSKGA" corresp="http://zotero.org/groups/5701116/items/UWQCSKGA" n="Rilke, Das Stunden-Buch: enthaltend die drei Bücher : Vom moenchischen Leben, Von ..., 1899">
           <monogr>
             <title level="m">Das Stunden-Buch: enthaltend die drei Bücher : Vom moenchischen Leben, Von der Pilgerschaft, Von der Armuth und vom Tode</title>
