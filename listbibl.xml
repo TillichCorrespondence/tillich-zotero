@@ -16,6 +16,30 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__TJTK67EB" corresp="http://zotero.org/groups/5701116/items/TJTK67EB" n="Hauptmann, Festspiel in deutschen Reimen, 1913">
+          <monogr>
+            <title level="m">Festspiel in deutschen Reimen</title>
+            <author>
+              <forename>G.</forename>
+              <surname>Hauptmann</surname>
+            </author>
+            <imprint>
+              <publisher>S. Fischer</publisher>
+              <date>1913</date>
+              <note type="url">https://books.google.at/books?id=-Eg4AQAAIAAJ</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__3BN9CA4X" corresp="http://zotero.org/groups/5701116/items/3BN9CA4X" n="o.A., Clara, oder, Zusammenhang der Natur mit der Geisterwelt: ein Gespräch, 1862">
+          <monogr>
+            <title level="m">Clara, oder, Zusammenhang der Natur mit der Geisterwelt: ein Gespräch</title>
+            <imprint>
+              <publisher>Cotta</publisher>
+              <date>1862</date>
+              <note type="url">https://books.google.at/books?id=8M4AAAAAcAAJ</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="bookSection" xml:id="tillich__A5KCD63S" corresp="http://zotero.org/groups/5701116/items/A5KCD63S" n="Tillich, Paul Tillich: Mystik und Schuldbewußtsein in Schellings philosophischer Ent..., 2022">
           <analytic>
             <title level="a">Paul Tillich: Mystik und Schuldbewußtsein in Schellings philosophischer Entwicklung (1912)</title>
