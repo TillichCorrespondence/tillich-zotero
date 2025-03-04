@@ -16,6 +16,93 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__RHFJ7E35" corresp="http://zotero.org/groups/5701116/items/RHFJ7E35" n="Schleiermacher, Schleiermachers Reden über die Religion, 1888">
+          <monogr>
+            <title level="m">Schleiermachers Reden über die Religion</title>
+            <author>
+              <forename>F.</forename>
+              <surname>Schleiermacher</surname>
+            </author>
+            <author>
+              <forename>S.</forename>
+              <surname>Lommatzsch</surname>
+            </author>
+            <imprint>
+              <publisher>F.A. Perthes</publisher>
+              <date>1888</date>
+              <note type="url">https://books.google.at/books?id=CbpZAAAAMAAJ</note>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Bibliothek theologischer Klassiker</title>
+          </series>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__HTWLRUSQ" corresp="http://zotero.org/groups/5701116/items/HTWLRUSQ" n="Kierkegaard, Das Tagebuch des Verführers, 1903">
+          <monogr>
+            <title level="m">Das Tagebuch des Verführers</title>
+            <author>
+              <forename>S.</forename>
+              <surname>Kierkegaard</surname>
+            </author>
+            <author>
+              <forename>M.</forename>
+              <surname>Dauthendey</surname>
+            </author>
+            <imprint>
+              <publisher>Insel-Verlag</publisher>
+              <date>1903</date>
+              <note type="url">https://books.google.at/books?id=75sOAAAAYAAJ</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="tillich__X6RB7EN8" corresp="http://zotero.org/groups/5701116/items/X6RB7EN8" n="Strindberg, Totentanz. Erster Teil, 1917">
+          <analytic>
+            <title level="a">Totentanz. Erster Teil</title>
+            <author>
+              <forename>August</forename>
+              <surname>Strindberg</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Rausch. Totentanz</title>
+            <edition>10. Aufl.</edition>
+            <imprint>
+              <pubPlace>München; Leipzig</pubPlace>
+              <biblScope unit="volume">6</biblScope>
+              <publisher>Georg Müller</publisher>
+              <date>1917</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Strindbergs Werke. Deutsche Gesamtausgabe unter Mitwirkung von Emil Schering als Übersetzer vom Dichter selbst veranstaltet</title>
+          </series>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__VGDC8MII" corresp="http://zotero.org/groups/5701116/items/VGDC8MII" n="von Sydow, Kritischer Kant-Kommentar: zusammengestellt aus den Kritiken Fichtes, Schel..., 1913">
+          <monogr>
+            <title level="m">Kritischer Kant-Kommentar: zusammengestellt aus den Kritiken Fichtes, Schellings, Hegels</title>
+            <author>
+              <forename>E.</forename>
+              <surname>von Sydow</surname>
+            </author>
+            <author>
+              <forename>J.G.</forename>
+              <surname>Fichte</surname>
+            </author>
+            <author>
+              <forename>F.W.J.</forename>
+              <surname>von Schelling</surname>
+            </author>
+            <author>
+              <forename>G.W.F.</forename>
+              <surname>Hegel</surname>
+            </author>
+            <imprint>
+              <publisher>Niemeyer</publisher>
+              <date>1913</date>
+              <note type="url">https://books.google.at/books?id=7loyAQAAMAAJ</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__TJTK67EB" corresp="http://zotero.org/groups/5701116/items/TJTK67EB" n="Hauptmann, Festspiel in deutschen Reimen, 1913">
           <monogr>
             <title level="m">Festspiel in deutschen Reimen</title>
