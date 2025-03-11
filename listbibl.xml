@@ -16,6 +16,62 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__U9ZJIKR6" corresp="http://zotero.org/groups/5701116/items/U9ZJIKR6" n="Goethe, Faust. Eine Tragödie. 1. Teil, 1867">
+          <monogr>
+            <title level="m">Faust. Eine Tragödie. 1. Teil</title>
+            <author>
+              <forename>Johann Wolfgang</forename>
+              <surname>Goethe</surname>
+            </author>
+            <imprint>
+              <pubPlace>Leipzig</pubPlace>
+              <publisher>Reclam</publisher>
+              <date>1867</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__WY7DYMT8" corresp="http://zotero.org/groups/5701116/items/WY7DYMT8" n="Goethe, Faust: eine Tragödie ; 2. Theil, 1870">
+          <monogr>
+            <title level="m">Faust: eine Tragödie ; 2. Theil</title>
+            <author>
+              <forename>Johann Wolfgnag von</forename>
+              <surname>Goethe</surname>
+            </author>
+            <imprint>
+              <publisher>Reclam</publisher>
+              <date>1870</date>
+              <note type="url">https://books.google.at/books?id=tjYSs-POEGMC</note>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Reclams Universal-Bibliothek</title>
+          </series>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__GVDKPKA2" corresp="http://zotero.org/groups/5701116/items/GVDKPKA2" n="Burger, Die deutsche Malerei vom ausgehenden Mittelalter bis zum Ende der Renaissan..., 1917">
+          <monogr>
+            <title level="m">Die deutsche Malerei vom ausgehenden Mittelalter bis zum Ende der Renaissance</title>
+            <extent>27</extent>
+            <author>
+              <forename>Fritz</forename>
+              <surname>Burger</surname>
+            </author>
+            <author>
+              <forename>Hermann</forename>
+              <surname>Schmitz</surname>
+            </author>
+            <author>
+              <forename>Ignaz</forename>
+              <surname>Beth</surname>
+            </author>
+            <imprint>
+              <biblScope unit="volume">6</biblScope>
+              <date>1917</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Handbuch der Kunstwissenschaft</title>
+          </series>
+        </biblStruct>
         <biblStruct type="bookSection" xml:id="tillich__HJP8PPH2" corresp="http://zotero.org/groups/5701116/items/HJP8PPH2" n="Tillich, 2. Vorlesung Der religiöse Gehalt und die religionsgeschichtliche Bedeutung..., 2003">
           <analytic>
             <title level="a">2. Vorlesung Der religiöse Gehalt und die religionsgeschichtliche Bedeutung der abendländischen Philosophie seit der Renaissance (Sommersemester 1921)</title>
@@ -251,23 +307,6 @@
               <date>1896</date>
             </imprint>
           </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="tillich__WY7DYMT8" corresp="http://zotero.org/groups/5701116/items/WY7DYMT8" n="von Goethe, Faust: eine Tragödie ; 2. Theil, 1870">
-          <monogr>
-            <title level="m">Faust: eine Tragödie ; 2. Theil</title>
-            <author>
-              <forename>J.W.</forename>
-              <surname>von Goethe</surname>
-            </author>
-            <imprint>
-              <publisher>Reclam</publisher>
-              <date>1870</date>
-              <note type="url">https://books.google.at/books?id=tjYSs-POEGMC</note>
-            </imprint>
-          </monogr>
-          <series>
-            <title level="s">Reclams Universal-Bibliothek</title>
-          </series>
         </biblStruct>
         <biblStruct type="book" xml:id="tillich__YCT86RMW" corresp="http://zotero.org/groups/5701116/items/YCT86RMW" n="Spinoza, Die Ethik des Spinoza im Urtexte, 1875">
           <monogr>
