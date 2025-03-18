@@ -16,6 +16,87 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="bookSection" xml:id="tillich__TGBGTRAY" corresp="http://zotero.org/groups/5701116/items/TGBGTRAY" n="Hummel (Hg.), 1. Die christliche Gewißheit und der historische Jesus (1911), 1992">
+          <analytic>
+            <title level="a">1. Die christliche Gewißheit und der historische Jesus (1911)</title>
+          </analytic>
+          <monogr>
+            <title level="m">Volume 6/ Band 6 Theological Writings / Theologische Schriften</title>
+            <idno type="ISBN">978-3-11-086375-8</idno>
+            <editor>
+              <forename>Gert</forename>
+              <surname>Hummel</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Berlin, Boston</pubPlace>
+              <biblScope unit="page">21–38</biblScope>
+              <publisher>De Gruyter</publisher>
+              <date>1992</date>
+              <note type="accessed">2025-03-17</note>
+              <note type="url">https://doi.org/10.1515/9783110863758-007</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__8RNNTBFR" corresp="http://zotero.org/groups/5701116/items/8RNNTBFR" n="o.A., Die Verhandlungen des 27. und 28. Evangelisch-sozialen Kongresses abgehalte..., 1921">
+          <monogr>
+            <title level="m">Die Verhandlungen des 27. und 28. Evangelisch-sozialen Kongresses abgehalten in Leipzig, am 15. und 16. Oktober 1918 und in Berlin am 23. und 24. Juni 1920</title>
+            <imprint>
+              <pubPlace>Göttingen</pubPlace>
+              <publisher>Vandenhoeck &amp; Ruprecht</publisher>
+              <date>1921</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="tillich__8JC9C2VJ" corresp="http://zotero.org/groups/5701116/items/8JC9C2VJ" n="Tillich, Masse und Persönlichkeit, 1921">
+          <analytic>
+            <title level="a">Masse und Persönlichkeit</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Die Verhandlungen des 27. und 28. Evangelisch-sozialen Kongresses abgehalten in Leipzig, am 15. und 16. Oktober 1918 und in Berlin am 23. und 24. Juni 1920</title>
+            <imprint>
+              <pubPlace>Göttingen</pubPlace>
+              <biblScope unit="page">76-95</biblScope>
+              <publisher>Vandenhoeck &amp; Ruprecht</publisher>
+              <date>1921</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__2QT76V2I" corresp="http://zotero.org/groups/5701116/items/2QT76V2I" n="Tillich, Masse und Geist. Studien zur Philosophie der Masse, 1922">
+          <monogr>
+            <title level="m">Masse und Geist. Studien zur Philosophie der Masse</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+            <imprint>
+              <pubPlace>Berlin/ Frankfurt a.M.</pubPlace>
+              <publisher>Verlag d. Arbeitergemeinschaft</publisher>
+              <date>1922</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__5UBEXQ69" corresp="http://zotero.org/groups/5701116/items/5UBEXQ69" n="Tillich, Die Überwindung des Religionsbegriffs in der Religionsphilosophie, 1922">
+          <analytic>
+            <title level="a">Die Überwindung des Religionsbegriffs in der Religionsphilosophie</title>
+            <idno type="DOI">https://doi.org/10.1515/kant.1922.27.1-2.446</idno>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Kant-Studien</title>
+            <imprint>
+              <biblScope unit="volume">27</biblScope>
+              <biblScope unit="issue">1-2</biblScope>
+              <date>1922</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__U9ZJIKR6" corresp="http://zotero.org/groups/5701116/items/U9ZJIKR6" n="Goethe, Faust. Eine Tragödie. 1. Teil, 1867">
           <monogr>
             <title level="m">Faust. Eine Tragödie. 1. Teil</title>
