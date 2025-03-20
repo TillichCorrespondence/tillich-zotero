@@ -16,6 +16,38 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__GZ2JTHBA" corresp="http://zotero.org/groups/5701116/items/GZ2JTHBA" n="Rothacker, Einleitung in die Geisteswissenschaften, 1920">
+          <monogr>
+            <title level="m">Einleitung in die Geisteswissenschaften</title>
+            <author>
+              <forename>Erich</forename>
+              <surname>Rothacker</surname>
+            </author>
+            <imprint>
+              <pubPlace>Tübingen</pubPlace>
+              <publisher>Mohr</publisher>
+              <date>1920</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__3SK7AH28" corresp="http://zotero.org/groups/5701116/items/3SK7AH28" n="Hönigswald, Die Skepsis in Philosophie und Wissenschaft, 1914">
+          <monogr>
+            <title level="m">Die Skepsis in Philosophie und Wissenschaft</title>
+            <author>
+              <forename>Richard</forename>
+              <surname>Hönigswald</surname>
+            </author>
+            <imprint>
+              <pubPlace>Göttingen</pubPlace>
+              <biblScope unit="volume">7</biblScope>
+              <publisher>Vandenhoeck &amp; Ruprecht</publisher>
+              <date>1914</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Wege zur Einführung in die Philosophie, Schriften zur Einführung in das philosophische Denken</title>
+          </series>
+        </biblStruct>
         <biblStruct type="bookSection" xml:id="tillich__TGBGTRAY" corresp="http://zotero.org/groups/5701116/items/TGBGTRAY" n="Hummel (Hg.), 1. Die christliche Gewißheit und der historische Jesus (1911), 1992">
           <analytic>
             <title level="a">1. Die christliche Gewißheit und der historische Jesus (1911)</title>
