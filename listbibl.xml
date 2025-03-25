@@ -16,6 +16,73 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__6TZA3ZBR" corresp="http://zotero.org/groups/5701116/items/6TZA3ZBR" n="Ziegler, Gestaltwandel der Götter, 1920">
+          <monogr>
+            <title level="m">Gestaltwandel der Götter</title>
+            <author>
+              <forename>Leopold</forename>
+              <surname>Ziegler</surname>
+            </author>
+            <imprint>
+              <pubPlace>Berlin</pubPlace>
+              <date>1920</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__8D74ZW25" corresp="http://zotero.org/groups/5701116/items/8D74ZW25" n="Bloch, Geist der Utopie, 1918">
+          <monogr>
+            <title level="m">Geist der Utopie</title>
+            <author>
+              <forename>Ernst</forename>
+              <surname>Bloch</surname>
+            </author>
+            <imprint>
+              <pubPlace>München</pubPlace>
+              <date>1918</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__XVKJSWGS" corresp="http://zotero.org/groups/5701116/items/XVKJSWGS" n="Scheler, Vom Ewigen im Menschen, 1921">
+          <monogr>
+            <title level="m">Vom Ewigen im Menschen</title>
+            <author>
+              <forename>Max</forename>
+              <surname>Scheler</surname>
+            </author>
+            <imprint>
+              <pubPlace>Leipzig</pubPlace>
+              <biblScope unit="volume">Band 1: Religiöse Erneuerung</biblScope>
+              <date>1921</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__Q5DA7K39" corresp="http://zotero.org/groups/5701116/items/Q5DA7K39" n="Scholz, Religionsphilosophie, 1921">
+          <monogr>
+            <title level="m">Religionsphilosophie</title>
+            <author>
+              <forename>Heinrich</forename>
+              <surname>Scholz</surname>
+            </author>
+            <imprint>
+              <pubPlace>Berlin</pubPlace>
+              <date>1921</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__RTCADHR5" corresp="http://zotero.org/groups/5701116/items/RTCADHR5" n="Gadamer, Lehrbuch der chemischen Toxikologie und Anleitung zur Ausmittelung der Gift..., 1909">
+          <monogr>
+            <title level="m">Lehrbuch der chemischen Toxikologie und Anleitung zur Ausmittelung der Gifte. Für Apotheker, Chemiker u. Mediziner</title>
+            <author>
+              <forename>Johannes</forename>
+              <surname>Gadamer</surname>
+            </author>
+            <imprint>
+              <pubPlace>Göttingen</pubPlace>
+              <publisher>Vandenhoeck &amp; Ruprecht</publisher>
+              <date>1909</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__GZ2JTHBA" corresp="http://zotero.org/groups/5701116/items/GZ2JTHBA" n="Rothacker, Einleitung in die Geisteswissenschaften, 1920">
           <monogr>
             <title level="m">Einleitung in die Geisteswissenschaften</title>
