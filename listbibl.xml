@@ -16,6 +16,39 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__X3Q3RTFT" corresp="http://zotero.org/groups/5701116/items/X3Q3RTFT" n="Shakespear, König Lear, 2020">
+          <monogr>
+            <title level="m">König Lear</title>
+            <author>
+              <forename>William</forename>
+              <surname>Shakespear</surname>
+            </author>
+            <respStmt>
+              <resp>translator</resp>
+              <persName>
+                <forename>Werner</forename>
+                <surname>Brönnimann</surname>
+              </persName>
+            </respStmt>
+            <imprint>
+              <pubPlace>Tübingen</pubPlace>
+              <date>2020</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__DP4MC72R" corresp="http://zotero.org/groups/5701116/items/DP4MC72R" n="Wilde, Das Bildnis des Dorian Grey, 1906">
+          <monogr>
+            <title level="m">Das Bildnis des Dorian Grey</title>
+            <author>
+              <forename>Oscar</forename>
+              <surname>Wilde</surname>
+            </author>
+            <imprint>
+              <publisher>Schreitersche Verlagsbuchhandlung</publisher>
+              <date>1906</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__6TZA3ZBR" corresp="http://zotero.org/groups/5701116/items/6TZA3ZBR" n="Ziegler, Gestaltwandel der Götter, 1920">
           <monogr>
             <title level="m">Gestaltwandel der Götter</title>
