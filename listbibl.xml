@@ -16,6 +16,18 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__RHRQ7RI9" corresp="http://zotero.org/groups/5701116/items/RHRQ7RI9" n="Kallinikow, Frauen und Mönche, 1928">
+          <monogr>
+            <title level="m">Frauen und Mönche</title>
+            <author>
+              <forename>Josef</forename>
+              <surname>Kallinikow</surname>
+            </author>
+            <imprint>
+              <date>1928</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__X3Q3RTFT" corresp="http://zotero.org/groups/5701116/items/X3Q3RTFT" n="Shakespear, König Lear, 2020">
           <monogr>
             <title level="m">König Lear</title>
