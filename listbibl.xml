@@ -16,6 +16,39 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__5HN9Q4VV" corresp="http://zotero.org/groups/5701116/items/5HN9Q4VV" n="Platon, Platons Gastmahl, 1903">
+          <monogr>
+            <title level="m">Platons Gastmahl</title>
+            <author>
+              <name>Platon</name>
+            </author>
+            <respStmt>
+              <resp>translator</resp>
+              <persName>
+                <forename>Rudolf</forename>
+                <surname>Kassner</surname>
+              </persName>
+            </respStmt>
+            <imprint>
+              <pubPlace>Leipzig</pubPlace>
+              <publisher>Eugen Diederichs</publisher>
+              <date>1903</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__XQTWJH3F" corresp="http://zotero.org/groups/5701116/items/XQTWJH3F" n="Cassirer, Substanzbegriff und Funktionsbegriff. Untersuchungen über die Grundfragen d..., 1910">
+          <monogr>
+            <title level="m">Substanzbegriff und Funktionsbegriff. Untersuchungen über die Grundfragen der Erkenntniskritik</title>
+            <author>
+              <forename>Ernst</forename>
+              <surname>Cassirer</surname>
+            </author>
+            <imprint>
+              <publisher>Verlag von Bruno Cassirer</publisher>
+              <date>1910</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="journalArticle" xml:id="tillich__WPM4VDGS" corresp="http://zotero.org/groups/5701116/items/WPM4VDGS" n="von Sydow, Rez. zu Paul Tillich: &quot;Masse und Geist&quot;, 1922">
           <analytic>
             <title level="a">Rez. zu Paul Tillich: "Masse und Geist"</title>
