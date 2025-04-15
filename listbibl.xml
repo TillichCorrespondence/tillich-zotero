@@ -16,6 +16,42 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__FRFFXMEW" corresp="http://zotero.org/groups/5701116/items/FRFFXMEW" n="von Aquin, Kommentar zu Aristoteles Metaphysik, None">
+          <monogr>
+            <title level="m">Kommentar zu Aristoteles Metaphysik</title>
+            <author>
+              <forename>Thomas</forename>
+              <surname>von Aquin</surname>
+            </author>
+            <imprint>
+              <date/>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__M9JIHZCM" corresp="http://zotero.org/groups/5701116/items/M9JIHZCM" n="von Aquin, Summa theologica, None">
+          <monogr>
+            <title level="m">Summa theologica</title>
+            <author>
+              <forename>Thomas</forename>
+              <surname>von Aquin</surname>
+            </author>
+            <imprint>
+              <date/>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__NAZHS9NN" corresp="http://zotero.org/groups/5701116/items/NAZHS9NN" n="von Aquin, Summa contra gentiles, None">
+          <monogr>
+            <title level="m">Summa contra gentiles</title>
+            <author>
+              <forename>Thomas</forename>
+              <surname>von Aquin</surname>
+            </author>
+            <imprint>
+              <date/>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__5HN9Q4VV" corresp="http://zotero.org/groups/5701116/items/5HN9Q4VV" n="Platon, Platons Gastmahl, 1903">
           <monogr>
             <title level="m">Platons Gastmahl</title>
@@ -2461,19 +2497,6 @@
             </imprint>
           </monogr>
         </biblStruct>
-        <biblStruct type="book" xml:id="tillich__N8HXBGEA" corresp="http://zotero.org/groups/5701116/items/N8HXBGEA" n="Haering, Der christliche Glaube (Dogmatik), 1906">
-          <monogr>
-            <title level="m">Der christliche Glaube (Dogmatik)</title>
-            <author>
-              <forename>Theodor von</forename>
-              <surname>Haering</surname>
-            </author>
-            <imprint>
-              <pubPlace>Calw</pubPlace>
-              <date>1906</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
         <biblStruct type="book" xml:id="tillich__NAK7SAKI" corresp="http://zotero.org/groups/5701116/items/NAK7SAKI" n="Schelling, Philosophische Untersuchungen über das Wesen der menschlichen Freiheit, 1809">
           <monogr>
             <title level="m">Philosophische Untersuchungen über das Wesen der menschlichen Freiheit</title>
@@ -2914,19 +2937,6 @@
               <biblScope unit="issue">3</biblScope>
               <biblScope unit="page">35</biblScope>
               <date>1925</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="tillich__DNWXZNBC" corresp="http://zotero.org/groups/5701116/items/DNWXZNBC" n="Pfenningsdorf (Hg.), Der Erlösungsgedanke. Bericht über den 2. deutschen Theologentag in Frankfu..., 1929">
-          <monogr>
-            <title level="m">Der Erlösungsgedanke. Bericht über den 2. deutschen Theologentag in Frankfurt a. M. (Herbst 1928)</title>
-            <editor>
-              <forename>Emil</forename>
-              <surname>Pfenningsdorf</surname>
-            </editor>
-            <imprint>
-              <pubPlace>Göttingen</pubPlace>
-              <date>1929</date>
             </imprint>
           </monogr>
         </biblStruct>
