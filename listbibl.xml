@@ -16,6 +16,19 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__8CQ5BXCH" corresp="http://zotero.org/groups/5701116/items/8CQ5BXCH" n="von Sydow, Genealogie der Familie von Sydow, 1897">
+          <monogr>
+            <title level="m">Genealogie der Familie von Sydow</title>
+            <author>
+              <forename>Hans</forename>
+              <surname>von Sydow</surname>
+            </author>
+            <edition>2</edition>
+            <imprint>
+              <date>1897</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__FRFFXMEW" corresp="http://zotero.org/groups/5701116/items/FRFFXMEW" n="von Aquin, Kommentar zu Aristoteles Metaphysik, None">
           <monogr>
             <title level="m">Kommentar zu Aristoteles Metaphysik</title>
