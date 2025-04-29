@@ -16,6 +16,29 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__Q8UPGVK7" corresp="http://zotero.org/groups/5701116/items/Q8UPGVK7" n="Rilke, Das Buch der Bilder, 1920">
+          <monogr>
+            <title level="m">Das Buch der Bilder</title>
+            <author>
+              <forename>Rainer Maria</forename>
+              <surname>Rilke</surname>
+            </author>
+            <edition>8. ergänzte Auflage</edition>
+            <imprint>
+              <pubPlace>Leipzig</pubPlace>
+              <publisher>Insel-Verlag</publisher>
+              <date>1920</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__FAX55EII" corresp="http://zotero.org/groups/5701116/items/FAX55EII" n="o.A., o.T., None">
+          <monogr>
+            <title/>
+            <imprint>
+              <date/>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__8CQ5BXCH" corresp="http://zotero.org/groups/5701116/items/8CQ5BXCH" n="von Sydow, Genealogie der Familie von Sydow, 1897">
           <monogr>
             <title level="m">Genealogie der Familie von Sydow</title>
