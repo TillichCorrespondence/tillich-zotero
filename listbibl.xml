@@ -16,6 +16,42 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__7AZKI4QI" corresp="http://zotero.org/groups/5701116/items/7AZKI4QI" n="Schafft, Hermann Schafft: Ein Lebenswerk, None">
+          <monogr>
+            <title level="m">Hermann Schafft: Ein Lebenswerk</title>
+            <author>
+              <forename>Herrmann</forename>
+              <surname>Schafft</surname>
+            </author>
+            <author>
+              <forename>Werner</forename>
+              <surname>Kindt</surname>
+            </author>
+            <imprint>
+              <pubPlace>Kassel</pubPlace>
+              <publisher>Johannes Stauda-Verlag</publisher>
+              <date/>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__P4CV646K" corresp="http://zotero.org/groups/5701116/items/P4CV646K" n="Tillich, The Religious Situation in Germany To-day, 1934">
+          <analytic>
+            <title level="a">The Religious Situation in Germany To-day</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Religion in Life</title>
+            <imprint>
+              <biblScope unit="volume">3</biblScope>
+              <biblScope unit="issue">2</biblScope>
+              <biblScope unit="page">163-</biblScope>
+              <date>1934</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__Q8UPGVK7" corresp="http://zotero.org/groups/5701116/items/Q8UPGVK7" n="Rilke, Das Buch der Bilder, 1920">
           <monogr>
             <title level="m">Das Buch der Bilder</title>
