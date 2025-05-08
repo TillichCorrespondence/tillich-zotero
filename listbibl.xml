@@ -16,6 +16,34 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__6XQJ4GNW" corresp="http://zotero.org/groups/5701116/items/6XQJ4GNW" n="Tillich, Frühe Vorlesungen im Exil. (1933-1935), None">
+          <monogr>
+            <title level="m">Frühe Vorlesungen im Exil. (1933-1935)</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+            <imprint>
+              <pubPlace>Berlin/Boston</pubPlace>
+              <publisher>De Gruyter</publisher>
+              <date/>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">EW</title>
+            <biblScope unit="volume">XVII</biblScope>
+          </series>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__AN8UJ3SQ" corresp="http://zotero.org/groups/5701116/items/AN8UJ3SQ" n="o.A., On the Boundary. An Autobiographical Sketch, 1936">
+          <monogr>
+            <title level="m">On the Boundary. An Autobiographical Sketch</title>
+            <imprint>
+              <pubPlace>New York/London</pubPlace>
+              <publisher>Scribner</publisher>
+              <date>1936</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__7AZKI4QI" corresp="http://zotero.org/groups/5701116/items/7AZKI4QI" n="Schafft, Hermann Schafft: Ein Lebenswerk, None">
           <monogr>
             <title level="m">Hermann Schafft: Ein Lebenswerk</title>
