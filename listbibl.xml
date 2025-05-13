@@ -16,6 +16,61 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__D25WXN6M" corresp="http://zotero.org/groups/5701116/items/D25WXN6M" n="Tillich, Der Protestantismus als Kritik und Gestaltung. Schriften zur Theologie I, 1962">
+          <monogr>
+            <title level="m">Der Protestantismus als Kritik und Gestaltung. Schriften zur Theologie I</title>
+            <extent>14</extent>
+            <editor>
+              <forename>Renate</forename>
+              <surname>Albrecht</surname>
+            </editor>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+            <imprint>
+              <pubPlace>Stuttgart</pubPlace>
+              <biblScope unit="volume">7</biblScope>
+              <publisher>Evangelisches Verlagswerk</publisher>
+              <date>1962</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Gesammelte Werke</title>
+          </series>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__S6FUAEGD" corresp="http://zotero.org/groups/5701116/items/S6FUAEGD" n="Tillich, What Is Wrong with the &quot;Dialectic&quot; Theology?, 1935">
+          <analytic>
+            <title level="a">What Is Wrong with the "Dialectic" Theology?</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Journal of Religion</title>
+            <imprint>
+              <biblScope unit="volume">15</biblScope>
+              <biblScope unit="issue">2</biblScope>
+              <biblScope unit="page">127-145</biblScope>
+              <date>1935</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__67WTG8HS" corresp="http://zotero.org/groups/5701116/items/67WTG8HS" n="Hirsch, Die gegenwärtige geistige Lage im Spiegel philosophischer und theologischer..., 1933">
+          <monogr>
+            <title level="m">Die gegenwärtige geistige Lage im Spiegel philosophischer und theologischer Besinnung: Akademische Vorlesungen zum Verständnis des deutschen Jahres 1933</title>
+            <author>
+              <forename>Emanuel</forename>
+              <surname>Hirsch</surname>
+            </author>
+            <imprint>
+              <pubPlace>Göttingen</pubPlace>
+              <publisher>Vandenhoeck &amp; Ruprecht</publisher>
+              <date>1933</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__6XQJ4GNW" corresp="http://zotero.org/groups/5701116/items/6XQJ4GNW" n="Tillich, Frühe Vorlesungen im Exil. (1933-1935), None">
           <monogr>
             <title level="m">Frühe Vorlesungen im Exil. (1933-1935)</title>
