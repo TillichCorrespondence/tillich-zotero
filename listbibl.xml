@@ -16,6 +16,25 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="bookSection" xml:id="tillich__Y35GA6DW" corresp="http://zotero.org/groups/5701116/items/Y35GA6DW" n="Tillich, Karl Barth (1926), 2021">
+          <analytic>
+            <title level="a">Karl Barth (1926)</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Tillich Online</title>
+            <imprint>
+              <pubPlace>Berlin, Boston</pubPlace>
+              <publisher>De Gruyter</publisher>
+              <date>2021</date>
+              <note type="accessed">2025-05-13</note>
+              <note type="url">https://www.degruyterbrill.com/database/TILLO/entry/tillo.gw12.014/html</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__D25WXN6M" corresp="http://zotero.org/groups/5701116/items/D25WXN6M" n="Tillich, Der Protestantismus als Kritik und Gestaltung. Schriften zur Theologie I, 1962">
           <monogr>
             <title level="m">Der Protestantismus als Kritik und Gestaltung. Schriften zur Theologie I</title>
