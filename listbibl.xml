@@ -16,6 +16,20 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__AN8UJ3SQ" corresp="http://zotero.org/groups/5701116/items/AN8UJ3SQ" n="Tillich, On the Boundary. An Autobiographical Sketch, 1936">
+          <monogr>
+            <title level="m">On the Boundary. An Autobiographical Sketch</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+            <imprint>
+              <pubPlace>New York/London</pubPlace>
+              <publisher>Scribner</publisher>
+              <date>1936</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="bookSection" xml:id="tillich__Y35GA6DW" corresp="http://zotero.org/groups/5701116/items/Y35GA6DW" n="Tillich, Karl Barth (1926), 2021">
           <analytic>
             <title level="a">Karl Barth (1926)</title>
@@ -107,16 +121,6 @@
             <title level="s">EW</title>
             <biblScope unit="volume">XVII</biblScope>
           </series>
-        </biblStruct>
-        <biblStruct type="book" xml:id="tillich__AN8UJ3SQ" corresp="http://zotero.org/groups/5701116/items/AN8UJ3SQ" n="o.A., On the Boundary. An Autobiographical Sketch, 1936">
-          <monogr>
-            <title level="m">On the Boundary. An Autobiographical Sketch</title>
-            <imprint>
-              <pubPlace>New York/London</pubPlace>
-              <publisher>Scribner</publisher>
-              <date>1936</date>
-            </imprint>
-          </monogr>
         </biblStruct>
         <biblStruct type="book" xml:id="tillich__7AZKI4QI" corresp="http://zotero.org/groups/5701116/items/7AZKI4QI" n="Schafft, Hermann Schafft: Ein Lebenswerk, None">
           <monogr>
