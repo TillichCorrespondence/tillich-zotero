@@ -16,6 +16,133 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="journalArticle" xml:id="tillich__R4Z7T3UG" corresp="http://zotero.org/groups/5701116/items/R4Z7T3UG" n="Stepun, Iwan Bunin, 1933">
+          <analytic>
+            <title level="a">Iwan Bunin</title>
+            <author>
+              <forename>Fedor</forename>
+              <surname>Stepun</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Hochland</title>
+            <imprint>
+              <biblScope unit="volume">31</biblScope>
+              <biblScope unit="issue">1</biblScope>
+              <biblScope unit="page">548-563</biblScope>
+              <date>1933</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__QZ3H5HE5" corresp="http://zotero.org/groups/5701116/items/QZ3H5HE5" n="Stepun, Wjatscheslaw Iwanow. Eine Porträtstudie, 1933">
+          <analytic>
+            <title level="a">Wjatscheslaw Iwanow. Eine Porträtstudie</title>
+            <author>
+              <forename>Fedor</forename>
+              <surname>Stepun</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Hochland</title>
+            <imprint>
+              <biblScope unit="volume">31</biblScope>
+              <biblScope unit="issue">1</biblScope>
+              <biblScope unit="page">350-361</biblScope>
+              <date>1933</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__PRWS99UZ" corresp="http://zotero.org/groups/5701116/items/PRWS99UZ" n="Stepun, Die Liebe des Nikolai Pereslegin, 1928">
+          <monogr>
+            <title level="m">Die Liebe des Nikolai Pereslegin</title>
+            <author>
+              <forename>Fedor</forename>
+              <surname>Stepun</surname>
+            </author>
+            <imprint>
+              <pubPlace>München</pubPlace>
+              <publisher>C. Hanser</publisher>
+              <date>1928</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__TRAQKSD8" corresp="http://zotero.org/groups/5701116/items/TRAQKSD8" n="Stepun, Das Antlitz Russlands und das Gesicht der Revolution, 1934">
+          <monogr>
+            <title level="m">Das Antlitz Russlands und das Gesicht der Revolution</title>
+            <author>
+              <forename>Fedor</forename>
+              <surname>Stepun</surname>
+            </author>
+            <imprint>
+              <pubPlace>Bern/Leipzig</pubPlace>
+              <publisher>Gotthelf-Verlag</publisher>
+              <date>1934</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__PQ2A9PSA" corresp="http://zotero.org/groups/5701116/items/PQ2A9PSA" n="van den Bruck, Das Dritte Reich, 1923">
+          <monogr>
+            <title level="m">Das Dritte Reich</title>
+            <author>
+              <forename>Moeller</forename>
+              <surname>van den Bruck</surname>
+            </author>
+            <imprint>
+              <pubPlace>Berlin</pubPlace>
+              <publisher>Ring-Verlag</publisher>
+              <date>1923</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="tillich__W5N3I7HF" corresp="http://zotero.org/groups/5701116/items/W5N3I7HF" n="Tillich, The Relation of Religion and Health. Historical Considerations and Theoreti..., 1990">
+          <analytic>
+            <title level="a">The Relation of Religion and Health. Historical Considerations and Theoretical Questions [1946]</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Writings in the Philosophy of Culture</title>
+            <imprint>
+              <pubPlace>Berlin/New York</pubPlace>
+              <biblScope unit="page">209–238</biblScope>
+              <date>1990</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">MW</title>
+            <biblScope unit="volume">2</biblScope>
+          </series>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__Q455SCBJ" corresp="http://zotero.org/groups/5701116/items/Q455SCBJ" n="Rosenberg, Der Mythus des 20. Jahrhunderts: Eine Wertung der seelisch-geistigen Gestal..., 1930">
+          <monogr>
+            <title level="m">Der Mythus des 20. Jahrhunderts: Eine Wertung der seelisch-geistigen Gestaltenkämpfe unserer Zeit</title>
+            <author>
+              <forename>Alfred</forename>
+              <surname>Rosenberg</surname>
+            </author>
+            <imprint>
+              <pubPlace>München</pubPlace>
+              <publisher>Hoheneichen-Verlag</publisher>
+              <date>1930</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__FRF9TJVD" corresp="http://zotero.org/groups/5701116/items/FRF9TJVD" n="Hitler, Mein Kampf, 1930">
+          <monogr>
+            <title level="m">Mein Kampf</title>
+            <author>
+              <forename>Adolf</forename>
+              <surname>Hitler</surname>
+            </author>
+            <imprint>
+              <pubPlace>München</pubPlace>
+              <publisher>Franz Eher Nachfolger</publisher>
+              <date>1930</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__AN8UJ3SQ" corresp="http://zotero.org/groups/5701116/items/AN8UJ3SQ" n="Tillich, On the Boundary. An Autobiographical Sketch, 1936">
           <monogr>
             <title level="m">On the Boundary. An Autobiographical Sketch</title>
