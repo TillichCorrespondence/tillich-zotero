@@ -16,6 +16,96 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__F2MCRW6J" corresp="http://zotero.org/groups/5701116/items/F2MCRW6J" n="Barth, Die Kirche Jesu Christi, 1933">
+          <monogr>
+            <title level="m">Die Kirche Jesu Christi</title>
+            <author>
+              <forename>Karl</forename>
+              <surname>Barth</surname>
+            </author>
+            <imprint>
+              <pubPlace>München</pubPlace>
+              <biblScope unit="volume">5</biblScope>
+              <publisher>Kaiser Verlag</publisher>
+              <date>1933</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Theologische Existenz heute: eine Schriftenreihe</title>
+          </series>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__9HUXIR2B" corresp="http://zotero.org/groups/5701116/items/9HUXIR2B" n="Barth, Lutherfeier 1933, 1933">
+          <monogr>
+            <title level="m">Lutherfeier 1933</title>
+            <author>
+              <forename>Karl</forename>
+              <surname>Barth</surname>
+            </author>
+            <imprint>
+              <pubPlace>München</pubPlace>
+              <biblScope unit="volume">4</biblScope>
+              <publisher>Kaiser Verlag</publisher>
+              <date>1933</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Theologische Existenz heute: eine Schriftenreihe</title>
+          </series>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__AEVACNV5" corresp="http://zotero.org/groups/5701116/items/AEVACNV5" n="Barth, Theologische Existenz heute, 1933">
+          <monogr>
+            <title level="m">Theologische Existenz heute</title>
+            <author>
+              <forename>Karl</forename>
+              <surname>Barth</surname>
+            </author>
+            <imprint>
+              <pubPlace>München</pubPlace>
+              <biblScope unit="volume">1</biblScope>
+              <publisher>Kaiser Verlag</publisher>
+              <date>1933</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Theologische Existenz heute: eine Schriftenreihe</title>
+          </series>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__QF99EVZF" corresp="http://zotero.org/groups/5701116/items/QF99EVZF" n="Barth, Für die Freiheit des Evangeliums, 1933">
+          <monogr>
+            <title level="m">Für die Freiheit des Evangeliums</title>
+            <author>
+              <forename>Karl</forename>
+              <surname>Barth</surname>
+            </author>
+            <imprint>
+              <pubPlace>München</pubPlace>
+              <biblScope unit="volume">2</biblScope>
+              <publisher>Kaiser Verlag</publisher>
+              <date>1933</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Theologische Existenz heute: eine Schriftenreihe</title>
+          </series>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__BZVHFTIM" corresp="http://zotero.org/groups/5701116/items/BZVHFTIM" n="Barth, Reformation als Entscheidung, 1933">
+          <monogr>
+            <title level="m">Reformation als Entscheidung</title>
+            <author>
+              <forename>Karl</forename>
+              <surname>Barth</surname>
+            </author>
+            <imprint>
+              <pubPlace>München</pubPlace>
+              <biblScope unit="volume">3</biblScope>
+              <publisher>Kaiser Verlag</publisher>
+              <date>1933</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Theologische Existenz heute: eine Schriftenreihe</title>
+          </series>
+        </biblStruct>
         <biblStruct type="journalArticle" xml:id="tillich__R4Z7T3UG" corresp="http://zotero.org/groups/5701116/items/R4Z7T3UG" n="Stepun, Iwan Bunin, 1933">
           <analytic>
             <title level="a">Iwan Bunin</title>
