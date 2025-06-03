@@ -16,6 +16,32 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__3CXAIUDC" corresp="http://zotero.org/groups/5701116/items/3CXAIUDC" n="Schmidt, Magnalia Dei - Ein Aufriß der christlichen Gedankenwelt Für Katholiken und ..., 1926">
+          <monogr>
+            <title level="m">Magnalia Dei - Ein Aufriß der christlichen Gedankenwelt Für Katholiken und Nichtkatholiken</title>
+            <author>
+              <forename>Expedius</forename>
+              <surname>Schmidt</surname>
+            </author>
+            <imprint>
+              <pubPlace>München</pubPlace>
+              <publisher>Kösel &amp; Pustet</publisher>
+              <date>1926</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__NMBDK393" corresp="http://zotero.org/groups/5701116/items/NMBDK393" n="Dickens, David Copperfield, 1850">
+          <monogr>
+            <title level="m">David Copperfield</title>
+            <author>
+              <forename>Charles</forename>
+              <surname>Dickens</surname>
+            </author>
+            <imprint>
+              <date>1850</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="journalArticle" xml:id="tillich__AQVGD529" corresp="http://zotero.org/groups/5701116/items/AQVGD529" n="Tillich, Protestantismus und politische Romantik, 1932">
           <analytic>
             <title level="a">Protestantismus und politische Romantik</title>
