@@ -16,6 +16,56 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__WX7BIZ2F" corresp="http://zotero.org/groups/5701116/items/WX7BIZ2F" n="Spiegelberg, Alchemy as a way of salvation, 1945">
+          <monogr>
+            <title level="m">Alchemy as a way of salvation</title>
+            <author>
+              <forename>Frederic</forename>
+              <surname>Spiegelberg</surname>
+            </author>
+            <imprint>
+              <pubPlace>Stanford</pubPlace>
+              <publisher>J. L. Delkin</publisher>
+              <date>1945</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__DZARI28G" corresp="http://zotero.org/groups/5701116/items/DZARI28G" n="Machiavelli, Der Fürst, 1513">
+          <monogr>
+            <title level="m">Der Fürst</title>
+            <author>
+              <forename>Niccolò</forename>
+              <surname>Machiavelli</surname>
+            </author>
+            <imprint>
+              <date>1513</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__WTWZPZFN" corresp="http://zotero.org/groups/5701116/items/WTWZPZFN" n="Hutchison (Hg.), Christian Century, None">
+          <monogr>
+            <title level="m">Christian Century</title>
+            <editor>
+              <forename>John Alexander</forename>
+              <surname>Hutchison</surname>
+            </editor>
+            <imprint>
+              <date/>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="document" xml:id="tillich__BGC9RAMU" corresp="http://zotero.org/groups/5701116/items/BGC9RAMU" n="Luther, 95 Thesen, 1517">
+          <monogr>
+            <title level="m">95 Thesen</title>
+            <author>
+              <forename>Martin</forename>
+              <surname>Luther</surname>
+            </author>
+            <imprint>
+              <date>1517</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__3CXAIUDC" corresp="http://zotero.org/groups/5701116/items/3CXAIUDC" n="Schmidt, Magnalia Dei - Ein Aufriß der christlichen Gedankenwelt Für Katholiken und ..., 1926">
           <monogr>
             <title level="m">Magnalia Dei - Ein Aufriß der christlichen Gedankenwelt Für Katholiken und Nichtkatholiken</title>
