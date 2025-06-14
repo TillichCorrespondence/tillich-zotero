@@ -16,6 +16,53 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__E7FMQS5N" corresp="http://zotero.org/groups/5701116/items/E7FMQS5N" n="Toynbee, The Disintegrations of Civilizations. Part One, 1939">
+          <monogr>
+            <title level="m">The Disintegrations of Civilizations. Part One</title>
+            <extent>12</extent>
+            <author>
+              <forename>Arnold J.</forename>
+              <surname>Toynbee</surname>
+            </author>
+            <imprint>
+              <pubPlace>Oxford</pubPlace>
+              <biblScope unit="volume">5</biblScope>
+              <publisher>Oxford University Press</publisher>
+              <date>1939</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">A Study of History</title>
+          </series>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__7DW7A8JT" corresp="http://zotero.org/groups/5701116/items/7DW7A8JT" n="Malaparte, Kaputt, 1946">
+          <monogr>
+            <title level="m">Kaputt</title>
+            <author>
+              <forename>Curzio</forename>
+              <surname>Malaparte</surname>
+            </author>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <publisher>E. P. Dutton</publisher>
+              <date>1946</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__ZATSNTWD" corresp="http://zotero.org/groups/5701116/items/ZATSNTWD" n="Van Dusen (Hg.), The Christian Answer, 1946">
+          <monogr>
+            <title level="m">The Christian Answer</title>
+            <editor>
+              <forename>Henry P.</forename>
+              <surname>Van Dusen</surname>
+            </editor>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <publisher>Scribner</publisher>
+              <date>1946</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__WX7BIZ2F" corresp="http://zotero.org/groups/5701116/items/WX7BIZ2F" n="Spiegelberg, Alchemy as a way of salvation, 1945">
           <monogr>
             <title level="m">Alchemy as a way of salvation</title>
