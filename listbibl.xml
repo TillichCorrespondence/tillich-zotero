@@ -16,6 +16,21 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="audioRecording" xml:id="tillich__V7DJ73AM" corresp="http://zotero.org/groups/5701116/items/V7DJ73AM" n="o.A., 5. Sinfonie, None">
+          <monogr>
+            <title level="m">5. Sinfonie</title>
+            <respStmt>
+              <resp>performer</resp>
+              <persName>
+                <forename>Ludwig van</forename>
+                <surname>Beethoven</surname>
+              </persName>
+            </respStmt>
+            <imprint>
+              <date/>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__E7FMQS5N" corresp="http://zotero.org/groups/5701116/items/E7FMQS5N" n="Toynbee, The Disintegrations of Civilizations. Part One, 1939">
           <monogr>
             <title level="m">The Disintegrations of Civilizations. Part One</title>
