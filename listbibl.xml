@@ -16,6 +16,61 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="journalArticle" xml:id="tillich__SG8HR3GI" corresp="http://zotero.org/groups/5701116/items/SG8HR3GI" n="Tillich, Religion and Secular Culture, 1946">
+          <analytic>
+            <title level="a">Religion and Secular Culture</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">The Journal of Religion</title>
+            <imprint>
+              <biblScope unit="volume">26</biblScope>
+              <biblScope unit="issue">2</biblScope>
+              <biblScope unit="page">79–86</biblScope>
+              <date>1946</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__DZNKRWUT" corresp="http://zotero.org/groups/5701116/items/DZNKRWUT" n="Tillich, Vol 2/ Bd 2. Writings in the Philosophy of Culture/ Kulturphilosophische Sc..., 1990">
+          <monogr>
+            <title level="m">Vol 2/ Bd 2. Writings in the Philosophy of Culture/ Kulturphilosophische Schriften</title>
+            <extent>6</extent>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+            <imprint>
+              <pubPlace>Berlin/ New York</pubPlace>
+              <biblScope unit="volume">2</biblScope>
+              <publisher>De Gruyter</publisher>
+              <date>1990</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Main Works/ Hauptwerke</title>
+          </series>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__ZR5SRAXS" corresp="http://zotero.org/groups/5701116/items/ZR5SRAXS" n="Tillich, Christentum Wirtschaft und Demokratie, 1946">
+          <analytic>
+            <title level="a">Christentum Wirtschaft und Demokratie</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Neue Auslese aus dem Schrifttum der Gegenwart.</title>
+            <imprint>
+              <biblScope unit="volume">1</biblScope>
+              <biblScope unit="issue">7</biblScope>
+              <biblScope unit="page">5</biblScope>
+              <date>1946</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="audioRecording" xml:id="tillich__V7DJ73AM" corresp="http://zotero.org/groups/5701116/items/V7DJ73AM" n="o.A., 5. Sinfonie, None">
           <monogr>
             <title level="m">5. Sinfonie</title>
