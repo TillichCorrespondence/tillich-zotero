@@ -16,6 +16,71 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__SHXHG2FB" corresp="http://zotero.org/groups/5701116/items/SHXHG2FB" n="Plaut, Taschenbuch des Films, 1938">
+          <monogr>
+            <title level="m">Taschenbuch des Films</title>
+            <author>
+              <forename>Richard</forename>
+              <surname>Plaut</surname>
+            </author>
+            <imprint>
+              <pubPlace>Zürich</pubPlace>
+              <publisher>Züst</publisher>
+              <date>1938</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__J3BND79V" corresp="http://zotero.org/groups/5701116/items/J3BND79V" n="Barth, Die Kirchliche Dogmatik. 2. Band, Die Lehre von Gott, 1. Halbband, 1940">
+          <monogr>
+            <title level="m">Die Kirchliche Dogmatik. 2. Band, Die Lehre von Gott, 1. Halbband</title>
+            <author>
+              <forename>Karl</forename>
+              <surname>Barth</surname>
+            </author>
+            <imprint>
+              <pubPlace>Zollikon-Zürich</pubPlace>
+              <publisher>Evangelischer Verlag Zollikon</publisher>
+              <date>1940</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Die Kirchliche Dogmatik</title>
+          </series>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__M527XQCC" corresp="http://zotero.org/groups/5701116/items/M527XQCC" n="Barth, Die Kirchliche Dogmatik. 3. Band, Die Lehre von der Schöpfung, 1. Teil, 1945">
+          <monogr>
+            <title level="m">Die Kirchliche Dogmatik. 3. Band, Die Lehre von der Schöpfung, 1. Teil</title>
+            <author>
+              <forename>Karl</forename>
+              <surname>Barth</surname>
+            </author>
+            <imprint>
+              <pubPlace>Zürich</pubPlace>
+              <publisher>Evangelischer Verlag Zollikon</publisher>
+              <date>1945</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Die Kirchliche Dogmatik</title>
+          </series>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__TN5676HB" corresp="http://zotero.org/groups/5701116/items/TN5676HB" n="Barth, Die Kirchliche Dogmatik. 2. Band, Die Lehre von Gott, 2. Halbband, 1942">
+          <monogr>
+            <title level="m">Die Kirchliche Dogmatik. 2. Band, Die Lehre von Gott, 2. Halbband</title>
+            <author>
+              <forename>Karl</forename>
+              <surname>Barth</surname>
+            </author>
+            <imprint>
+              <pubPlace>Zürich</pubPlace>
+              <publisher>Evangelischer Verlag Zollikon</publisher>
+              <date>1942</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Die Kirchliche Dogmatik</title>
+          </series>
+        </biblStruct>
         <biblStruct type="journalArticle" xml:id="tillich__SG8HR3GI" corresp="http://zotero.org/groups/5701116/items/SG8HR3GI" n="Tillich, Religion and Secular Culture, 1946">
           <analytic>
             <title level="a">Religion and Secular Culture</title>
