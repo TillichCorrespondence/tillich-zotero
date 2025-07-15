@@ -16,11 +16,17 @@
   <text>
     <body>
       <listBibl>
-        <biblStruct type="book" xml:id="tillich__ASPVVH5A" corresp="http://zotero.org/groups/5701116/items/ASPVVH5A" n="o.A., o.T., None">
+        <biblStruct type="book" xml:id="tillich__ASPVVH5A" corresp="http://zotero.org/groups/5701116/items/ASPVVH5A" n="Brunner, Revelation and reason: The Christian doctrine of faith and knowledge, 1946">
           <monogr>
-            <title/>
+            <title level="m">Revelation and reason: The Christian doctrine of faith and knowledge</title>
+            <author>
+              <forename>Emil</forename>
+              <surname>Brunner</surname>
+            </author>
             <imprint>
-              <date/>
+              <pubPlace>Philadelphia, Pa.</pubPlace>
+              <publisher>The Westminster Press</publisher>
+              <date>1946</date>
             </imprint>
           </monogr>
         </biblStruct>
