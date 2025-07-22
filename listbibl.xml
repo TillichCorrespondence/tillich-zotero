@@ -16,6 +16,27 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__QND8UQQ2" corresp="http://zotero.org/groups/5701116/items/QND8UQQ2" n="Mannheim, Mensch und Gesellschaft im Zeitalter des Umbaus, 1935">
+          <monogr>
+            <title level="m">Mensch und Gesellschaft im Zeitalter des Umbaus</title>
+            <author>
+              <forename>Karl</forename>
+              <surname>Mannheim</surname>
+            </author>
+            <imprint>
+              <pubPlace>Leiden</pubPlace>
+              <date>1935</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__M8QGBPTT" corresp="http://zotero.org/groups/5701116/items/M8QGBPTT" n="o.A., o.T., None">
+          <monogr>
+            <title/>
+            <imprint>
+              <date/>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__ASPVVH5A" corresp="http://zotero.org/groups/5701116/items/ASPVVH5A" n="Brunner, Revelation and reason: The Christian doctrine of faith and knowledge, 1946">
           <monogr>
             <title level="m">Revelation and reason: The Christian doctrine of faith and knowledge</title>
