@@ -16,6 +16,39 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="journalArticle" xml:id="tillich__DHC64D5W" corresp="http://zotero.org/groups/5701116/items/DHC64D5W" n="Neumeyer, The Landscape Garden as a Symbol in Rousseau, Goethe and Flaubert, 1947">
+          <analytic>
+            <title level="a">The Landscape Garden as a Symbol in Rousseau, Goethe and Flaubert</title>
+            <idno type="DOI">https://doi.org/10.2307/2707155</idno>
+            <author>
+              <forename>Eva Maria</forename>
+              <surname>Neumeyer</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Journal of the History of Ideas</title>
+            <imprint>
+              <biblScope unit="volume">8</biblScope>
+              <biblScope unit="issue">2</biblScope>
+              <biblScope unit="page">187–217</biblScope>
+              <date>1947</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__E8B2N8XT" corresp="http://zotero.org/groups/5701116/items/E8B2N8XT" n="Novalis, Hymnen an die Nacht: Die Christenheit oder Europa, 1912">
+          <monogr>
+            <title level="m">Hymnen an die Nacht: Die Christenheit oder Europa</title>
+            <author>
+              <name>Novalis</name>
+            </author>
+            <edition>(11.–15. Tsd.)</edition>
+            <imprint>
+              <pubPlace>Leipzig</pubPlace>
+              <publisher>Insel</publisher>
+              <date>1912</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__QND8UQQ2" corresp="http://zotero.org/groups/5701116/items/QND8UQQ2" n="Mannheim, Mensch und Gesellschaft im Zeitalter des Umbaus, 1935">
           <monogr>
             <title level="m">Mensch und Gesellschaft im Zeitalter des Umbaus</title>
