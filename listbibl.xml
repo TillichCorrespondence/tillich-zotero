@@ -16,6 +16,20 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__67N7XVQF" corresp="http://zotero.org/groups/5701116/items/67N7XVQF" n="Otto, Mysticism East and West. A Comparative Analysis of the Nature of Mysticism, 1932">
+          <monogr>
+            <title level="m">Mysticism East and West. A Comparative Analysis of the Nature of Mysticism</title>
+            <author>
+              <forename>Rudolf</forename>
+              <surname>Otto</surname>
+            </author>
+            <imprint>
+              <pubPlace>London</pubPlace>
+              <publisher>McMillan and Co.</publisher>
+              <date>1932</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="journalArticle" xml:id="tillich__DHC64D5W" corresp="http://zotero.org/groups/5701116/items/DHC64D5W" n="Neumeyer, The Landscape Garden as a Symbol in Rousseau, Goethe and Flaubert, 1947">
           <analytic>
             <title level="a">The Landscape Garden as a Symbol in Rousseau, Goethe and Flaubert</title>
