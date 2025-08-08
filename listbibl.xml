@@ -16,6 +16,60 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="newspaperArticle" xml:id="tillich__DWH82JIV" corresp="http://zotero.org/groups/5701116/items/DWH82JIV" n="Frebold, Vortrag Paul Tillich, 1922">
+          <analytic>
+            <title level="a">Vortrag Paul Tillich</title>
+            <author>
+              <forename>Georg</forename>
+              <surname>Frebold</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Hannoverscher Kurier. Hannoversches Tageblatt. Morgenzeitung für Niedersachsen.</title>
+            <imprint>
+              <pubPlace>Hannover</pubPlace>
+              <biblScope unit="page">3</biblScope>
+              <date>1922</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__BRKMRADA" corresp="http://zotero.org/groups/5701116/items/BRKMRADA" n="o.A., Kant-Studien, 1923">
+          <monogr>
+            <title level="m">Kant-Studien</title>
+            <imprint>
+              <pubPlace>Berlin</pubPlace>
+              <biblScope unit="volume">28</biblScope>
+              <date>1923</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__8H8E3QGF" corresp="http://zotero.org/groups/5701116/items/8H8E3QGF" n="o.A., Kant-Studien, 1921">
+          <monogr>
+            <title level="m">Kant-Studien</title>
+            <imprint>
+              <pubPlace>Berlin</pubPlace>
+              <biblScope unit="volume">26</biblScope>
+              <date>1921</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="tillich__H8C8EXK7" corresp="http://zotero.org/groups/5701116/items/H8C8EXK7" n="Tillich, Religion und Erneuerung, 1999">
+          <analytic>
+            <title level="a">Religion und Erneuerung</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Religion, Kultur, Gesellschaft I (ERGÄNZUNGS- UND NACHLASSBÄNDE ZU DEN
+GESAMMELTEN WERKEN VON PAUL TILLICH, Bd. X)</title>
+            <imprint>
+              <biblScope unit="page">282-292</biblScope>
+              <date>1999</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__67N7XVQF" corresp="http://zotero.org/groups/5701116/items/67N7XVQF" n="Otto, Mysticism East and West. A Comparative Analysis of the Nature of Mysticism, 1932">
           <monogr>
             <title level="m">Mysticism East and West. A Comparative Analysis of the Nature of Mysticism</title>
