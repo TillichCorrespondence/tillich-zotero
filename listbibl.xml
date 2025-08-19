@@ -16,6 +16,14 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__7QES78MA" corresp="http://zotero.org/groups/5701116/items/7QES78MA" n="o.A., o.T., None">
+          <monogr>
+            <title/>
+            <imprint>
+              <date/>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="newspaperArticle" xml:id="tillich__DWH82JIV" corresp="http://zotero.org/groups/5701116/items/DWH82JIV" n="Frebold, Vortrag Paul Tillich, 1922">
           <analytic>
             <title level="a">Vortrag Paul Tillich</title>
@@ -127,14 +135,6 @@ GESAMMELTEN WERKEN VON PAUL TILLICH, Bd. X)</title>
             <imprint>
               <pubPlace>Leiden</pubPlace>
               <date>1935</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="tillich__M8QGBPTT" corresp="http://zotero.org/groups/5701116/items/M8QGBPTT" n="o.A., o.T., None">
-          <monogr>
-            <title/>
-            <imprint>
-              <date/>
             </imprint>
           </monogr>
         </biblStruct>
@@ -855,14 +855,6 @@ GESAMMELTEN WERKEN VON PAUL TILLICH, Bd. X)</title>
               <pubPlace>Leipzig</pubPlace>
               <publisher>Insel-Verlag</publisher>
               <date>1920</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="tillich__FAX55EII" corresp="http://zotero.org/groups/5701116/items/FAX55EII" n="o.A., o.T., None">
-          <monogr>
-            <title/>
-            <imprint>
-              <date/>
             </imprint>
           </monogr>
         </biblStruct>
