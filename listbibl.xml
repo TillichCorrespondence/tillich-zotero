@@ -16,6 +16,188 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__T5LXIT3W" corresp="http://zotero.org/groups/5701116/items/T5LXIT3W" n="Tillich, Kritisches und positives Paradox: Eine Auseinandersetzung mit Karl Barth un..., 1923">
+          <monogr>
+            <title level="m">Kritisches und positives Paradox: Eine Auseinandersetzung mit Karl Barth und Friedrich Gogarten</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+            <imprint>
+              <publisher>JC Hinrichs</publisher>
+              <date>1923</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__FPIMILYR" corresp="http://zotero.org/groups/5701116/items/FPIMILYR" n="Mayer, Ethik: Christliche Sittenlehre, 1922">
+          <monogr>
+            <title level="m">Ethik: Christliche Sittenlehre</title>
+            <idno type="ISBN">9783112180716</idno>
+            <author>
+              <forename>E. W.</forename>
+              <surname>Mayer</surname>
+            </author>
+            <imprint>
+              <publisher>Alfred Töpelmann</publisher>
+              <date>1922</date>
+              <note type="url">https://books.google.de/books?id=x8rl0AEACAAJ</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__HMS5RSTF" corresp="http://zotero.org/groups/5701116/items/HMS5RSTF" n="Schwarz, Das Ungegebene: eine Religions- und Wertphilosophie, 1921">
+          <monogr>
+            <title level="m">Das Ungegebene: eine Religions- und Wertphilosophie</title>
+            <idno type="ISBN">9785872351757</idno>
+            <author>
+              <forename>H.</forename>
+              <surname>Schwarz</surname>
+            </author>
+            <imprint>
+              <publisher>J.C.B. Mohr (P. Siebeck)</publisher>
+              <date>1921</date>
+              <note type="url">https://books.google.de/books?id=eUsAAAAAMAAJ</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__Y3RDXP7X" corresp="http://zotero.org/groups/5701116/items/Y3RDXP7X" n="Fabricius, Der Atheismus der Gegenwart: seine Ursachen und seine Überwindung, 1922">
+          <monogr>
+            <title level="m">Der Atheismus der Gegenwart: seine Ursachen und seine Überwindung</title>
+            <author>
+              <forename>C.</forename>
+              <surname>Fabricius</surname>
+            </author>
+            <imprint>
+              <publisher>Vandenhoeck &amp; Ruprecht</publisher>
+              <date>1922</date>
+              <note type="url">https://books.google.de/books?id=ABdLAAAAYAAJ</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="tillich__LSFSM93Q" corresp="http://zotero.org/groups/5701116/items/LSFSM93Q" n="Bräuer (Hg.), Der gegenwärtige Stand der Geisteswissenschaften und die Schule (1922, 2. A..., 1969">
+          <analytic>
+            <title level="a">Der gegenwärtige Stand der Geisteswissenschaften und die Schule (1922, 2. Aufl. 1925)</title>
+          </analytic>
+          <monogr>
+            <title level="m">Band I Geist der Erziehung</title>
+            <idno type="ISBN">9783111445823</idno>
+            <editor>
+              <forename>Gottfried</forename>
+              <surname>Bräuer</surname>
+            </editor>
+            <editor>
+              <forename>Hans Walter</forename>
+              <surname>Bähr</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Berlin, Boston</pubPlace>
+              <biblScope unit="page">20–69</biblScope>
+              <publisher>De Gruyter</publisher>
+              <date>1969</date>
+              <note type="accessed">2025-08-24</note>
+              <note type="url">https://doi.org/10.1515/9783111445823-002</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__N7PR2Y5A" corresp="http://zotero.org/groups/5701116/items/N7PR2Y5A" n="Joël, Nietzsche und die Romantik., 1923">
+          <monogr>
+            <title level="m">Nietzsche und die Romantik.</title>
+            <author>
+              <forename>Karl</forename>
+              <surname>Joël</surname>
+            </author>
+            <imprint>
+              <pubPlace>Jena</pubPlace>
+              <publisher>Diederichs</publisher>
+              <date>1923</date>
+              <note type="url">https://catalog.hathitrust.org/Record/103009087</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__YQNRKKAK" corresp="http://zotero.org/groups/5701116/items/YQNRKKAK" n="HIRSCH, NIETZSCHE UND LUTHER, 1986">
+          <analytic>
+            <title level="a">NIETZSCHE UND LUTHER</title>
+            <idno type="DOI">doi:10.1515/9783110244342.398</idno>
+            <author>
+              <forename>EMANUEL</forename>
+              <surname>HIRSCH</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Nietzsche-Studien</title>
+            <imprint>
+              <biblScope unit="volume">15</biblScope>
+              <biblScope unit="issue">1</biblScope>
+              <biblScope unit="page">398–431</biblScope>
+              <date>1986</date>
+              <note type="accessed">2025-08-24</note>
+              <note type="url">https://doi.org/10.1515/9783110244342.398</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__ITV977HA" corresp="http://zotero.org/groups/5701116/items/ITV977HA" n="Harnack, Lehrbuch der Dogmengeschichte, 1890">
+          <monogr>
+            <title level="m">Lehrbuch der Dogmengeschichte</title>
+            <author>
+              <forename>Adolf</forename>
+              <surname>Harnack</surname>
+            </author>
+            <imprint>
+              <publisher>Mohr</publisher>
+              <date>1890</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__ZHQ7F3MS" corresp="http://zotero.org/groups/5701116/items/ZHQ7F3MS" n="Thimme, Revolution und Kirche, None">
+          <monogr>
+            <title level="m">Revolution und Kirche</title>
+            <idno type="ISBN">9783111656946</idno>
+            <author>
+              <forename>Friedrich</forename>
+              <surname>Thimme</surname>
+            </author>
+            <author>
+              <forename>Ernst</forename>
+              <surname>Rollf</surname>
+            </author>
+            <author>
+              <forename>Otto</forename>
+              <surname>Baumgarten</surname>
+            </author>
+            <imprint>
+              <publisher>De Gruyter</publisher>
+              <date/>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__V38L6822" corresp="http://zotero.org/groups/5701116/items/V38L6822" n="Goltz, Kirche und Staat: Eine akademische Vorlesung, 1907">
+          <monogr>
+            <title level="m">Kirche und Staat: Eine akademische Vorlesung</title>
+            <author>
+              <forename>Hermann</forename>
+              <surname>Goltz</surname>
+            </author>
+            <imprint>
+              <pubPlace>Berlin</pubPlace>
+              <publisher>Ernst Siegfried Mittler und Sohn</publisher>
+              <date>1907</date>
+              <note type="url">https://catalog.hathitrust.org/Record/100439213</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__6TRH6A73" corresp="http://zotero.org/groups/5701116/items/6TRH6A73" n="Sydow, Der Gedanke des Ideal-Reichs in der idealistischen Philosophie von Kant bis..., 1914">
+          <monogr>
+            <title level="m">Der Gedanke des Ideal-Reichs in der idealistischen Philosophie von Kant bis Hegel im Zusammenhange der geschichtsphilosphischen Entwicklung</title>
+            <author>
+              <forename>Eckart von</forename>
+              <surname>Sydow</surname>
+            </author>
+            <imprint>
+              <pubPlace>Leipzig</pubPlace>
+              <publisher>F. Meiner</publisher>
+              <date>1914</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="bookSection" xml:id="tillich__XE5RGI9I" corresp="http://zotero.org/groups/5701116/items/XE5RGI9I" n="Rosenstock Huessy, Protestantismus und Seelenführung, 1929">
           <analytic>
             <title level="a">Protestantismus und Seelenführung</title>
