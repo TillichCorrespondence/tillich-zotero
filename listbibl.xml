@@ -16,6 +16,57 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="journalArticle" xml:id="tillich__Q5WCS8GB" corresp="http://zotero.org/groups/5701116/items/Q5WCS8GB" n="Wingolfsbund, Teilnehmerliste des 27. Wartburgfestes, 1905">
+          <analytic>
+            <title level="a">Teilnehmerliste des 27. Wartburgfestes</title>
+            <author>
+              <name>Wingolfsbund</name>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Wingolfs-Blätter</title>
+            <imprint>
+              <biblScope unit="volume">34</biblScope>
+              <biblScope unit="issue">17</biblScope>
+              <biblScope unit="page">165 f.</biblScope>
+              <date>1905</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__B2PG5SFN" corresp="http://zotero.org/groups/5701116/items/B2PG5SFN" n="Wingolfsbund, 27. Wartburgfest des Wingolfsbundes, 1905">
+          <analytic>
+            <title level="a">27. Wartburgfest des Wingolfsbundes</title>
+            <author>
+              <name>Wingolfsbund</name>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Wingolfs-Blätter</title>
+            <imprint>
+              <biblScope unit="volume">34</biblScope>
+              <biblScope unit="issue">17</biblScope>
+              <biblScope unit="page">147</biblScope>
+              <date>1905</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__WPMW8FGV" corresp="http://zotero.org/groups/5701116/items/WPMW8FGV" n="Schilling, Die christlichen Soziallehren, 1926">
+          <monogr>
+            <title level="m">Die christlichen Soziallehren</title>
+            <author>
+              <forename>1874-1956 1874-1956, Otto</forename>
+              <surname>Schilling</surname>
+            </author>
+            <imprint>
+              <pubPlace>Köln u.a.</pubPlace>
+              <publisher>Oratoriums-Verl.</publisher>
+              <date>1926</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Der katholische Gedanke</title>
+          </series>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__T5LXIT3W" corresp="http://zotero.org/groups/5701116/items/T5LXIT3W" n="Tillich, Kritisches und positives Paradox: Eine Auseinandersetzung mit Karl Barth un..., 1923">
           <monogr>
             <title level="m">Kritisches und positives Paradox: Eine Auseinandersetzung mit Karl Barth und Friedrich Gogarten</title>
