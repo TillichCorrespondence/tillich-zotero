@@ -16,6 +16,140 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="journalArticle" xml:id="tillich__PR4PQH4J" corresp="http://zotero.org/groups/5701116/items/PR4PQH4J" n="o.A., Personal-Anzeiger, None">
+          <analytic>
+            <title level="a">Personal-Anzeiger</title>
+          </analytic>
+          <monogr>
+            <title level="j">Wingolfs-Blätter 36 (1906/07)</title>
+            <imprint>
+              <biblScope unit="issue">22</biblScope>
+              <biblScope unit="page">214</biblScope>
+              <date/>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__IGEC7W4W" corresp="http://zotero.org/groups/5701116/items/IGEC7W4W" n="o.A., Personal-Anzeiger, None">
+          <analytic>
+            <title level="a">Personal-Anzeiger</title>
+          </analytic>
+          <monogr>
+            <title level="j">Wingolfs-Blätter 36 (1906/07)</title>
+            <imprint>
+              <biblScope unit="issue">20</biblScope>
+              <biblScope unit="page">190</biblScope>
+              <date/>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__H2WMBBPV" corresp="http://zotero.org/groups/5701116/items/H2WMBBPV" n="van der Smissen, Kurzgefaßte Geschichte und Glaubenslehre der Altevangelischen Taufgesinnten..., 1895">
+          <monogr>
+            <title level="m">Kurzgefaßte Geschichte und Glaubenslehre der Altevangelischen Taufgesinnten oder Mennoniten</title>
+            <author>
+              <forename>Carl H. A.</forename>
+              <surname>van der Smissen</surname>
+            </author>
+            <imprint>
+              <publisher>Selbstverlag</publisher>
+              <date>1895</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__LWBQJ8AW" corresp="http://zotero.org/groups/5701116/items/LWBQJ8AW" n="Witte, Denken ist leicht…, 1907">
+          <analytic>
+            <title level="a">Denken ist leicht…</title>
+            <author>
+              <forename>Hermann</forename>
+              <surname>Witte</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Wingolfs-Blätter 36 (1906/07)</title>
+            <imprint>
+              <biblScope unit="issue">21</biblScope>
+              <biblScope unit="page">191-193</biblScope>
+              <date>1907</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="newspaperArticle" xml:id="tillich__2Q8J72BF" corresp="http://zotero.org/groups/5701116/items/2Q8J72BF" n="Medicus, Zum 150. Geburtstag Fichtes, 1912">
+          <analytic>
+            <title level="a">Zum 150. Geburtstag Fichtes</title>
+            <author>
+              <forename>Fritz</forename>
+              <surname>Medicus</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Der Reichsbote</title>
+            <edition>116</edition>
+            <imprint>
+              <biblScope unit="page">2-3</biblScope>
+              <date>1912</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__NC7BYNUZ" corresp="http://zotero.org/groups/5701116/items/NC7BYNUZ" n="o.A., Wöchentliches Verzeichnis der erschienenen und der vorbereiteten Neuigkeite..., 1912">
+          <analytic>
+            <title level="a">Wöchentliches Verzeichnis der erschienenen und der vorbereiteten Neuigkeiten des deutschen Buchhandels</title>
+          </analytic>
+          <monogr>
+            <title level="j">Wöchentliches Verzeichnis der erschienenen und der vorbereiteten Neuigkeiten des deutschen Buchhandels</title>
+            <imprint>
+              <biblScope unit="volume">71</biblScope>
+              <biblScope unit="issue">20</biblScope>
+              <biblScope unit="page">637</biblScope>
+              <date>1912</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__3EIVQ463" corresp="http://zotero.org/groups/5701116/items/3EIVQ463" n="Fichte, System der Sittenlehre (1812); Transzendentale Logik; Staatslehre oder über..., 1912">
+          <monogr>
+            <title level="m">System der Sittenlehre (1812); Transzendentale Logik; Staatslehre oder über das Verhältnis des Urstaates zum Vernunftreiche</title>
+            <author>
+              <forename>Johann Gottlieb</forename>
+              <surname>Fichte</surname>
+            </author>
+            <imprint>
+              <publisher>F. Meiner</publisher>
+              <date>1912</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Philosophische Bibliothek</title>
+          </series>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="tillich__JIWYVY8L" corresp="http://zotero.org/groups/5701116/items/JIWYVY8L" n="Kähler, Rede bei Ertheilung des Bandes. 1856, 1860">
+          <analytic>
+            <title level="a">Rede bei Ertheilung des Bandes. 1856</title>
+            <author>
+              <forename>Martin</forename>
+              <surname>Kähler</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Aus dem Wingolf. Als Manuscript gedruckt</title>
+            <imprint>
+              <pubPlace>Marburg</pubPlace>
+              <biblScope unit="page">176-184</biblScope>
+              <publisher>Druck von C. L. Pfeil</publisher>
+              <date>1860</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="newspaperArticle" xml:id="tillich__J3CYSYUL" corresp="http://zotero.org/groups/5701116/items/J3CYSYUL" n="o.A., Recht und Geltung des kirchlichen Bekenntnisses, 1907">
+          <analytic>
+            <title level="a">Recht und Geltung des kirchlichen Bekenntnisses</title>
+          </analytic>
+          <monogr>
+            <title level="m">Düsseldorfer General-Anzeiger</title>
+            <edition>Nr. 94, 1. Beilage</edition>
+            <imprint>
+              <biblScope unit="page">3</biblScope>
+              <date>1907</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="journalArticle" xml:id="tillich__BXEJLXW5" corresp="http://zotero.org/groups/5701116/items/BXEJLXW5" n="Nast, Auch ein Appell an die Philister, None">
           <analytic>
             <title level="a">Auch ein Appell an die Philister</title>
