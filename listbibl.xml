@@ -16,6 +16,20 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__S6C32ITW" corresp="http://zotero.org/groups/5701116/items/S6C32ITW" n="Plant, The Dragon in the Forest, 1948">
+          <monogr>
+            <title level="m">The Dragon in the Forest</title>
+            <author>
+              <forename>Richard</forename>
+              <surname>Plant</surname>
+            </author>
+            <imprint>
+              <pubPlace>Garden City, New York</pubPlace>
+              <publisher>Doubleday</publisher>
+              <date>1948</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="bookSection" xml:id="tillich__3ID4WA6M" corresp="http://zotero.org/groups/5701116/items/3ID4WA6M" n="Rosenstock Huessey, II. Heilsgeschichte wider Theologie / Eine Kritik der Schrift „Die Kirche u..., 1952">
           <analytic>
             <title level="a">II. Heilsgeschichte wider Theologie / Eine Kritik der Schrift „Die Kirche und das Staatsproblem in der Gegenwart“ des ökumenischen Rates der Kirchen (1936)</title>
