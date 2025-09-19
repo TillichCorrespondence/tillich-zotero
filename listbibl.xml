@@ -16,6 +16,23 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="journalArticle" xml:id="tillich__SSN4VITH" corresp="http://zotero.org/groups/5701116/items/SSN4VITH" n="Wagner, Protokoll des Generalkonvents des 27. Wartburgfestes am 15. Juni 1905 im Fe..., 1905">
+          <analytic>
+            <title level="a">Protokoll des Generalkonvents des 27. Wartburgfestes am 15. Juni 1905 im Festsaale des Fürstenhofes zu Eisenach</title>
+            <author>
+              <forename>Richard</forename>
+              <surname>Wagner</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Wingolfs-Blätter 34 (1904/05)</title>
+            <imprint>
+              <biblScope unit="issue">21</biblScope>
+              <biblScope unit="page">187</biblScope>
+              <date>1905</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__S6C32ITW" corresp="http://zotero.org/groups/5701116/items/S6C32ITW" n="Plant, The Dragon in the Forest, 1948">
           <monogr>
             <title level="m">The Dragon in the Forest</title>
