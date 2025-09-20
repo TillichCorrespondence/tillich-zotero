@@ -16,6 +16,21 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__QBT8T4YZ" corresp="http://zotero.org/groups/5701116/items/QBT8T4YZ" n="Strauss, Die Christliche Glaubenslehre in ihrer geschichtlichen Entwicklung, 1840">
+          <monogr>
+            <title level="m">Die Christliche Glaubenslehre in ihrer geschichtlichen Entwicklung</title>
+            <idno type="ISBN">978-5-87815-757-5</idno>
+            <author>
+              <forename>D.F.</forename>
+              <surname>Strauss</surname>
+            </author>
+            <imprint>
+              <publisher>Osiander</publisher>
+              <date>1840</date>
+              <note type="url">https://books.google.at/books?id=hhYSAwAAQBAJ</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="journalArticle" xml:id="tillich__SSN4VITH" corresp="http://zotero.org/groups/5701116/items/SSN4VITH" n="Wagner, Protokoll des Generalkonvents des 27. Wartburgfestes am 15. Juni 1905 im Fe..., 1905">
           <analytic>
             <title level="a">Protokoll des Generalkonvents des 27. Wartburgfestes am 15. Juni 1905 im Festsaale des Fürstenhofes zu Eisenach</title>
@@ -2348,21 +2363,6 @@ GESAMMELTEN WERKEN VON PAUL TILLICH, Bd. X)</title>
               <publisher>Koschny</publisher>
               <date>1875</date>
               <note type="url">https://books.google.at/books?id=0hFGhZlxeekC</note>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="tillich__QBT8T4YZ" corresp="http://zotero.org/groups/5701116/items/QBT8T4YZ" n="Strauss, Die Christliche Glaubenslehre in Ihrer Geschichtlichen Entwicklung, 1840">
-          <monogr>
-            <title level="m">Die Christliche Glaubenslehre in Ihrer Geschichtlichen Entwicklung</title>
-            <idno type="ISBN">978-5-87815-757-5</idno>
-            <author>
-              <forename>D.F.</forename>
-              <surname>Strauss</surname>
-            </author>
-            <imprint>
-              <publisher>Osiander</publisher>
-              <date>1840</date>
-              <note type="url">https://books.google.at/books?id=hhYSAwAAQBAJ</note>
             </imprint>
           </monogr>
         </biblStruct>
