@@ -16,6 +16,51 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__9FRCE4W6" corresp="http://zotero.org/groups/5701116/items/9FRCE4W6" n="Mann, Der junge Joseph, 1934">
+          <monogr>
+            <title level="m">Der junge Joseph</title>
+            <author>
+              <forename>Thomas</forename>
+              <surname>Mann</surname>
+            </author>
+            <imprint>
+              <pubPlace>Berlin</pubPlace>
+              <publisher>Fischer</publisher>
+              <date>1934</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="film" xml:id="tillich__TG79N2SP" corresp="http://zotero.org/groups/5701116/items/TG79N2SP" n="o.A., The Little Minister, 1934">
+          <monogr>
+            <title level="m">The Little Minister</title>
+            <respStmt>
+              <resp>director</resp>
+              <persName>
+                <forename>Richard</forename>
+                <surname>Wallace</surname>
+              </persName>
+            </respStmt>
+            <imprint>
+              <date>1934</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__MWPA9IZX" corresp="http://zotero.org/groups/5701116/items/MWPA9IZX" n="Foerster, Mission im Heiligen Land: Der Jerusalems-Verein zu Berlin, 1852–1945, 1991">
+          <monogr>
+            <title level="m">Mission im Heiligen Land: Der Jerusalems-Verein zu Berlin, 1852–1945</title>
+            <idno type="ISBN">3-579-00245-7</idno>
+            <author>
+              <forename>Frank</forename>
+              <surname>Foerster</surname>
+            </author>
+            <imprint>
+              <pubPlace>Gütersloh</pubPlace>
+              <biblScope unit="volume">25</biblScope>
+              <publisher>Gütersloher Verlagshaus Gerd Mohn</publisher>
+              <date>1991</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__QBT8T4YZ" corresp="http://zotero.org/groups/5701116/items/QBT8T4YZ" n="Strauss, Die Christliche Glaubenslehre in ihrer geschichtlichen Entwicklung, 1840">
           <monogr>
             <title level="m">Die Christliche Glaubenslehre in ihrer geschichtlichen Entwicklung</title>
