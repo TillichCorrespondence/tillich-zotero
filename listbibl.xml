@@ -16,6 +16,388 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__4LH2UCAR" corresp="http://zotero.org/groups/5701116/items/4LH2UCAR" n="Albrecht (Hg.), Theologische, philosophische und politische Stellungnahmen und Gespräche, 1983">
+          <monogr>
+            <title level="m">Theologische, philosophische und politische Stellungnahmen und Gespräche</title>
+            <idno type="ISBN">978-3-11-083051-4</idno>
+            <editor>
+              <forename>Renate</forename>
+              <surname>Albrecht</surname>
+            </editor>
+            <editor>
+              <forename>René</forename>
+              <surname>Tautmann</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Berlin, Boston</pubPlace>
+              <publisher>De Gruyter</publisher>
+              <date>1983</date>
+              <note type="accessed">2025-10-01</note>
+              <note type="url">https://doi.org/10.1515/9783110830514</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__JNWLCUKJ" corresp="http://zotero.org/groups/5701116/items/JNWLCUKJ" n="Graf, Die Korrespondenz zwischen Fritz Medicus und Paul Tillich, 2004">
+          <analytic>
+            <title level="a">Die Korrespondenz zwischen Fritz Medicus und Paul Tillich</title>
+            <idno type="DOI">10.1515/znth.11.1.126</idno>
+            <author>
+              <forename>Friedrich</forename>
+              <surname>Graf</surname>
+            </author>
+            <author>
+              <forename>Alf</forename>
+              <surname>Christophersen</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Zeitschrift für Neuere Theologiegeschichte (Journal for the History of Modern Theology)</title>
+            <imprint>
+              <biblScope unit="volume">11</biblScope>
+              <date>2004</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="tillich__MPIUNK3W" corresp="http://zotero.org/groups/5701116/items/MPIUNK3W" n="o.A., The World Situation, 1946">
+          <analytic>
+            <title level="a">The World Situation</title>
+            <respStmt>
+              <resp>contributor</resp>
+              <persName>
+                <forename>Paul</forename>
+                <surname>Tillich</surname>
+              </persName>
+            </respStmt>
+          </analytic>
+          <monogr>
+            <title level="m">The Christian Answer</title>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <biblScope unit="page">1–44</biblScope>
+              <publisher>Scribner</publisher>
+              <date>1946</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__3HI892V5" corresp="http://zotero.org/groups/5701116/items/3HI892V5" n="Geyser, Erkenntnistheorie, 1922">
+          <monogr>
+            <title level="m">Erkenntnistheorie</title>
+            <author>
+              <forename>Joseph</forename>
+              <surname>Geyser</surname>
+            </author>
+            <imprint>
+              <pubPlace>Münster</pubPlace>
+              <date>1922</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__8RXPPSG9" corresp="http://zotero.org/groups/5701116/items/8RXPPSG9" n="Engel, Gedanken über das Denken, 1922">
+          <monogr>
+            <title level="m">Gedanken über das Denken</title>
+            <author>
+              <forename>Moritz</forename>
+              <surname>Engel</surname>
+            </author>
+            <imprint>
+              <pubPlace>Berlin</pubPlace>
+              <date>1922</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Bibliothek für Philosophie, hg. von Ludwig Stein</title>
+            <biblScope unit="volume">22</biblScope>
+          </series>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__NBRFMI7M" corresp="http://zotero.org/groups/5701116/items/NBRFMI7M" n="Volkelt, Die Gefühlsgewissheit. Eine erkenntnistheoretische Untersuchung, 1922">
+          <monogr>
+            <title level="m">Die Gefühlsgewissheit. Eine erkenntnistheoretische Untersuchung</title>
+            <author>
+              <forename>Johannes</forename>
+              <surname>Volkelt</surname>
+            </author>
+            <imprint>
+              <pubPlace>München</pubPlace>
+              <date>1922</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__MNAPBRHC" corresp="http://zotero.org/groups/5701116/items/MNAPBRHC" n="Kulemann, Der Kampf der Weltanschauungen, 1922">
+          <monogr>
+            <title level="m">Der Kampf der Weltanschauungen</title>
+            <author>
+              <forename>Wilhelm</forename>
+              <surname>Kulemann</surname>
+            </author>
+            <imprint>
+              <pubPlace>Leipzig</pubPlace>
+              <publisher>J. C. Hinrichs</publisher>
+              <date>1922</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__8DFBCZPS" corresp="http://zotero.org/groups/5701116/items/8DFBCZPS" n="Gründler, Elemente zu einer Religionsphilosophie auf phänomenologischer Grundlage, 1922">
+          <monogr>
+            <title level="m">Elemente zu einer Religionsphilosophie auf phänomenologischer Grundlage</title>
+            <author>
+              <forename>Otto</forename>
+              <surname>Gründler</surname>
+            </author>
+            <imprint>
+              <pubPlace>München</pubPlace>
+              <publisher>J. Kösel &amp; F. Pustet</publisher>
+              <date>1922</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__QSAT7A78" corresp="http://zotero.org/groups/5701116/items/QSAT7A78" n="Schmidt-Japing, Recht und Unrecht der Anthroposophie. Zwei Vorträge, 1922">
+          <monogr>
+            <title level="m">Recht und Unrecht der Anthroposophie. Zwei Vorträge</title>
+            <author>
+              <forename>Johann Wilhelm</forename>
+              <surname>Schmidt-Japing</surname>
+            </author>
+            <imprint>
+              <pubPlace>Göttingen</pubPlace>
+              <date>1922</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__XAMN6RFU" corresp="http://zotero.org/groups/5701116/items/XAMN6RFU" n="Schultz, Die Philosophie am Scheidewege. Die Antinomie im Werten u. im Denken, 1922">
+          <monogr>
+            <title level="m">Die Philosophie am Scheidewege. Die Antinomie im Werten u. im Denken</title>
+            <author>
+              <forename>Julius</forename>
+              <surname>Schultz</surname>
+            </author>
+            <imprint>
+              <pubPlace>Leipzig</pubPlace>
+              <publisher>Felix Meiner</publisher>
+              <date>1922</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__49F3PG5E" corresp="http://zotero.org/groups/5701116/items/49F3PG5E" n="Wittmann, Max Scheler als Ethiker. Ein Beitrag zur Geschichte der modernen Ethik, 1923">
+          <monogr>
+            <title level="m">Max Scheler als Ethiker. Ein Beitrag zur Geschichte der modernen Ethik</title>
+            <author>
+              <forename>Michael</forename>
+              <surname>Wittmann</surname>
+            </author>
+            <imprint>
+              <pubPlace>Düsseldorf</pubPlace>
+              <publisher>Schwann</publisher>
+              <date>1923</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__FSWU76RD" corresp="http://zotero.org/groups/5701116/items/FSWU76RD" n="Troeltsch, Sozialphilosophie des Christentums, 1922">
+          <monogr>
+            <title level="m">Sozialphilosophie des Christentums</title>
+            <author>
+              <forename>Ernst</forename>
+              <surname>Troeltsch</surname>
+            </author>
+            <imprint>
+              <pubPlace>Zürich</pubPlace>
+              <publisher>Seldwyla</publisher>
+              <date>1922</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__MWQJGS8H" corresp="http://zotero.org/groups/5701116/items/MWQJGS8H" n="Scheler (Hg.), Versuche zu einer Soziologie des Wissens, 1924">
+          <monogr>
+            <title level="m">Versuche zu einer Soziologie des Wissens</title>
+            <editor>
+              <forename>Max</forename>
+              <surname>Scheler</surname>
+            </editor>
+            <imprint>
+              <pubPlace>München/Leipzig</pubPlace>
+              <publisher>Duncker &amp; Humblot</publisher>
+              <date>1924</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Schriften des Forschungsinstituts für Sozialwissenschaften in Köln</title>
+            <biblScope unit="volume">2</biblScope>
+          </series>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__UJ4BE46M" corresp="http://zotero.org/groups/5701116/items/UJ4BE46M" n="Verdross, Die Einheit des rechtlichen Weltbildes auf Grundlage der Völkerrechtsverfas..., 1923">
+          <monogr>
+            <title level="m">Die Einheit des rechtlichen Weltbildes auf Grundlage der Völkerrechtsverfassung</title>
+            <author>
+              <forename>Alfred</forename>
+              <surname>Verdross</surname>
+            </author>
+            <imprint>
+              <pubPlace>Tübingen</pubPlace>
+              <publisher>J. C. B. Mohr (Paul Siebeck)</publisher>
+              <date>1923</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__KENZVT9E" corresp="http://zotero.org/groups/5701116/items/KENZVT9E" n="Scheler, Die transszendentale und die psychologische Methode. Eine grundsätzliche Er..., 1922">
+          <monogr>
+            <title level="m">Die transszendentale und die psychologische Methode. Eine grundsätzliche Erörterung zur philosophischen Methodik</title>
+            <author>
+              <forename>Max</forename>
+              <surname>Scheler</surname>
+            </author>
+            <edition>Zweite Auflage</edition>
+            <imprint>
+              <pubPlace>Leipzig</pubPlace>
+              <publisher>Dürr</publisher>
+              <date>1922</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__2GBH4U64" corresp="http://zotero.org/groups/5701116/items/2GBH4U64" n="Radloff, Russische Philosophie, 1925">
+          <monogr>
+            <title level="m">Russische Philosophie</title>
+            <author>
+              <forename>Ernest</forename>
+              <surname>Radloff</surname>
+            </author>
+            <imprint>
+              <pubPlace>Breslau</pubPlace>
+              <date>1925</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Jedermanns Bücherei. Abt.; Philosophie, hg. von Ernst Bergmann</title>
+          </series>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__K97XZKRZ" corresp="http://zotero.org/groups/5701116/items/K97XZKRZ" n="Prager, Wladimir Solovjeffs universalistische Lebensphilosophie, 1925">
+          <monogr>
+            <title level="m">Wladimir Solovjeffs universalistische Lebensphilosophie</title>
+            <author>
+              <forename>Hans</forename>
+              <surname>Prager</surname>
+            </author>
+            <imprint>
+              <pubPlace>Tübingen</pubPlace>
+              <date>1925</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__G6H86V5W" corresp="http://zotero.org/groups/5701116/items/G6H86V5W" n="Maier, Philosophie der Wirklichkeit. Erster Band. Wahrheit und Wirklichkeit, 1926">
+          <monogr>
+            <title level="m">Philosophie der Wirklichkeit. Erster Band. Wahrheit und Wirklichkeit</title>
+            <author>
+              <forename>Heinrich</forename>
+              <surname>Maier</surname>
+            </author>
+            <imprint>
+              <pubPlace>Tübingen</pubPlace>
+              <publisher>J. C. B. Mohr (Paul Siebeck)</publisher>
+              <date>1926</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__5KQXZZ2B" corresp="http://zotero.org/groups/5701116/items/5KQXZZ2B" n="Liebert, Mythus und Kultur, 1925">
+          <monogr>
+            <title level="m">Mythus und Kultur</title>
+            <author>
+              <forename>Arthur</forename>
+              <surname>Liebert</surname>
+            </author>
+            <imprint>
+              <pubPlace>Berlin</pubPlace>
+              <publisher>Pan Verlag Rolf Heise</publisher>
+              <date>1925</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__9877F5DI" corresp="http://zotero.org/groups/5701116/items/9877F5DI" n="Groos, Der Aufbau der Systeme. Eine formale Einführung in die Philosophie, 1924">
+          <monogr>
+            <title level="m">Der Aufbau der Systeme. Eine formale Einführung in die Philosophie</title>
+            <author>
+              <forename>Karl</forename>
+              <surname>Groos</surname>
+            </author>
+            <imprint>
+              <pubPlace>Leipzig</pubPlace>
+              <publisher>Felix Meiner Verlag</publisher>
+              <date>1924</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__XCJXWUSX" corresp="http://zotero.org/groups/5701116/items/XCJXWUSX" n="Friedmann, Die Welt der Formen. System eines morphologischen Idealismus, 1925">
+          <monogr>
+            <title level="m">Die Welt der Formen. System eines morphologischen Idealismus</title>
+            <author>
+              <forename>Hermann</forename>
+              <surname>Friedmann</surname>
+            </author>
+            <imprint>
+              <pubPlace>Berlin</pubPlace>
+              <date>1925</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__ZCJB4MHZ" corresp="http://zotero.org/groups/5701116/items/ZCJB4MHZ" n="Cohn, Theorie der Dialektik., 1923">
+          <monogr>
+            <title level="m">Theorie der Dialektik.</title>
+            <author>
+              <forename>Jonas</forename>
+              <surname>Cohn</surname>
+            </author>
+            <imprint>
+              <pubPlace>Leipzig</pubPlace>
+              <date>1923</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__FKICADPB" corresp="http://zotero.org/groups/5701116/items/FKICADPB" n="Cassirer, prache und Mythos. Ein Beitrag zum Problem der Götternamen, 1925">
+          <monogr>
+            <title level="m">prache und Mythos. Ein Beitrag zum Problem der Götternamen</title>
+            <author>
+              <forename>Ernst</forename>
+              <surname>Cassirer</surname>
+            </author>
+            <imprint>
+              <pubPlace>Leipzig</pubPlace>
+              <publisher>B. G. Teubner</publisher>
+              <date>1925</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Studien der Bibliothek Warburg</title>
+          </series>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__4DTETN4K" corresp="http://zotero.org/groups/5701116/items/4DTETN4K" n="Cassirer, Philosophie der symbolischen Formen. Das mythische Denken., 1925">
+          <monogr>
+            <title level="m">Philosophie der symbolischen Formen. Das mythische Denken.</title>
+            <extent>3</extent>
+            <author>
+              <forename>Ernst</forename>
+              <surname>Cassirer</surname>
+            </author>
+            <imprint>
+              <pubPlace>Berlin</pubPlace>
+              <biblScope unit="volume">2</biblScope>
+              <publisher>Bruno Cassirer Verlag</publisher>
+              <date>1925</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__E5B76BHF" corresp="http://zotero.org/groups/5701116/items/E5B76BHF" n="Cassirer, Philosophie der symbolischen Formen. Die Sprache., 1923">
+          <monogr>
+            <title level="m">Philosophie der symbolischen Formen. Die Sprache.</title>
+            <extent>3</extent>
+            <author>
+              <forename>Ernst</forename>
+              <surname>Cassirer</surname>
+            </author>
+            <imprint>
+              <pubPlace>Berlin</pubPlace>
+              <biblScope unit="volume">1</biblScope>
+              <publisher>Bruno Cassirer Verlag</publisher>
+              <date>1923</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__3GUK39J3" corresp="http://zotero.org/groups/5701116/items/3GUK39J3" n="Oesau, 300 Jahre Buchdrucker in Glückstand: Festschrift, 1932">
           <monogr>
             <title level="m">300 Jahre Buchdrucker in Glückstand: Festschrift</title>
