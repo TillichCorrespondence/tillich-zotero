@@ -16,6 +16,24 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="bookSection" xml:id="tillich__AFIR4VSM" corresp="http://zotero.org/groups/5701116/items/AFIR4VSM" n="Siegfried, Phänomenologie und Geschichte, 1926">
+          <analytic>
+            <title level="a">Phänomenologie und Geschichte</title>
+            <author>
+              <forename>Theodor</forename>
+              <surname>Siegfried</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Kairos. Zur Geisteslage und Geisteswendung</title>
+            <imprint>
+              <pubPlace>Darmstadt</pubPlace>
+              <biblScope unit="page">93-232</biblScope>
+              <publisher>Otto Reichl Verlag</publisher>
+              <date>1926</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__4LH2UCAR" corresp="http://zotero.org/groups/5701116/items/4LH2UCAR" n="Albrecht (Hg.), Theologische, philosophische und politische Stellungnahmen und Gespräche, 1983">
           <monogr>
             <title level="m">Theologische, philosophische und politische Stellungnahmen und Gespräche</title>
