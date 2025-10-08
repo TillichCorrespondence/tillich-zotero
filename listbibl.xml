@@ -16,6 +16,21 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__UJ5M22AD" corresp="http://zotero.org/groups/5701116/items/UJ5M22AD" n="Siegfried, Das Wort und die Existenz. Eine Auseinandersetzung mit der Dialektischen Th..., 1930">
+          <monogr>
+            <title level="m">Das Wort und die Existenz. Eine Auseinandersetzung mit der Dialektischen Theologie</title>
+            <extent>3</extent>
+            <author>
+              <forename>Theodor</forename>
+              <surname>Siegfried</surname>
+            </author>
+            <imprint>
+              <pubPlace>Gotha</pubPlace>
+              <publisher>Leopold Klotz</publisher>
+              <date>1930</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="bookSection" xml:id="tillich__AFIR4VSM" corresp="http://zotero.org/groups/5701116/items/AFIR4VSM" n="Siegfried, Phänomenologie und Geschichte, 1926">
           <analytic>
             <title level="a">Phänomenologie und Geschichte</title>
