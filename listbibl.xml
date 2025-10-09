@@ -16,6 +16,33 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__QQJUHUZE" corresp="http://zotero.org/groups/5701116/items/QQJUHUZE" n="Tillich, The Protestant Era, 1948">
+          <monogr>
+            <title level="m">The Protestant Era</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+            <imprint>
+              <pubPlace>Chicago</pubPlace>
+              <publisher>University of Chicago Press</publisher>
+              <date>1948</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__SAEI7JF3" corresp="http://zotero.org/groups/5701116/items/SAEI7JF3" n="Michel, Von der kirchlichen Sendung der Laien, 1934">
+          <monogr>
+            <title level="m">Von der kirchlichen Sendung der Laien</title>
+            <author>
+              <forename>Ernst</forename>
+              <surname>Michel</surname>
+            </author>
+            <imprint>
+              <publisher>Schneider Verlag</publisher>
+              <date>1934</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__UJ5M22AD" corresp="http://zotero.org/groups/5701116/items/UJ5M22AD" n="Siegfried, Das Wort und die Existenz. Eine Auseinandersetzung mit der Dialektischen Th..., 1930">
           <monogr>
             <title level="m">Das Wort und die Existenz. Eine Auseinandersetzung mit der Dialektischen Theologie</title>
