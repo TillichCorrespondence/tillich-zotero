@@ -16,6 +16,51 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="journalArticle" xml:id="tillich__HRXYR4S5" corresp="http://zotero.org/groups/5701116/items/HRXYR4S5" n="o.A., o.T., None">
+          <analytic>
+            <title level="a"/>
+          </analytic>
+          <monogr>
+            <imprint>
+              <date/>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="tillich__UCY8CDI2" corresp="http://zotero.org/groups/5701116/items/UCY8CDI2" n="Tillich, Die Gegenstände der Philosophie, 1959">
+          <analytic>
+            <title level="a">Die Gegenstände der Philosophie</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Gesammelte Werke. Band 1: Frühe Hauptwerke</title>
+            <idno type="ISBN">978-3-11-088841-6</idno>
+            <extent>14</extent>
+            <imprint>
+              <pubPlace>Berlin, Boston</pubPlace>
+              <biblScope unit="volume">1</biblScope>
+              <biblScope unit="page">232-235</biblScope>
+              <publisher>De Gruyter</publisher>
+              <date>1959</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__37CIHSJ6" corresp="http://zotero.org/groups/5701116/items/37CIHSJ6" n="Tillich, Ich allein bin. Mein Leben., 1993">
+          <monogr>
+            <title level="m">Ich allein bin. Mein Leben.</title>
+            <author>
+              <forename>Hannah</forename>
+              <surname>Tillich</surname>
+            </author>
+            <imprint>
+              <pubPlace>Gütersloh</pubPlace>
+              <publisher>Gütersloher Verlagshaus</publisher>
+              <date>1993</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="journalArticle" xml:id="tillich__VAZ4FCMG" corresp="http://zotero.org/groups/5701116/items/VAZ4FCMG" n="Strunz, Heußner, Alfred, Die philosophischen Weltanschauungen und ihre Hauptvertret..., 1918">
           <analytic>
             <title level="a">Heußner, Alfred, Die philosophischen Weltanschauungen und ihre Hauptvertreter. 3., durchges. Aufl.:[Rezension]</title>
