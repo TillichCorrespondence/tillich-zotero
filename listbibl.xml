@@ -16,13 +16,30 @@
   <text>
     <body>
       <listBibl>
-        <biblStruct type="journalArticle" xml:id="tillich__HRXYR4S5" corresp="http://zotero.org/groups/5701116/items/HRXYR4S5" n="o.A., o.T., None">
-          <analytic>
-            <title level="a"/>
-          </analytic>
+        <biblStruct type="book" xml:id="tillich__8H4L8FYW" corresp="http://zotero.org/groups/5701116/items/8H4L8FYW" n="Simmel, Goethe, 1913">
           <monogr>
+            <title level="m">Goethe</title>
+            <author>
+              <forename>Georg</forename>
+              <surname>Simmel</surname>
+            </author>
             <imprint>
-              <date/>
+              <publisher>Klinkhardt &amp; Biermann</publisher>
+              <date>1913</date>
+              <note type="url">https://books.google.at/books?id=uBnjXO70EBEC</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__9UXF7BDY" corresp="http://zotero.org/groups/5701116/items/9UXF7BDY" n="o.A., Band 7 Frühe Predigten 1909–1918, 1993">
+          <monogr>
+            <title level="m">Band 7 Frühe Predigten 1909–1918</title>
+            <idno type="ISBN">978-3-11-088816-4</idno>
+            <imprint>
+              <pubPlace>Berlin, Boston</pubPlace>
+              <publisher>De Gruyter</publisher>
+              <date>1993</date>
+              <note type="accessed">2025-10-20</note>
+              <note type="url">https://doi.org/10.1515/9783110888164</note>
             </imprint>
           </monogr>
         </biblStruct>
@@ -2896,20 +2913,6 @@ GESAMMELTEN WERKEN VON PAUL TILLICH, Bd. X)</title>
               <publisher>Insel-Verlag</publisher>
               <date>1899</date>
               <note type="url">https://books.google.at/books?id=xYlvDz28q-QC</note>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="tillich__8H4L8FYW" corresp="http://zotero.org/groups/5701116/items/8H4L8FYW" n="Simmel, Goethe, 1913">
-          <monogr>
-            <title level="m">Goethe</title>
-            <author>
-              <forename>G.</forename>
-              <surname>Simmel</surname>
-            </author>
-            <imprint>
-              <publisher>Klinkhardt &amp; Biermann</publisher>
-              <date>1913</date>
-              <note type="url">https://books.google.at/books?id=uBnjXO70EBEC</note>
             </imprint>
           </monogr>
         </biblStruct>
