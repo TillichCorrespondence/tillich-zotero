@@ -16,6 +16,50 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="bookSection" xml:id="tillich__U4FVNX34" corresp="http://zotero.org/groups/5701116/items/U4FVNX34" n="Wenz, Einführung in Paul Tillichs philosophische Schriften, 1989">
+          <analytic>
+            <title level="a">Einführung in Paul Tillichs philosophische Schriften</title>
+            <author>
+              <forename>Gunther</forename>
+              <surname>Wenz</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Volume 1/ Band 1 Philosophical Writings / Philosophische Schriften</title>
+            <idno type="ISBN">978-3-11-086193-8</idno>
+            <editor>
+              <forename>Gunther</forename>
+              <surname>Wenz</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Berlin, Boston</pubPlace>
+              <biblScope unit="page">1–10</biblScope>
+              <publisher>De Gruyter</publisher>
+              <date>1989</date>
+              <note type="accessed">2025-10-22</note>
+              <note type="url">https://doi.org/10.1515/9783110861938-005</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="tillich__BTE36HBB" corresp="http://zotero.org/groups/5701116/items/BTE36HBB" n="Ibsen, Rosmersholm, 1902">
+          <analytic>
+            <title level="a">Rosmersholm</title>
+            <author>
+              <forename>Henrik</forename>
+              <surname>Ibsen</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Henrik Ibsens Sämtliche Werke in deutscher Sprache</title>
+            <imprint>
+              <pubPlace>Berlin</pubPlace>
+              <biblScope unit="volume">8</biblScope>
+              <biblScope unit="page">1–107</biblScope>
+              <publisher>S. Fischer</publisher>
+              <date>1902</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__8H4L8FYW" corresp="http://zotero.org/groups/5701116/items/8H4L8FYW" n="Simmel, Goethe, 1913">
           <monogr>
             <title level="m">Goethe</title>
