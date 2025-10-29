@@ -16,6 +16,85 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__87S4BCUS" corresp="http://zotero.org/groups/5701116/items/87S4BCUS" n="o.A., Schleiermachers vertraute Briefe über die Lucinde, 1835">
+          <monogr>
+            <title level="m">Schleiermachers vertraute Briefe über die Lucinde</title>
+            <imprint>
+              <pubPlace>Hamburg</pubPlace>
+              <publisher>Hoffmann und Campe</publisher>
+              <date>1835</date>
+              <note type="accessed">2025-10-28T14:17:12Z</note>
+              <note type="url">https://www.digitale-sammlungen.de/de/view/bsb10119508</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__B8WBNDND" corresp="http://zotero.org/groups/5701116/items/B8WBNDND" n="Joël, Kant als Vollender des Humanismus: Festrede bei der Kantfeier der Universit..., 1924">
+          <monogr>
+            <title level="m">Kant als Vollender des Humanismus: Festrede bei der Kantfeier der Universität Basel am 9. Mai 1924 gehalten</title>
+            <author>
+              <forename>Karl</forename>
+              <surname>Joël</surname>
+            </author>
+            <imprint>
+              <pubPlace>Tübingen</pubPlace>
+              <publisher>Mohr Siebeck</publisher>
+              <date>1924</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Sammlung von Vorträgen und Schriften aus dem Gebiet der Philosophie und Geschichte</title>
+          </series>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__XATHJ8AM" corresp="http://zotero.org/groups/5701116/items/XATHJ8AM" n="Wilhelm, Das Geheimnis der goldenen Blüte. Ein chinesisches Lebensbuch. Mit einem eu..., 1971">
+          <monogr>
+            <title level="m">Das Geheimnis der goldenen Blüte. Ein chinesisches Lebensbuch. Mit einem europäischen Kommentar von C.G. Jung</title>
+            <author>
+              <forename>Richard</forename>
+              <surname>Wilhelm</surname>
+            </author>
+            <imprint>
+              <pubPlace>Olten und Freiburg i. Br.</pubPlace>
+              <publisher>Walter-Verlag</publisher>
+              <date>1971</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="tillich__FG234RJE" corresp="http://zotero.org/groups/5701116/items/FG234RJE" n="Danz, Das Dasein Gottes und die Religionspsychologie, 2022">
+          <analytic>
+            <title level="a">Das Dasein Gottes und die Religionspsychologie</title>
+            <author>
+              <forename>Christian</forename>
+              <surname>Danz</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Liminal Spaces and Ethical Challenges: Yearbook 2021/2022</title>
+            <idno type="ISBN">978-3-11-098472-9</idno>
+            <editor>
+              <forename>Christian</forename>
+              <surname>Danz</surname>
+            </editor>
+            <editor>
+              <forename>Marc</forename>
+              <surname>Dumas</surname>
+            </editor>
+            <editor>
+              <forename>Werner</forename>
+              <surname>Schüßler</surname>
+            </editor>
+            <editor>
+              <forename>Bryan</forename>
+              <surname>Wagoner</surname>
+            </editor>
+            <imprint>
+              <biblScope unit="page">141-160</biblScope>
+              <publisher>De Gruyter</publisher>
+              <date>2022</date>
+              <note type="accessed">2025-10-28T11:49:40Z</note>
+              <note type="url">https://www.degruyterbrill.com/document/doi/10.1515/9783110984729-008/html?lang=de&amp;srsltid=AfmBOooVeBR4eLs7muPL8MzwMNtupJ7Q8DCMAD1mFWFhbRyRRRmcpTLy</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="bookSection" xml:id="tillich__U4FVNX34" corresp="http://zotero.org/groups/5701116/items/U4FVNX34" n="Wenz, Einführung in Paul Tillichs philosophische Schriften, 1989">
           <analytic>
             <title level="a">Einführung in Paul Tillichs philosophische Schriften</title>
