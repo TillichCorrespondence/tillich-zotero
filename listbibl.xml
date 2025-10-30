@@ -16,6 +16,61 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__5DBIGZ3D" corresp="http://zotero.org/groups/5701116/items/5DBIGZ3D" n="Evans, Diktatur, 2023">
+          <monogr>
+            <title level="m">Diktatur</title>
+            <idno type="ISBN">978-3-570-55480-7</idno>
+            <author>
+              <forename>Richard J. 1947-</forename>
+              <surname>Evans</surname>
+            </author>
+            <edition>1. Auflage</edition>
+            <imprint>
+              <pubPlace>München</pubPlace>
+              <publisher>Pantheon</publisher>
+              <date>2023</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Das Dritte Reich</title>
+          </series>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="tillich__HJ7ADK2B" corresp="http://zotero.org/groups/5701116/items/HJ7ADK2B" n="Tillich, Protestantische Gestaltung. Vortrag, gehalten vor der Theologenschaft in Mü..., 1962">
+          <analytic>
+            <title level="a">Protestantische Gestaltung. Vortrag, gehalten vor der Theologenschaft in Münster i. W. im Januar 1929.</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Der Protestantismus als Kritik und Gestaltung. Schriften zur Theologie 1</title>
+            <imprint>
+              <pubPlace>Stuttgart</pubPlace>
+              <biblScope unit="volume">VII</biblScope>
+              <biblScope unit="page">45-69</biblScope>
+              <publisher>Evangelisches Verlagswerk</publisher>
+              <date>1962</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Gesammelte Werke</title>
+          </series>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__QZQHJ84R" corresp="http://zotero.org/groups/5701116/items/QZQHJ84R" n="Przywara SJ, Analogia entis. Metaphysik., 1932">
+          <monogr>
+            <title level="m">Analogia entis. Metaphysik.</title>
+            <author>
+              <forename>Erich</forename>
+              <surname>Przywara SJ</surname>
+            </author>
+            <imprint>
+              <pubPlace>München</pubPlace>
+              <publisher>Kösel und Pustet</publisher>
+              <date>1932</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__87S4BCUS" corresp="http://zotero.org/groups/5701116/items/87S4BCUS" n="o.A., Schleiermachers vertraute Briefe über die Lucinde, 1835">
           <monogr>
             <title level="m">Schleiermachers vertraute Briefe über die Lucinde</title>
