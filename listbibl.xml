@@ -16,6 +16,42 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="bookSection" xml:id="tillich__USP533DI" corresp="http://zotero.org/groups/5701116/items/USP533DI" n="Tillich, Beilagen 1 und 2, 2005">
+          <analytic>
+            <title level="a">Beilagen 1 und 2</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Dogmatik-Vorlesung (Dresden 1925-1927)</title>
+            <imprint>
+              <pubPlace>Berlin et al.</pubPlace>
+              <biblScope unit="volume">XIV</biblScope>
+              <biblScope unit="page">395-440</biblScope>
+              <date>2005</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">EW</title>
+          </series>
+        </biblStruct>
+        <biblStruct type="newspaperArticle" xml:id="tillich__78IR3Q2X" corresp="http://zotero.org/groups/5701116/items/78IR3Q2X" n="Kbl., &quot;Der religiöse Mensch&quot;. Paul Tillich spricht in der Volkshochschule, 1931">
+          <analytic>
+            <title level="a">"Der religiöse Mensch". Paul Tillich spricht in der Volkshochschule</title>
+            <author>
+              <name>Kbl.</name>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Neue Mannheimer Zeitung. Abendausgabe.</title>
+            <imprint>
+              <biblScope unit="page">2</biblScope>
+              <date>1931</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__5DBIGZ3D" corresp="http://zotero.org/groups/5701116/items/5DBIGZ3D" n="Evans, Diktatur, 2023">
           <monogr>
             <title level="m">Diktatur</title>
