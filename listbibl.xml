@@ -16,6 +16,72 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="bookSection" xml:id="tillich__RP7BA9G4" corresp="http://zotero.org/groups/5701116/items/RP7BA9G4" n="Tillich, Editorischer Bericht, 2003">
+          <analytic>
+            <title level="a">Editorischer Bericht</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Mit einer historischen Einleitung</title>
+            <idno type="ISBN">978-3-11-090608-0</idno>
+            <imprint>
+              <pubPlace>Berlin, Boston</pubPlace>
+              <biblScope unit="page">XXV–XXX</biblScope>
+              <publisher>De Gruyter</publisher>
+              <date>2003</date>
+              <note type="accessed">2025-11-10</note>
+              <note type="url">https://doi.org/10.1515/9783110906080-002</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="tillich__QAB7TWW3" corresp="http://zotero.org/groups/5701116/items/QAB7TWW3" n="Tillich, 1. Über die Idee einer Theologie der Kultur (1919), 2008">
+          <analytic>
+            <title level="a">1. Über die Idee einer Theologie der Kultur (1919)</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Ausgewählte Texte</title>
+            <idno type="ISBN">978-3-11-021174-0</idno>
+            <editor>
+              <forename>Christian</forename>
+              <surname>Danz</surname>
+            </editor>
+            <editor>
+              <forename>Werner</forename>
+              <surname>Schüßler</surname>
+            </editor>
+            <editor>
+              <forename>Erdmann</forename>
+              <surname>Sturm</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Berlin, New York</pubPlace>
+              <biblScope unit="page">25–42</biblScope>
+              <publisher>De Gruyter</publisher>
+              <date>2008</date>
+              <note type="accessed">2025-11-10</note>
+              <note type="url">https://doi.org/10.1515/9783110211740.25</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="newspaperArticle" xml:id="tillich__CPR9A47M" corresp="http://zotero.org/groups/5701116/items/CPR9A47M" n="o.A., Kleines Feuilleton. Die evangelische Kirche und der Mensch der Gegenwart, 1928">
+          <analytic>
+            <title level="a">Kleines Feuilleton. Die evangelische Kirche und der Mensch der Gegenwart</title>
+          </analytic>
+          <monogr>
+            <title level="m">Dresdner Neueste Nachrichten. Ausgabe vom 4.3.1928 (Nr. 55)</title>
+            <imprint>
+              <biblScope unit="page">3</biblScope>
+              <date>1928</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="journalArticle" xml:id="tillich__Z7T5N5X7" corresp="http://zotero.org/groups/5701116/items/Z7T5N5X7" n="Blesse, Die Frage der Justizkrise, 1931">
           <analytic>
             <title level="a">Die Frage der Justizkrise</title>
