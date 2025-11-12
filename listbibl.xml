@@ -16,6 +16,20 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="newspaperArticle" xml:id="tillich__VZ4GCPFU" corresp="http://zotero.org/groups/5701116/items/VZ4GCPFU" n="o.A., Die neue Lehrerbildung, 1925">
+          <analytic>
+            <title level="a">Die neue Lehrerbildung</title>
+          </analytic>
+          <monogr>
+            <title level="m">Allgemeine Deutsche Lehrerzeitung. Pädagogische Zeitung. Hauptblatt des Deutschen Lehrervereins</title>
+            <edition>Nr. 45</edition>
+            <imprint>
+              <biblScope unit="page">963f.</biblScope>
+              <date>1925</date>
+              <note type="url">https://scripta.bbf.dipf.de/viewer/image/119421021X_5402/463/LOG_0031/</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="bookSection" xml:id="tillich__RP7BA9G4" corresp="http://zotero.org/groups/5701116/items/RP7BA9G4" n="Tillich, Editorischer Bericht, 2003">
           <analytic>
             <title level="a">Editorischer Bericht</title>
