@@ -16,6 +16,131 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="bookSection" xml:id="tillich__5WW6IDIV" corresp="http://zotero.org/groups/5701116/items/5WW6IDIV" n="Tillich, Grundlinien des religiösen Sozialismus, 1962">
+          <analytic>
+            <title level="a">Grundlinien des religiösen Sozialismus</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Frühe Schriften zum religiösen Sozialismus</title>
+            <idno type="ISBN">978-3-11-144653-0</idno>
+            <editor>
+              <forename>Renate</forename>
+              <surname>Albrecht</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Berlin, Boston</pubPlace>
+              <biblScope unit="page">91–120</biblScope>
+              <publisher>De Gruyter</publisher>
+              <date>1962</date>
+              <note type="accessed">2025-11-12</note>
+              <note type="url">https://doi.org/10.1515/9783111446530-007</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__7XMFGWPQ" corresp="http://zotero.org/groups/5701116/items/7XMFGWPQ" n="Wilbrandt, Sozialismus, 1919">
+          <monogr>
+            <title level="m">Sozialismus</title>
+            <author>
+              <forename>Robert</forename>
+              <surname>Wilbrandt</surname>
+            </author>
+            <imprint>
+              <pubPlace>Jena</pubPlace>
+              <publisher>Diederichs Verlag</publisher>
+              <date>1919</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__MTMK7VI4" corresp="http://zotero.org/groups/5701116/items/MTMK7VI4" n="Landauer, Aufruf zum Sozialismus, 1919">
+          <monogr>
+            <title level="m">Aufruf zum Sozialismus</title>
+            <author>
+              <forename>Gustav</forename>
+              <surname>Landauer</surname>
+            </author>
+            <imprint>
+              <pubPlace>Berlin</pubPlace>
+              <publisher>Cassirer</publisher>
+              <date>1919</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="tillich__F3N2KNCC" corresp="http://zotero.org/groups/5701116/items/F3N2KNCC" n="Shaw, Zu wahr, um schön zu sein, 2000">
+          <analytic>
+            <title level="a">Zu wahr, um schön zu sein</title>
+            <author>
+              <forename>George Bernard</forename>
+              <surname>Shaw</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Zu wahr, um schön zu sein. Zu viel Geld.</title>
+            <extent>15</extent>
+            <imprint>
+              <pubPlace>Frankfurt/Main</pubPlace>
+              <biblScope unit="volume">15</biblScope>
+              <publisher>Suhrkamp</publisher>
+              <date>2000</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Gesammelte Stücke in Einzelausgaben. 15 Bände.</title>
+          </series>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__EJZPC8XF" corresp="http://zotero.org/groups/5701116/items/EJZPC8XF" n="Spengler, Der Untergang des Abendlandes. Umrisse einer Morphologie der Weltgeschichte..., 1918">
+          <monogr>
+            <title level="m">Der Untergang des Abendlandes. Umrisse einer Morphologie der Weltgeschichte: Gestalt und Wirklichkeit</title>
+            <author>
+              <forename>Oswald</forename>
+              <surname>Spengler</surname>
+            </author>
+            <imprint>
+              <pubPlace>Wien</pubPlace>
+              <biblScope unit="volume">1</biblScope>
+              <publisher>Braumüller</publisher>
+              <date>1918</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="tillich__RGRBA5UG" corresp="http://zotero.org/groups/5701116/items/RGRBA5UG" n="Tillich, Fragen der systematischen Philosophie. Vorlesung im Wintersemester 1932/33., 2013">
+          <analytic>
+            <title level="a">Fragen der systematischen Philosophie. Vorlesung im Wintersemester 1932/33.</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Frankfurter Vorlesungen (1930-1933). Ergänzungs- und Nachlassbände zu den Gesammelten Werken Paul Tillichs.</title>
+            <editor>
+              <forename>Erdmann</forename>
+              <surname>Sturm</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Berlin/Boston</pubPlace>
+              <biblScope unit="volume">XVIII</biblScope>
+              <biblScope unit="page">505-666</biblScope>
+              <date>2013</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__ZRI4E2G4" corresp="http://zotero.org/groups/5701116/items/ZRI4E2G4" n="Simmel, Hauptprobleme der Philosophie, 1910">
+          <monogr>
+            <title level="m">Hauptprobleme der Philosophie</title>
+            <author>
+              <forename>Georg</forename>
+              <surname>Simmel</surname>
+            </author>
+            <imprint>
+              <pubPlace>Leipzig</pubPlace>
+              <date>1910</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="newspaperArticle" xml:id="tillich__VZ4GCPFU" corresp="http://zotero.org/groups/5701116/items/VZ4GCPFU" n="o.A., Die neue Lehrerbildung, 1925">
           <analytic>
             <title level="a">Die neue Lehrerbildung</title>
