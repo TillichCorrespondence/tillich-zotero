@@ -16,6 +16,115 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__SXEFRUEH" corresp="http://zotero.org/groups/5701116/items/SXEFRUEH" n="Rapp, Die Bedeutung der Konfession in der Geschichte Württembergs: Vortrag gehalt..., 1926">
+          <monogr>
+            <title level="m">Die Bedeutung der Konfession in der Geschichte Württembergs: Vortrag gehalten auf der Jahresversammlung des Vereins für Württ. Kirchengeschichte in Tübingen, 14. Juli 1926</title>
+            <author>
+              <forename>Adolf</forename>
+              <surname>Rapp</surname>
+            </author>
+            <imprint>
+              <pubPlace>Tübingen</pubPlace>
+              <publisher>Mohr Siebeck</publisher>
+              <date>1926</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__JX6FBT3J" corresp="http://zotero.org/groups/5701116/items/JX6FBT3J" n="Gunkel (Hg.), Die Religion in Geschichte und Gegenwart. Handwörterbuch für Theologie. Bd...., 1931">
+          <monogr>
+            <title level="m">Die Religion in Geschichte und Gegenwart. Handwörterbuch für Theologie. Bd. 5: S–Z</title>
+            <editor>
+              <forename>Hermann</forename>
+              <surname>Gunkel</surname>
+            </editor>
+            <editor>
+              <forename>Leopold</forename>
+              <surname>Zscharnack</surname>
+            </editor>
+            <edition>2.</edition>
+            <imprint>
+              <pubPlace>Tübingen</pubPlace>
+              <publisher>Mohr Siebeck</publisher>
+              <date>1931</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__4VIAIVSI" corresp="http://zotero.org/groups/5701116/items/4VIAIVSI" n="Gunkel (Hg.), Die Religion in Geschichte und Gegenwart. Handwörterbuch für Theologie. Bd...., 1930">
+          <monogr>
+            <title level="m">Die Religion in Geschichte und Gegenwart. Handwörterbuch für Theologie. Bd. 4: Mi–R</title>
+            <editor>
+              <forename>Hermann</forename>
+              <surname>Gunkel</surname>
+            </editor>
+            <editor>
+              <forename>Leopold</forename>
+              <surname>Zscharnack</surname>
+            </editor>
+            <edition>2.</edition>
+            <imprint>
+              <pubPlace>Tübingen</pubPlace>
+              <publisher>Mohr Siebeck</publisher>
+              <date>1930</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__GQN6PMDF" corresp="http://zotero.org/groups/5701116/items/GQN6PMDF" n="Gunkel (Hg.), Die Religion in Geschichte und Gegenwart. Handwörterbuch für Theologie. Bd...., 1929">
+          <monogr>
+            <title level="m">Die Religion in Geschichte und Gegenwart. Handwörterbuch für Theologie. Bd. 3: I–Me</title>
+            <editor>
+              <forename>Hermann</forename>
+              <surname>Gunkel</surname>
+            </editor>
+            <editor>
+              <forename>Leopold</forename>
+              <surname>Zscharnack</surname>
+            </editor>
+            <edition>2.</edition>
+            <imprint>
+              <pubPlace>Tübingen</pubPlace>
+              <publisher>Mohr Siebeck</publisher>
+              <date>1929</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__U69CHAHS" corresp="http://zotero.org/groups/5701116/items/U69CHAHS" n="Gunkel (Hg.), Die Religion in Geschichte und Gegenwart. Handwörterbuch für Theologie. Bd...., 1928">
+          <monogr>
+            <title level="m">Die Religion in Geschichte und Gegenwart. Handwörterbuch für Theologie. Bd. 2: E–H</title>
+            <editor>
+              <forename>Hermann</forename>
+              <surname>Gunkel</surname>
+            </editor>
+            <editor>
+              <forename>Leopold</forename>
+              <surname>Zscharnack</surname>
+            </editor>
+            <edition>2.</edition>
+            <imprint>
+              <pubPlace>Tübingen</pubPlace>
+              <publisher>Mohr Siebeck</publisher>
+              <date>1928</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__NY5UZ9CG" corresp="http://zotero.org/groups/5701116/items/NY5UZ9CG" n="Gunkel (Hg.), Die Religion in Geschichte und Gegenwart. Handwörterbuch für Theologie. Bd...., 1927">
+          <monogr>
+            <title level="m">Die Religion in Geschichte und Gegenwart. Handwörterbuch für Theologie. Bd. 1: A–D</title>
+            <editor>
+              <forename>Hermann</forename>
+              <surname>Gunkel</surname>
+            </editor>
+            <editor>
+              <forename>Leopold</forename>
+              <surname>Zscharnack</surname>
+            </editor>
+            <edition>2. Auflage</edition>
+            <imprint>
+              <pubPlace>Tübingen</pubPlace>
+              <publisher>Mohr</publisher>
+              <date>1927</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="bookSection" xml:id="tillich__5WW6IDIV" corresp="http://zotero.org/groups/5701116/items/5WW6IDIV" n="Tillich, Grundlinien des religiösen Sozialismus, 1962">
           <analytic>
             <title level="a">Grundlinien des religiösen Sozialismus</title>
@@ -5054,25 +5163,6 @@ GESAMMELTEN WERKEN VON PAUL TILLICH, Bd. X)</title>
               <biblScope unit="volume">4</biblScope>
               <biblScope unit="page">664–669</biblScope>
               <date>1930</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="tillich__NY5UZ9CG" corresp="http://zotero.org/groups/5701116/items/NY5UZ9CG" n="Gunkel, Die Religion in Geschichte und Gegenwart. Handwörterbuch für Theologie, 1927">
-          <monogr>
-            <title level="m">Die Religion in Geschichte und Gegenwart. Handwörterbuch für Theologie</title>
-            <author>
-              <forename>Hermann</forename>
-              <surname>Gunkel</surname>
-            </author>
-            <author>
-              <forename>Leopold</forename>
-              <surname>Zscharnack</surname>
-            </author>
-            <edition>2. Auflage</edition>
-            <imprint>
-              <pubPlace>Tübingen</pubPlace>
-              <publisher>Mohr</publisher>
-              <date>1927</date>
             </imprint>
           </monogr>
         </biblStruct>
