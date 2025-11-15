@@ -16,6 +16,18 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="newspaperArticle" xml:id="tillich__XPA54ME8" corresp="http://zotero.org/groups/5701116/items/XPA54ME8" n="o.A., Sozialismus ist heute möglich, 1933">
+          <analytic>
+            <title level="a">Sozialismus ist heute möglich</title>
+          </analytic>
+          <monogr>
+            <title level="m">Vorwärts. Zentralorgan der Sozialdemokratischen Partei Deutschlands</title>
+            <imprint>
+              <biblScope unit="page">k.A.</biblScope>
+              <date>1933</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__SXEFRUEH" corresp="http://zotero.org/groups/5701116/items/SXEFRUEH" n="Rapp, Die Bedeutung der Konfession in der Geschichte Württembergs: Vortrag gehalt..., 1926">
           <monogr>
             <title level="m">Die Bedeutung der Konfession in der Geschichte Württembergs: Vortrag gehalten auf der Jahresversammlung des Vereins für Württ. Kirchengeschichte in Tübingen, 14. Juli 1926</title>
