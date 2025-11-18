@@ -16,6 +16,69 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="document" xml:id="tillich__6ACKTEJD" corresp="http://zotero.org/groups/5701116/items/6ACKTEJD" n="Poquelin, Le Tartuffe ou L’Imposteur, None">
+          <monogr>
+            <title level="m">Le Tartuffe ou L’Imposteur</title>
+            <author>
+              <forename>Jean-Baptiste</forename>
+              <surname>Poquelin</surname>
+            </author>
+            <imprint>
+              <date/>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="document" xml:id="tillich__NT3HQ47B" corresp="http://zotero.org/groups/5701116/items/NT3HQ47B" n="Bizet, Carmen, None">
+          <monogr>
+            <title level="m">Carmen</title>
+            <author>
+              <forename>Georges</forename>
+              <surname>Bizet</surname>
+            </author>
+            <imprint>
+              <date/>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="newspaperArticle" xml:id="tillich__2HCK85ZB" corresp="http://zotero.org/groups/5701116/items/2HCK85ZB" n="Anonym, Professor Paul Tillich spricht beim Kunstdienst, 1933">
+          <analytic>
+            <title level="a">Professor Paul Tillich spricht beim Kunstdienst</title>
+            <author>
+              <name>Anonym</name>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Sächsische Volkszeitung. Für christliche Politik und Kultur</title>
+            <imprint>
+              <biblScope unit="page">k.A.</biblScope>
+              <date>1933</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="tillich__PKFT4PD3" corresp="http://zotero.org/groups/5701116/items/PKFT4PD3" n="Tillich, Gemeinschaft als Ideologie und Wirklichkeit, None">
+          <analytic>
+            <title level="a">Gemeinschaft als Ideologie und Wirklichkeit</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Religion, Kultur, Gesellschaft. Unveröffentlichte Texte aus der deutschen Zeit (1908-1933). Zweiter Teil.</title>
+            <editor>
+              <forename>Erdmann</forename>
+              <surname>Sturm</surname>
+            </editor>
+            <imprint>
+              <biblScope unit="volume">XI</biblScope>
+              <biblScope unit="page">472-479</biblScope>
+              <date/>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Ergänzungs- und Nachlassbände zu den Gesammelten Werken Paul Tillichs</title>
+          </series>
+        </biblStruct>
         <biblStruct type="newspaperArticle" xml:id="tillich__XPA54ME8" corresp="http://zotero.org/groups/5701116/items/XPA54ME8" n="o.A., Sozialismus ist heute möglich, 1933">
           <analytic>
             <title level="a">Sozialismus ist heute möglich</title>
