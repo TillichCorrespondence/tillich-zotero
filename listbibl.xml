@@ -16,6 +16,21 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="newspaperArticle" xml:id="tillich__EQAVCHWW" corresp="http://zotero.org/groups/5701116/items/EQAVCHWW" n="Anonym, Beurlaubung von 15 Hochschullehrern. Hauptsächlich Staatswissenschaftler be..., 1933">
+          <analytic>
+            <title level="a">Beurlaubung von 15 Hochschullehrern. Hauptsächlich Staatswissenschaftler betroffen.</title>
+            <author>
+              <name>Anonym</name>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Tägliche Rundschau. Unabhängige Zeitung für sachliche Politik, christliche Kultur und deutsches Volkstum.</title>
+            <imprint>
+              <biblScope unit="page">k.A.</biblScope>
+              <date>1933</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="document" xml:id="tillich__6ACKTEJD" corresp="http://zotero.org/groups/5701116/items/6ACKTEJD" n="Poquelin, Le Tartuffe ou L’Imposteur, None">
           <monogr>
             <title level="m">Le Tartuffe ou L’Imposteur</title>
