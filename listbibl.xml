@@ -16,6 +16,72 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__EBJX4XNQ" corresp="http://zotero.org/groups/5701116/items/EBJX4XNQ" n="Medicus, Die religiöse Mystik und die klassische deutsche Philosophie, None">
+          <monogr>
+            <title level="m">Die religiöse Mystik und die klassische deutsche Philosophie</title>
+            <author>
+              <forename>Fritz</forename>
+              <surname>Medicus</surname>
+            </author>
+            <imprint>
+              <date/>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__EXRXXG85" corresp="http://zotero.org/groups/5701116/items/EXRXXG85" n="Holl, Die Bedeutung der großen Kriege für das religiöse und kirchliche Leben inne..., 1917">
+          <monogr>
+            <title level="m">Die Bedeutung der großen Kriege für das religiöse und kirchliche Leben innerhalb des deutschen Protestantismus</title>
+            <author>
+              <forename>Karl</forename>
+              <surname>Holl</surname>
+            </author>
+            <imprint>
+              <pubPlace>Tübingen</pubPlace>
+              <publisher>Mohr</publisher>
+              <date>1917</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__XJKZ499Z" corresp="http://zotero.org/groups/5701116/items/XJKZ499Z" n="Hirsch, Die Reich-Gottes-Begriffe des neueren europäischen Denkens. Ein Versuch zur..., 1921">
+          <monogr>
+            <title level="m">Die Reich-Gottes-Begriffe des neueren europäischen Denkens. Ein Versuch zur Geschichte der Staats- und Gesellschaftsphilosophie</title>
+            <author>
+              <forename>Emanuel</forename>
+              <surname>Hirsch</surname>
+            </author>
+            <imprint>
+              <pubPlace>Göttingen</pubPlace>
+              <date>1921</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__BZ53R32E" corresp="http://zotero.org/groups/5701116/items/BZ53R32E" n="Fuchs, Mein Leben. Zweiter Teil., 2017">
+          <monogr>
+            <title level="m">Mein Leben. Zweiter Teil.</title>
+            <author>
+              <forename>Emil</forename>
+              <surname>Fuchs</surname>
+            </author>
+            <imprint>
+              <pubPlace>Leipzig</pubPlace>
+              <publisher>Max Stirner-Archiv/edition unica</publisher>
+              <date>2017</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__K57N9DYY" corresp="http://zotero.org/groups/5701116/items/K57N9DYY" n="o.A., II. Aus Luthers Zeit – für unsere Zeit: Nietzsche und Luther, None">
+          <analytic>
+            <title level="a">II. Aus Luthers Zeit – für unsere Zeit: Nietzsche und Luther</title>
+          </analytic>
+          <monogr>
+            <title level="j">Luther Jahrbuch 1920/21</title>
+            <imprint>
+              <biblScope unit="issue">2/3</biblScope>
+              <biblScope unit="page">61–106</biblScope>
+              <date/>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="newspaperArticle" xml:id="tillich__EQAVCHWW" corresp="http://zotero.org/groups/5701116/items/EQAVCHWW" n="Anonym, Beurlaubung von 15 Hochschullehrern. Hauptsächlich Staatswissenschaftler be..., 1933">
           <analytic>
             <title level="a">Beurlaubung von 15 Hochschullehrern. Hauptsächlich Staatswissenschaftler betroffen.</title>
