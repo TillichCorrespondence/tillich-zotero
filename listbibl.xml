@@ -16,6 +16,80 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="document" xml:id="tillich__UH8TVRK8" corresp="http://zotero.org/groups/5701116/items/UH8TVRK8" n="Verneuil, Herr Lamberthier, None">
+          <monogr>
+            <title level="m">Herr Lamberthier</title>
+            <author>
+              <forename>Louis</forename>
+              <surname>Verneuil</surname>
+            </author>
+            <imprint>
+              <date/>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="newspaperArticle" xml:id="tillich__UN5H2UJP" corresp="http://zotero.org/groups/5701116/items/UN5H2UJP" n="o.A., Theater, Konzerte, Vergnügungen, 1928">
+          <analytic>
+            <title level="a">Theater, Konzerte, Vergnügungen</title>
+          </analytic>
+          <monogr>
+            <title level="m">Berliner Tageblatt und Handels-Zeitung. Morgen-Ausgabe vom 6.10.1928</title>
+            <imprint>
+              <biblScope unit="page">12</biblScope>
+              <date>1928</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="tillich__D8CBMMKC" corresp="http://zotero.org/groups/5701116/items/D8CBMMKC" n="Tillich, Geistesgeschichte der Protestantischen Theologie (1926), 2017">
+          <analytic>
+            <title level="a">Geistesgeschichte der Protestantischen Theologie (1926)</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Dresdner Vorlesungen (1925-1927)</title>
+            <editor>
+              <forename>Erdmann</forename>
+              <surname>Sturm</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Berlin</pubPlace>
+              <date>2017</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">EW XX</title>
+          </series>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="tillich__QRGG4AWA" corresp="http://zotero.org/groups/5701116/items/QRGG4AWA" n="Tillich, Nichtkirchliche Religionen, 1928">
+          <analytic>
+            <title level="a">Nichtkirchliche Religionen</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">GW V</title>
+            <imprint>
+              <biblScope unit="page">13–31</biblScope>
+              <date>1928</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="newspaperArticle" xml:id="tillich__6TPK74MS" corresp="http://zotero.org/groups/5701116/items/6TPK74MS" n="o.A., Goethegesellschaft, 1928">
+          <analytic>
+            <title level="a">Goethegesellschaft</title>
+          </analytic>
+          <monogr>
+            <title level="m">Dresdner Anzeiger. Ausgabe vom 4.3.1928</title>
+            <imprint>
+              <date>1928</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__IUX8LF2Q" corresp="http://zotero.org/groups/5701116/items/IUX8LF2Q" n="Tillich, Dogmatik. Marburger Vorlesung von 1925, 1986">
           <monogr>
             <title level="m">Dogmatik. Marburger Vorlesung von 1925</title>
@@ -6905,22 +6979,6 @@ GESAMMELTEN WERKEN VON PAUL TILLICH, Bd. X)</title>
             <title level="m">EW XV</title>
             <imprint>
               <biblScope unit="page">1–118</biblScope>
-              <date/>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="bookSection" xml:id="tillich__QRGG4AWA" corresp="http://zotero.org/groups/5701116/items/QRGG4AWA" n="Tillich, Nichtkirchliche Religionen, None">
-          <analytic>
-            <title level="a">Nichtkirchliche Religionen</title>
-            <author>
-              <forename>Paul</forename>
-              <surname>Tillich</surname>
-            </author>
-          </analytic>
-          <monogr>
-            <title level="m">GW V</title>
-            <imprint>
-              <biblScope unit="page">13–31</biblScope>
               <date/>
             </imprint>
           </monogr>
