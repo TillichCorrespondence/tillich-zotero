@@ -16,6 +16,20 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__9C4WYQAG" corresp="http://zotero.org/groups/5701116/items/9C4WYQAG" n="Tillich, Religiöse Verwirklichung, 1930">
+          <monogr>
+            <title level="m">Religiöse Verwirklichung</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+            <imprint>
+              <pubPlace>Berlin</pubPlace>
+              <publisher>Furche Verlag</publisher>
+              <date>1930</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="document" xml:id="tillich__EXMUJ3RJ" corresp="http://zotero.org/groups/5701116/items/EXMUJ3RJ" n="Wagner, Das Rheingold (WWV 86 A), None">
           <monogr>
             <title level="m">Das Rheingold (WWV 86 A)</title>
@@ -8310,19 +8324,6 @@ GESAMMELTEN WERKEN VON PAUL TILLICH, Bd. X)</title>
           <series>
             <title level="s">GW IV</title>
           </series>
-        </biblStruct>
-        <biblStruct type="book" xml:id="tillich__9C4WYQAG" corresp="http://zotero.org/groups/5701116/items/9C4WYQAG" n="Tillich, Religiöse Verwirklichung, 1930">
-          <monogr>
-            <title level="m">Religiöse Verwirklichung</title>
-            <author>
-              <forename>Paul</forename>
-              <surname>Tillich</surname>
-            </author>
-            <imprint>
-              <publisher>Berlin</publisher>
-              <date>1930</date>
-            </imprint>
-          </monogr>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="tillich__8MXHUR7K" corresp="http://zotero.org/groups/5701116/items/8MXHUR7K" n="Tillich, Über gläubigen Realismus, 1928">
           <analytic>
