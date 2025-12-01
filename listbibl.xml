@@ -16,6 +16,45 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="journalArticle" xml:id="tillich__8WZXH7VF" corresp="http://zotero.org/groups/5701116/items/8WZXH7VF" n="Tillich, Goethe und die Idee der Klassik, 1931">
+          <analytic>
+            <title level="a">Goethe und die Idee der Klassik</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Bühnen-Blätter. Nationaltheater Mannheim</title>
+            <editor>
+              <forename>Erich</forename>
+              <surname>Dürr</surname>
+            </editor>
+            <imprint>
+              <biblScope unit="volume">17</biblScope>
+              <biblScope unit="page">193–207</biblScope>
+              <date>1931</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__G8CYBFWE" corresp="http://zotero.org/groups/5701116/items/G8CYBFWE" n="Tillich, Das Dämonische. Ein Beitrag zur Sinndeutung der Geschichte, 1926">
+          <monogr>
+            <title level="m">Das Dämonische. Ein Beitrag zur Sinndeutung der Geschichte</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+            <imprint>
+              <pubPlace>Tübingen</pubPlace>
+              <publisher>J. C. B. Mohr (Paul Siebeck)</publisher>
+              <date>1926</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Sammlung gemeinverständlicher Vorträge und Schriften aus dem Gebiet der Theologie und Religionsgeschichte</title>
+            <biblScope unit="volume">119</biblScope>
+          </series>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__9C4WYQAG" corresp="http://zotero.org/groups/5701116/items/9C4WYQAG" n="Tillich, Religiöse Verwirklichung, 1930">
           <monogr>
             <title level="m">Religiöse Verwirklichung</title>
@@ -8363,23 +8402,6 @@ GESAMMELTEN WERKEN VON PAUL TILLICH, Bd. X)</title>
               <date>1929</date>
             </imprint>
           </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="tillich__G8CYBFWE" corresp="http://zotero.org/groups/5701116/items/G8CYBFWE" n="Tillich, Das Dämonische. Ein Beitrag zur Sinndeutung der Geschichte, 1926">
-          <monogr>
-            <title level="m">Das Dämonische. Ein Beitrag zur Sinndeutung der Geschichte</title>
-            <author>
-              <forename>Paul</forename>
-              <surname>Tillich</surname>
-            </author>
-            <imprint>
-              <publisher>Tübingen</publisher>
-              <date>1926</date>
-            </imprint>
-          </monogr>
-          <series>
-            <title level="s">Sammlung gemeinverständlicher Vorträge und Schriften aus dem Gebiet der Theologie und Religionsgeschichte</title>
-            <biblScope unit="volume">119</biblScope>
-          </series>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="tillich__NDIEWV4K" corresp="http://zotero.org/groups/5701116/items/NDIEWV4K" n="Medicus, Paul Tillich (Zu seiner Berufung nach Frankfurt), 1929">
           <analytic>
