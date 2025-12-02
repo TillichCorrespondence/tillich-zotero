@@ -173,7 +173,7 @@
             </imprint>
           </monogr>
         </biblStruct>
-        <biblStruct type="book" xml:id="tillich__EBJX4XNQ" corresp="http://zotero.org/groups/5701116/items/EBJX4XNQ" n="Medicus, Die religiöse Mystik und die klassische deutsche Philosophie, None">
+        <biblStruct type="book" xml:id="tillich__EBJX4XNQ" corresp="http://zotero.org/groups/5701116/items/EBJX4XNQ" n="Medicus, Die religiöse Mystik und die klassische deutsche Philosophie, 1919">
           <monogr>
             <title level="m">Die religiöse Mystik und die klassische deutsche Philosophie</title>
             <author>
@@ -181,7 +181,8 @@
               <surname>Medicus</surname>
             </author>
             <imprint>
-              <date/>
+              <publisher>Verlag der Keyser'schen Buchhandlung</publisher>
+              <date>1919</date>
             </imprint>
           </monogr>
         </biblStruct>
