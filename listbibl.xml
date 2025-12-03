@@ -16,6 +16,36 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__BGIXEJJY" corresp="http://zotero.org/groups/5701116/items/BGIXEJJY" n="Strindberg, Rausch Totentanz, 1912">
+          <monogr>
+            <title level="m">Rausch Totentanz</title>
+            <author>
+              <forename>August</forename>
+              <surname>Strindberg</surname>
+            </author>
+            <imprint>
+              <pubPlace>München/Leipzig</pubPlace>
+              <publisher>Georg Müller</publisher>
+              <date>1912</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__87S4BCUS" corresp="http://zotero.org/groups/5701116/items/87S4BCUS" n="Schleiermacher, Schleiermachers vertraute Briefe über die Lucinde, 1835">
+          <monogr>
+            <title level="m">Schleiermachers vertraute Briefe über die Lucinde</title>
+            <author>
+              <forename>Friedrich</forename>
+              <surname>Schleiermacher</surname>
+            </author>
+            <imprint>
+              <pubPlace>Hamburg</pubPlace>
+              <publisher>Hoffmann und Campe</publisher>
+              <date>1835</date>
+              <note type="accessed">2025-10-28T14:17:12Z</note>
+              <note type="url">https://www.digitale-sammlungen.de/de/view/bsb10119508</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="journalArticle" xml:id="tillich__8WZXH7VF" corresp="http://zotero.org/groups/5701116/items/8WZXH7VF" n="Tillich, Goethe und die Idee der Klassik, 1931">
           <analytic>
             <title level="a">Goethe und die Idee der Klassik</title>
@@ -773,18 +803,6 @@
               <pubPlace>München</pubPlace>
               <publisher>Kösel und Pustet</publisher>
               <date>1932</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="tillich__87S4BCUS" corresp="http://zotero.org/groups/5701116/items/87S4BCUS" n="o.A., Schleiermachers vertraute Briefe über die Lucinde, 1835">
-          <monogr>
-            <title level="m">Schleiermachers vertraute Briefe über die Lucinde</title>
-            <imprint>
-              <pubPlace>Hamburg</pubPlace>
-              <publisher>Hoffmann und Campe</publisher>
-              <date>1835</date>
-              <note type="accessed">2025-10-28T14:17:12Z</note>
-              <note type="url">https://www.digitale-sammlungen.de/de/view/bsb10119508</note>
             </imprint>
           </monogr>
         </biblStruct>
