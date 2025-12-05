@@ -20,7 +20,7 @@
           <analytic>
             <title level="a">Bestand des Wingolfsbundes am Anfang des Winter-Semesters 1907/08</title>
             <author>
-              <forename>O.</forename>
+              <forename>Otto</forename>
               <surname>Doebber</surname>
             </author>
           </analytic>
@@ -30,6 +30,23 @@
               <biblScope unit="volume">37</biblScope>
               <biblScope unit="issue">Beilage zu Nr. 5</biblScope>
               <date>1907</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__7AA3EN2D" corresp="http://zotero.org/groups/5701116/items/7AA3EN2D" n="[Anonym], Bekanntmachungen, None">
+          <analytic>
+            <title level="a">Bekanntmachungen</title>
+            <author>
+              <name>[Anonym]</name>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Wingolfs-Blätter (1906/07)</title>
+            <imprint>
+              <biblScope unit="volume">36</biblScope>
+              <biblScope unit="issue">23</biblScope>
+              <biblScope unit="page">227</biblScope>
+              <date/>
             </imprint>
           </monogr>
         </biblStruct>
