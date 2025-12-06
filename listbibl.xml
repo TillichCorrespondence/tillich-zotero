@@ -16,6 +16,95 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="journalArticle" xml:id="tillich__MPZ84UVM" corresp="http://zotero.org/groups/5701116/items/MPZ84UVM" n="Gaiser, Bundesprotokoll für das I. Quartal des Wintersemesters 1907/08, 1908">
+          <analytic>
+            <title level="a">Bundesprotokoll für das I. Quartal des Wintersemesters 1907/08</title>
+            <author>
+              <forename>Konrad</forename>
+              <surname>Gaiser</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Wingolfs-Blätter (1907/08)</title>
+            <imprint>
+              <biblScope unit="volume">37</biblScope>
+              <biblScope unit="issue">Vertrauliche Beilage zu No. 8 der „Wingolfs-Blätter“ 1908</biblScope>
+              <biblScope unit="page">1</biblScope>
+              <date>1908</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__QQQF6AZ9" corresp="http://zotero.org/groups/5701116/items/QQQF6AZ9" n="Tschudi, Der Erlanger Wingolf an seine Bruderverbindungen, 1908">
+          <analytic>
+            <title level="a">Der Erlanger Wingolf an seine Bruderverbindungen</title>
+            <author>
+              <forename>Rudolf</forename>
+              <surname>Tschudi</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Wingolfs-Blätter (1907/08)</title>
+            <imprint>
+              <biblScope unit="volume">37</biblScope>
+              <biblScope unit="issue">8</biblScope>
+              <biblScope unit="page">74</biblScope>
+              <date>1908</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__QQIAQ35I" corresp="http://zotero.org/groups/5701116/items/QQIAQ35I" n="Brachmann, Erklärung, 1907">
+          <analytic>
+            <title level="a">Erklärung</title>
+            <author>
+              <forename>Johannes</forename>
+              <surname>Brachmann</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Wingolfs-Blätter (1906/07)</title>
+            <imprint>
+              <biblScope unit="volume">36</biblScope>
+              <biblScope unit="issue">21</biblScope>
+              <biblScope unit="page">197</biblScope>
+              <date>1907</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__7AA3EN2D" corresp="http://zotero.org/groups/5701116/items/7AA3EN2D" n="[Anonym], Bekanntmachungen, 1907">
+          <analytic>
+            <title level="a">Bekanntmachungen</title>
+            <author>
+              <name>[Anonym]</name>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Wingolfs-Blätter (1906/07)</title>
+            <imprint>
+              <biblScope unit="volume">36</biblScope>
+              <biblScope unit="issue">23</biblScope>
+              <biblScope unit="page">227</biblScope>
+              <date>1907</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__JJAH2HIH" corresp="http://zotero.org/groups/5701116/items/JJAH2HIH" n="Remmers, Erklärung, 1907">
+          <analytic>
+            <title level="a">Erklärung</title>
+            <author>
+              <forename>Johannes</forename>
+              <surname>Remmers</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Wingolfs-Blätter (1906/07)</title>
+            <imprint>
+              <biblScope unit="volume">36</biblScope>
+              <biblScope unit="issue">18</biblScope>
+              <biblScope unit="page">161</biblScope>
+              <date>1907</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="journalArticle" xml:id="tillich__JQHK86DG" corresp="http://zotero.org/groups/5701116/items/JQHK86DG" n="Doebber, Bestand des Wingolfsbundes am Anfang des Winter-Semesters 1907/08, 1907">
           <analytic>
             <title level="a">Bestand des Wingolfsbundes am Anfang des Winter-Semesters 1907/08</title>
@@ -30,23 +119,6 @@
               <biblScope unit="volume">37</biblScope>
               <biblScope unit="issue">Beilage zu Nr. 5</biblScope>
               <date>1907</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="journalArticle" xml:id="tillich__7AA3EN2D" corresp="http://zotero.org/groups/5701116/items/7AA3EN2D" n="[Anonym], Bekanntmachungen, None">
-          <analytic>
-            <title level="a">Bekanntmachungen</title>
-            <author>
-              <name>[Anonym]</name>
-            </author>
-          </analytic>
-          <monogr>
-            <title level="j">Wingolfs-Blätter (1906/07)</title>
-            <imprint>
-              <biblScope unit="volume">36</biblScope>
-              <biblScope unit="issue">23</biblScope>
-              <biblScope unit="page">227</biblScope>
-              <date/>
             </imprint>
           </monogr>
         </biblStruct>
