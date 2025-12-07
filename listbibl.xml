@@ -16,6 +16,49 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__2SZ4XNXN" corresp="http://zotero.org/groups/5701116/items/2SZ4XNXN" n="Adorno, Kierkegaard. Konstruktion des Ästhetischen. Beiträge zur Philosophie und ih..., 1933">
+          <monogr>
+            <title level="m">Kierkegaard. Konstruktion des Ästhetischen. Beiträge zur Philosophie und ihrer Geschichte</title>
+            <author>
+              <forename>Theodor W.</forename>
+              <surname>Adorno</surname>
+            </author>
+            <imprint>
+              <pubPlace>Tübingen</pubPlace>
+              <biblScope unit="volume">2</biblScope>
+              <publisher>Mohr</publisher>
+              <date>1933</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__TSV3EIDK" corresp="http://zotero.org/groups/5701116/items/TSV3EIDK" n="Krüger, Philosophie und Moral in der kantischen Kritik, 1931">
+          <monogr>
+            <title level="m">Philosophie und Moral in der kantischen Kritik</title>
+            <author>
+              <forename>Gerhard</forename>
+              <surname>Krüger</surname>
+            </author>
+            <imprint>
+              <pubPlace>Tübingen</pubPlace>
+              <publisher>Mohr</publisher>
+              <date>1931</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__HPW5RMXM" corresp="http://zotero.org/groups/5701116/items/HPW5RMXM" n="Kant, Kritik der Urteilskraft, 1925">
+          <monogr>
+            <title level="m">Kritik der Urteilskraft</title>
+            <author>
+              <forename>Immanuel</forename>
+              <surname>Kant</surname>
+            </author>
+            <imprint>
+              <pubPlace>Leipzig</pubPlace>
+              <publisher>A. Kröner</publisher>
+              <date>1925</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="journalArticle" xml:id="tillich__MPZ84UVM" corresp="http://zotero.org/groups/5701116/items/MPZ84UVM" n="Gaiser, Bundesprotokoll für das I. Quartal des Wintersemesters 1907/08, 1908">
           <analytic>
             <title level="a">Bundesprotokoll für das I. Quartal des Wintersemesters 1907/08</title>
@@ -5406,20 +5449,6 @@ GESAMMELTEN WERKEN VON PAUL TILLICH, Bd. X)</title>
             <imprint>
               <pubPlace>Tübingen</pubPlace>
               <date>1929</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="tillich__2SZ4XNXN" corresp="http://zotero.org/groups/5701116/items/2SZ4XNXN" n="Adorno, Kierkegaard. Konstruktion des Ästhetischen. Beiträge zur Philosophie und ih..., 1933">
-          <monogr>
-            <title level="m">Kierkegaard. Konstruktion des Ästhetischen. Beiträge zur Philosophie und ihrer Geschichte</title>
-            <author>
-              <forename>Theodor W.</forename>
-              <surname>Adorno</surname>
-            </author>
-            <imprint>
-              <pubPlace>Tübingen</pubPlace>
-              <biblScope unit="volume">2</biblScope>
-              <date>1933</date>
             </imprint>
           </monogr>
         </biblStruct>
