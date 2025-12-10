@@ -16,6 +16,93 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="journalArticle" xml:id="tillich__CKJQU96U" corresp="http://zotero.org/groups/5701116/items/CKJQU96U" n="[Anonym], Anzeigen, 1907">
+          <analytic>
+            <title level="a">Anzeigen</title>
+            <author>
+              <name>[Anonym]</name>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Die Christliche Welt (1907)</title>
+            <imprint>
+              <biblScope unit="volume">21</biblScope>
+              <biblScope unit="issue">36</biblScope>
+              <biblScope unit="page">877</biblScope>
+              <date>1907</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__RS6XGKMF" corresp="http://zotero.org/groups/5701116/items/RS6XGKMF" n="Titius, Der Bremer Radikalismus. Vortrag in der Versammlung der Freunde der christl..., 1908">
+          <monogr>
+            <title level="m">Der Bremer Radikalismus. Vortrag in der Versammlung der Freunde der christlichen Welt zu Marburg am 10. Oktober 1907 gehalten</title>
+            <author>
+              <forename>Arthur</forename>
+              <surname>Titius</surname>
+            </author>
+            <imprint>
+              <pubPlace>Tübingen</pubPlace>
+              <biblScope unit="volume">54</biblScope>
+              <publisher>Verlag von J.C.B. Mohr (Paul Siebeck)</publisher>
+              <date>1908</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Sammlung gemeinverständlicher Vorträge und Schriften aus dem Gebiet der Theologie und Religionsgeschichte</title>
+          </series>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__5XDH9985" corresp="http://zotero.org/groups/5701116/items/5XDH9985" n="Auwärter, „Kämpfe um die Religion&quot; - Der Bremer Radikalismus und der Diskurs um die Z..., 2014">
+          <analytic>
+            <title level="a">„Kämpfe um die Religion" - Der Bremer Radikalismus und der Diskurs um die Zivilreligion und Leitkultur im wilhelminischen Deutschland</title>
+            <author>
+              <forename>Thomas</forename>
+              <surname>Auwärter</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Zeitschrift für Religionswissenschaft</title>
+            <imprint>
+              <biblScope unit="volume">22</biblScope>
+              <biblScope unit="issue">2</biblScope>
+              <biblScope unit="page">176-225</biblScope>
+              <date>2014</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__DTG8H9CJ" corresp="http://zotero.org/groups/5701116/items/DTG8H9CJ" n="Schmolze, Kalthoff, Albert, 1977">
+          <analytic>
+            <title level="a">Kalthoff, Albert</title>
+            <author>
+              <forename>Gerhard</forename>
+              <surname>Schmolze</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Neue Deutsche Biographie</title>
+            <imprint>
+              <biblScope unit="volume">11</biblScope>
+              <biblScope unit="page">74f.</biblScope>
+              <date>1977</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__6K43USEV" corresp="http://zotero.org/groups/5701116/items/6K43USEV" n="Doebber, Bestand des Wingolfsbundes am Schluß des Sommer-Semesters 1907, 1907">
+          <analytic>
+            <title level="a">Bestand des Wingolfsbundes am Schluß des Sommer-Semesters 1907</title>
+            <author>
+              <forename>Otto</forename>
+              <surname>Doebber</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Wingolfs-Blätter (1906/07)</title>
+            <imprint>
+              <biblScope unit="volume">36</biblScope>
+              <biblScope unit="issue">Beilage zu Nr. 22</biblScope>
+              <date>1907</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__2SZ4XNXN" corresp="http://zotero.org/groups/5701116/items/2SZ4XNXN" n="Adorno, Kierkegaard. Konstruktion des Ästhetischen. Beiträge zur Philosophie und ih..., 1933">
           <monogr>
             <title level="m">Kierkegaard. Konstruktion des Ästhetischen. Beiträge zur Philosophie und ihrer Geschichte</title>
