@@ -16,6 +16,53 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__4DXH2NQV" corresp="http://zotero.org/groups/5701116/items/4DXH2NQV" n="Windelband, Geschichte der Philosophie, 1892">
+          <monogr>
+            <title level="m">Geschichte der Philosophie</title>
+            <author>
+              <forename>Wilhelm</forename>
+              <surname>Windelband</surname>
+            </author>
+            <edition>1.</edition>
+            <imprint>
+              <pubPlace>Freiburg i. B.</pubPlace>
+              <publisher>Akademische Verlagsbuchhandlung von J. C. B. Mohr (Paul Siebeck)</publisher>
+              <date>1892</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__Z6KUNKAD" corresp="http://zotero.org/groups/5701116/items/Z6KUNKAD" n="Windelband, Lehrbuch der Geschichte der Philosophie, 1916">
+          <monogr>
+            <title level="m">Lehrbuch der Geschichte der Philosophie</title>
+            <author>
+              <forename>Wilhelm</forename>
+              <surname>Windelband</surname>
+            </author>
+            <edition>7</edition>
+            <imprint>
+              <pubPlace>Tübingen</pubPlace>
+              <publisher>Mohr</publisher>
+              <date>1916</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__2TC3KWJI" corresp="http://zotero.org/groups/5701116/items/2TC3KWJI" n="[Anonym], Bekanntmachungen, 1907">
+          <analytic>
+            <title level="a">Bekanntmachungen</title>
+            <author>
+              <name>[Anonym]</name>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Wingolfs-Blätter (1907/08)</title>
+            <imprint>
+              <biblScope unit="volume">37</biblScope>
+              <biblScope unit="issue">4</biblScope>
+              <biblScope unit="page">36f.</biblScope>
+              <date>1907</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="journalArticle" xml:id="tillich__DZFNGR3Q" corresp="http://zotero.org/groups/5701116/items/DZFNGR3Q" n="Bachmann et al., Erklärung in Sachen des Erlanger Wingolfs, 1907">
           <analytic>
             <title level="a">Erklärung in Sachen des Erlanger Wingolfs</title>
@@ -5522,20 +5569,6 @@ GESAMMELTEN WERKEN VON PAUL TILLICH, Bd. X)</title>
               <pubPlace>Deutschland</pubPlace>
               <publisher>Druck von C.A. Kaemmerer</publisher>
               <date>1907</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="tillich__Z6KUNKAD" corresp="http://zotero.org/groups/5701116/items/Z6KUNKAD" n="Windelband, Lehrbuch der Geschichte der Philosophie, 1916">
-          <monogr>
-            <title level="m">Lehrbuch der Geschichte der Philosophie</title>
-            <author>
-              <forename>Wilhelm</forename>
-              <surname>Windelband</surname>
-            </author>
-            <imprint>
-              <pubPlace>Tübingen</pubPlace>
-              <publisher>Mohr</publisher>
-              <date>1916</date>
             </imprint>
           </monogr>
         </biblStruct>
