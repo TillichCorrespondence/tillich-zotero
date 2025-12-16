@@ -16,6 +16,20 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__ASRY9C7Q" corresp="http://zotero.org/groups/5701116/items/ASRY9C7Q" n="Spengler, Der Untergang des Abendlandes. Umrisse einer Morphologie der Weltgeschichte..., 1922">
+          <monogr>
+            <title level="m">Der Untergang des Abendlandes. Umrisse einer Morphologie der Weltgeschichte: Welthistorische Perspektiven</title>
+            <author>
+              <forename>Oswald</forename>
+              <surname>Spengler</surname>
+            </author>
+            <imprint>
+              <pubPlace>München</pubPlace>
+              <biblScope unit="volume">2</biblScope>
+              <date>1922</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__4DXH2NQV" corresp="http://zotero.org/groups/5701116/items/4DXH2NQV" n="Windelband, Geschichte der Philosophie, 1892">
           <monogr>
             <title level="m">Geschichte der Philosophie</title>
@@ -7252,20 +7266,6 @@ GESAMMELTEN WERKEN VON PAUL TILLICH, Bd. X)</title>
             <imprint>
               <pubPlace>Leipzig</pubPlace>
               <date>1906</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="tillich__ASRY9C7Q" corresp="http://zotero.org/groups/5701116/items/ASRY9C7Q" n="Spengler, Der Untergang des Abendlandes. Umrisse einer Morphologie der Weltgeschichte..., 1924">
-          <monogr>
-            <title level="m">Der Untergang des Abendlandes. Umrisse einer Morphologie der Weltgeschichte: Welthistorische Perspektiven</title>
-            <author>
-              <forename>Oswald</forename>
-              <surname>Spengler</surname>
-            </author>
-            <imprint>
-              <pubPlace>München</pubPlace>
-              <biblScope unit="volume">2</biblScope>
-              <date>1924</date>
             </imprint>
           </monogr>
         </biblStruct>
