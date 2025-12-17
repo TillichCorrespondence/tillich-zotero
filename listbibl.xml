@@ -16,6 +16,214 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__8KR9AXN7" corresp="http://zotero.org/groups/5701116/items/8KR9AXN7" n="o.A., Reichls Bücherbuch. Siebzehntes Jahr, 1926">
+          <monogr>
+            <title level="m">Reichls Bücherbuch. Siebzehntes Jahr</title>
+            <imprint>
+              <pubPlace>Darmstadt</pubPlace>
+              <publisher>Otto Reichl</publisher>
+              <date>1926</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Reichls Bücherbuch</title>
+          </series>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__959I9UJ4" corresp="http://zotero.org/groups/5701116/items/959I9UJ4" n="Rade, Ein Schlußwort, 1927">
+          <analytic>
+            <title level="a">Ein Schlußwort</title>
+            <author>
+              <forename>Martin</forename>
+              <surname>Rade</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">An die Freunde. Vertrauliche d. i. nicht für die Oeffentlichkeit bestimmte Mitteilungen</title>
+            <imprint>
+              <biblScope unit="volume">88</biblScope>
+              <date>1927</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__7UGVGQMU" corresp="http://zotero.org/groups/5701116/items/7UGVGQMU" n="Tillich, Erwiderung auf die Kritiken von: Bach, Wolff, Rade, Mensing und Stephan, 1927">
+          <analytic>
+            <title level="a">Erwiderung auf die Kritiken von: Bach, Wolff, Rade, Mensing und Stephan</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Die Christliche Welt</title>
+            <imprint>
+              <biblScope unit="volume">41</biblScope>
+              <biblScope unit="issue">22</biblScope>
+              <biblScope unit="page">Sp. 1018f.</biblScope>
+              <date>1927</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="tillich__7C478WI3" corresp="http://zotero.org/groups/5701116/items/7C478WI3" n="Tillich, Eschatologie und Geschichte, 1963">
+          <analytic>
+            <title level="a">Eschatologie und Geschichte</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Der Widerstreit von Raum und Zeit. Schriften zur Geschichtsphilosophie.</title>
+            <editor>
+              <forename>Renate</forename>
+              <surname>Albrecht</surname>
+            </editor>
+            <edition>2</edition>
+            <imprint>
+              <pubPlace>Stuttgart</pubPlace>
+              <biblScope unit="volume">6</biblScope>
+              <biblScope unit="page">72-83</biblScope>
+              <date>1963</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Gesammelte Werke</title>
+          </series>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__FR42MNWE" corresp="http://zotero.org/groups/5701116/items/FR42MNWE" n="Tillich, Eschatologie und Geschichte, 1927">
+          <analytic>
+            <title level="a">Eschatologie und Geschichte</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Die Christliche Welt</title>
+            <imprint>
+              <biblScope unit="volume">41</biblScope>
+              <biblScope unit="issue">22</biblScope>
+              <biblScope unit="page">Sp. 1034-1042</biblScope>
+              <date>1927</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__38ZP678Z" corresp="http://zotero.org/groups/5701116/items/38ZP678Z" n="o.A., Vortrag von Tillich: Eschatologie., 1927">
+          <analytic>
+            <title level="a">Vortrag von Tillich: Eschatologie.</title>
+          </analytic>
+          <monogr>
+            <title level="j">An die Freunde. Vertrauliche d. i. nicht für die Oeffentlichkeit bestimmte Mitteilungen</title>
+            <imprint>
+              <biblScope unit="volume">88</biblScope>
+              <biblScope unit="page">Sp. 1015-1019</biblScope>
+              <date>1927</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__CAB7KRMF" corresp="http://zotero.org/groups/5701116/items/CAB7KRMF" n="[Anonym], Anzeigen, 1908">
+          <analytic>
+            <title level="a">Anzeigen</title>
+            <author>
+              <name>[Anonym]</name>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Wingolfs-Blätter (1907/08)</title>
+            <imprint>
+              <biblScope unit="volume">37</biblScope>
+              <biblScope unit="issue">7</biblScope>
+              <biblScope unit="page">66</biblScope>
+              <date>1908</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__5DBIGZ3D" corresp="http://zotero.org/groups/5701116/items/5DBIGZ3D" n="Evans, The Third Reich in Power, 2005">
+          <monogr>
+            <title level="m">The Third Reich in Power</title>
+            <idno type="ISBN">1-59420-074-2</idno>
+            <author>
+              <forename>Richard J.</forename>
+              <surname>Evans</surname>
+            </author>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <publisher>Penguin Press</publisher>
+              <date>2005</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__GIUX2TW5" corresp="http://zotero.org/groups/5701116/items/GIUX2TW5" n="Eisenmann, Die Einweihung des neuen Wingolfshauses in Tübingen. 9. und 10. Nov. 1907, 1907">
+          <analytic>
+            <title level="a">Die Einweihung des neuen Wingolfshauses in Tübingen. 9. und 10. Nov. 1907</title>
+            <author>
+              <forename>Alfred</forename>
+              <surname>Eisenmann</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Wingolfsblätter (1907/08)</title>
+            <imprint>
+              <biblScope unit="volume">37</biblScope>
+              <biblScope unit="issue">5</biblScope>
+              <biblScope unit="page">41-43</biblScope>
+              <date>1907</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="tillich__KITANSMC" corresp="http://zotero.org/groups/5701116/items/KITANSMC" n="Barth, Die Kirche und die Kultur (1926), 1994">
+          <analytic>
+            <title level="a">Die Kirche und die Kultur (1926)</title>
+            <author>
+              <forename>Karl</forename>
+              <surname>Barth</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Vorträge und kleinere Arbeiten 1925–1930</title>
+            <editor>
+              <forename>Hermann</forename>
+              <surname>Schmidt</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Zürich</pubPlace>
+              <biblScope unit="volume">24</biblScope>
+              <date>1994</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Karl Barth Gesamtausgabe</title>
+          </series>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__ATCABRQQ" corresp="http://zotero.org/groups/5701116/items/ATCABRQQ" n="o.A., Vortrag von Wobbermin: Der Kampf um die dialektische Theologie., 1927">
+          <analytic>
+            <title level="a">Vortrag von Wobbermin: Der Kampf um die dialektische Theologie.</title>
+          </analytic>
+          <monogr>
+            <title level="j">An die Freunde. Vertrauliche d. i. nicht für die Oeffentlichkeit bestimmte Mitteilungen</title>
+            <imprint>
+              <biblScope unit="volume">88</biblScope>
+              <biblScope unit="page">Sp. 1010-1015</biblScope>
+              <date>1927</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__C9CQKXUA" corresp="http://zotero.org/groups/5701116/items/C9CQKXUA" n="Wobbermin, Der Kampf um die dialektische Theologie. Vortrag beim Bund für Gegenwartsch..., 1928">
+          <analytic>
+            <title level="a">Der Kampf um die dialektische Theologie. Vortrag beim Bund für Gegenwartschristentum am 4. Oktober 1927 in Meißen.</title>
+            <author>
+              <forename>Georg</forename>
+              <surname>Wobbermin</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Die Christliche Welt</title>
+            <imprint>
+              <biblScope unit="volume">42</biblScope>
+              <biblScope unit="page">98-105.146-153.</biblScope>
+              <date>1928</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__ASRY9C7Q" corresp="http://zotero.org/groups/5701116/items/ASRY9C7Q" n="Spengler, Der Untergang des Abendlandes. Umrisse einer Morphologie der Weltgeschichte..., 1922">
           <monogr>
             <title level="m">Der Untergang des Abendlandes. Umrisse einer Morphologie der Weltgeschichte: Welthistorische Perspektiven</title>
@@ -1166,25 +1374,6 @@
               <date>1931</date>
             </imprint>
           </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="tillich__5DBIGZ3D" corresp="http://zotero.org/groups/5701116/items/5DBIGZ3D" n="Evans, Diktatur, 2023">
-          <monogr>
-            <title level="m">Diktatur</title>
-            <idno type="ISBN">978-3-570-55480-7</idno>
-            <author>
-              <forename>Richard J. 1947-</forename>
-              <surname>Evans</surname>
-            </author>
-            <edition>1. Auflage</edition>
-            <imprint>
-              <pubPlace>München</pubPlace>
-              <publisher>Pantheon</publisher>
-              <date>2023</date>
-            </imprint>
-          </monogr>
-          <series>
-            <title level="s">Das Dritte Reich</title>
-          </series>
         </biblStruct>
         <biblStruct type="bookSection" xml:id="tillich__HJ7ADK2B" corresp="http://zotero.org/groups/5701116/items/HJ7ADK2B" n="Tillich, Protestantische Gestaltung. Vortrag, gehalten vor der Theologenschaft in Mü..., 1962">
           <analytic>
