@@ -16,6 +16,74 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__MK5WQ2WA" corresp="http://zotero.org/groups/5701116/items/MK5WQ2WA" n="Schmidt, Die Thronfahrt Jahves am Fest der Jahreswende im alten Israel, 1927">
+          <monogr>
+            <title level="m">Die Thronfahrt Jahves am Fest der Jahreswende im alten Israel</title>
+            <author>
+              <forename>Hans</forename>
+              <surname>Schmidt</surname>
+            </author>
+            <imprint>
+              <pubPlace>Tübingen</pubPlace>
+              <biblScope unit="volume">122</biblScope>
+              <publisher>Mohr</publisher>
+              <date>1927</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Sammlung gemeinverständlicher Vorträge und Schriften aus dem Gebiet der Theologie und Religionsgeschichte</title>
+          </series>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__9AZ7JTA3" corresp="http://zotero.org/groups/5701116/items/9AZ7JTA3" n="Bertholet, Das Dynamistische im Alten Testament., 1926">
+          <monogr>
+            <title level="m">Das Dynamistische im Alten Testament.</title>
+            <author>
+              <forename>Alfred</forename>
+              <surname>Bertholet</surname>
+            </author>
+            <imprint>
+              <pubPlace>Tübingen</pubPlace>
+              <biblScope unit="volume">121</biblScope>
+              <publisher>Mohr</publisher>
+              <date>1926</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Sammlung gemeinverständlicher Vorträge und Schriften aus dem Gebiet der Theologie und Religionsgeschichte</title>
+          </series>
+        </biblStruct>
+        <biblStruct type="document" xml:id="tillich__E6DVNRZW" corresp="http://zotero.org/groups/5701116/items/E6DVNRZW" n="Strawinsky, Die Geschichte eines Soldaten, 1918">
+          <monogr>
+            <title level="m">Die Geschichte eines Soldaten</title>
+            <author>
+              <forename>Igor</forename>
+              <surname>Strawinsky</surname>
+            </author>
+            <imprint>
+              <date>1918</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="document" xml:id="tillich__WMAWRRZG" corresp="http://zotero.org/groups/5701116/items/WMAWRRZG" n="Goetz, Hokuspokus, 1926">
+          <monogr>
+            <title level="m">Hokuspokus</title>
+            <author>
+              <forename>Curt</forename>
+              <surname>Goetz</surname>
+            </author>
+            <imprint>
+              <date>1926</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="document" xml:id="tillich__W2383QFR" corresp="http://zotero.org/groups/5701116/items/W2383QFR" n="o.A., o.T., None">
+          <monogr>
+            <title/>
+            <imprint>
+              <date/>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__8KR9AXN7" corresp="http://zotero.org/groups/5701116/items/8KR9AXN7" n="o.A., Reichls Bücherbuch. Siebzehntes Jahr, 1926">
           <monogr>
             <title level="m">Reichls Bücherbuch. Siebzehntes Jahr</title>
