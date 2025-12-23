@@ -16,6 +16,23 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__KUP7N66I" corresp="http://zotero.org/groups/5701116/items/KUP7N66I" n="[Luther, Martin], Die Deutsche Bibel, 1931">
+          <monogr>
+            <title level="m">Die Deutsche Bibel</title>
+            <author>
+              <name>[Luther, Martin]</name>
+            </author>
+            <imprint>
+              <pubPlace>Weimar</pubPlace>
+              <biblScope unit="volume">7. Band</biblScope>
+              <publisher>Hermann Böhlaus Nachfolger</publisher>
+              <date>1931</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">D. Martin Luthers Werke. Kritische Gesamtausgabe</title>
+          </series>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__MK5WQ2WA" corresp="http://zotero.org/groups/5701116/items/MK5WQ2WA" n="Schmidt, Die Thronfahrt Jahves am Fest der Jahreswende im alten Israel, 1927">
           <monogr>
             <title level="m">Die Thronfahrt Jahves am Fest der Jahreswende im alten Israel</title>
