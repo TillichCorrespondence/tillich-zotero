@@ -16,6 +16,18 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__DUYAPZBK" corresp="http://zotero.org/groups/5701116/items/DUYAPZBK" n="Verband der Deutschen Juden (Hg.), Feldgebetbuch für die jüdischen Mannschaften des Heeres, None">
+          <monogr>
+            <title level="m">Feldgebetbuch für die jüdischen Mannschaften des Heeres</title>
+            <editor>
+              <name>Verband der Deutschen Juden</name>
+            </editor>
+            <imprint>
+              <pubPlace>Berlin</pubPlace>
+              <date/>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__KUP7N66I" corresp="http://zotero.org/groups/5701116/items/KUP7N66I" n="[Luther, Martin], Die Deutsche Bibel, 1931">
           <monogr>
             <title level="m">Die Deutsche Bibel</title>
@@ -90,14 +102,6 @@
             </author>
             <imprint>
               <date>1926</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="document" xml:id="tillich__W2383QFR" corresp="http://zotero.org/groups/5701116/items/W2383QFR" n="o.A., o.T., None">
-          <monogr>
-            <title/>
-            <imprint>
-              <date/>
             </imprint>
           </monogr>
         </biblStruct>
