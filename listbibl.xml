@@ -16,6 +16,159 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__MFAUS7XI" corresp="http://zotero.org/groups/5701116/items/MFAUS7XI" n="Leese, Die Religion des protestantischen Menschen, 1938">
+          <monogr>
+            <title level="m">Die Religion des protestantischen Menschen</title>
+            <author>
+              <forename>Kurt</forename>
+              <surname>Leese</surname>
+            </author>
+            <imprint>
+              <pubPlace>Berlin</pubPlace>
+              <publisher>Junker u. Dünnhaupt</publisher>
+              <date>1938</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__63BKIYP9" corresp="http://zotero.org/groups/5701116/items/63BKIYP9" n="James, A Record of the Battles and Engagements of the British Armies in France and..., 1924">
+          <monogr>
+            <title level="m">A Record of the Battles and Engagements of the British Armies in France and Flanders, 1914-1918</title>
+            <author>
+              <forename>E.A.</forename>
+              <surname>James</surname>
+            </author>
+            <imprint>
+              <pubPlace>Aldershot, London und Portsmouth</pubPlace>
+              <publisher>Gale and Polden Military Publishers and Printers</publisher>
+              <date>1924</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__S7T77RAF" corresp="http://zotero.org/groups/5701116/items/S7T77RAF" n="Eisenmann, Protokoll des Generalkonvents des 28. Wartburgfestes, 1907">
+          <analytic>
+            <title level="a">Protokoll des Generalkonvents des 28. Wartburgfestes</title>
+            <author>
+              <forename>Alfred</forename>
+              <surname>Eisenmann</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Wingolfs-Blätter (1906/07)</title>
+            <imprint>
+              <biblScope unit="volume">36</biblScope>
+              <biblScope unit="issue">21</biblScope>
+              <biblScope unit="page">194 f.</biblScope>
+              <date>1907</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__PXAWMSDJ" corresp="http://zotero.org/groups/5701116/items/PXAWMSDJ" n="Salomon (Hg.), Wirtschaft und Gesellschaft. Beiträge zur Ökonomik und Soziologie der&#10;Gegen..., 1924">
+          <monogr>
+            <title level="m">Wirtschaft und Gesellschaft. Beiträge zur Ökonomik und Soziologie der
+Gegenwart (Festschrift für Franz Oppenheimer zu seinem 60. Geburtstag)</title>
+            <editor>
+              <forename>Gottfried</forename>
+              <surname>Salomon</surname>
+            </editor>
+            <editor>
+              <forename>Robert</forename>
+              <surname>Wilbrandt</surname>
+            </editor>
+            <editor>
+              <forename>Wilhelm</forename>
+              <surname>Vershofen</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Frankfurt a. M.</pubPlace>
+              <date>1924</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="tillich__CJJWFPWU" corresp="http://zotero.org/groups/5701116/items/CJJWFPWU" n="Salomon, Geschichte als Ideologie, 1924">
+          <analytic>
+            <title level="a">Geschichte als Ideologie</title>
+            <author>
+              <forename>Gottfried</forename>
+              <surname>Salomon</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Wirtschaft und Gesellschaft. Festschrift für Franz Oppenheimer.</title>
+            <imprint>
+              <pubPlace>Frankfurt a. M.</pubPlace>
+              <biblScope unit="page">427–484</biblScope>
+              <date>1924</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__KYBSW2FN" corresp="http://zotero.org/groups/5701116/items/KYBSW2FN" n="Salomon (Hg.), Jahrbuch für Soziologie, 1925">
+          <monogr>
+            <title level="m">Jahrbuch für Soziologie</title>
+            <extent>3</extent>
+            <editor>
+              <forename>Gottfried</forename>
+              <surname>Salomon</surname>
+            </editor>
+            <imprint>
+              <publisher>Karlsruhe</publisher>
+              <date>1925</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__37VEKCNW" corresp="http://zotero.org/groups/5701116/items/37VEKCNW" n="Kilger, Die richtige Auffassung des Wingolfsprinzips, 1910">
+          <analytic>
+            <title level="a">Die richtige Auffassung des Wingolfsprinzips</title>
+            <author>
+              <forename>Johannes</forename>
+              <surname>Kilger</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Wingolfs-Blätter (1909/10)</title>
+            <imprint>
+              <biblScope unit="volume">39</biblScope>
+              <biblScope unit="issue">19</biblScope>
+              <biblScope unit="page">187-189</biblScope>
+              <date>1910</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__HHM7P472" corresp="http://zotero.org/groups/5701116/items/HHM7P472" n="Kilger, Der Weg zur Einigung des Wingolfsbundes, 1910">
+          <analytic>
+            <title level="a">Der Weg zur Einigung des Wingolfsbundes</title>
+            <author>
+              <forename>Johannes</forename>
+              <surname>Kilger</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Wingolfs-Blätter (1909/10)</title>
+            <imprint>
+              <biblScope unit="volume">39</biblScope>
+              <biblScope unit="issue">15</biblScope>
+              <biblScope unit="page">149-153</biblScope>
+              <date>1910</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__64ABNGTJ" corresp="http://zotero.org/groups/5701116/items/64ABNGTJ" n="Kilger, Was ist der Wingolf und welches ist sein Ziel?, 1909">
+          <analytic>
+            <title level="a">Was ist der Wingolf und welches ist sein Ziel?</title>
+            <author>
+              <forename>Johannes</forename>
+              <surname>Kilger</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Wingolfs-Blätter (1908/09)</title>
+            <imprint>
+              <biblScope unit="volume">38</biblScope>
+              <biblScope unit="issue">7</biblScope>
+              <biblScope unit="page">67-69</biblScope>
+              <date>1909</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="journalArticle" xml:id="tillich__T8SPWBV9" corresp="http://zotero.org/groups/5701116/items/T8SPWBV9" n="Luthardt, Bundesprotokoll über das I. Quartal des S.-S. 1911, 1911">
           <analytic>
             <title level="a">Bundesprotokoll über das I. Quartal des S.-S. 1911</title>
@@ -9236,19 +9389,6 @@ GESAMMELTEN WERKEN VON PAUL TILLICH, Bd. X)</title>
               <biblScope unit="volume">5</biblScope>
               <biblScope unit="page">26–30</biblScope>
               <date>1924</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="tillich__KYBSW2FN" corresp="http://zotero.org/groups/5701116/items/KYBSW2FN" n="Salomon (Hg.), Jahrbuch für Soziologie, 1925">
-          <monogr>
-            <title level="m">Jahrbuch für Soziologie</title>
-            <editor>
-              <forename>Gottfried</forename>
-              <surname>Salomon</surname>
-            </editor>
-            <imprint>
-              <publisher>Karlsruhe</publisher>
-              <date>1925</date>
             </imprint>
           </monogr>
         </biblStruct>
