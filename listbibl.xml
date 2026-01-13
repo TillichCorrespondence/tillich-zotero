@@ -16,6 +16,113 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="journalArticle" xml:id="tillich__W7Q9M7PV" corresp="http://zotero.org/groups/5701116/items/W7Q9M7PV" n="Tillich, Entgegnung, 1906">
+          <analytic>
+            <title level="a">Entgegnung</title>
+            <author>
+              <forename>Johannes</forename>
+              <surname>Tillich</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Wingolfs-Blätter (1905/06)</title>
+            <imprint>
+              <biblScope unit="volume">35</biblScope>
+              <biblScope unit="issue">19</biblScope>
+              <biblScope unit="page">177 f.</biblScope>
+              <date>1906</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__A4NXC6CY" corresp="http://zotero.org/groups/5701116/items/A4NXC6CY" n="Kunsemüller, Protokoll des Generalkonvents des 27. Wartburgfestes am 15. Juli 1905 im Fe..., 1905">
+          <analytic>
+            <title level="a">Protokoll des Generalkonvents des 27. Wartburgfestes am 15. Juli 1905 im Festsaal des Fürstenhofes zu Eisenach</title>
+            <author>
+              <forename>Ernst</forename>
+              <surname>Kunsemüller</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Wingolfs-Blätter (1904/05)</title>
+            <imprint>
+              <biblScope unit="volume">34</biblScope>
+              <biblScope unit="issue">21</biblScope>
+              <biblScope unit="page">187 f.</biblScope>
+              <date>1905</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__LPWGQIMV" corresp="http://zotero.org/groups/5701116/items/LPWGQIMV" n="Birmele, Bundesprotokoll des II. Quartals des Wintersemesters 1905/06, 1906">
+          <analytic>
+            <title level="a">Bundesprotokoll des II. Quartals des Wintersemesters 1905/06</title>
+            <author>
+              <forename>Heinrich</forename>
+              <surname>Birmele</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Wingolfs-Blätter (1905/06)</title>
+            <imprint>
+              <biblScope unit="volume">35</biblScope>
+              <biblScope unit="issue">12b</biblScope>
+              <biblScope unit="page">1-2</biblScope>
+              <date>1906</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__RDGSCYFG" corresp="http://zotero.org/groups/5701116/items/RDGSCYFG" n="Birmele, Protokoll des Chargiertenkonvents zu Halle a. S. am 22. und 23. Februar 190..., 1906">
+          <analytic>
+            <title level="a">Protokoll des Chargiertenkonvents zu Halle a. S. am 22. und 23. Februar 1906</title>
+            <author>
+              <forename>Heinrich</forename>
+              <surname>Birmele</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Wingolfs-Blätter (1905/06)</title>
+            <imprint>
+              <biblScope unit="volume">35</biblScope>
+              <biblScope unit="issue">12b</biblScope>
+              <biblScope unit="page">2–8</biblScope>
+              <date>1906</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__39HAEALI" corresp="http://zotero.org/groups/5701116/items/39HAEALI" n="Weber, Bundesprotokoll für das I. Quartal des Sommersemesters 1906, 1906">
+          <analytic>
+            <title level="a">Bundesprotokoll für das I. Quartal des Sommersemesters 1906</title>
+            <author>
+              <forename>Karl</forename>
+              <surname>Weber</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Wingolfs-Blätter (1905/06)</title>
+            <imprint>
+              <biblScope unit="volume">35</biblScope>
+              <biblScope unit="issue">20</biblScope>
+              <biblScope unit="page">192 f.</biblScope>
+              <date>1906</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__Q5WCS8GB" corresp="http://zotero.org/groups/5701116/items/Q5WCS8GB" n="Wingolfsbund, Teilnehmerliste des 27. Wartburgfestes, 1905">
+          <analytic>
+            <title level="a">Teilnehmerliste des 27. Wartburgfestes</title>
+            <author>
+              <name>Wingolfsbund</name>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Wingolfs-Blätter (1905/06)</title>
+            <imprint>
+              <biblScope unit="volume">34</biblScope>
+              <biblScope unit="issue">17</biblScope>
+              <biblScope unit="page">165 f.</biblScope>
+              <date>1905</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__MFAUS7XI" corresp="http://zotero.org/groups/5701116/items/MFAUS7XI" n="Leese, Die Religion des protestantischen Menschen, 1938">
           <monogr>
             <title level="m">Die Religion des protestantischen Menschen</title>
@@ -2848,23 +2955,6 @@ Gegenwart (Festschrift für Franz Oppenheimer zu seinem 60. Geburtstag)</title>
             </imprint>
           </monogr>
         </biblStruct>
-        <biblStruct type="journalArticle" xml:id="tillich__LPWGQIMV" corresp="http://zotero.org/groups/5701116/items/LPWGQIMV" n="Birmele, Bundesprotokoll des II. Quartals des Wintersemesters 1905/06, 1906">
-          <analytic>
-            <title level="a">Bundesprotokoll des II. Quartals des Wintersemesters 1905/06</title>
-            <author>
-              <forename>Heinrich</forename>
-              <surname>Birmele</surname>
-            </author>
-          </analytic>
-          <monogr>
-            <title level="j">Wingolfs-Blätter 35 (1905/06)</title>
-            <imprint>
-              <biblScope unit="issue">12b</biblScope>
-              <biblScope unit="page">1-2</biblScope>
-              <date>1906</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
         <biblStruct type="journalArticle" xml:id="tillich__8BIIYRR2" corresp="http://zotero.org/groups/5701116/items/8BIIYRR2" n="Tillich, Die Bundesentwicklung der letzten drei Semester, ihre Ursachen und ihr Resu..., 1907">
           <analytic>
             <title level="a">Die Bundesentwicklung der letzten drei Semester, ihre Ursachen und ihr Resultat. Ein Appell an die Philister</title>
@@ -2898,40 +2988,6 @@ Gegenwart (Festschrift für Franz Oppenheimer zu seinem 60. Geburtstag)</title>
             </imprint>
           </monogr>
         </biblStruct>
-        <biblStruct type="journalArticle" xml:id="tillich__W7Q9M7PV" corresp="http://zotero.org/groups/5701116/items/W7Q9M7PV" n="Tillich, Entgegnung, 1906">
-          <analytic>
-            <title level="a">Entgegnung</title>
-            <author>
-              <forename>Johannes</forename>
-              <surname>Tillich</surname>
-            </author>
-          </analytic>
-          <monogr>
-            <title level="j">Wingolfs-Blätter 35 (1905/06)</title>
-            <imprint>
-              <biblScope unit="issue">19</biblScope>
-              <biblScope unit="page">177–178</biblScope>
-              <date>1906</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="journalArticle" xml:id="tillich__A4NXC6CY" corresp="http://zotero.org/groups/5701116/items/A4NXC6CY" n="Kunsemüller, Protokoll des Generalkonvents des 27. Wartburgfestes am 15. Juli 1905 im Fe..., None">
-          <analytic>
-            <title level="a">Protokoll des Generalkonvents des 27. Wartburgfestes am 15. Juli 1905 im Festsaal des Fürstenhofes zu Eisenach</title>
-            <author>
-              <forename>Ernst</forename>
-              <surname>Kunsemüller</surname>
-            </author>
-          </analytic>
-          <monogr>
-            <title level="j">Wingolfs-Blätter 34 (1904/05)</title>
-            <imprint>
-              <biblScope unit="issue">21</biblScope>
-              <biblScope unit="page">187–188</biblScope>
-              <date/>
-            </imprint>
-          </monogr>
-        </biblStruct>
         <biblStruct type="journalArticle" xml:id="tillich__GV62AR6R" corresp="http://zotero.org/groups/5701116/items/GV62AR6R" n="Birmele, Ratifizierungen der Beschlüsse des Chargierten-Konventes, 1906">
           <analytic>
             <title level="a">Ratifizierungen der Beschlüsse des Chargierten-Konventes</title>
@@ -2945,58 +3001,6 @@ Gegenwart (Festschrift für Franz Oppenheimer zu seinem 60. Geburtstag)</title>
             <imprint>
               <biblScope unit="issue">12b</biblScope>
               <biblScope unit="page">8</biblScope>
-              <date>1906</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="journalArticle" xml:id="tillich__Q5WCS8GB" corresp="http://zotero.org/groups/5701116/items/Q5WCS8GB" n="Wingolfsbund, Teilnehmerliste des 27. Wartburgfestes, 1905">
-          <analytic>
-            <title level="a">Teilnehmerliste des 27. Wartburgfestes</title>
-            <author>
-              <name>Wingolfsbund</name>
-            </author>
-          </analytic>
-          <monogr>
-            <title level="j">Wingolfs-Blätter (1905/06)</title>
-            <imprint>
-              <biblScope unit="volume">34</biblScope>
-              <biblScope unit="issue">17</biblScope>
-              <biblScope unit="page">165 f.</biblScope>
-              <date>1905</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="journalArticle" xml:id="tillich__RDGSCYFG" corresp="http://zotero.org/groups/5701116/items/RDGSCYFG" n="Birmele, Protokoll des Chargiertenkonvents zu Halle a. S. am 22. und 23. Februar 190..., 1906">
-          <analytic>
-            <title level="a">Protokoll des Chargiertenkonvents zu Halle a. S. am 22. und 23. Februar 1906</title>
-            <author>
-              <forename>Heinrich</forename>
-              <surname>Birmele</surname>
-            </author>
-          </analytic>
-          <monogr>
-            <title level="j">Wingolfs-Blätter (1905/06)</title>
-            <imprint>
-              <biblScope unit="volume">35</biblScope>
-              <biblScope unit="page">2–8</biblScope>
-              <date>1906</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="journalArticle" xml:id="tillich__39HAEALI" corresp="http://zotero.org/groups/5701116/items/39HAEALI" n="Weber, Bundesprotokoll für das I. Quartal des Sommersemesters 1906, 1906">
-          <analytic>
-            <title level="a">Bundesprotokoll für das I. Quartal des Sommersemesters 1906</title>
-            <author>
-              <forename>Karl</forename>
-              <surname>Weber</surname>
-            </author>
-          </analytic>
-          <monogr>
-            <title level="j">Wingolfs-Blätter (1905/06)</title>
-            <imprint>
-              <biblScope unit="volume">35</biblScope>
-              <biblScope unit="issue">20</biblScope>
-              <biblScope unit="page">193</biblScope>
               <date>1906</date>
             </imprint>
           </monogr>
@@ -6695,22 +6699,6 @@ GESAMMELTEN WERKEN VON PAUL TILLICH, Bd. X)</title>
             <imprint>
               <pubPlace>Leipzig</pubPlace>
               <date>1916</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="journalArticle" xml:id="tillich__X859VUQ5" corresp="http://zotero.org/groups/5701116/items/X859VUQ5" n="Anonym, Ratifizierungen der Beschlüsse des Chargierten-Konventes, 24. März">
-          <analytic>
-            <title level="a">Ratifizierungen der Beschlüsse des Chargierten-Konventes</title>
-            <author>
-              <name>Anonym</name>
-            </author>
-          </analytic>
-          <monogr>
-            <title level="j">Wingolfs-Blätter</title>
-            <imprint>
-              <biblScope unit="issue">12</biblScope>
-              <biblScope unit="page">8</biblScope>
-              <date>24. März</date>
             </imprint>
           </monogr>
         </biblStruct>
