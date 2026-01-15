@@ -16,6 +16,232 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="journalArticle" xml:id="tillich__XD9LUMMG" corresp="http://zotero.org/groups/5701116/items/XD9LUMMG" n="Kürschner, Zur gegenwärtigen Lage des Bundes, 1907">
+          <analytic>
+            <title level="a">Zur gegenwärtigen Lage des Bundes</title>
+            <author>
+              <forename>Walter</forename>
+              <surname>Kürschner</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Wingolfs-Blätter (1906/07)</title>
+            <imprint>
+              <biblScope unit="volume">36</biblScope>
+              <biblScope unit="issue">11</biblScope>
+              <biblScope unit="page">92 f.</biblScope>
+              <date>1907</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__N8SCYDE7" corresp="http://zotero.org/groups/5701116/items/N8SCYDE7" n="[Anonym], Chargiertenwahl, 1907">
+          <analytic>
+            <title level="a">Chargiertenwahl</title>
+            <author>
+              <name>[Anonym]</name>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Wingolfs-Blätter (1906/07)</title>
+            <imprint>
+              <biblScope unit="volume">36</biblScope>
+              <biblScope unit="issue">Beilage zu Nr. 12</biblScope>
+              <biblScope unit="page">7</biblScope>
+              <date>1907</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__4AC7R366" corresp="http://zotero.org/groups/5701116/items/4AC7R366" n="[Anonym], Schwarzes Brett, 1907">
+          <analytic>
+            <title level="a">Schwarzes Brett</title>
+            <author>
+              <name>[Anonym]</name>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Wingolfs-Blätter (1906/07)</title>
+            <imprint>
+              <biblScope unit="volume">36</biblScope>
+              <biblScope unit="issue">14</biblScope>
+              <biblScope unit="page">119</biblScope>
+              <date>1907</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__QHB59YY8" corresp="http://zotero.org/groups/5701116/items/QHB59YY8" n="Kunsemüller, Erklärung, 1907">
+          <analytic>
+            <title level="a">Erklärung</title>
+            <author>
+              <forename>Ernst</forename>
+              <surname>Kunsemüller</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Wingolfs-Blätter (1906/07)</title>
+            <imprint>
+              <biblScope unit="volume">36</biblScope>
+              <biblScope unit="issue">11</biblScope>
+              <biblScope unit="page">95</biblScope>
+              <date>1907</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__NY53DLVH" corresp="http://zotero.org/groups/5701116/items/NY53DLVH" n="Wittekindt, Cand. theol. Hans Scheurich †, 1907">
+          <analytic>
+            <title level="a">Cand. theol. Hans Scheurich †</title>
+            <author>
+              <forename>S. Ernst</forename>
+              <surname>Wittekindt</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Wingolfs-Blätter (1906/07)</title>
+            <imprint>
+              <biblScope unit="volume">36</biblScope>
+              <biblScope unit="issue">21</biblScope>
+              <biblScope unit="page">193 f.</biblScope>
+              <date>1907</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__X323Q8D2" corresp="http://zotero.org/groups/5701116/items/X323Q8D2" n="Tillich, Zur Klärung, 1907">
+          <analytic>
+            <title level="a">Zur Klärung</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Wingolfs-Blätter (1906/07)</title>
+            <imprint>
+              <biblScope unit="volume">36</biblScope>
+              <biblScope unit="issue">15</biblScope>
+              <biblScope unit="page">125 f.</biblScope>
+              <date>1907</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__5EF6WG2L" corresp="http://zotero.org/groups/5701116/items/5EF6WG2L" n="Hirtzel, Bundesprotokoll für das I. Quartal des Sommersemesters 1907, 1907">
+          <analytic>
+            <title level="a">Bundesprotokoll für das I. Quartal des Sommersemesters 1907</title>
+            <author>
+              <forename>August</forename>
+              <surname>Hirtzel</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Wingolfs-Blätter (1906/07)</title>
+            <imprint>
+              <biblScope unit="volume">36</biblScope>
+              <biblScope unit="issue">19</biblScope>
+              <biblScope unit="page">171 f.</biblScope>
+              <date>1907</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__MCVFUFBH" corresp="http://zotero.org/groups/5701116/items/MCVFUFBH" n="Hirtzel, Bundesprotokoll für das II. Quartal des Wintersemesters 1906/07, 1907">
+          <analytic>
+            <title level="a">Bundesprotokoll für das II. Quartal des Wintersemesters 1906/07</title>
+            <author>
+              <forename>August</forename>
+              <surname>Hirtzel</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Wingolfs-Blätter (1906/07)</title>
+            <imprint>
+              <biblScope unit="volume">36</biblScope>
+              <biblScope unit="issue">11</biblScope>
+              <biblScope unit="page">94</biblScope>
+              <date>1907</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__PZ5HUD3T" corresp="http://zotero.org/groups/5701116/items/PZ5HUD3T" n="Hirtzel, Bundesprotokoll für das I. Quartal des Wintersemesters 1906/07, 1907">
+          <analytic>
+            <title level="a">Bundesprotokoll für das I. Quartal des Wintersemesters 1906/07</title>
+            <author>
+              <forename>August</forename>
+              <surname>Hirtzel</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Wingolfs-Blätter (1906/07)</title>
+            <imprint>
+              <biblScope unit="volume">36</biblScope>
+              <biblScope unit="issue">10</biblScope>
+              <biblScope unit="page">87 f.</biblScope>
+              <date>1907</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__KDJZI59T" corresp="http://zotero.org/groups/5701116/items/KDJZI59T" n="Zahn, Einleitung in das Neue Testament, 2 Bände, 1906">
+          <monogr>
+            <title level="m">Einleitung in das Neue Testament, 2 Bände</title>
+            <author>
+              <forename>Theodor</forename>
+              <surname>Zahn</surname>
+            </author>
+            <edition>Dritte, vielfach berichtigte und vervollständigte Auflage</edition>
+            <imprint>
+              <pubPlace>Leipzig</pubPlace>
+              <publisher>A. Deichert'sche Verlagsbuchhandlung Nachf. (Georg Böhme)</publisher>
+              <date>1906</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__QNMM37ZA" corresp="http://zotero.org/groups/5701116/items/QNMM37ZA" n="Zahn, Einleitung in das Neue Testament, 1900">
+          <monogr>
+            <title level="m">Einleitung in das Neue Testament</title>
+            <extent>2</extent>
+            <author>
+              <forename>T.</forename>
+              <surname>Zahn</surname>
+            </author>
+            <imprint>
+              <pubPlace>Leipzig</pubPlace>
+              <biblScope unit="volume">2</biblScope>
+              <publisher>A. Deichert'sche Verlagsbuchhandlung Nachf. (Georg Böhme)</publisher>
+              <date>1900</date>
+              <note type="url">https://books.google.at/books?id=ymVY6simsiQC</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__A82EIMUY" corresp="http://zotero.org/groups/5701116/items/A82EIMUY" n="Zahn, Einleitung in das Neue Testament, 1897">
+          <monogr>
+            <title level="m">Einleitung in das Neue Testament</title>
+            <idno type="ISBN">978-0-8370-1975-8</idno>
+            <extent>2</extent>
+            <author>
+              <forename>Theodor</forename>
+              <surname>Zahn</surname>
+            </author>
+            <imprint>
+              <pubPlace>Leipzig</pubPlace>
+              <biblScope unit="volume">1</biblScope>
+              <publisher>A. Deichert'sche Verlagsbuchhandlung Nachf. (Georg Böhme)</publisher>
+              <date>1897</date>
+              <note type="url">https://books.google.at/books?id=OwMVAAAAYAAJ</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__EZZU4IK2" corresp="http://zotero.org/groups/5701116/items/EZZU4IK2" n="Salomon (Hg.), Jahrbuch für Soziologie. Eine internationale Sammlung. Erster Band, 1925">
+          <monogr>
+            <title level="m">Jahrbuch für Soziologie. Eine internationale Sammlung. Erster Band</title>
+            <extent>3</extent>
+            <editor>
+              <forename>Gottfried</forename>
+              <surname>Salomon</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Karlsruhe</pubPlace>
+              <biblScope unit="volume">1</biblScope>
+              <publisher>Braun</publisher>
+              <date>1925</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="journalArticle" xml:id="tillich__RAW46CJB" corresp="http://zotero.org/groups/5701116/items/RAW46CJB" n="Weber, Bundesprotokoll für das II. Quartal des Sommersemesters 1906, 1906">
           <analytic>
             <title level="a">Bundesprotokoll für das II. Quartal des Sommersemesters 1906</title>
@@ -2832,36 +3058,6 @@ Gegenwart (Festschrift für Franz Oppenheimer zu seinem 60. Geburtstag)</title>
             </imprint>
           </monogr>
         </biblStruct>
-        <biblStruct type="journalArticle" xml:id="tillich__XD9LUMMG" corresp="http://zotero.org/groups/5701116/items/XD9LUMMG" n="Kürschner, Zur gegenwärtigen Lage des Bundes, 1907">
-          <analytic>
-            <title level="a">Zur gegenwärtigen Lage des Bundes</title>
-            <author>
-              <forename>Walter</forename>
-              <surname>Kürschner</surname>
-            </author>
-          </analytic>
-          <monogr>
-            <title level="j">Wingolfs-Blätter 36 (1906/07)</title>
-            <imprint>
-              <biblScope unit="issue">11</biblScope>
-              <biblScope unit="page">92-93</biblScope>
-              <date>1907</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="journalArticle" xml:id="tillich__N8SCYDE7" corresp="http://zotero.org/groups/5701116/items/N8SCYDE7" n="o.A., Chargiertenwahl, 1907">
-          <analytic>
-            <title level="a">Chargiertenwahl</title>
-          </analytic>
-          <monogr>
-            <title level="j">Wingolfs-Blätter 36 (1906/07)</title>
-            <imprint>
-              <biblScope unit="issue">12 (Beilage)</biblScope>
-              <biblScope unit="page">7</biblScope>
-              <date>1907</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
         <biblStruct type="journalArticle" xml:id="tillich__SG89I8H5" corresp="http://zotero.org/groups/5701116/items/SG89I8H5" n="o.A., G. Fritz, Missionsprediger in Stuttgart: In tiefer Trauer, 1907">
           <analytic>
             <title level="a">G. Fritz, Missionsprediger in Stuttgart: In tiefer Trauer</title>
@@ -2888,40 +3084,6 @@ Gegenwart (Festschrift für Franz Oppenheimer zu seinem 60. Geburtstag)</title>
             </imprint>
           </monogr>
         </biblStruct>
-        <biblStruct type="journalArticle" xml:id="tillich__QHB59YY8" corresp="http://zotero.org/groups/5701116/items/QHB59YY8" n="Kunsemüller, Erklärung, 1907">
-          <analytic>
-            <title level="a">Erklärung</title>
-            <author>
-              <forename>Ernst</forename>
-              <surname>Kunsemüller</surname>
-            </author>
-          </analytic>
-          <monogr>
-            <title level="j">Wingolfs-Blätter 36 (1906/07)</title>
-            <imprint>
-              <biblScope unit="issue">11</biblScope>
-              <biblScope unit="page">95</biblScope>
-              <date>1907</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="journalArticle" xml:id="tillich__NY53DLVH" corresp="http://zotero.org/groups/5701116/items/NY53DLVH" n="Wittekindt, Cand. theol. Hans Scheurich †, 1907">
-          <analytic>
-            <title level="a">Cand. theol. Hans Scheurich †</title>
-            <author>
-              <forename>S. Ernst</forename>
-              <surname>Wittekindt</surname>
-            </author>
-          </analytic>
-          <monogr>
-            <title level="j">Wingolfs-Blätter 36 (1906/07)</title>
-            <imprint>
-              <biblScope unit="issue">21</biblScope>
-              <biblScope unit="page">193-194</biblScope>
-              <date>1907</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
         <biblStruct type="journalArticle" xml:id="tillich__LSU8PNNP" corresp="http://zotero.org/groups/5701116/items/LSU8PNNP" n="o.A., Todesanzeige, 1907">
           <analytic>
             <title level="a">Todesanzeige</title>
@@ -2931,72 +3093,6 @@ Gegenwart (Festschrift für Franz Oppenheimer zu seinem 60. Geburtstag)</title>
             <imprint>
               <biblScope unit="issue">18</biblScope>
               <biblScope unit="page">164</biblScope>
-              <date>1907</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="journalArticle" xml:id="tillich__X323Q8D2" corresp="http://zotero.org/groups/5701116/items/X323Q8D2" n="Tillich, Zur Klärung, 1907">
-          <analytic>
-            <title level="a">Zur Klärung</title>
-            <author>
-              <forename>Paul</forename>
-              <surname>Tillich</surname>
-            </author>
-          </analytic>
-          <monogr>
-            <title level="j">Wingolfs-Blätter 36 (1906/07)</title>
-            <imprint>
-              <biblScope unit="issue">15</biblScope>
-              <biblScope unit="page">125-126</biblScope>
-              <date>1907</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="journalArticle" xml:id="tillich__5EF6WG2L" corresp="http://zotero.org/groups/5701116/items/5EF6WG2L" n="Hirtzel, Bundesprotokoll für das I. Quartal des Sommersemesters 1907, 1907">
-          <analytic>
-            <title level="a">Bundesprotokoll für das I. Quartal des Sommersemesters 1907</title>
-            <author>
-              <forename>August</forename>
-              <surname>Hirtzel</surname>
-            </author>
-          </analytic>
-          <monogr>
-            <title level="j">Wingolfs-Blätter 36 (1906/07)</title>
-            <imprint>
-              <biblScope unit="issue">19</biblScope>
-              <biblScope unit="page">171</biblScope>
-              <date>1907</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="journalArticle" xml:id="tillich__MCVFUFBH" corresp="http://zotero.org/groups/5701116/items/MCVFUFBH" n="Hirtzel, August, Bundesprotokoll für das II. Quartal des Wintersemesters 1906/07, 1907">
-          <analytic>
-            <title level="a">Bundesprotokoll für das II. Quartal des Wintersemesters 1906/07</title>
-            <author>
-              <name>Hirtzel, August</name>
-            </author>
-          </analytic>
-          <monogr>
-            <title level="j">Wingolfs-Blätter 36 (1906/07)</title>
-            <imprint>
-              <biblScope unit="page">94</biblScope>
-              <date>1907</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="journalArticle" xml:id="tillich__PZ5HUD3T" corresp="http://zotero.org/groups/5701116/items/PZ5HUD3T" n="Hirtzel, Bundesprotokoll für das I. Quartal des Wintersemesters 1906/07, 1907">
-          <analytic>
-            <title level="a">Bundesprotokoll für das I. Quartal des Wintersemesters 1906/07</title>
-            <author>
-              <forename>August</forename>
-              <surname>Hirtzel</surname>
-            </author>
-          </analytic>
-          <monogr>
-            <title level="j">Wingolfs-Blätter 36 (1906/07)</title>
-            <imprint>
-              <biblScope unit="issue">10</biblScope>
-              <biblScope unit="page">87-88</biblScope>
               <date>1907</date>
             </imprint>
           </monogr>
@@ -5085,43 +5181,6 @@ GESAMMELTEN WERKEN VON PAUL TILLICH, Bd. X)</title>
             </imprint>
           </monogr>
         </biblStruct>
-        <biblStruct type="book" xml:id="tillich__QNMM37ZA" corresp="http://zotero.org/groups/5701116/items/QNMM37ZA" n="Zahn, Einleitung in das Neue Testament, 1900">
-          <monogr>
-            <title level="m">Einleitung in das Neue Testament</title>
-            <author>
-              <forename>T.</forename>
-              <surname>Zahn</surname>
-            </author>
-            <imprint>
-              <publisher>Deichert</publisher>
-              <date>1900</date>
-              <note type="url">https://books.google.at/books?id=ymVY6simsiQC</note>
-            </imprint>
-          </monogr>
-          <series>
-            <title level="s">Einleitung in das Neue Testament</title>
-            <biblScope unit="volume">Bd. 2</biblScope>
-          </series>
-        </biblStruct>
-        <biblStruct type="book" xml:id="tillich__A82EIMUY" corresp="http://zotero.org/groups/5701116/items/A82EIMUY" n="Zahn, Einleitung in das Neue Testament, 1897">
-          <monogr>
-            <title level="m">Einleitung in das Neue Testament</title>
-            <idno type="ISBN">978-0-8370-1975-8</idno>
-            <author>
-              <forename>T.</forename>
-              <surname>Zahn</surname>
-            </author>
-            <imprint>
-              <publisher>Deichert</publisher>
-              <date>1897</date>
-              <note type="url">https://books.google.at/books?id=OwMVAAAAYAAJ</note>
-            </imprint>
-          </monogr>
-          <series>
-            <title level="s">Einleitung in das Neue Testament</title>
-            <biblScope unit="volume">Bd. 1</biblScope>
-          </series>
-        </biblStruct>
         <biblStruct type="book" xml:id="tillich__H667WU44" corresp="http://zotero.org/groups/5701116/items/H667WU44" n="Grisebach, Gegenwart. Eine kritische Ethik., 1928">
           <monogr>
             <title level="m">Gegenwart. Eine kritische Ethik.</title>
@@ -5600,19 +5659,6 @@ GESAMMELTEN WERKEN VON PAUL TILLICH, Bd. X)</title>
               <pubPlace>Deutschland</pubPlace>
               <publisher>De Gruyter, Incorporated</publisher>
               <date>1899</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="tillich__KDJZI59T" corresp="http://zotero.org/groups/5701116/items/KDJZI59T" n="Zahn, Einführung in das Neue Testament, 1887">
-          <monogr>
-            <title level="m">Einführung in das Neue Testament</title>
-            <author>
-              <forename>Theodor</forename>
-              <surname>Zahn</surname>
-            </author>
-            <imprint>
-              <pubPlace>Leipzig</pubPlace>
-              <date>1887</date>
             </imprint>
           </monogr>
         </biblStruct>
