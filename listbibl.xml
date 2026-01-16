@@ -16,6 +16,245 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="journalArticle" xml:id="tillich__T8SPWBV9" corresp="http://zotero.org/groups/5701116/items/T8SPWBV9" n="Luthardt, Bundesprotokoll über das I. Quartal des S.-S. 1911, 1911">
+          <analytic>
+            <title level="a">Bundesprotokoll über das I. Quartal des S.-S. 1911</title>
+            <author>
+              <forename>Wilhelm</forename>
+              <surname>Luthardt</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Wingolfs-Blätter (1910/11)</title>
+            <imprint>
+              <biblScope unit="volume">40</biblScope>
+              <biblScope unit="issue">Vertrauliche Beilage zu Nummer 18 der "Wingolfs-Blätter" 1911</biblScope>
+              <biblScope unit="page">o.P.</biblScope>
+              <date>1911</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__VH5UXIVE" corresp="http://zotero.org/groups/5701116/items/VH5UXIVE" n="Heim, Das Weltbild der Zukunft. Eine Auseinandersetzung zwischen Philosophie, Nat..., 1904">
+          <monogr>
+            <title level="m">Das Weltbild der Zukunft. Eine Auseinandersetzung zwischen Philosophie, Naturwissenschaft und Theologie</title>
+            <author>
+              <forename>Karl</forename>
+              <surname>Heim</surname>
+            </author>
+            <imprint>
+              <pubPlace>Berlin</pubPlace>
+              <publisher>C. U. Schwetschke und Sohn</publisher>
+              <date>1904</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__MPZ84UVM" corresp="http://zotero.org/groups/5701116/items/MPZ84UVM" n="Gaiser, Bundesprotokoll für das I. Quartal des Wintersemesters 1907/08, 1908">
+          <analytic>
+            <title level="a">Bundesprotokoll für das I. Quartal des Wintersemesters 1907/08</title>
+            <author>
+              <forename>Konrad</forename>
+              <surname>Gaiser</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Wingolfs-Blätter (1907/08)</title>
+            <imprint>
+              <biblScope unit="volume">37</biblScope>
+              <biblScope unit="issue">Vertrauliche Beilage zu No. 8 der „Wingolfs-Blätter“ 1908</biblScope>
+              <biblScope unit="page">o.P.</biblScope>
+              <date>1908</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__7AA3EN2D" corresp="http://zotero.org/groups/5701116/items/7AA3EN2D" n="[Anonym], Bekanntmachungen, 1907">
+          <analytic>
+            <title level="a">Bekanntmachungen</title>
+            <author>
+              <name>[Anonym]</name>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Wingolfs-Blätter (1906/07)</title>
+            <imprint>
+              <biblScope unit="volume">36</biblScope>
+              <biblScope unit="issue">23</biblScope>
+              <biblScope unit="page">227</biblScope>
+              <date>1907</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__PR4PQH4J" corresp="http://zotero.org/groups/5701116/items/PR4PQH4J" n="[Anonym], Personal-Anzeiger, 1907">
+          <analytic>
+            <title level="a">Personal-Anzeiger</title>
+            <author>
+              <name>[Anonym]</name>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Wingolfs-Blätter (1906/07)</title>
+            <imprint>
+              <biblScope unit="volume">36</biblScope>
+              <biblScope unit="issue">22</biblScope>
+              <biblScope unit="page">214</biblScope>
+              <date>1907</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__IGEC7W4W" corresp="http://zotero.org/groups/5701116/items/IGEC7W4W" n="[Anonym], Personal-Anzeiger, 1907">
+          <analytic>
+            <title level="a">Personal-Anzeiger</title>
+            <author>
+              <name>[Anonym]</name>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Wingolfs-Blätter (1906/07)</title>
+            <imprint>
+              <biblScope unit="volume">36</biblScope>
+              <biblScope unit="issue">20</biblScope>
+              <biblScope unit="page">190</biblScope>
+              <date>1907</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__H2WMBBPV" corresp="http://zotero.org/groups/5701116/items/H2WMBBPV" n="van der Smissen, Kurzgefaßte Geschichte und Glaubenslehre der Altevangelischen Taufgesinnten..., 1895">
+          <monogr>
+            <title level="m">Kurzgefaßte Geschichte und Glaubenslehre der Altevangelischen Taufgesinnten oder Mennoniten</title>
+            <author>
+              <forename>Carl H. A.</forename>
+              <surname>van der Smissen</surname>
+            </author>
+            <imprint>
+              <publisher>Im Selbstverlag des Verfassers</publisher>
+              <date>1895</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__LWBQJ8AW" corresp="http://zotero.org/groups/5701116/items/LWBQJ8AW" n="Witte, Denken ist leicht…, 1907">
+          <analytic>
+            <title level="a">Denken ist leicht…</title>
+            <author>
+              <forename>Hermann</forename>
+              <surname>Witte</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Wingolfs-Blätter (1906/07)</title>
+            <imprint>
+              <biblScope unit="volume">36</biblScope>
+              <biblScope unit="issue">21</biblScope>
+              <biblScope unit="page">191-193</biblScope>
+              <date>1907</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__RAW46CJB" corresp="http://zotero.org/groups/5701116/items/RAW46CJB" n="Weber, Bundesprotokoll für das II. Quartal des Sommersemesters 1906, 1906">
+          <analytic>
+            <title level="a">Bundesprotokoll für das II. Quartal des Sommersemesters 1906</title>
+            <author>
+              <forename>Karl</forename>
+              <surname>Weber</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Wingolfs-Blätter (1905/06)</title>
+            <imprint>
+              <biblScope unit="volume">35</biblScope>
+              <biblScope unit="issue">23/24</biblScope>
+              <biblScope unit="page">225 f.</biblScope>
+              <date>1906</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="newspaperArticle" xml:id="tillich__J3CYSYUL" corresp="http://zotero.org/groups/5701116/items/J3CYSYUL" n="[Anonym], Lokales, 1907">
+          <analytic>
+            <title level="a">Lokales</title>
+            <author>
+              <name>[Anonym]</name>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Düsseldorfer General-Anzeiger</title>
+            <edition>Nr. 94, 1. Beilage</edition>
+            <imprint>
+              <biblScope unit="page">3</biblScope>
+              <date>1907</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__SSN4VITH" corresp="http://zotero.org/groups/5701116/items/SSN4VITH" n="Wagner, Protokoll des Generalkonvents des 27. Wartburgfestes am 15. Juni 1905 im Fe..., 1905">
+          <analytic>
+            <title level="a">Protokoll des Generalkonvents des 27. Wartburgfestes am 15. Juni 1905 im Festsaale des Fürstenhofes zu Eisenach</title>
+            <author>
+              <forename>Richard</forename>
+              <surname>Wagner</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Wingolfs-Blätter (1904/05)</title>
+            <imprint>
+              <biblScope unit="volume">34</biblScope>
+              <biblScope unit="issue">21</biblScope>
+              <biblScope unit="page">186-188</biblScope>
+              <date>1905</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__BXEJLXW5" corresp="http://zotero.org/groups/5701116/items/BXEJLXW5" n="Nast, Auch ein Appell an die Philister, 1907">
+          <analytic>
+            <title level="a">Auch ein Appell an die Philister</title>
+            <author>
+              <name>Nast</name>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Wingolfs-Blätter (1906/07)</title>
+            <imprint>
+              <biblScope unit="volume">36</biblScope>
+              <biblScope unit="issue">13</biblScope>
+              <biblScope unit="page">108 f.</biblScope>
+              <date>1907</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__V67I69JL" corresp="http://zotero.org/groups/5701116/items/V67I69JL" n="Herkenrath, Düsseldorfer Philistertag, 1907">
+          <analytic>
+            <title level="a">Düsseldorfer Philistertag</title>
+            <author>
+              <name>Herkenrath</name>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Wingolfs-Blätter (1906/07)</title>
+            <imprint>
+              <biblScope unit="volume">36</biblScope>
+              <biblScope unit="issue">15</biblScope>
+              <biblScope unit="page">129</biblScope>
+              <date>1907</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="tillich__IGEIECXQ" corresp="http://zotero.org/groups/5701116/items/IGEIECXQ" n="Tillich, Das Christentum und die Gesellschaftsprobleme der Gegenwart, 2001">
+          <analytic>
+            <title level="a">Das Christentum und die Gesellschaftsprobleme der Gegenwart</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Berliner Vorlesungen I (1919-1920)</title>
+            <imprint>
+              <pubPlace>Berlin/New York</pubPlace>
+              <biblScope unit="page">27-258</biblScope>
+              <date>2001</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Ergänzungs- und Nachlasswerke</title>
+            <biblScope unit="volume">XII</biblScope>
+          </series>
+        </biblStruct>
         <biblStruct type="journalArticle" xml:id="tillich__XD9LUMMG" corresp="http://zotero.org/groups/5701116/items/XD9LUMMG" n="Kürschner, Zur gegenwärtigen Lage des Bundes, 1907">
           <analytic>
             <title level="a">Zur gegenwärtigen Lage des Bundes</title>
@@ -239,24 +478,6 @@
               <biblScope unit="volume">1</biblScope>
               <publisher>Braun</publisher>
               <date>1925</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="journalArticle" xml:id="tillich__RAW46CJB" corresp="http://zotero.org/groups/5701116/items/RAW46CJB" n="Weber, Bundesprotokoll für das II. Quartal des Sommersemesters 1906, 1906">
-          <analytic>
-            <title level="a">Bundesprotokoll für das II. Quartal des Sommersemesters 1906</title>
-            <author>
-              <forename>Karl</forename>
-              <surname>Weber</surname>
-            </author>
-          </analytic>
-          <monogr>
-            <title level="j">Wingolfs-Blätter (1905/06)</title>
-            <imprint>
-              <biblScope unit="volume">35</biblScope>
-              <biblScope unit="issue">23/24</biblScope>
-              <biblScope unit="page">225 f.</biblScope>
-              <date>1906</date>
             </imprint>
           </monogr>
         </biblStruct>
@@ -562,23 +783,6 @@ Gegenwart (Festschrift für Franz Oppenheimer zu seinem 60. Geburtstag)</title>
               <biblScope unit="issue">7</biblScope>
               <biblScope unit="page">67-69</biblScope>
               <date>1909</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="journalArticle" xml:id="tillich__T8SPWBV9" corresp="http://zotero.org/groups/5701116/items/T8SPWBV9" n="Luthardt, Bundesprotokoll über das I. Quartal des S.-S. 1911, 1911">
-          <analytic>
-            <title level="a">Bundesprotokoll über das I. Quartal des S.-S. 1911</title>
-            <author>
-              <forename>Wilhelm</forename>
-              <surname>Luthardt</surname>
-            </author>
-          </analytic>
-          <monogr>
-            <title level="j">Wingolfs-Blätter (1910/11)</title>
-            <imprint>
-              <biblScope unit="volume">40</biblScope>
-              <biblScope unit="issue">Vertrauliche Beilage zu Nummer 18 der "Wingolfs-Blätter" 1911</biblScope>
-              <date>1911</date>
             </imprint>
           </monogr>
         </biblStruct>
@@ -1176,24 +1380,6 @@ Gegenwart (Festschrift für Franz Oppenheimer zu seinem 60. Geburtstag)</title>
             </imprint>
           </monogr>
         </biblStruct>
-        <biblStruct type="journalArticle" xml:id="tillich__MPZ84UVM" corresp="http://zotero.org/groups/5701116/items/MPZ84UVM" n="Gaiser, Bundesprotokoll für das I. Quartal des Wintersemesters 1907/08, 1908">
-          <analytic>
-            <title level="a">Bundesprotokoll für das I. Quartal des Wintersemesters 1907/08</title>
-            <author>
-              <forename>Konrad</forename>
-              <surname>Gaiser</surname>
-            </author>
-          </analytic>
-          <monogr>
-            <title level="j">Wingolfs-Blätter (1907/08)</title>
-            <imprint>
-              <biblScope unit="volume">37</biblScope>
-              <biblScope unit="issue">Vertrauliche Beilage zu No. 8 der „Wingolfs-Blätter“ 1908</biblScope>
-              <biblScope unit="page">1</biblScope>
-              <date>1908</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
         <biblStruct type="journalArticle" xml:id="tillich__QQQF6AZ9" corresp="http://zotero.org/groups/5701116/items/QQQF6AZ9" n="Tschudi, Der Erlanger Wingolf an seine Bruderverbindungen, 1908">
           <analytic>
             <title level="a">Der Erlanger Wingolf an seine Bruderverbindungen</title>
@@ -1226,23 +1412,6 @@ Gegenwart (Festschrift für Franz Oppenheimer zu seinem 60. Geburtstag)</title>
               <biblScope unit="volume">36</biblScope>
               <biblScope unit="issue">21</biblScope>
               <biblScope unit="page">197</biblScope>
-              <date>1907</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="journalArticle" xml:id="tillich__7AA3EN2D" corresp="http://zotero.org/groups/5701116/items/7AA3EN2D" n="[Anonym], Bekanntmachungen, 1907">
-          <analytic>
-            <title level="a">Bekanntmachungen</title>
-            <author>
-              <name>[Anonym]</name>
-            </author>
-          </analytic>
-          <monogr>
-            <title level="j">Wingolfs-Blätter (1906/07)</title>
-            <imprint>
-              <biblScope unit="volume">36</biblScope>
-              <biblScope unit="issue">23</biblScope>
-              <biblScope unit="page">227</biblScope>
               <date>1907</date>
             </imprint>
           </monogr>
@@ -2809,23 +2978,6 @@ Gegenwart (Festschrift für Franz Oppenheimer zu seinem 60. Geburtstag)</title>
             </imprint>
           </monogr>
         </biblStruct>
-        <biblStruct type="journalArticle" xml:id="tillich__SSN4VITH" corresp="http://zotero.org/groups/5701116/items/SSN4VITH" n="Wagner, Protokoll des Generalkonvents des 27. Wartburgfestes am 15. Juni 1905 im Fe..., 1905">
-          <analytic>
-            <title level="a">Protokoll des Generalkonvents des 27. Wartburgfestes am 15. Juni 1905 im Festsaale des Fürstenhofes zu Eisenach</title>
-            <author>
-              <forename>Richard</forename>
-              <surname>Wagner</surname>
-            </author>
-          </analytic>
-          <monogr>
-            <title level="j">Wingolfs-Blätter 34 (1904/05)</title>
-            <imprint>
-              <biblScope unit="issue">21</biblScope>
-              <biblScope unit="page">187</biblScope>
-              <date>1905</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
         <biblStruct type="book" xml:id="tillich__S6C32ITW" corresp="http://zotero.org/groups/5701116/items/S6C32ITW" n="Plant, The Dragon in the Forest, 1948">
           <monogr>
             <title level="m">The Dragon in the Forest</title>
@@ -2892,62 +3044,6 @@ Gegenwart (Festschrift für Franz Oppenheimer zu seinem 60. Geburtstag)</title>
             </imprint>
           </monogr>
         </biblStruct>
-        <biblStruct type="journalArticle" xml:id="tillich__PR4PQH4J" corresp="http://zotero.org/groups/5701116/items/PR4PQH4J" n="o.A., Personal-Anzeiger, None">
-          <analytic>
-            <title level="a">Personal-Anzeiger</title>
-          </analytic>
-          <monogr>
-            <title level="j">Wingolfs-Blätter 36 (1906/07)</title>
-            <imprint>
-              <biblScope unit="issue">22</biblScope>
-              <biblScope unit="page">214</biblScope>
-              <date/>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="journalArticle" xml:id="tillich__IGEC7W4W" corresp="http://zotero.org/groups/5701116/items/IGEC7W4W" n="o.A., Personal-Anzeiger, None">
-          <analytic>
-            <title level="a">Personal-Anzeiger</title>
-          </analytic>
-          <monogr>
-            <title level="j">Wingolfs-Blätter 36 (1906/07)</title>
-            <imprint>
-              <biblScope unit="issue">20</biblScope>
-              <biblScope unit="page">190</biblScope>
-              <date/>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="tillich__H2WMBBPV" corresp="http://zotero.org/groups/5701116/items/H2WMBBPV" n="van der Smissen, Kurzgefaßte Geschichte und Glaubenslehre der Altevangelischen Taufgesinnten..., 1895">
-          <monogr>
-            <title level="m">Kurzgefaßte Geschichte und Glaubenslehre der Altevangelischen Taufgesinnten oder Mennoniten</title>
-            <author>
-              <forename>Carl H. A.</forename>
-              <surname>van der Smissen</surname>
-            </author>
-            <imprint>
-              <publisher>Selbstverlag</publisher>
-              <date>1895</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="journalArticle" xml:id="tillich__LWBQJ8AW" corresp="http://zotero.org/groups/5701116/items/LWBQJ8AW" n="Witte, Denken ist leicht…, 1907">
-          <analytic>
-            <title level="a">Denken ist leicht…</title>
-            <author>
-              <forename>Hermann</forename>
-              <surname>Witte</surname>
-            </author>
-          </analytic>
-          <monogr>
-            <title level="j">Wingolfs-Blätter 36 (1906/07)</title>
-            <imprint>
-              <biblScope unit="issue">21</biblScope>
-              <biblScope unit="page">191-193</biblScope>
-              <date>1907</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
         <biblStruct type="newspaperArticle" xml:id="tillich__2Q8J72BF" corresp="http://zotero.org/groups/5701116/items/2Q8J72BF" n="Medicus, Zum 150. Geburtstag Fichtes, 1912">
           <analytic>
             <title level="a">Zum 150. Geburtstag Fichtes</title>
@@ -3010,51 +3106,6 @@ Gegenwart (Festschrift für Franz Oppenheimer zu seinem 60. Geburtstag)</title>
               <biblScope unit="page">176-184</biblScope>
               <publisher>Druck von C. L. Pfeil</publisher>
               <date>1860</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="newspaperArticle" xml:id="tillich__J3CYSYUL" corresp="http://zotero.org/groups/5701116/items/J3CYSYUL" n="o.A., Recht und Geltung des kirchlichen Bekenntnisses, 1907">
-          <analytic>
-            <title level="a">Recht und Geltung des kirchlichen Bekenntnisses</title>
-          </analytic>
-          <monogr>
-            <title level="m">Düsseldorfer General-Anzeiger</title>
-            <edition>Nr. 94, 1. Beilage</edition>
-            <imprint>
-              <biblScope unit="page">3</biblScope>
-              <date>1907</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="journalArticle" xml:id="tillich__BXEJLXW5" corresp="http://zotero.org/groups/5701116/items/BXEJLXW5" n="Nast, Auch ein Appell an die Philister, None">
-          <analytic>
-            <title level="a">Auch ein Appell an die Philister</title>
-            <author>
-              <name>Nast</name>
-            </author>
-          </analytic>
-          <monogr>
-            <title level="j">Wingolfs-Blätter 36 (1906/07)</title>
-            <imprint>
-              <biblScope unit="issue">13</biblScope>
-              <biblScope unit="page">108</biblScope>
-              <date/>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="journalArticle" xml:id="tillich__V67I69JL" corresp="http://zotero.org/groups/5701116/items/V67I69JL" n="Herkenrath, Düsseldorfer Philistertag, 1907">
-          <analytic>
-            <title level="a">Düsseldorfer Philistertag</title>
-            <author>
-              <name>Herkenrath</name>
-            </author>
-          </analytic>
-          <monogr>
-            <title level="j">Wingolfs-Blätter 36 (1906/07)</title>
-            <imprint>
-              <biblScope unit="issue">15</biblScope>
-              <biblScope unit="page">129</biblScope>
-              <date>1907</date>
             </imprint>
           </monogr>
         </biblStruct>
@@ -6153,18 +6204,6 @@ GESAMMELTEN WERKEN VON PAUL TILLICH, Bd. X)</title>
               <pubPlace>Berlin</pubPlace>
               <biblScope unit="page">233–252</biblScope>
               <date>1930</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="tillich__VH5UXIVE" corresp="http://zotero.org/groups/5701116/items/VH5UXIVE" n="Heim, Das Weltbild der Zukunft. Eine Auseinandersetzung zwischen Philosophie, Nat..., 1904">
-          <monogr>
-            <title level="m">Das Weltbild der Zukunft. Eine Auseinandersetzung zwischen Philosophie, Naturwissenschaft und Theologie</title>
-            <author>
-              <forename>Karl</forename>
-              <surname>Heim</surname>
-            </author>
-            <imprint>
-              <date>1904</date>
             </imprint>
           </monogr>
         </biblStruct>
