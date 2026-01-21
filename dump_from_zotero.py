@@ -77,7 +77,7 @@ for i in range(0, int(item_count), PAGE_SIZE):
             f"tillich__{new_xml_id}"  # noqa:
         )
         root_node.append(x)
-    time.sleep(2)
+    time.sleep(1)
     doc.tree_to_file(file_name)
 
 print("adding labels as @n attributes")

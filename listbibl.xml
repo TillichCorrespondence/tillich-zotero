@@ -16,6 +16,128 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__JL2KDCIX" corresp="http://zotero.org/groups/5701116/items/JL2KDCIX" n="Albrecht (Hg.), Band 5 Ein Lebensbild in Dokumenten, 1980">
+          <monogr>
+            <title level="m">Band 5 Ein Lebensbild in Dokumenten</title>
+            <idno type="ISBN">978-3-11-083291-4</idno>
+            <editor>
+              <forename>Renate</forename>
+              <surname>Albrecht</surname>
+            </editor>
+            <editor>
+              <forename>Margot</forename>
+              <surname>Hahl</surname>
+            </editor>
+            <imprint>
+              <publisher>De Gruyter</publisher>
+              <date>1980</date>
+              <note type="url">https://doi.org/10.1515/9783110832914</note>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Briefe, Tagebuch-Auszüge, Berichte</title>
+          </series>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="tillich__ZRSAF37N" corresp="http://zotero.org/groups/5701116/items/ZRSAF37N" n="Tillich, Rezension zu Hendrik de Man: Zur Psychologie des Sozialismus, 2023">
+          <analytic>
+            <title level="a">Rezension zu Hendrik de Man: Zur Psychologie des Sozialismus</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Rezensionen/Reviews 1911-1955</title>
+            <editor>
+              <forename>Christian</forename>
+              <surname>Danz</surname>
+            </editor>
+            <editor>
+              <forename>Erdmann</forename>
+              <surname>Sturm</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Berlin/Boston</pubPlace>
+              <biblScope unit="volume">XXI</biblScope>
+              <biblScope unit="page">188-193</biblScope>
+              <publisher>Walter de Gruyter</publisher>
+              <date>2023</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Ergänzungs- und Nachlaßbände zu den Gesammelten Werken</title>
+          </series>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__Q9V8BE3A" corresp="http://zotero.org/groups/5701116/items/Q9V8BE3A" n="Tillich, Rezension zu Hendrik de Man: Zur Psychologie des Sozialismus, 1927">
+          <analytic>
+            <title level="a">Rezension zu Hendrik de Man: Zur Psychologie des Sozialismus</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Blätter für religiösen Sozialismus</title>
+            <imprint>
+              <pubPlace>Leipzig</pubPlace>
+              <biblScope unit="volume">8. Jg.</biblScope>
+              <biblScope unit="issue">Nr. 5/6</biblScope>
+              <biblScope unit="page">21-25</biblScope>
+              <publisher>Quäker-Verlag</publisher>
+              <date>1927</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__4ZAPVM3U" corresp="http://zotero.org/groups/5701116/items/4ZAPVM3U" n="Otto, Mammonismus, Militarismus, Krieg und Frieden, None">
+          <monogr>
+            <title level="m">Mammonismus, Militarismus, Krieg und Frieden</title>
+            <author>
+              <forename>Berthold</forename>
+              <surname>Otto</surname>
+            </author>
+            <imprint>
+              <publisher>Die Wende</publisher>
+              <date/>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="tillich__GPUNKARH" corresp="http://zotero.org/groups/5701116/items/GPUNKARH" n="Tillich, 2. Kor 4,17f ‒ Auf das Unsichtbare und Ewige sehen, 1994">
+          <analytic>
+            <title level="a">2. Kor 4,17f ‒ Auf das Unsichtbare und Ewige sehen</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Frühe Predigten (EW VII)</title>
+            <editor>
+              <forename>Erdmann</forename>
+              <surname>Sturm</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Berlin/New York</pubPlace>
+              <biblScope unit="page">408-411</biblScope>
+              <date>1994</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="tillich__E6KFJ8F4" corresp="http://zotero.org/groups/5701116/items/E6KFJ8F4" n="Tillich, Revolution und Kirche, None">
+          <analytic>
+            <title level="a">Revolution und Kirche</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">EW XXI</title>
+            <imprint>
+              <biblScope unit="page">15–22</biblScope>
+              <date/>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="journalArticle" xml:id="tillich__T8SPWBV9" corresp="http://zotero.org/groups/5701116/items/T8SPWBV9" n="Luthardt, Bundesprotokoll über das I. Quartal des S.-S. 1911, 1911">
           <analytic>
             <title level="a">Bundesprotokoll über das I. Quartal des S.-S. 1911</title>
@@ -2439,29 +2561,6 @@ Gegenwart (Festschrift für Franz Oppenheimer zu seinem 60. Geburtstag)</title>
             </imprint>
           </monogr>
         </biblStruct>
-        <biblStruct type="book" xml:id="tillich__JL2KDCIX" corresp="http://zotero.org/groups/5701116/items/JL2KDCIX" n="Albrecht (Hg.), Band 5 Ein Lebensbild in Dokumenten, 1980">
-          <monogr>
-            <title level="m">Band 5 Ein Lebensbild in Dokumenten</title>
-            <idno type="ISBN">978-3-11-083291-4</idno>
-            <editor>
-              <forename>Renate</forename>
-              <surname>Albrecht</surname>
-            </editor>
-            <editor>
-              <forename>Margot</forename>
-              <surname>Hahl</surname>
-            </editor>
-            <imprint>
-              <publisher>De Gruyter</publisher>
-              <date>1980</date>
-              <note type="accessed">2025-10-14</note>
-              <note type="url">https://doi.org/10.1515/9783110832914</note>
-            </imprint>
-          </monogr>
-          <series>
-            <title level="s">Briefe, Tagebuch-Auszüge, Berichte</title>
-          </series>
-        </biblStruct>
         <biblStruct type="book" xml:id="tillich__QQJUHUZE" corresp="http://zotero.org/groups/5701116/items/QQJUHUZE" n="Tillich, The Protestant Era, 1948">
           <monogr>
             <title level="m">The Protestant Era</title>
@@ -3259,10 +3358,11 @@ Gegenwart (Festschrift für Franz Oppenheimer zu seinem 60. Geburtstag)</title>
         <biblStruct type="bookSection" xml:id="tillich__LSFSM93Q" corresp="http://zotero.org/groups/5701116/items/LSFSM93Q" n="Bräuer (Hg.), Der gegenwärtige Stand der Geisteswissenschaften und die Schule (1922, 2. A..., 1969">
           <analytic>
             <title level="a">Der gegenwärtige Stand der Geisteswissenschaften und die Schule (1922, 2. Aufl. 1925)</title>
+            <idno type="DOI">10.1515/9783111445823-002</idno>
           </analytic>
           <monogr>
             <title level="m">Band I Geist der Erziehung</title>
-            <idno type="ISBN">9783111445823</idno>
+            <idno type="ISBN">978-3-11-144582-3</idno>
             <editor>
               <forename>Gottfried</forename>
               <surname>Bräuer</surname>
@@ -3406,6 +3506,7 @@ Gegenwart (Festschrift für Franz Oppenheimer zu seinem 60. Geburtstag)</title>
         <biblStruct type="bookSection" xml:id="tillich__QLP3L5UF" corresp="http://zotero.org/groups/5701116/items/QLP3L5UF" n="Tillich, 1. Der Sozialismus als Kirchenfrage (1919), 1998">
           <analytic>
             <title level="a">1. Der Sozialismus als Kirchenfrage (1919)</title>
+            <idno type="DOI">10.1515/9783110884487-003</idno>
             <author>
               <forename>Paul</forename>
               <surname>Tillich</surname>
@@ -3413,7 +3514,7 @@ Gegenwart (Festschrift für Franz Oppenheimer zu seinem 60. Geburtstag)</title>
           </analytic>
           <monogr>
             <title level="m">Volume 3/ Band 3 Writings in the Social Philosophy and Ethics / Sozialphilosophische und ethische Schriften</title>
-            <idno type="ISBN">9783110884487</idno>
+            <idno type="ISBN">978-3-11-088448-7</idno>
             <editor>
               <forename>Carl H.</forename>
               <surname>Ratschow</surname>
@@ -5624,6 +5725,7 @@ GESAMMELTEN WERKEN VON PAUL TILLICH, Bd. X)</title>
               <biblScope unit="volume">6</biblScope>
               <biblScope unit="issue">10</biblScope>
               <biblScope unit="page">193–198</biblScope>
+              <publisher>Gesellschaft der Freunde des vaterländischen Schul- und Erziehungswesens in Hamburg</publisher>
               <date>1927</date>
             </imprint>
           </monogr>
@@ -6022,6 +6124,24 @@ GESAMMELTEN WERKEN VON PAUL TILLICH, Bd. X)</title>
             </imprint>
           </monogr>
         </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__7EWQQQDU" corresp="http://zotero.org/groups/5701116/items/7EWQQQDU" n="Tillich, Selbstanzeige Tillichs von &quot;Hegel und Goethe&quot;, 14. Mai">
+          <analytic>
+            <title level="a">Selbstanzeige Tillichs von "Hegel und Goethe"</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Neuigkeiten</title>
+            <imprint>
+              <biblScope unit="issue">2</biblScope>
+              <biblScope unit="page">25</biblScope>
+              <publisher>J. C. B. Mohr (Paul Siebeck)</publisher>
+              <date>14. Mai</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__6F4HZICQ" corresp="http://zotero.org/groups/5701116/items/6F4HZICQ" n="Schlatter, Zur Topographie und Geschichte Palästinas, 1893">
           <monogr>
             <title level="m">Zur Topographie und Geschichte Palästinas</title>
@@ -6342,23 +6462,6 @@ GESAMMELTEN WERKEN VON PAUL TILLICH, Bd. X)</title>
             <biblScope unit="volume">158</biblScope>
           </series>
         </biblStruct>
-        <biblStruct type="journalArticle" xml:id="tillich__7EWQQQDU" corresp="http://zotero.org/groups/5701116/items/7EWQQQDU" n="Tillich, Selbstanzeige Tillichs von &quot;Hegel und Goethe&quot;, 14. Mai">
-          <analytic>
-            <title level="a">Selbstanzeige Tillichs von "Hegel und Goethe"</title>
-            <author>
-              <forename>Paul</forename>
-              <surname>Tillich</surname>
-            </author>
-          </analytic>
-          <monogr>
-            <title level="j">Neuigkeiten</title>
-            <imprint>
-              <biblScope unit="issue">2</biblScope>
-              <biblScope unit="page">25</biblScope>
-              <date>14. Mai</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
         <biblStruct type="book" xml:id="tillich__U5CLCXKL" corresp="http://zotero.org/groups/5701116/items/U5CLCXKL" n="Glatzer, Untersuchung zur Geschichtslehre der Tannaiten, 1932">
           <monogr>
             <title level="m">Untersuchung zur Geschichtslehre der Tannaiten</title>
@@ -6418,6 +6521,24 @@ GESAMMELTEN WERKEN VON PAUL TILLICH, Bd. X)</title>
             <biblScope unit="volume">158</biblScope>
           </series>
         </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__3TN5IKMC" corresp="http://zotero.org/groups/5701116/items/3TN5IKMC" n="Tillich, Selbstanzeige Tillichs von „Das Dämonische“, 1927">
+          <analytic>
+            <title level="a">Selbstanzeige Tillichs von „Das Dämonische“</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Neuigkeiten</title>
+            <imprint>
+              <biblScope unit="issue">1</biblScope>
+              <biblScope unit="page">5</biblScope>
+              <publisher>J. C. B. Mohr (Paul Siebeck)</publisher>
+              <date>1927</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="bookSection" xml:id="tillich__UDLLPXRC" corresp="http://zotero.org/groups/5701116/items/UDLLPXRC" n="Tillich, Offenbarung: V. A. Religionspsychologisch, 1930">
           <analytic>
             <title level="a">Offenbarung: V. A. Religionspsychologisch</title>
@@ -6433,23 +6554,6 @@ GESAMMELTEN WERKEN VON PAUL TILLICH, Bd. X)</title>
               <biblScope unit="volume">4</biblScope>
               <biblScope unit="page">664–669</biblScope>
               <date>1930</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="journalArticle" xml:id="tillich__3TN5IKMC" corresp="http://zotero.org/groups/5701116/items/3TN5IKMC" n="Tillich, Selbstanzeige Tillichs von „Das Dämonische“, 1927">
-          <analytic>
-            <title level="a">Selbstanzeige Tillichs von „Das Dämonische“</title>
-            <author>
-              <forename>Paul</forename>
-              <surname>Tillich</surname>
-            </author>
-          </analytic>
-          <monogr>
-            <title level="j">Neuigkeiten</title>
-            <imprint>
-              <biblScope unit="issue">1</biblScope>
-              <biblScope unit="page">5</biblScope>
-              <date>1927</date>
             </imprint>
           </monogr>
         </biblStruct>
@@ -6800,6 +6904,42 @@ GESAMMELTEN WERKEN VON PAUL TILLICH, Bd. X)</title>
             </imprint>
           </monogr>
         </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__HSPJHM26" corresp="http://zotero.org/groups/5701116/items/HSPJHM26" n="Tillich, Selbstanzeige Tillichs von „Kirche und Kultur“, 1925">
+          <analytic>
+            <title level="a">Selbstanzeige Tillichs von „Kirche und Kultur“</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Neuigkeiten</title>
+            <imprint>
+              <biblScope unit="issue">3</biblScope>
+              <biblScope unit="page">35</biblScope>
+              <publisher>J. C. B. Mohr (Paul Siebeck)</publisher>
+              <date>1925</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__UTA973SL" corresp="http://zotero.org/groups/5701116/items/UTA973SL" n="Lütgert, Die johanneische Christologie, 1899">
+          <analytic>
+            <title level="a">Die johanneische Christologie</title>
+            <author>
+              <forename>Wilhelm</forename>
+              <surname>Lütgert</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Beiträge zur Förderung christlicher Theologie</title>
+            <imprint>
+              <biblScope unit="volume">3</biblScope>
+              <biblScope unit="issue">1</biblScope>
+              <publisher>C. Bertelsmann</publisher>
+              <date>1899</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__3LASBZNI" corresp="http://zotero.org/groups/5701116/items/3LASBZNI" n="Anders, Skizzen aus unserem heutigen Volksleben, 1899">
           <monogr>
             <title level="m">Skizzen aus unserem heutigen Volksleben</title>
@@ -6843,23 +6983,6 @@ GESAMMELTEN WERKEN VON PAUL TILLICH, Bd. X)</title>
               <biblScope unit="volume">4</biblScope>
               <biblScope unit="issue">1</biblScope>
               <date>1900</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="journalArticle" xml:id="tillich__UTA973SL" corresp="http://zotero.org/groups/5701116/items/UTA973SL" n="Lütgert, Die johanneische Christologie, 1899">
-          <analytic>
-            <title level="a">Die johanneische Christologie</title>
-            <author>
-              <forename>Wilhelm</forename>
-              <surname>Lütgert</surname>
-            </author>
-          </analytic>
-          <monogr>
-            <title level="j">Beiträge zur Förderung christlicher Theologie</title>
-            <imprint>
-              <biblScope unit="volume">3</biblScope>
-              <biblScope unit="issue">1</biblScope>
-              <date>1899</date>
             </imprint>
           </monogr>
         </biblStruct>
@@ -7004,23 +7127,6 @@ GESAMMELTEN WERKEN VON PAUL TILLICH, Bd. X)</title>
             <imprint>
               <publisher>J. C. B. Mohr</publisher>
               <date>1901</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="journalArticle" xml:id="tillich__HSPJHM26" corresp="http://zotero.org/groups/5701116/items/HSPJHM26" n="Tillich, Selbstanzeige Tillichs von „Kirche und Kultur“, 1925">
-          <analytic>
-            <title level="a">Selbstanzeige Tillichs von „Kirche und Kultur“</title>
-            <author>
-              <forename>Paul</forename>
-              <surname>Tillich</surname>
-            </author>
-          </analytic>
-          <monogr>
-            <title level="j">Neuigkeiten</title>
-            <imprint>
-              <biblScope unit="issue">3</biblScope>
-              <biblScope unit="page">35</biblScope>
-              <date>1925</date>
             </imprint>
           </monogr>
         </biblStruct>
@@ -8755,27 +8861,6 @@ GESAMMELTEN WERKEN VON PAUL TILLICH, Bd. X)</title>
               <biblScope unit="volume">73</biblScope>
               <biblScope unit="issue">9</biblScope>
               <date>1931</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="bookSection" xml:id="tillich__GPUNKARH" corresp="http://zotero.org/groups/5701116/items/GPUNKARH" n="Tillich, 2. Kor 4,17f - Auf das Unsichtbare und Ewige sehen, 1994">
-          <analytic>
-            <title level="a">2. Kor 4,17f - Auf das Unsichtbare und Ewige sehen</title>
-            <author>
-              <forename>Paul</forename>
-              <surname>Tillich</surname>
-            </author>
-          </analytic>
-          <monogr>
-            <title level="m">Frühe Predigten (EW VII)</title>
-            <editor>
-              <forename>Erdmann</forename>
-              <surname>Sturm</surname>
-            </editor>
-            <imprint>
-              <pubPlace>Berlin/New York</pubPlace>
-              <biblScope unit="page">408-411</biblScope>
-              <date>1994</date>
             </imprint>
           </monogr>
         </biblStruct>
