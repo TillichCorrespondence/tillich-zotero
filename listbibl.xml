@@ -16,6 +16,17 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__ZWIWFPCW" corresp="http://zotero.org/groups/5701116/items/ZWIWFPCW" n="Augustinus, De civitate dei, None">
+          <monogr>
+            <title level="m">De civitate dei</title>
+            <author>
+              <name>Augustinus</name>
+            </author>
+            <imprint>
+              <date/>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__VSI752RY" corresp="http://zotero.org/groups/5701116/items/VSI752RY" n="Seeberg, Wirklichkeit und Geist im Deutschland von heute, 1929">
           <monogr>
             <title level="m">Wirklichkeit und Geist im Deutschland von heute</title>
