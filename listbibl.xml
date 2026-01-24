@@ -16,16 +16,78 @@
   <text>
     <body>
       <listBibl>
-        <biblStruct type="book" xml:id="tillich__ZWIWFPCW" corresp="http://zotero.org/groups/5701116/items/ZWIWFPCW" n="Augustinus, De civitate dei, None">
+        <biblStruct type="book" xml:id="tillich__Z5N3H4AN" corresp="http://zotero.org/groups/5701116/items/Z5N3H4AN" n="Schlatter, Das Evangelium des Matthäus ausgelegt für Bibelleser, 1900">
           <monogr>
-            <title level="m">De civitate dei</title>
+            <title level="m">Das Evangelium des Matthäus ausgelegt für Bibelleser</title>
             <author>
-              <name>Augustinus</name>
+              <forename>Adolf</forename>
+              <surname>Schlatter</surname>
             </author>
+            <edition>Zweite durchgesehene Auflage</edition>
             <imprint>
-              <date/>
+              <pubPlace>Calw, Stuttgart</pubPlace>
+              <publisher>Verlag der Vereinsbuchhandlung</publisher>
+              <date>1900</date>
             </imprint>
           </monogr>
+          <series>
+            <title level="s">Erläuterungen zum Neuen Testament</title>
+            <biblScope unit="volume">5. Teil</biblScope>
+          </series>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__5VU2H96J" corresp="http://zotero.org/groups/5701116/items/5VU2H96J" n="Schlatter, Die Evangelien des Markus und Lukas ausgelegt für Bibelleser, 1900">
+          <monogr>
+            <title level="m">Die Evangelien des Markus und Lukas ausgelegt für Bibelleser</title>
+            <author>
+              <forename>Adolf</forename>
+              <surname>Schlatter</surname>
+            </author>
+            <imprint>
+              <pubPlace>Calw, Stuttgart</pubPlace>
+              <publisher>Verlag der Vereinsbuchhandlung</publisher>
+              <date>1900</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Erläuterungen zum Neuen Testament</title>
+            <biblScope unit="volume">7. Teil</biblScope>
+          </series>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__5G67D62A" corresp="http://zotero.org/groups/5701116/items/5G67D62A" n="Schlatter, Das Evangelium des Johannes ausgelegt für Bibelleser, 1899">
+          <monogr>
+            <title level="m">Das Evangelium des Johannes ausgelegt für Bibelleser</title>
+            <author>
+              <forename>Adolf</forename>
+              <surname>Schlatter</surname>
+            </author>
+            <imprint>
+              <pubPlace>Calw, Stuttgart</pubPlace>
+              <publisher>Verlag der Vereinsbuchhandlung</publisher>
+              <date>1899</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Erläuterungen zum Neuen Testament</title>
+            <biblScope unit="volume">6. Teil</biblScope>
+          </series>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__FHVD42TC" corresp="http://zotero.org/groups/5701116/items/FHVD42TC" n="Schlatter, Der Galaterbrief ausgelegt für Bibelleser, 1890">
+          <monogr>
+            <title level="m">Der Galaterbrief ausgelegt für Bibelleser</title>
+            <author>
+              <forename>Adolf</forename>
+              <surname>Schlatter</surname>
+            </author>
+            <imprint>
+              <pubPlace>Calw, Stuttgart</pubPlace>
+              <publisher>Verlag der Vereinsbuchhandlung</publisher>
+              <date>1890</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Erläuterungen zum Neuen Testament</title>
+            <biblScope unit="volume">3. Teil</biblScope>
+          </series>
         </biblStruct>
         <biblStruct type="book" xml:id="tillich__VSI752RY" corresp="http://zotero.org/groups/5701116/items/VSI752RY" n="Seeberg, Wirklichkeit und Geist im Deutschland von heute, 1929">
           <monogr>
