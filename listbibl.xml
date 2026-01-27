@@ -16,6 +16,107 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__G8SHB5VX" corresp="http://zotero.org/groups/5701116/items/G8SHB5VX" n="Kinkel, Idealismus und Realismus. Eine Einführung in ihr Wesen und in ihre kulturge..., 1911">
+          <monogr>
+            <title level="m">Idealismus und Realismus. Eine Einführung in ihr Wesen und in ihre kulturgeschichtliche Entwicklung</title>
+            <author>
+              <forename>Walter</forename>
+              <surname>Kinkel</surname>
+            </author>
+            <edition>1.</edition>
+            <imprint>
+              <pubPlace>Göttingen</pubPlace>
+              <publisher>Vandenhoeck &amp; Ruprecht</publisher>
+              <date>1911</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Wege zur Einführung in die Philosophie. Schriften zur Einführung in das philosophische Denken</title>
+            <biblScope unit="volume">3</biblScope>
+          </series>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__NTRF83U2" corresp="http://zotero.org/groups/5701116/items/NTRF83U2" n="Natorp, Philosophie. Ihr Problem und ihre Probleme. Einführung in den kritischen Id..., 1911">
+          <monogr>
+            <title level="m">Philosophie. Ihr Problem und ihre Probleme. Einführung in den kritischen Idealismus</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Natorp</surname>
+            </author>
+            <edition>1</edition>
+            <imprint>
+              <pubPlace>Göttingen</pubPlace>
+              <publisher>Vandenhoeck &amp; Ruprecht</publisher>
+              <date>1911</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Wege der Philosophie, Ergänzungsreihe: Einführung in die Philosophie der Gegenwart</title>
+            <biblScope unit="volume">1</biblScope>
+          </series>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__NX8NPFN9" corresp="http://zotero.org/groups/5701116/items/NX8NPFN9" n="König, Die Materie, 1911">
+          <monogr>
+            <title level="m">Die Materie</title>
+            <author>
+              <forename>Edmund</forename>
+              <surname>König</surname>
+            </author>
+            <imprint>
+              <pubPlace>Göttingen</pubPlace>
+              <publisher>Vandenhoeck &amp; Ruprecht</publisher>
+              <date>1911</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Wege zur Philosophie. Schriften zur Einführung in das philosophische Denken</title>
+            <biblScope unit="volume">2</biblScope>
+          </series>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__TAMRE88S" corresp="http://zotero.org/groups/5701116/items/TAMRE88S" n="Messer, Das Problem der Willensfreiheit, 1911">
+          <monogr>
+            <title level="m">Das Problem der Willensfreiheit</title>
+            <author>
+              <forename>August</forename>
+              <surname>Messer</surname>
+            </author>
+            <imprint>
+              <pubPlace>Göttingen</pubPlace>
+              <publisher>Vandenhoeck &amp; Ruprecht</publisher>
+              <date>1911</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Wege zur Philosophie. Schriften zur Einführung in das philosophische Denken</title>
+            <biblScope unit="volume">1</biblScope>
+          </series>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__PWM746KT" corresp="http://zotero.org/groups/5701116/items/PWM746KT" n="o.A., Internationaler Sozialisten-Kongreß zu Stuttgart, 1907">
+          <monogr>
+            <title level="m">Internationaler Sozialisten-Kongreß zu Stuttgart</title>
+            <imprint>
+              <pubPlace>Berlin</pubPlace>
+              <publisher>Buchhandlung Vorwärts</publisher>
+              <date>1907</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="newspaperArticle" xml:id="tillich__S5R6K5HW" corresp="http://zotero.org/groups/5701116/items/S5R6K5HW" n="[Anonym], Die proletarische Internationale in Stuttgart, 1907">
+          <analytic>
+            <title level="a">Die proletarische Internationale in Stuttgart</title>
+            <author>
+              <name>[Anonym]</name>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Vorwärts. Berliner Volksblatt. Zentralorgan der sozialdemokratischen Partei Deutschlands</title>
+            <imprint>
+              <biblScope unit="volume">24. Jahrgang, Nr. 193</biblScope>
+              <biblScope unit="issue">1. Beilage</biblScope>
+              <biblScope unit="page">o.P.</biblScope>
+              <date>1907</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__Z5N3H4AN" corresp="http://zotero.org/groups/5701116/items/Z5N3H4AN" n="Schlatter, Das Evangelium des Matthäus ausgelegt für Bibelleser, 1900">
           <monogr>
             <title level="m">Das Evangelium des Matthäus ausgelegt für Bibelleser</title>
