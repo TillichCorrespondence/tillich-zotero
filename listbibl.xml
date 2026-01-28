@@ -16,6 +16,40 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="newspaperArticle" xml:id="tillich__JP9N46WM" corresp="http://zotero.org/groups/5701116/items/JP9N46WM" n="Lp, 11. ordentliche Brandenburgische Provinzialsynode, 1905">
+          <analytic>
+            <title level="a">11. ordentliche Brandenburgische Provinzialsynode</title>
+            <author>
+              <name>Lp</name>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Der Reichsbote</title>
+            <imprint>
+              <pubPlace>Berlin</pubPlace>
+              <biblScope unit="volume">33. Jahrgang, Nr. 251</biblScope>
+              <biblScope unit="page">3</biblScope>
+              <date>1905</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__Q5WCS8GB" corresp="http://zotero.org/groups/5701116/items/Q5WCS8GB" n="[Anonym], Teilnehmerliste des 27. Wartburgfestes, 1905">
+          <analytic>
+            <title level="a">Teilnehmerliste des 27. Wartburgfestes</title>
+            <author>
+              <name>[Anonym]</name>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Wingolfs-Blätter (1905/06)</title>
+            <imprint>
+              <biblScope unit="volume">34</biblScope>
+              <biblScope unit="issue">17</biblScope>
+              <biblScope unit="page">165 f.</biblScope>
+              <date>1905</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__G8SHB5VX" corresp="http://zotero.org/groups/5701116/items/G8SHB5VX" n="Kinkel, Idealismus und Realismus. Eine Einführung in ihr Wesen und in ihre kulturge..., 1911">
           <monogr>
             <title level="m">Idealismus und Realismus. Eine Einführung in ihr Wesen und in ihre kulturgeschichtliche Entwicklung</title>
@@ -922,23 +956,6 @@
               <biblScope unit="issue">20</biblScope>
               <biblScope unit="page">192 f.</biblScope>
               <date>1906</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="journalArticle" xml:id="tillich__Q5WCS8GB" corresp="http://zotero.org/groups/5701116/items/Q5WCS8GB" n="Wingolfsbund, Teilnehmerliste des 27. Wartburgfestes, 1905">
-          <analytic>
-            <title level="a">Teilnehmerliste des 27. Wartburgfestes</title>
-            <author>
-              <name>Wingolfsbund</name>
-            </author>
-          </analytic>
-          <monogr>
-            <title level="j">Wingolfs-Blätter (1905/06)</title>
-            <imprint>
-              <biblScope unit="volume">34</biblScope>
-              <biblScope unit="issue">17</biblScope>
-              <biblScope unit="page">165 f.</biblScope>
-              <date>1905</date>
             </imprint>
           </monogr>
         </biblStruct>
