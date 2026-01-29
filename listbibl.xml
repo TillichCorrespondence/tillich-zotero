@@ -16,6 +16,71 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__XGNW9WRU" corresp="http://zotero.org/groups/5701116/items/XGNW9WRU" n="Richter, Lebenserinnerungen eines deutschen Malers. Selbstbiographie nebst Tagebuchn..., 1885">
+          <monogr>
+            <title level="m">Lebenserinnerungen eines deutschen Malers. Selbstbiographie nebst Tagebuchniederschriften und Briefen von Ludwig Richter</title>
+            <author>
+              <forename>Heinrich (Hg.)</forename>
+              <surname>Richter</surname>
+            </author>
+            <imprint>
+              <pubPlace>Frankfurt am Main</pubPlace>
+              <publisher>Verlag von Johannes Alt</publisher>
+              <date>1885</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__KY94NUDX" corresp="http://zotero.org/groups/5701116/items/KY94NUDX" n="Boz (Dickens), Unser gemeinsamer Freund. Aus dem Englischen von L. Dubois, 1866">
+          <monogr>
+            <title level="m">Unser gemeinsamer Freund. Aus dem Englischen von L. Dubois</title>
+            <author>
+              <name>Boz (Dickens)</name>
+            </author>
+            <imprint>
+              <pubPlace>Stuttgart</pubPlace>
+              <biblScope unit="volume">Bd. 1/2</biblScope>
+              <publisher>Hoffmann'sche Verlags-Buchhandlung</publisher>
+              <date>1866</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Boz's (Dickens) sämmtliche Werke</title>
+            <biblScope unit="volume">Bd. 24/25</biblScope>
+          </series>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__C2M2DQMN" corresp="http://zotero.org/groups/5701116/items/C2M2DQMN" n="Schlatter, Predigten in der Stiftskirche zu Tübingen, None">
+          <monogr>
+            <title level="m">Predigten in der Stiftskirche zu Tübingen</title>
+            <author>
+              <forename>Adolf</forename>
+              <surname>Schlatter</surname>
+            </author>
+            <imprint>
+              <pubPlace>Tübingen</pubPlace>
+              <biblScope unit="volume">Elf Jahrgänge, 1902-1912</biblScope>
+              <publisher>Druck und Verlag von Gg. Schnürlen</publisher>
+              <date/>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__QETUFZVA" corresp="http://zotero.org/groups/5701116/items/QETUFZVA" n="Ungnad, Die Religion der Babylonier und Assyrer, 1921">
+          <monogr>
+            <title level="m">Die Religion der Babylonier und Assyrer</title>
+            <author>
+              <forename>Arthur</forename>
+              <surname>Ungnad</surname>
+            </author>
+            <imprint>
+              <pubPlace>Jena</pubPlace>
+              <biblScope unit="volume">3</biblScope>
+              <publisher>Eugen Diederichs Verlag</publisher>
+              <date>1921</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Religiöse Stimmen der Völker</title>
+          </series>
+        </biblStruct>
         <biblStruct type="newspaperArticle" xml:id="tillich__JP9N46WM" corresp="http://zotero.org/groups/5701116/items/JP9N46WM" n="Lp, 11. ordentliche Brandenburgische Provinzialsynode, 1905">
           <analytic>
             <title level="a">11. ordentliche Brandenburgische Provinzialsynode</title>
@@ -6837,19 +6902,6 @@ GESAMMELTEN WERKEN VON PAUL TILLICH, Bd. X)</title>
               <pubPlace>Rostock</pubPlace>
               <publisher>Hinstorff</publisher>
               <date>1997</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="tillich__KY94NUDX" corresp="http://zotero.org/groups/5701116/items/KY94NUDX" n="Dickens, Sämmtliche Werke: Aus dem Englischen. Unser gemeinsamer Freund, 1870">
-          <monogr>
-            <title level="m">Sämmtliche Werke: Aus dem Englischen. Unser gemeinsamer Freund</title>
-            <author>
-              <forename>Charles</forename>
-              <surname>Dickens</surname>
-            </author>
-            <imprint>
-              <publisher>Hoffmann</publisher>
-              <date>1870</date>
             </imprint>
           </monogr>
         </biblStruct>
