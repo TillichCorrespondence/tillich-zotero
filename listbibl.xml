@@ -16,6 +16,44 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__HXHEICRN" corresp="http://zotero.org/groups/5701116/items/HXHEICRN" n="Müller, Kirchengeschichte, 1902">
+          <monogr>
+            <title level="m">Kirchengeschichte</title>
+            <author>
+              <forename>Karl</forename>
+              <surname>Müller</surname>
+            </author>
+            <imprint>
+              <pubPlace>Tübingen, Leipzig</pubPlace>
+              <biblScope unit="volume">Zweiter Band, Erster Halbband</biblScope>
+              <publisher>Verlag von J.C.B. Mohr (Paul Siebeck)</publisher>
+              <date>1902</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Grundriss der Theologischen Wissenschaften</title>
+            <biblScope unit="volume">Vierter Teil, Zweiter Band (in zwei Halbbänden)</biblScope>
+          </series>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__B86BG2NP" corresp="http://zotero.org/groups/5701116/items/B86BG2NP" n="Müller, Kirchengeschichte, 1892">
+          <monogr>
+            <title level="m">Kirchengeschichte</title>
+            <author>
+              <forename>Karl</forename>
+              <surname>Müller</surname>
+            </author>
+            <imprint>
+              <pubPlace>Freiburg i.B.</pubPlace>
+              <biblScope unit="volume">Erster Band</biblScope>
+              <publisher>Akademische Verlagsbuchhandlung von J.C.B. Mohr (Paul Siebeck)</publisher>
+              <date>1892</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Grundriss der Theologischen Wissenschaften</title>
+            <biblScope unit="volume">Vierter Theil, Erster Band</biblScope>
+          </series>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__XGNW9WRU" corresp="http://zotero.org/groups/5701116/items/XGNW9WRU" n="Richter, Lebenserinnerungen eines deutschen Malers. Selbstbiographie nebst Tagebuchn..., 1885">
           <monogr>
             <title level="m">Lebenserinnerungen eines deutschen Malers. Selbstbiographie nebst Tagebuchniederschriften und Briefen von Ludwig Richter</title>
