@@ -16,6 +16,162 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="newspaperArticle" xml:id="tillich__86EJB7VS" corresp="http://zotero.org/groups/5701116/items/86EJB7VS" n="o.A., o.T., 1932">
+          <analytic>
+            <title level="a"/>
+          </analytic>
+          <monogr>
+            <title level="m">Mannheimer Volksblatt</title>
+            <imprint>
+              <pubPlace>Mannheim</pubPlace>
+              <biblScope unit="issue">80</biblScope>
+              <date>1932</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="newspaperArticle" xml:id="tillich__SDM6JD66" corresp="http://zotero.org/groups/5701116/items/SDM6JD66" n="K., Goethefeier im Nationaltheater, 1932">
+          <analytic>
+            <title level="a">Goethefeier im Nationaltheater</title>
+            <author>
+              <name>K.</name>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Neue Mannheimer Zeitung. Morgenzeitung</title>
+            <imprint>
+              <pubPlace>Mannheim</pubPlace>
+              <biblScope unit="volume">143</biblScope>
+              <biblScope unit="issue">135</biblScope>
+              <biblScope unit="page">2</biblScope>
+              <date>1932</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="newspaperArticle" xml:id="tillich__V9RKE6SI" corresp="http://zotero.org/groups/5701116/items/V9RKE6SI" n="o.A., Künftig erscheinende Bücher, 1926">
+          <analytic>
+            <title level="a">Künftig erscheinende Bücher</title>
+          </analytic>
+          <monogr>
+            <title level="m">Börsenblatt für den Deutschen Buchhandel. Fachzeitschrift für Verlagswesen und Buchhandel</title>
+            <imprint>
+              <pubPlace>Leipzig</pubPlace>
+              <biblScope unit="volume">93</biblScope>
+              <biblScope unit="issue">96</biblScope>
+              <biblScope unit="page">4215–4217</biblScope>
+              <date>1926</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="newspaperArticle" xml:id="tillich__GVC9WBXB" corresp="http://zotero.org/groups/5701116/items/GVC9WBXB" n="M., Staat, Wirtschaft und Kultur, 1926">
+          <analytic>
+            <title level="a">Staat, Wirtschaft und Kultur</title>
+            <author>
+              <name>M.</name>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Hamburger Echo, Abend-Ausgabe</title>
+            <imprint>
+              <pubPlace>Hamburg</pubPlace>
+              <biblScope unit="volume">52</biblScope>
+              <biblScope unit="issue">54</biblScope>
+              <biblScope unit="page">5</biblScope>
+              <date>1926</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="tillich__G99NKTBL" corresp="http://zotero.org/groups/5701116/items/G99NKTBL" n="Brunner, Die Grenzen der Humanität. Habilitationsvorlesung an der Universität Zürich, 1922">
+          <analytic>
+            <title level="a">Die Grenzen der Humanität. Habilitationsvorlesung an der Universität Zürich</title>
+            <author>
+              <forename>Emil</forename>
+              <surname>Brunner</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Sammlung gemeinverständlicher Vorträge</title>
+            <imprint>
+              <pubPlace>Tübingen</pubPlace>
+              <date>1922</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__7MTADXNN" corresp="http://zotero.org/groups/5701116/items/7MTADXNN" n="Natorp, Philosophie. Ihr Problem und ihre Probleme. Einführung in den kritischen Id..., 1918">
+          <monogr>
+            <title level="m">Philosophie. Ihr Problem und ihre Probleme. Einführung in den kritischen Idealismus</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Natorp</surname>
+            </author>
+            <edition>Zweite verbesserte Auflage</edition>
+            <imprint>
+              <pubPlace>Göttingen</pubPlace>
+              <publisher>Vandenhoeck &amp; Ruprecht</publisher>
+              <date>1918</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Wege zur Philosophie, Ergänzungsreihe: Einführungen in die Philosophie der Gegenwart</title>
+            <biblScope unit="volume">Nr. 1</biblScope>
+          </series>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__HUF82G5J" corresp="http://zotero.org/groups/5701116/items/HUF82G5J" n="Schmidt, Der philosophische Sinn. Programm des energetischen Idealismus, 1912">
+          <monogr>
+            <title level="m">Der philosophische Sinn. Programm des energetischen Idealismus</title>
+            <author>
+              <forename>Ferdinand Jakob</forename>
+              <surname>Schmidt</surname>
+            </author>
+            <imprint>
+              <pubPlace>Göttingen</pubPlace>
+              <publisher>Vandenhoeck &amp; Ruprecht</publisher>
+              <date>1912</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Wege zur Philosophie</title>
+            <biblScope unit="volume">Ergänzungsreihe: Einführungen in die Philosophie der Gegenwart, Nr. 2</biblScope>
+          </series>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__4ZAPVM3U" corresp="http://zotero.org/groups/5701116/items/4ZAPVM3U" n="Otto, Mammonismus, Militarismus, Krieg und Frieden, 1918">
+          <monogr>
+            <title level="m">Mammonismus, Militarismus, Krieg und Frieden</title>
+            <author>
+              <forename>Berthold</forename>
+              <surname>Otto</surname>
+            </author>
+            <imprint>
+              <pubPlace>Berlin</pubPlace>
+              <publisher>Die Wende/ Verlag</publisher>
+              <date>1918</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Bücher der Wende. Neu-geisteswissenschaftliche Reihe</title>
+            <biblScope unit="volume">Nr. 1</biblScope>
+          </series>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__XGMPPNBS" corresp="http://zotero.org/groups/5701116/items/XGMPPNBS" n="o.A., Adressbuch der Kreishauptstadt Nauen 1908. Zusammengestellt auf Grund amtli..., 1908">
+          <monogr>
+            <title level="m">Adressbuch der Kreishauptstadt Nauen 1908. Zusammengestellt auf Grund amtlichen Materials</title>
+            <imprint>
+              <pubPlace>Berlin</pubPlace>
+              <publisher>Baedeker u. Moeller Verlag</publisher>
+              <date>1908</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__HS8X393Q" corresp="http://zotero.org/groups/5701116/items/HS8X393Q" n="o.A., Adreßbuch für Berlin und seine Vororte. 1902. Unter Benutzung amtlicher Que..., o.J.">
+          <monogr>
+            <title level="m">Adreßbuch für Berlin und seine Vororte. 1902. Unter Benutzung amtlicher Quellen. Mit der Beigabe: Plan von Berlin und Umgebung</title>
+            <imprint>
+              <pubPlace>Berlin</pubPlace>
+              <biblScope unit="volume">Erster Band</biblScope>
+              <publisher>Druck und Verlag der Berliner Adreßbuch-Gesellschaft</publisher>
+              <date>o.J.</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__HXHEICRN" corresp="http://zotero.org/groups/5701116/items/HXHEICRN" n="Müller, Kirchengeschichte, 1902">
           <monogr>
             <title level="m">Kirchengeschichte</title>
@@ -409,19 +565,6 @@
               <biblScope unit="page">21-25</biblScope>
               <publisher>Quäker-Verlag</publisher>
               <date>1927</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="tillich__4ZAPVM3U" corresp="http://zotero.org/groups/5701116/items/4ZAPVM3U" n="Otto, Mammonismus, Militarismus, Krieg und Frieden, None">
-          <monogr>
-            <title level="m">Mammonismus, Militarismus, Krieg und Frieden</title>
-            <author>
-              <forename>Berthold</forename>
-              <surname>Otto</surname>
-            </author>
-            <imprint>
-              <publisher>Die Wende</publisher>
-              <date/>
             </imprint>
           </monogr>
         </biblStruct>
@@ -6940,22 +7083,6 @@ GESAMMELTEN WERKEN VON PAUL TILLICH, Bd. X)</title>
               <pubPlace>Rostock</pubPlace>
               <publisher>Hinstorff</publisher>
               <date>1997</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="bookSection" xml:id="tillich__G99NKTBL" corresp="http://zotero.org/groups/5701116/items/G99NKTBL" n="Bruner, Die Grenzen der Humanität. Habilitationsvorlesung an der Universität Zürich, 1922">
-          <analytic>
-            <title level="a">Die Grenzen der Humanität. Habilitationsvorlesung an der Universität Zürich</title>
-            <author>
-              <forename>Emil</forename>
-              <surname>Bruner</surname>
-            </author>
-          </analytic>
-          <monogr>
-            <title level="m">Sammlung gemeinverständlicher Vorträge</title>
-            <imprint>
-              <pubPlace>Tübingen</pubPlace>
-              <date>1922</date>
             </imprint>
           </monogr>
         </biblStruct>
