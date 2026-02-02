@@ -16,6 +16,53 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__62PGNC6K" corresp="http://zotero.org/groups/5701116/items/62PGNC6K" n="Beck, Leitfaden der christlichen Glaubenslehre für Kirche, Schule und Haus, 1862">
+          <monogr>
+            <title level="m">Leitfaden der christlichen Glaubenslehre für Kirche, Schule und Haus</title>
+            <author>
+              <forename>Johann Tobias</forename>
+              <surname>Beck</surname>
+            </author>
+            <imprint>
+              <pubPlace>Stuttgart</pubPlace>
+              <publisher>Steinkopf</publisher>
+              <date>1862</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__3PF8JKET" corresp="http://zotero.org/groups/5701116/items/3PF8JKET" n="Beck, Die christliche Lehr-Wissenschaft nach den biblischen Urkunden, 1841">
+          <monogr>
+            <title level="m">Die christliche Lehr-Wissenschaft nach den biblischen Urkunden</title>
+            <author>
+              <forename>Johann Tobias</forename>
+              <surname>Beck</surname>
+            </author>
+            <imprint>
+              <pubPlace>Stuttgart</pubPlace>
+              <publisher>Belser</publisher>
+              <date>1841</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__QPEUPVXC" corresp="http://zotero.org/groups/5701116/items/QPEUPVXC" n="Schleiermacher, Über die Religion. Reden an die Gebildeten unter ihren Verächtern, 1913">
+          <monogr>
+            <title level="m">Über die Religion. Reden an die Gebildeten unter ihren Verächtern</title>
+            <author>
+              <forename>Friedrich Daniel Ernst</forename>
+              <surname>Schleiermacher</surname>
+            </author>
+            <editor>
+              <forename>Rudolf</forename>
+              <surname>Otto</surname>
+            </editor>
+            <edition>3. Auflage</edition>
+            <imprint>
+              <pubPlace>Göttingen</pubPlace>
+              <publisher>Vandenhoeck &amp; Ruprecht</publisher>
+              <date>1913</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="newspaperArticle" xml:id="tillich__86EJB7VS" corresp="http://zotero.org/groups/5701116/items/86EJB7VS" n="o.A., o.T., 1932">
           <analytic>
             <title level="a"/>
