@@ -16,6 +16,252 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="journalArticle" xml:id="tillich__IKFV4IUJ" corresp="http://zotero.org/groups/5701116/items/IKFV4IUJ" n="Holl, Thomas Chalmers und die Anfänge der kirchlich-sozialen Bewegung, 1913">
+          <analytic>
+            <title level="a">Thomas Chalmers und die Anfänge der kirchlich-sozialen Bewegung</title>
+            <author>
+              <forename>Karl</forename>
+              <surname>Holl</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Zeitschrift für Theologie und Kirche</title>
+            <imprint>
+              <biblScope unit="volume">23</biblScope>
+              <biblScope unit="issue">4</biblScope>
+              <biblScope unit="page">219-265</biblScope>
+              <date>1913</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="newspaperArticle" xml:id="tillich__RJAGHBWG" corresp="http://zotero.org/groups/5701116/items/RJAGHBWG" n="Medicus, Paul Tillich, 1929">
+          <analytic>
+            <title level="a">Paul Tillich</title>
+            <author>
+              <forename>Fritz</forename>
+              <surname>Medicus</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Neue Zürcher Zeitung und schweizerisches Handelsblatt</title>
+            <imprint>
+              <biblScope unit="volume">Nr. 527</biblScope>
+              <biblScope unit="issue">Abendausgabe</biblScope>
+              <date>1929</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="tillich__5H4R8QWZ" corresp="http://zotero.org/groups/5701116/items/5H4R8QWZ" n="Tillich, Religion und Kultur, 1999">
+          <analytic>
+            <title level="a">Religion und Kultur</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Religion, Kultur, Gesellschaft. Unveröffentlichte Texte aus der deutschen Zeit (1908-1933). Hg. von Erdmann Sturm</title>
+            <imprint>
+              <pubPlace>Berlin, New York</pubPlace>
+              <biblScope unit="volume">Erster Teil</biblScope>
+              <biblScope unit="page">275-381</biblScope>
+              <publisher>De Gruyter, Evangelisches Verlagswerk</publisher>
+              <date>1999</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Ergänzungs- und Nachlassbände zu den Gesammelten Werken von Paul TiIllich</title>
+            <biblScope unit="volume">Band X</biblScope>
+          </series>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__A4XZ2V3B" corresp="http://zotero.org/groups/5701116/items/A4XZ2V3B" n="Tillich, Berliner Vorlesungen I (1919-1920). Hg. und mit einer historischen Einleitu..., 2001">
+          <monogr>
+            <title level="m">Berliner Vorlesungen I (1919-1920). Hg. und mit einer historischen Einleitung versehen von Erdmann Sturm</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+            <imprint>
+              <pubPlace>Berlin, New York</pubPlace>
+              <publisher>De Gruyter, Evangelisches Verlagswerk</publisher>
+              <date>2001</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Ergänzungs- und Nachlassbände zu den Gesammelten Werken von Paul Tillich</title>
+            <biblScope unit="volume">Band XII</biblScope>
+          </series>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__DHQTCG8Z" corresp="http://zotero.org/groups/5701116/items/DHQTCG8Z" n="Tillich, Mystik und Schuldbewußtsein in Schellings philosophischer Entwicklung, 1912">
+          <monogr>
+            <title level="m">Mystik und Schuldbewußtsein in Schellings philosophischer Entwicklung</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+            <imprint>
+              <pubPlace>Gütersloh</pubPlace>
+              <biblScope unit="volume">Erstes Heft</biblScope>
+              <publisher>Druck und Verlag von C. Bertelsmann</publisher>
+              <date>1912</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Beiträge zur Förderung christlicher Theologie</title>
+            <biblScope unit="volume">Sechzehnter Jahrgang</biblScope>
+          </series>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__EBJX4XNQ" corresp="http://zotero.org/groups/5701116/items/EBJX4XNQ" n="Medicus, Die religiöse Mystik und die klassische deutsche Philosophie, 1918">
+          <analytic>
+            <title level="a">Die religiöse Mystik und die klassische deutsche Philosophie</title>
+            <author>
+              <forename>Fritz</forename>
+              <surname>Medicus</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Beiträge zur Philosophie des Deutschen Idealismus</title>
+            <imprint>
+              <biblScope unit="volume">I</biblScope>
+              <biblScope unit="page">158-169</biblScope>
+              <publisher>Deutsche Philosophische Gesellschaft</publisher>
+              <date>1918</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__42A7UU3I" corresp="http://zotero.org/groups/5701116/items/42A7UU3I" n="Tillich, Jugendbewegung und Religion, 1924">
+          <analytic>
+            <title level="a">Jugendbewegung und Religion</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Werkland</title>
+            <imprint>
+              <biblScope unit="volume">Jg. 4</biblScope>
+              <biblScope unit="page">61-64</biblScope>
+              <date>1924</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="tillich__P9SZ9JE8" corresp="http://zotero.org/groups/5701116/items/P9SZ9JE8" n="Tillich, Jugendbewegung und Religion, 1972">
+          <analytic>
+            <title level="a">Jugendbewegung und Religion</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Impressionen und Reflexionen. Ein Lebensbild in Aufsätzen, Reden und Stellungnahmen</title>
+            <imprint>
+              <pubPlace>Stuttgart</pubPlace>
+              <biblScope unit="volume">13</biblScope>
+              <biblScope unit="page">130-133</biblScope>
+              <date>1972</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Gesammelte Werke</title>
+          </series>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__3PAKTZQ3" corresp="http://zotero.org/groups/5701116/items/3PAKTZQ3" n="Medicus, J. G. Fichte als Anhänger und als Kritiker des Völkerbundgedankens, 1920">
+          <analytic>
+            <title level="a">J. G. Fichte als Anhänger und als Kritiker des Völkerbundgedankens</title>
+            <author>
+              <forename>Fritz</forename>
+              <surname>Medicus</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Zeitschrift für Völkerrecht</title>
+            <imprint>
+              <biblScope unit="volume">XI</biblScope>
+              <biblScope unit="page">141-154</biblScope>
+              <date>1920</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__M37I7HMN" corresp="http://zotero.org/groups/5701116/items/M37I7HMN" n="Graf (Hg.), Neukantianismus, Fichte- und Schellingrenaissance. Paul Tillich und sein ph..., 2004">
+          <analytic>
+            <title level="a">Neukantianismus, Fichte- und Schellingrenaissance. Paul Tillich und sein philosophischer Lehrer Fritz Medicus</title>
+          </analytic>
+          <monogr>
+            <title level="j">Journal for the History of Modern Theology/ Zeitschrift für Neuere Theologiegeschichte</title>
+            <editor>
+              <forename>Friedrich Wilhelm</forename>
+              <surname>Graf</surname>
+            </editor>
+            <editor>
+              <forename>Alf</forename>
+              <surname>Christophersen</surname>
+            </editor>
+            <imprint>
+              <biblScope unit="volume">11</biblScope>
+              <biblScope unit="issue">1</biblScope>
+              <biblScope unit="page">52-78</biblScope>
+              <date>2004</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__395CR6I6" corresp="http://zotero.org/groups/5701116/items/395CR6I6" n="Medicus, Naturforschung und Philosophie, 1917">
+          <analytic>
+            <title level="a">Naturforschung und Philosophie</title>
+            <author>
+              <forename>Fritz</forename>
+              <surname>Medicus</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Logos. Internationale Zeitschrift für Philosophie der Kultur</title>
+            <imprint>
+              <biblScope unit="volume">VII</biblScope>
+              <biblScope unit="page">247-261</biblScope>
+              <date>1917</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__TMHN6J9N" corresp="http://zotero.org/groups/5701116/items/TMHN6J9N" n="Tillich, Die Theologie als Wissenschaft, 2021">
+          <analytic>
+            <title level="a">Die Theologie als Wissenschaft</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Liminal Spaces and Ethical Challenges. International Yearbook for Tillich Research</title>
+            <editor>
+              <forename>Christian</forename>
+              <surname>Danz</surname>
+            </editor>
+            <imprint>
+              <biblScope unit="volume">15</biblScope>
+              <biblScope unit="page">195-200</biblScope>
+              <date>2021</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="newspaperArticle" xml:id="tillich__7A9D6N9E" corresp="http://zotero.org/groups/5701116/items/7A9D6N9E" n="Tillich, Die Theologie als Wissenschaft, 1921">
+          <analytic>
+            <title level="a">Die Theologie als Wissenschaft</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Vossische Zeitung</title>
+            <imprint>
+              <pubPlace>Berlin</pubPlace>
+              <biblScope unit="issue">512</biblScope>
+              <biblScope unit="page">2f.</biblScope>
+              <date>1921</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__62PGNC6K" corresp="http://zotero.org/groups/5701116/items/62PGNC6K" n="Beck, Leitfaden der christlichen Glaubenslehre für Kirche, Schule und Haus, 1862">
           <monogr>
             <title level="m">Leitfaden der christlichen Glaubenslehre für Kirche, Schule und Haus</title>
@@ -2267,19 +2513,6 @@ Gegenwart (Festschrift für Franz Oppenheimer zu seinem 60. Geburtstag)</title>
               <pubPlace>Düsseldorf</pubPlace>
               <publisher>Patmos</publisher>
               <date>1986</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="tillich__EBJX4XNQ" corresp="http://zotero.org/groups/5701116/items/EBJX4XNQ" n="Medicus, Die religiöse Mystik und die klassische deutsche Philosophie, 1919">
-          <monogr>
-            <title level="m">Die religiöse Mystik und die klassische deutsche Philosophie</title>
-            <author>
-              <forename>Fritz</forename>
-              <surname>Medicus</surname>
-            </author>
-            <imprint>
-              <publisher>Verlag der Keyser'schen Buchhandlung</publisher>
-              <date>1919</date>
             </imprint>
           </monogr>
         </biblStruct>
@@ -9692,19 +9925,6 @@ GESAMMELTEN WERKEN VON PAUL TILLICH, Bd. X)</title>
             <imprint>
               <pubPlace>Königsberg</pubPlace>
               <date>1795</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="tillich__DHQTCG8Z" corresp="http://zotero.org/groups/5701116/items/DHQTCG8Z" n="Tillich, Mystik und Schuldbewußtsein in Schellings philosophischer Entwicklung, 1912">
-          <monogr>
-            <title level="m">Mystik und Schuldbewußtsein in Schellings philosophischer Entwicklung</title>
-            <author>
-              <forename>Paul</forename>
-              <surname>Tillich</surname>
-            </author>
-            <imprint>
-              <pubPlace>Gütersloh</pubPlace>
-              <date>1912</date>
             </imprint>
           </monogr>
         </biblStruct>
