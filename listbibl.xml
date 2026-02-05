@@ -16,6 +16,73 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="journalArticle" xml:id="tillich__XZ89RPV2" corresp="http://zotero.org/groups/5701116/items/XZ89RPV2" n="Graf, Ein unbekannter Systementwurf Paul Tillichs. Zur Entstehungsgeschichte von ..., 2020">
+          <analytic>
+            <title level="a">Ein unbekannter Systementwurf Paul Tillichs. Zur Entstehungsgeschichte von Tillichs Das System der Wissenschaften nach Gegenständen und Methoden</title>
+            <author>
+              <forename>Friedrich Wilhelm</forename>
+              <surname>Graf</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Zeitschrift für Neuere Theologiegeschichte</title>
+            <imprint>
+              <pubPlace>Berlin/Boston</pubPlace>
+              <biblScope unit="volume">27</biblScope>
+              <biblScope unit="issue">1</biblScope>
+              <biblScope unit="chapter">26–170</biblScope>
+              <publisher>Walter de Gruyter</publisher>
+              <date>2020</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__MD7AJ9XK" corresp="http://zotero.org/groups/5701116/items/MD7AJ9XK" n="Wolfers, Die Aufrichtung der Kapitalherrschaft in der abendländischen Gesellschaft, 1924">
+          <monogr>
+            <title level="m">Die Aufrichtung der Kapitalherrschaft in der abendländischen Gesellschaft</title>
+            <author>
+              <forename>Arnold</forename>
+              <surname>Wolfers</surname>
+            </author>
+            <imprint>
+              <pubPlace>Gießen</pubPlace>
+              <date>1924</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__AWYHCEMA" corresp="http://zotero.org/groups/5701116/items/AWYHCEMA" n="Barth, Von der Paradoxie des &quot;positiven Paradoxes&quot;. Antworten und Fragen an Paul T..., 1923">
+          <analytic>
+            <title level="a">Von der Paradoxie des "positiven Paradoxes". Antworten und Fragen an Paul Tillich</title>
+            <author>
+              <forename>Karl</forename>
+              <surname>Barth</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Theologische Blätter</title>
+            <imprint>
+              <biblScope unit="volume">2</biblScope>
+              <biblScope unit="page">Sp. 287–296</biblScope>
+              <date>1923</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__4NDSQBQS" corresp="http://zotero.org/groups/5701116/items/4NDSQBQS" n="Tillich, Antwort an Karl Barth, 1923">
+          <analytic>
+            <title level="a">Antwort an Karl Barth</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Theologische Blätter</title>
+            <imprint>
+              <biblScope unit="volume">2</biblScope>
+              <biblScope unit="page">Sp. 296-299</biblScope>
+              <date>1923</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="journalArticle" xml:id="tillich__5UBEXQ69" corresp="http://zotero.org/groups/5701116/items/5UBEXQ69" n="Tillich, Die Überwindung des Religionsbegriffs in der Religionsphilosophie, 1922">
           <analytic>
             <title level="a">Die Überwindung des Religionsbegriffs in der Religionsphilosophie</title>
@@ -8706,23 +8773,6 @@ GESAMMELTEN WERKEN VON PAUL TILLICH, Bd. X)</title>
           <series>
             <title level="s">Systematische Theologie nach religionspsychologischer Methode</title>
           </series>
-        </biblStruct>
-        <biblStruct type="journalArticle" xml:id="tillich__AWYHCEMA" corresp="http://zotero.org/groups/5701116/items/AWYHCEMA" n="Barth, Von der Paradoxie des &quot;positiven Paradoxes&quot;. Antworten und Fragen an Paul T..., 1923">
-          <analytic>
-            <title level="a">Von der Paradoxie des "positiven Paradoxes". Antworten und Fragen an Paul Tillich</title>
-            <author>
-              <forename>Karl</forename>
-              <surname>Barth</surname>
-            </author>
-          </analytic>
-          <monogr>
-            <title level="j">Theologische Blätter</title>
-            <imprint>
-              <biblScope unit="volume">2</biblScope>
-              <biblScope unit="page">287–296</biblScope>
-              <date>1923</date>
-            </imprint>
-          </monogr>
         </biblStruct>
         <biblStruct type="bookSection" xml:id="tillich__K8B34SR5" corresp="http://zotero.org/groups/5701116/items/K8B34SR5" n="Seeberg, Die Universitäten, der Staat und die Wirtschaft, None">
           <analytic>
