@@ -16,6 +16,111 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__S8BK98AC" corresp="http://zotero.org/groups/5701116/items/S8BK98AC" n="Barth, Der Christ in der Gesellschaft. Eine Tambacher Rede. Mit einem Geleitwort v..., 1920">
+          <monogr>
+            <title level="m">Der Christ in der Gesellschaft. Eine Tambacher Rede. Mit einem Geleitwort von Hans Ehrenberg</title>
+            <author>
+              <forename>Karl</forename>
+              <surname>Barth</surname>
+            </author>
+            <imprint>
+              <pubPlace>Würzburg</pubPlace>
+              <publisher>Patmos-Verlag</publisher>
+              <date>1920</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__G8R2NABM" corresp="http://zotero.org/groups/5701116/items/G8R2NABM" n="Barth, Der Römerbrief, 1919">
+          <monogr>
+            <title level="m">Der Römerbrief</title>
+            <author>
+              <forename>Karl</forename>
+              <surname>Barth</surname>
+            </author>
+            <imprint>
+              <pubPlace>Bern</pubPlace>
+              <publisher>G. A. Bäschlin</publisher>
+              <date>1919</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="tillich__BDXIM5ZW" corresp="http://zotero.org/groups/5701116/items/BDXIM5ZW" n="Tillich, Über die Idee einer Theologie der Kultur. Vortrag, gehalten in der Berliner..., 1919">
+          <analytic>
+            <title level="a">Über die Idee einer Theologie der Kultur. Vortrag, gehalten in der Berliner Abteilung der Kant-Gesellschaft am 16. April 1919</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Religionsphilosophie der Kultur. Zwei Entwürfe</title>
+            <imprint>
+              <pubPlace>Berlin</pubPlace>
+              <biblScope unit="page">27-52</biblScope>
+              <publisher>Verlag von Reuther &amp; Reichard</publisher>
+              <date>1919</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Philosophische Vorträge. Veröffentlicht von der Kant-Gesellschaft</title>
+            <biblScope unit="volume">Nr. 24</biblScope>
+          </series>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__3TAIVZ45" corresp="http://zotero.org/groups/5701116/items/3TAIVZ45" n="Koch, [Rez.] La Revue 'Die Hilfe', 1894-1944. Un laboratoire d'idées en Allemagne..., 2012">
+          <analytic>
+            <title level="a">[Rez.] La Revue 'Die Hilfe', 1894-1944. Un laboratoire d'idées en Allemagne. Die Zeitschrift 'Die Hilfe', 1894-1944. Ein Ideenlabor in Deutschland by Philippe Alexandre, Reiner Marcowitz</title>
+            <author>
+              <forename>Ursula E.</forename>
+              <surname>Koch</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Jahrbuch für Kommunikationsgeschichte</title>
+            <imprint>
+              <biblScope unit="volume">14</biblScope>
+              <biblScope unit="page">237 f.</biblScope>
+              <date>2012</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__RBKXQA96" corresp="http://zotero.org/groups/5701116/items/RBKXQA96" n="Troeltsch, Zum Gedächtnis Otto Lempps und Hermann Süskinds, 1915">
+          <analytic>
+            <title level="a">Zum Gedächtnis Otto Lempps und Hermann Süskinds</title>
+            <author>
+              <forename>Ernst</forename>
+              <surname>Troeltsch</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Die Christliche Welt</title>
+            <imprint>
+              <biblScope unit="volume">29</biblScope>
+              <biblScope unit="page">653-657</biblScope>
+              <date>1915</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="tillich__UKZSJSM7" corresp="http://zotero.org/groups/5701116/items/UKZSJSM7" n="Baron, Ernst Troeltsch: Philosophie der Geschichte. Nachschrift der Berliner Vorle..., 2006">
+          <analytic>
+            <title level="a">Ernst Troeltsch: Philosophie der Geschichte. Nachschrift der Berliner Vorlesung im Zwischensemester 1919. Hg. und eingeleitet von Hans Cymorek, Friedrich Wilhelm Graf und Christian Nees</title>
+            <author>
+              <forename>Hans</forename>
+              <surname>Baron</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">"Geschichte durch Geschichte überwinden". Ernst Troeltsch in Berlin</title>
+            <imprint>
+              <pubPlace>Gütersloh</pubPlace>
+              <publisher>Gütersloher Verlagshaus</publisher>
+              <date>2006</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Troeltsch-Studien</title>
+            <biblScope unit="volume">N. F., Bd. 1</biblScope>
+          </series>
+        </biblStruct>
         <biblStruct type="journalArticle" xml:id="tillich__XZ89RPV2" corresp="http://zotero.org/groups/5701116/items/XZ89RPV2" n="Graf, Ein unbekannter Systementwurf Paul Tillichs. Zur Entstehungsgeschichte von ..., 2020">
           <analytic>
             <title level="a">Ein unbekannter Systementwurf Paul Tillichs. Zur Entstehungsgeschichte von Tillichs Das System der Wissenschaften nach Gegenständen und Methoden</title>
