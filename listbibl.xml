@@ -16,6 +16,59 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__QARX93EP" corresp="http://zotero.org/groups/5701116/items/QARX93EP" n="Stern, Die differentielle Psychologie in ihren methodischen Grundlagen, 1911">
+          <monogr>
+            <title level="m">Die differentielle Psychologie in ihren methodischen Grundlagen</title>
+            <author>
+              <forename>William</forename>
+              <surname>Stern</surname>
+            </author>
+            <imprint>
+              <pubPlace>Leipzig</pubPlace>
+              <publisher>Johann Ambrosius Barth</publisher>
+              <date>1911</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__J2UIRD7F" corresp="http://zotero.org/groups/5701116/items/J2UIRD7F" n="Zschimmer, Philosophie der Technik. Vom Sinn der Technik und Kritik des Unsinns über d..., 1914">
+          <monogr>
+            <title level="m">Philosophie der Technik. Vom Sinn der Technik und Kritik des Unsinns über die Technik</title>
+            <author>
+              <forename>Eberhard</forename>
+              <surname>Zschimmer</surname>
+            </author>
+            <imprint>
+              <pubPlace>Jena</pubPlace>
+              <publisher>Diederichs</publisher>
+              <date>1914</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="tillich__KSAZURJJ" corresp="http://zotero.org/groups/5701116/items/KSAZURJJ" n="Natorp, Paul Natorp, 1921">
+          <analytic>
+            <title level="a">Paul Natorp</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Natorp</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <imprint>
+              <pubPlace>Leipzig</pubPlace>
+              <biblScope unit="volume">1</biblScope>
+              <biblScope unit="page">151–176</biblScope>
+              <publisher>Felix Meiner</publisher>
+              <date>1921</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Die deutsche Philosophie der Gegenwart in Selbstdarstellungen</title>
+            <editor>
+              <forename>Raymund</forename>
+              <surname>Schmidt</surname>
+            </editor>
+          </series>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__S8BK98AC" corresp="http://zotero.org/groups/5701116/items/S8BK98AC" n="Barth, Der Christ in der Gesellschaft. Eine Tambacher Rede. Mit einem Geleitwort v..., 1920">
           <monogr>
             <title level="m">Der Christ in der Gesellschaft. Eine Tambacher Rede. Mit einem Geleitwort von Hans Ehrenberg</title>
