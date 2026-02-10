@@ -16,6 +16,24 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="journalArticle" xml:id="tillich__BJ2BYHLV" corresp="http://zotero.org/groups/5701116/items/BJ2BYHLV" n="Mennicke, Zu Tillichs Systematik. Eine Erläuterung, 1924">
+          <analytic>
+            <title level="a">Zu Tillichs Systematik. Eine Erläuterung</title>
+            <author>
+              <forename>Carl</forename>
+              <surname>Mennicke</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Blätter für religiösen Sozialismus</title>
+            <imprint>
+              <biblScope unit="volume">5</biblScope>
+              <biblScope unit="issue">5/6</biblScope>
+              <biblScope unit="page">17–f</biblScope>
+              <date>1924</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__QARX93EP" corresp="http://zotero.org/groups/5701116/items/QARX93EP" n="Stern, Die differentielle Psychologie in ihren methodischen Grundlagen, 1911">
           <monogr>
             <title level="m">Die differentielle Psychologie in ihren methodischen Grundlagen</title>
@@ -10487,24 +10505,6 @@ GESAMMELTEN WERKEN VON PAUL TILLICH, Bd. X)</title>
             <imprint>
               <biblScope unit="volume">5</biblScope>
               <biblScope unit="page">26–30</biblScope>
-              <date>1924</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="journalArticle" xml:id="tillich__BJ2BYHLV" corresp="http://zotero.org/groups/5701116/items/BJ2BYHLV" n="Mennicke, Systematik. Eine Erläuterung, 1924">
-          <analytic>
-            <title level="a">Systematik. Eine Erläuterung</title>
-            <author>
-              <forename>Carl</forename>
-              <surname>Mennicke</surname>
-            </author>
-          </analytic>
-          <monogr>
-            <title level="j">Blätter für religiösen Sozialismus</title>
-            <imprint>
-              <biblScope unit="volume">5</biblScope>
-              <biblScope unit="issue">5/6</biblScope>
-              <biblScope unit="page">17–f</biblScope>
               <date>1924</date>
             </imprint>
           </monogr>
