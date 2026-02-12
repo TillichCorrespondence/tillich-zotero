@@ -16,6 +16,98 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__H7KTEMR9" corresp="http://zotero.org/groups/5701116/items/H7KTEMR9" n="Simmel, Rembrandt: Ein kunstphilosophischer Versuch, 1916">
+          <monogr>
+            <title level="m">Rembrandt: Ein kunstphilosophischer Versuch</title>
+            <author>
+              <forename>Georg</forename>
+              <surname>Simmel</surname>
+            </author>
+            <imprint>
+              <pubPlace>Leipzig</pubPlace>
+              <publisher>Kurt Wolff Verlag</publisher>
+              <date>1916</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__87Q3HQIJ" corresp="http://zotero.org/groups/5701116/items/87Q3HQIJ" n="Tillich, Impressionen und Reflexionen, 1959">
+          <monogr>
+            <title level="m">Impressionen und Reflexionen</title>
+            <idno type="ISBN">3-7715-0137-7</idno>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+            <imprint>
+              <pubPlace>Stuttgart</pubPlace>
+              <publisher>Evangelisches Verlagswerk</publisher>
+              <date>1959</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">GW XIII</title>
+          </series>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="tillich__CRFS4FJS" corresp="http://zotero.org/groups/5701116/items/CRFS4FJS" n="Dorner, Das Prinzip unserer Kirche nach dem inneren Verhältniß der materialen und f..., 1883">
+          <analytic>
+            <title level="a">Das Prinzip unserer Kirche nach dem inneren Verhältniß der materialen und formalen Seite desselben zu einander</title>
+            <author>
+              <forename>Isaak August</forename>
+              <surname>Dorner</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Gesammelte Schriften aus dem Gebiet der systematischen Theologie, Exegese und Geschichte</title>
+            <idno type="callNumber">BV-Nummer: BV009095528, RVK-Notation: BW 32504</idno>
+            <imprint>
+              <pubPlace>Berlin</pubPlace>
+              <publisher>Hertz</publisher>
+              <date>1883</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="newspaperArticle" xml:id="tillich__EDTM9B9P" corresp="http://zotero.org/groups/5701116/items/EDTM9B9P" n="o.A., Der deutschen Jugend. Beilage der Deutschen Allgemeinen Zeitung. Weihnachte..., 1923">
+          <analytic>
+            <title level="a">Der deutschen Jugend. Beilage der Deutschen Allgemeinen Zeitung. Weihnachten 1923.</title>
+          </analytic>
+          <monogr>
+            <title level="m">Deutsche Allgemeine Zeitung</title>
+            <imprint>
+              <biblScope unit="volume">Jg. 62</biblScope>
+              <biblScope unit="issue">Nr. 598</biblScope>
+              <date>1923</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="tillich__EG98SHUH" corresp="http://zotero.org/groups/5701116/items/EG98SHUH" n="Tillich, Die Jugend und die Religion, 1920">
+          <analytic>
+            <title level="a">Die Jugend und die Religion</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Die freideutsche Jugendbewegung. Ursprung und Zukunft.</title>
+            <editor>
+              <forename>Adolf</forename>
+              <surname>Grabowsky</surname>
+            </editor>
+            <editor>
+              <forename>Walther</forename>
+              <surname>Koch</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Gotha</pubPlace>
+              <biblScope unit="volume">3</biblScope>
+              <publisher>Verlag Friedrich Andreas Perthes</publisher>
+              <date>1920</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Ergänzungsheft des Halbmonatsschrift "Das neue Deutschland"</title>
+          </series>
+        </biblStruct>
         <biblStruct type="journalArticle" xml:id="tillich__BJ2BYHLV" corresp="http://zotero.org/groups/5701116/items/BJ2BYHLV" n="Mennicke, Zu Tillichs Systematik. Eine Erläuterung, 1924">
           <analytic>
             <title level="a">Zu Tillichs Systematik. Eine Erläuterung</title>
@@ -8562,19 +8654,6 @@ GESAMMELTEN WERKEN VON PAUL TILLICH, Bd. X)</title>
             <biblScope unit="volume">3</biblScope>
           </series>
         </biblStruct>
-        <biblStruct type="book" xml:id="tillich__H7KTEMR9" corresp="http://zotero.org/groups/5701116/items/H7KTEMR9" n="Simmel, Rembrandt, ein kunstphilosophischer Versuch, 1916">
-          <monogr>
-            <title level="m">Rembrandt, ein kunstphilosophischer Versuch</title>
-            <author>
-              <forename>Georg</forename>
-              <surname>Simmel</surname>
-            </author>
-            <imprint>
-              <pubPlace>Leipzig</pubPlace>
-              <date>1916</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
         <biblStruct type="book" xml:id="tillich__IN5HILA2" corresp="http://zotero.org/groups/5701116/items/IN5HILA2" n="Husserl (Hg.), Jahrbuch für Philosophie und phänomenologische Forschung, 1916">
           <monogr>
             <title level="m">Jahrbuch für Philosophie und phänomenologische Forschung</title>
@@ -9103,21 +9182,6 @@ GESAMMELTEN WERKEN VON PAUL TILLICH, Bd. X)</title>
               <date>2016</date>
             </imprint>
           </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="tillich__87Q3HQIJ" corresp="http://zotero.org/groups/5701116/items/87Q3HQIJ" n="Tillich, Impressionen und Reflexionen, None">
-          <monogr>
-            <title level="m">Impressionen und Reflexionen</title>
-            <author>
-              <forename>Paul</forename>
-              <surname>Tillich</surname>
-            </author>
-            <imprint>
-              <date/>
-            </imprint>
-          </monogr>
-          <series>
-            <title level="s">GW XIII</title>
-          </series>
         </biblStruct>
         <biblStruct type="book" xml:id="tillich__GBVRLWQM" corresp="http://zotero.org/groups/5701116/items/GBVRLWQM" n="Tillich, Ein Lebensbild in Dokumenten: Briefe, Tagebuch-Auszüge, Berichte, 1980">
           <monogr>
