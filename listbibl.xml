@@ -16,6 +16,25 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="journalArticle" xml:id="tillich__DRTZ3BJW" corresp="http://zotero.org/groups/5701116/items/DRTZ3BJW" n="Husserl, Philosophie als strenge Wissenschaft, 1911">
+          <analytic>
+            <title level="a">Philosophie als strenge Wissenschaft</title>
+            <author>
+              <forename>Edmund</forename>
+              <surname>Husserl</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Logos. Internationale Zeitschrift für Philosophie der Kultur</title>
+            <imprint>
+              <pubPlace>Tübingen</pubPlace>
+              <biblScope unit="volume">1 (1910/1911)</biblScope>
+              <biblScope unit="issue">3</biblScope>
+              <publisher>Verlag von J.C.B. Mohr (Paul Siebeck)</publisher>
+              <date>1911</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="journalArticle" xml:id="tillich__DEB6ZCBS" corresp="http://zotero.org/groups/5701116/items/DEB6ZCBS" n="Hirsch, Rezension zu: Tillich, Prof. D. Dr. Paul: Religionsphilosophie. (Sonderdruc..., 1926">
           <analytic>
             <title level="a">Rezension zu: Tillich, Prof. D. Dr. Paul: Religionsphilosophie. (Sonderdruck aus: Lehrbuch der Philosophie, hrsg. von Max Dessoir II: Die Philosophie in ihren Einzelgebieten, 765–835)</title>
@@ -52,9 +71,9 @@
             <title level="s">Lehrbuch der Philosophie</title>
           </series>
         </biblStruct>
-        <biblStruct type="book" xml:id="tillich__H7KTEMR9" corresp="http://zotero.org/groups/5701116/items/H7KTEMR9" n="Simmel, Rembrandt: Ein kunstphilosophischer Versuch, 1916">
+        <biblStruct type="book" xml:id="tillich__H7KTEMR9" corresp="http://zotero.org/groups/5701116/items/H7KTEMR9" n="Simmel, Rembrandt: ein kunstphilosophischer Versuch, 1916">
           <monogr>
-            <title level="m">Rembrandt: Ein kunstphilosophischer Versuch</title>
+            <title level="m">Rembrandt: ein kunstphilosophischer Versuch</title>
             <author>
               <forename>Georg</forename>
               <surname>Simmel</surname>
