@@ -16,6 +16,46 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="journalArticle" xml:id="tillich__JGIV267D" corresp="http://zotero.org/groups/5701116/items/JGIV267D" n="Sturm, An der engen Pforte der historischen Methode vorbei... Paul Tillichs Habili..., 2015">
+          <analytic>
+            <title level="a">An der engen Pforte der historischen Methode vorbei... Paul Tillichs Habilitation in Halle (1916) und seine Umhabilitierungen nach Berlin (1919) und Marburg (1924)</title>
+            <author>
+              <forename>Erdmann</forename>
+              <surname>Sturm</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">International Yearbook for Tillich Research</title>
+            <imprint>
+              <biblScope unit="volume">10</biblScope>
+              <biblScope unit="issue">1</biblScope>
+              <biblScope unit="page">273–332</biblScope>
+              <date>2015</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="tillich__FMG293TN" corresp="http://zotero.org/groups/5701116/items/FMG293TN" n="Tillich, 15. Renaissance und Reformation. Zur Einführung in die Bibliothek Warburg, 1972">
+          <analytic>
+            <title level="a">15. Renaissance und Reformation. Zur Einführung in die Bibliothek Warburg</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Impressionen und Reflexionen</title>
+            <imprint>
+              <pubPlace>Stuttgart</pubPlace>
+              <biblScope unit="volume">13</biblScope>
+              <biblScope unit="page">137-140</biblScope>
+              <publisher>Evangelische Verlagswerk</publisher>
+              <date>1972</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Gesammelte Werke</title>
+          </series>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__VJNFK8X9" corresp="http://zotero.org/groups/5701116/items/VJNFK8X9" n="Hirsch, Die Theologie des Andreas Osiander und ihre geschichtlichen Voraussetzungen, 1919">
           <monogr>
             <title level="m">Die Theologie des Andreas Osiander und ihre geschichtlichen Voraussetzungen</title>
@@ -10281,24 +10321,6 @@ GESAMMELTEN WERKEN VON PAUL TILLICH, Bd. X)</title>
             <imprint>
               <pubPlace>Leipzig</pubPlace>
               <date>1910</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="journalArticle" xml:id="tillich__JGIV267D" corresp="http://zotero.org/groups/5701116/items/JGIV267D" n="Sturm, An der engen Pforte der historischen Methode vorbei... Paul Tillichs Habili..., 2007">
-          <analytic>
-            <title level="a">An der engen Pforte der historischen Methode vorbei... Paul Tillichs Habilitation in Halle (1916) und seine Umhabilitierungen nach Berlin (1919) und Marburg (1924)</title>
-            <author>
-              <forename>Erdmann</forename>
-              <surname>Sturm</surname>
-            </author>
-          </analytic>
-          <monogr>
-            <title level="j">International Yearbook for Tillich Research</title>
-            <imprint>
-              <biblScope unit="volume">10</biblScope>
-              <biblScope unit="issue">1</biblScope>
-              <biblScope unit="page">273–332</biblScope>
-              <date>2007</date>
             </imprint>
           </monogr>
         </biblStruct>
