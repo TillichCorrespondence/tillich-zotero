@@ -16,6 +16,19 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__CJQHI7F6" corresp="http://zotero.org/groups/5701116/items/CJQHI7F6" n="Wolff, Die fünf Hauptstücke der christlichen Lehre, oder: Der kleine Katechismus D..., None">
+          <monogr>
+            <title level="m">Die fünf Hauptstücke der christlichen Lehre, oder: Der kleine Katechismus Dr. M. Luther's</title>
+            <author>
+              <forename>Martin</forename>
+              <surname>Wolff</surname>
+            </author>
+            <imprint>
+              <publisher>Leibrock</publisher>
+              <date/>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="journalArticle" xml:id="tillich__JGIV267D" corresp="http://zotero.org/groups/5701116/items/JGIV267D" n="Sturm, An der engen Pforte der historischen Methode vorbei... Paul Tillichs Habili..., 2015">
           <analytic>
             <title level="a">An der engen Pforte der historischen Methode vorbei... Paul Tillichs Habilitation in Halle (1916) und seine Umhabilitierungen nach Berlin (1919) und Marburg (1924)</title>
@@ -67,15 +80,6 @@
               <pubPlace>Göttingen</pubPlace>
               <publisher>Vandenhoeck &amp; Ruprecht</publisher>
               <date>1919</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="tillich__6HTXCHD7" corresp="http://zotero.org/groups/5701116/items/6HTXCHD7" n="o.A., o.T., None">
-          <monogr>
-            <title/>
-            <imprint>
-              <publisher>Vandenhoeck &amp; Ruprecht</publisher>
-              <date/>
             </imprint>
           </monogr>
         </biblStruct>
