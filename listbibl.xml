@@ -16,11 +16,58 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__RPPTDXVS" corresp="http://zotero.org/groups/5701116/items/RPPTDXVS" n="Klatt, Die schöpferische Pause, 1921">
+          <monogr>
+            <title level="m">Die schöpferische Pause</title>
+            <author>
+              <forename>Fritz</forename>
+              <surname>Klatt</surname>
+            </author>
+            <imprint>
+              <pubPlace>Jena</pubPlace>
+              <publisher>Diederichs</publisher>
+              <date>1921</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__NZZDYR7N" corresp="http://zotero.org/groups/5701116/items/NZZDYR7N" n="o.A., Kant-Studien: Philosophische Zeitschrift, Festschrift zu Hans Vaihingers 70..., 1922">
+          <monogr>
+            <title level="m">Kant-Studien: Philosophische Zeitschrift, Festschrift zu Hans Vaihingers 70. Geburtstag</title>
+            <imprint>
+              <pubPlace>Berlin</pubPlace>
+              <biblScope unit="volume">27</biblScope>
+              <publisher>Reuther &amp; Reichard</publisher>
+              <date>1922</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">3-4</title>
+          </series>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="tillich__8MNYBG63" corresp="http://zotero.org/groups/5701116/items/8MNYBG63" n="Spengler, Probleme der arabischen Kultur, 1922">
+          <analytic>
+            <title level="a">Probleme der arabischen Kultur</title>
+            <author>
+              <forename>Oswald</forename>
+              <surname>Spengler</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Der Untergang des Abendlandes: Umrisse einer Morphologie der Weltgeschichte</title>
+            <imprint>
+              <pubPlace>München</pubPlace>
+              <biblScope unit="volume">2</biblScope>
+              <biblScope unit="page">225-401</biblScope>
+              <publisher>C.H. Beck</publisher>
+              <date>1922</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__CJQHI7F6" corresp="http://zotero.org/groups/5701116/items/CJQHI7F6" n="Wolff, Die fünf Hauptstücke der christlichen Lehre, oder: Der kleine Katechismus D..., None">
           <monogr>
             <title level="m">Die fünf Hauptstücke der christlichen Lehre, oder: Der kleine Katechismus Dr. M. Luther's</title>
             <author>
-              <forename>Martin</forename>
+              <forename>Ludwig</forename>
               <surname>Wolff</surname>
             </author>
             <imprint>
