@@ -16,6 +16,46 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__XXRXTEEN" corresp="http://zotero.org/groups/5701116/items/XXRXTEEN" n="George, Der siebente Ring, 1922">
+          <monogr>
+            <title level="m">Der siebente Ring</title>
+            <author>
+              <forename>Stefan</forename>
+              <surname>George</surname>
+            </author>
+            <edition>6</edition>
+            <imprint>
+              <pubPlace>Berlin</pubPlace>
+              <publisher>Bondi</publisher>
+              <date>1922</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="tillich__F4H3T4RZ" corresp="http://zotero.org/groups/5701116/items/F4H3T4RZ" n="Tillich, Die religiöse Erneuerung des Sozialismus, 1999">
+          <analytic>
+            <title level="a">Die religiöse Erneuerung des Sozialismus</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Religio, Kultur, Gesellschaft. Unveröffentlichte Texte aus der deutschen Zeit (1908-1933). Erster Teil.</title>
+            <editor>
+              <forename>Erdmann</forename>
+              <surname>Sturm</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Berlin/New York</pubPlace>
+              <biblScope unit="volume">10</biblScope>
+              <biblScope unit="page">311-327</biblScope>
+              <date>1999</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Ergänzungs- und Nachlassbände zu den Gesammelten Werken Paul Tillichs</title>
+          </series>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__RPPTDXVS" corresp="http://zotero.org/groups/5701116/items/RPPTDXVS" n="Klatt, Die schöpferische Pause, 1921">
           <monogr>
             <title level="m">Die schöpferische Pause</title>
