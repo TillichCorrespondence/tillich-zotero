@@ -16,6 +16,42 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__U2CIKQ6R" corresp="http://zotero.org/groups/5701116/items/U2CIKQ6R" n="Tillich, Religionsphilosophie der Kultur: 2 Entwürfe, 1919">
+          <monogr>
+            <title level="m">Religionsphilosophie der Kultur: 2 Entwürfe</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+            <author>
+              <forename>Gustav</forename>
+              <surname>Radbruch</surname>
+            </author>
+            <imprint>
+              <pubPlace>Berlin</pubPlace>
+              <biblScope unit="volume">24</biblScope>
+              <publisher>Reuther &amp; Reichard</publisher>
+              <date>1919</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Philosophische Vorträge der Kant-Gesellschaft</title>
+          </series>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__QDAVCFFR" corresp="http://zotero.org/groups/5701116/items/QDAVCFFR" n="Bailey, The Arts and Religion., 1944">
+          <monogr>
+            <title level="m">The Arts and Religion.</title>
+            <author>
+              <forename>Albert E.</forename>
+              <surname>Bailey</surname>
+            </author>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <publisher>The Macmillan Company</publisher>
+              <date>1944</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__XXRXTEEN" corresp="http://zotero.org/groups/5701116/items/XXRXTEEN" n="George, Der siebente Ring, 1922">
           <monogr>
             <title level="m">Der siebente Ring</title>
