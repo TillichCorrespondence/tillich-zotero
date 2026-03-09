@@ -16,11 +16,254 @@
   <text>
     <body>
       <listBibl>
-        <biblStruct type="book" xml:id="tillich__6ACHMHW8" corresp="http://zotero.org/groups/5701116/items/6ACHMHW8" n="o.A., Barneby, None">
+        <biblStruct type="book" xml:id="tillich__NP2UC9NF" corresp="http://zotero.org/groups/5701116/items/NP2UC9NF" n="Eastman, The Enjoyment of Poetry, 1913">
           <monogr>
-            <title level="m">Barneby</title>
+            <title level="m">The Enjoyment of Poetry</title>
+            <author>
+              <forename>Max</forename>
+              <surname>Eastman</surname>
+            </author>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <publisher>Charles Scribner’s Sons</publisher>
+              <date>1913</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__8NFBMXZP" corresp="http://zotero.org/groups/5701116/items/8NFBMXZP" n="Dostoevsky, The Brothers Karamazov, 1933">
+          <monogr>
+            <title level="m">The Brothers Karamazov</title>
+            <author>
+              <forename>Fyodor</forename>
+              <surname>Dostoevsky</surname>
+            </author>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <publisher>Modern Library</publisher>
+              <date>1933</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__5DDRPMU3" corresp="http://zotero.org/groups/5701116/items/5DDRPMU3" n="D’Arcy, The Nature of Belief., 1931">
+          <monogr>
+            <title level="m">The Nature of Belief.</title>
+            <author>
+              <forename>Martin C.</forename>
+              <surname>D’Arcy</surname>
+            </author>
+            <imprint>
+              <pubPlace>New York/Toronto</pubPlace>
+              <publisher>Longmans, Green and Co.</publisher>
+              <date>1931</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__HPJNXHHZ" corresp="http://zotero.org/groups/5701116/items/HPJNXHHZ" n="Cole, Christianity and Sex, 1950">
+          <monogr>
+            <title level="m">Christianity and Sex</title>
+            <author>
+              <forename>William</forename>
+              <surname>Cole</surname>
+            </author>
+            <imprint>
+              <pubPlace>London</pubPlace>
+              <publisher>Pinguin Books</publisher>
+              <date>1950</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__TTAWEZ6R" corresp="http://zotero.org/groups/5701116/items/TTAWEZ6R" n="Cohen, Reason and Nature, 1931">
+          <monogr>
+            <title level="m">Reason and Nature</title>
+            <author>
+              <forename>Morris A.</forename>
+              <surname>Cohen</surname>
+            </author>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <publisher>Harcourt, Brace and Company</publisher>
+              <date>1931</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__W6UADHN5" corresp="http://zotero.org/groups/5701116/items/W6UADHN5" n="Cochrane, Christianity and Classical Culture, 1957">
+          <monogr>
+            <title level="m">Christianity and Classical Culture</title>
+            <author>
+              <forename>Charles Norris</forename>
+              <surname>Cochrane</surname>
+            </author>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <publisher>Oxford University Press</publisher>
+              <date>1957</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__65XZQVDZ" corresp="http://zotero.org/groups/5701116/items/65XZQVDZ" n="Cassirer, Language and Myth, 1946">
+          <monogr>
+            <title level="m">Language and Myth</title>
+            <author>
+              <forename>Ernst</forename>
+              <surname>Cassirer</surname>
+            </author>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <publisher>Dover Publications inc.</publisher>
+              <date>1946</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__6U3U4FWS" corresp="http://zotero.org/groups/5701116/items/6U3U4FWS" n="Buber, I and Thou, 1937">
+          <monogr>
+            <title level="m">I and Thou</title>
+            <author>
+              <forename>Martin</forename>
+              <surname>Buber</surname>
+            </author>
+            <imprint>
+              <pubPlace>Edinburgh</pubPlace>
+              <publisher>T.&amp;T. Clark</publisher>
+              <date>1937</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__MWVH37SW" corresp="http://zotero.org/groups/5701116/items/MWVH37SW" n="Brunner, The Misunderstanding of the Church, 1953">
+          <monogr>
+            <title level="m">The Misunderstanding of the Church</title>
+            <author>
+              <forename>Emil</forename>
+              <surname>Brunner</surname>
+            </author>
+            <imprint>
+              <pubPlace>Philadelphia</pubPlace>
+              <publisher>The Westminster Press</publisher>
+              <date>1953</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__K6F6HID7" corresp="http://zotero.org/groups/5701116/items/K6F6HID7" n="Brunner, Justice and the Social Order, 1945">
+          <monogr>
+            <title level="m">Justice and the Social Order</title>
+            <author>
+              <forename>Emil</forename>
+              <surname>Brunner</surname>
+            </author>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <publisher>Harper &amp; Brothers</publisher>
+              <date>1945</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__SXBIZSQA" corresp="http://zotero.org/groups/5701116/items/SXBIZSQA" n="Brunner, Christianity and Civilisation, 1947">
+          <monogr>
+            <title level="m">Christianity and Civilisation</title>
+            <author>
+              <forename>Emil</forename>
+              <surname>Brunner</surname>
+            </author>
+            <imprint>
+              <pubPlace>London</pubPlace>
+              <publisher>Nisbet &amp; Co</publisher>
+              <date>1947</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__EXWI2QMG" corresp="http://zotero.org/groups/5701116/items/EXWI2QMG" n="Bonhoeffer, Ethics, 1955">
+          <monogr>
+            <title level="m">Ethics</title>
+            <author>
+              <forename>Dietrich</forename>
+              <surname>Bonhoeffer</surname>
+            </author>
+            <edition>2nd</edition>
+            <imprint>
+              <pubPlace>London</pubPlace>
+              <publisher>SCM Press</publisher>
+              <date>1955</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__6BEWJVVD" corresp="http://zotero.org/groups/5701116/items/6BEWJVVD" n="Berdyaev, The Faith of Man in the Modern World, 1960">
+          <monogr>
+            <title level="m">The Faith of Man in the Modern World</title>
+            <author>
+              <forename>NIkolai</forename>
+              <surname>Berdyaev</surname>
+            </author>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <publisher>Harper &amp; Brothers</publisher>
+              <date>1960</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__5U6ENBQS" corresp="http://zotero.org/groups/5701116/items/5U6ENBQS" n="Berdyaev, Slavery and Freedom, 1944">
+          <monogr>
+            <title level="m">Slavery and Freedom</title>
+            <author>
+              <forename>Nikolai</forename>
+              <surname>Berdyaev</surname>
+            </author>
+            <imprint>
+              <pubPlace>London</pubPlace>
+              <publisher>Centary Presss</publisher>
+              <date>1944</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__6KC72CRM" corresp="http://zotero.org/groups/5701116/items/6KC72CRM" n="Berggrav, Man and State, 1951">
+          <monogr>
+            <title level="m">Man and State</title>
+            <author>
+              <forename>Eivind</forename>
+              <surname>Berggrav</surname>
+            </author>
+            <imprint>
+              <pubPlace>Philadelphia</pubPlace>
+              <publisher>Muhlberg Press</publisher>
+              <date>1951</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__RA68QBMV" corresp="http://zotero.org/groups/5701116/items/RA68QBMV" n="Bennett, Christianity at War, None">
+          <monogr>
+            <title level="m">Christianity at War</title>
+            <author>
+              <forename>John C.</forename>
+              <surname>Bennett</surname>
+            </author>
             <imprint>
               <date/>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__AUJ2ANR2" corresp="http://zotero.org/groups/5701116/items/AUJ2ANR2" n="Bennett, Christianity and Communism, 1948">
+          <monogr>
+            <title level="m">Christianity and Communism</title>
+            <author>
+              <forename>John C.</forename>
+              <surname>Bennett</surname>
+            </author>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <publisher>Association Press</publisher>
+              <date>1948</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__6ACHMHW8" corresp="http://zotero.org/groups/5701116/items/6ACHMHW8" n="Burnaby, Amor Dei, 1938">
+          <monogr>
+            <title level="m">Amor Dei</title>
+            <author>
+              <forename>John</forename>
+              <surname>Burnaby</surname>
+            </author>
+            <imprint>
+              <pubPlace>London</pubPlace>
+              <publisher>Hodder &amp; Stoughton</publisher>
+              <date>1938</date>
             </imprint>
           </monogr>
         </biblStruct>
