@@ -16,6 +16,1117 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__CFS3S59G" corresp="http://zotero.org/groups/5701116/items/CFS3S59G" n="Wild, The Challenge of Existentialism, 1955">
+          <monogr>
+            <title level="m">The Challenge of Existentialism</title>
+            <author>
+              <forename>John</forename>
+              <surname>Wild</surname>
+            </author>
+            <imprint>
+              <pubPlace>Bloomington</pubPlace>
+              <publisher>Indiana University Press</publisher>
+              <date>1955</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__B69332PZ" corresp="http://zotero.org/groups/5701116/items/B69332PZ" n="Wilder, Modern Poetry and the Christian Tradition, 1952">
+          <monogr>
+            <title level="m">Modern Poetry and the Christian Tradition</title>
+            <author>
+              <forename>Amos N.</forename>
+              <surname>Wilder</surname>
+            </author>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <publisher>Charles Scribner’s Sons</publisher>
+              <date>1952</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__NT52AXHE" corresp="http://zotero.org/groups/5701116/items/NT52AXHE" n="Weber, The Protestant Ethic and the Spirit of Capitalism, 1930">
+          <monogr>
+            <title level="m">The Protestant Ethic and the Spirit of Capitalism</title>
+            <author>
+              <forename>Max</forename>
+              <surname>Weber</surname>
+            </author>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <publisher>Charles Scribner’s Sons</publisher>
+              <date>1930</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__Q6JWK8CR" corresp="http://zotero.org/groups/5701116/items/Q6JWK8CR" n="Weaver, Ideas Have Consequences, 1948">
+          <monogr>
+            <title level="m">Ideas Have Consequences</title>
+            <author>
+              <forename>Richard M.</forename>
+              <surname>Weaver</surname>
+            </author>
+            <imprint>
+              <pubPlace>Chicago</pubPlace>
+              <publisher>University of Chicago Press</publisher>
+              <date>1948</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__HIBWZPWK" corresp="http://zotero.org/groups/5701116/items/HIBWZPWK" n="Watkin, Planning the Modern Church, 1947">
+          <monogr>
+            <title level="m">Planning the Modern Church</title>
+            <author>
+              <forename>William Robert</forename>
+              <surname>Watkin</surname>
+            </author>
+            <imprint>
+              <pubPlace>London</pubPlace>
+              <publisher>Architectural Press</publisher>
+              <date>1947</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__96XBJEGK" corresp="http://zotero.org/groups/5701116/items/96XBJEGK" n="Urban, Language and Reality: The Philosophy of Language and the Principles of Symb..., 1939">
+          <monogr>
+            <title level="m">Language and Reality: The Philosophy of Language and the Principles of Symbolism</title>
+            <author>
+              <forename>Wilbur Marshall</forename>
+              <surname>Urban</surname>
+            </author>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <publisher>Macmillan</publisher>
+              <date>1939</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__GZ26FJN9" corresp="http://zotero.org/groups/5701116/items/GZ26FJN9" n="Troeltsch, The Social Teachings of the Christian Churches, 1931">
+          <monogr>
+            <title level="m">The Social Teachings of the Christian Churches</title>
+            <extent>2</extent>
+            <author>
+              <forename>Ernst</forename>
+              <surname>Troeltsch</surname>
+            </author>
+            <imprint>
+              <pubPlace>London</pubPlace>
+              <publisher>George Allen &amp; Unwin</publisher>
+              <date>1931</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__K9DWF5GB" corresp="http://zotero.org/groups/5701116/items/K9DWF5GB" n="Toynbee, Civilization on Trial, 1948">
+          <monogr>
+            <title level="m">Civilization on Trial</title>
+            <author>
+              <forename>Arnold J.</forename>
+              <surname>Toynbee</surname>
+            </author>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <publisher>Oxford University Press</publisher>
+              <date>1948</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__DX3QK8BI" corresp="http://zotero.org/groups/5701116/items/DX3QK8BI" n="Tillich, Theology and the Modern Church, 1955">
+          <analytic>
+            <title level="a">Theology and the Modern Church</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <imprint>
+              <publisher>Architectural Forum</publisher>
+              <date>1955</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__ZWNACFH5" corresp="http://zotero.org/groups/5701116/items/ZWNACFH5" n="Tillich, Psychotherapy and a Christian Interpretation of Human Nature, 1943">
+          <analytic>
+            <title level="a">Psychotherapy and a Christian Interpretation of Human Nature</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <imprint>
+              <biblScope unit="volume">23</biblScope>
+              <publisher>Journal of Religion</publisher>
+              <date>1943</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="tillich__XHTTN6A2" corresp="http://zotero.org/groups/5701116/items/XHTTN6A2" n="Tillich, Ethics in a Changing World, 1948">
+          <analytic>
+            <title level="a">Ethics in a Changing World</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">The Protestant Era</title>
+            <imprint>
+              <pubPlace>Chicago</pubPlace>
+              <publisher>University of Chicago Press</publisher>
+              <date>1948</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__92R2WYEZ" corresp="http://zotero.org/groups/5701116/items/92R2WYEZ" n="Hegel, System der Wissenschaft: Erster Theil, die Phänomenologie des Geistes, None">
+          <monogr>
+            <title level="m">System der Wissenschaft: Erster Theil, die Phänomenologie des Geistes</title>
+            <author>
+              <forename>Georg Wilhelm Friedrich</forename>
+              <surname>Hegel</surname>
+            </author>
+            <imprint>
+              <pubPlace>Bamberg und Würzburg</pubPlace>
+              <publisher>Joseph Anton Goebhardt</publisher>
+              <date/>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__KEIZII2M" corresp="http://zotero.org/groups/5701116/items/KEIZII2M" n="Tillich, Love, Power, and Justice, 1954">
+          <monogr>
+            <title level="m">Love, Power, and Justice</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <publisher>Oxford University Press</publisher>
+              <date>1954</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__P9NG6NCH" corresp="http://zotero.org/groups/5701116/items/P9NG6NCH" n="Tillich, Dynamics of Faith, 1957">
+          <monogr>
+            <title level="m">Dynamics of Faith</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+            <imprint>
+              <pubPlace>New York:</pubPlace>
+              <publisher>Harper &amp; Brothers</publisher>
+              <date>1957</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__SJCH3PCJ" corresp="http://zotero.org/groups/5701116/items/SJCH3PCJ" n="Tawney, Religion and the Rise of Capitalism, 1926">
+          <monogr>
+            <title level="m">Religion and the Rise of Capitalism</title>
+            <author>
+              <forename>R. H.</forename>
+              <surname>Tawney</surname>
+            </author>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <publisher>Harcourt, Brace &amp; Company</publisher>
+              <date>1926</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__4SFVDWEQ" corresp="http://zotero.org/groups/5701116/items/4SFVDWEQ" n="Spengler, The Decline of the West, 1926">
+          <monogr>
+            <title level="m">The Decline of the West</title>
+            <author>
+              <forename>Oswald</forename>
+              <surname>Spengler</surname>
+            </author>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <publisher>Alfred A. Knopf</publisher>
+              <date>1926</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__83BA287F" corresp="http://zotero.org/groups/5701116/items/83BA287F" n="Speir, War in Our Time., 1950">
+          <monogr>
+            <title level="m">War in Our Time.</title>
+            <author>
+              <forename>Hans</forename>
+              <surname>Speir</surname>
+            </author>
+            <author>
+              <forename>Erich</forename>
+              <surname>Kahler</surname>
+            </author>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <publisher>W. W. Norton &amp; Company</publisher>
+              <date>1950</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__WPDNBEXD" corresp="http://zotero.org/groups/5701116/items/WPDNBEXD" n="Sorokin, The Crisis of Our Age., 1941">
+          <monogr>
+            <title level="m">The Crisis of Our Age.</title>
+            <author>
+              <forename>Pitirim A.</forename>
+              <surname>Sorokin</surname>
+            </author>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <publisher>E. P. Dutton &amp; Company</publisher>
+              <date>1941</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__6DSDBM8P" corresp="http://zotero.org/groups/5701116/items/6DSDBM8P" n="Smart, The Teaching Ministry of the Church, 1954">
+          <monogr>
+            <title level="m">The Teaching Ministry of the Church</title>
+            <author>
+              <forename>James D.</forename>
+              <surname>Smart</surname>
+            </author>
+            <imprint>
+              <pubPlace>Philadelphia</pubPlace>
+              <publisher>Westminster Press</publisher>
+              <date>1954</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__67PGV5VP" corresp="http://zotero.org/groups/5701116/items/67PGV5VP" n="Sherill, The Struggle of the Soul, 1942">
+          <monogr>
+            <title level="m">The Struggle of the Soul</title>
+            <author>
+              <forename>Lewis J.</forename>
+              <surname>Sherill</surname>
+            </author>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <publisher>Macmillan</publisher>
+              <date>1942</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__VR2JE4KJ" corresp="http://zotero.org/groups/5701116/items/VR2JE4KJ" n="Schweitzer, The Decay and Restoration of Civilization, 1923">
+          <monogr>
+            <title level="m">The Decay and Restoration of Civilization</title>
+            <author>
+              <forename>Albert</forename>
+              <surname>Schweitzer</surname>
+            </author>
+            <imprint>
+              <pubPlace>London</pubPlace>
+              <publisher>A. &amp; C. Black</publisher>
+              <date>1923</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__HAK7CVWF" corresp="http://zotero.org/groups/5701116/items/HAK7CVWF" n="Schweitzer, Civilization and Ethics, 1923">
+          <monogr>
+            <title level="m">Civilization and Ethics</title>
+            <author>
+              <forename>Albert</forename>
+              <surname>Schweitzer</surname>
+            </author>
+            <imprint>
+              <pubPlace>London</pubPlace>
+              <publisher>A. &amp; C. Black</publisher>
+              <date>1923</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__RIE8JNI9" corresp="http://zotero.org/groups/5701116/items/RIE8JNI9" n="Schumpeter, Imperialism and Social Classes, 1951">
+          <monogr>
+            <title level="m">Imperialism and Social Classes</title>
+            <author>
+              <forename>Joseph A.</forename>
+              <surname>Schumpeter</surname>
+            </author>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <publisher>Augustus M. Kelley</publisher>
+              <date>1951</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__4Q4DVSUM" corresp="http://zotero.org/groups/5701116/items/4Q4DVSUM" n="Russell, Men and Women, 1949">
+          <monogr>
+            <title level="m">Men and Women</title>
+            <author>
+              <forename>Gerald</forename>
+              <surname>Russell</surname>
+            </author>
+            <imprint>
+              <pubPlace>London</pubPlace>
+              <publisher>SCM Press</publisher>
+              <date>1949</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__EP5662VD" corresp="http://zotero.org/groups/5701116/items/EP5662VD" n="Roberts, Psychotherapy and the Christian View of Man., 1950">
+          <monogr>
+            <title level="m">Psychotherapy and the Christian View of Man.</title>
+            <author>
+              <forename>David E.</forename>
+              <surname>Roberts</surname>
+            </author>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <publisher>Charles Scribner’s Sons</publisher>
+              <date>1950</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__XN94UCAD" corresp="http://zotero.org/groups/5701116/items/XN94UCAD" n="Riordan, The Concept of Love in the French Literary Revival, 1950">
+          <monogr>
+            <title level="m">The Concept of Love in the French Literary Revival</title>
+            <author>
+              <forename>Francis X.</forename>
+              <surname>Riordan</surname>
+            </author>
+            <imprint>
+              <pubPlace>Washington, DC</pubPlace>
+              <publisher>Catholic University of America Press</publisher>
+              <date>1950</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__XDWNHJBW" corresp="http://zotero.org/groups/5701116/items/XDWNHJBW" n="Riesman, The Lonely Crowd: A Study of the Changing American Character, 1950">
+          <monogr>
+            <title level="m">The Lonely Crowd: A Study of the Changing American Character</title>
+            <author>
+              <forename>David</forename>
+              <surname>Riesman</surname>
+            </author>
+            <imprint>
+              <pubPlace>New Haven</pubPlace>
+              <publisher>Yale University Press</publisher>
+              <date>1950</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__ZAS74UEK" corresp="http://zotero.org/groups/5701116/items/ZAS74UEK" n="Randall, The Making of the Modern Mind: A Survey of the Intellectual Background of t..., 1926">
+          <monogr>
+            <title level="m">The Making of the Modern Mind: A Survey of the Intellectual Background of the Present Age</title>
+            <author>
+              <forename>John Herman Jr.</forename>
+              <surname>Randall</surname>
+            </author>
+            <imprint>
+              <pubPlace>Boston</pubPlace>
+              <publisher>Houghton Mifflin Company</publisher>
+              <date>1926</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__DCRM333A" corresp="http://zotero.org/groups/5701116/items/DCRM333A" n="Raven, Science and the Christian Man, 1952">
+          <monogr>
+            <title level="m">Science and the Christian Man</title>
+            <author>
+              <forename>Charles E.</forename>
+              <surname>Raven</surname>
+            </author>
+            <imprint>
+              <pubPlace>London</pubPlace>
+              <publisher>SCM Press</publisher>
+              <date>1952</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__UXQGJS2A" corresp="http://zotero.org/groups/5701116/items/UXQGJS2A" n="Rauschenbusch, A Theology for the Social Gospel, 1917">
+          <monogr>
+            <title level="m">A Theology for the Social Gospel</title>
+            <author>
+              <forename>Walter</forename>
+              <surname>Rauschenbusch</surname>
+            </author>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <publisher>Macmillan</publisher>
+              <date>1917</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__7CTNETH6" corresp="http://zotero.org/groups/5701116/items/7CTNETH6" n="Ramsey, Basic Christian Ethics, 1950">
+          <monogr>
+            <title level="m">Basic Christian Ethics</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Ramsey</surname>
+            </author>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <publisher>Charles Scribner’s Sons</publisher>
+              <date>1950</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__HQIVFQ9W" corresp="http://zotero.org/groups/5701116/items/HQIVFQ9W" n="Pope, Religion and Class Structure, 1942">
+          <monogr>
+            <title level="m">Religion and Class Structure</title>
+            <author>
+              <forename>Liston</forename>
+              <surname>Pope</surname>
+            </author>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <publisher>Abingdon Press</publisher>
+              <date>1942</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__IF5BC9AC" corresp="http://zotero.org/groups/5701116/items/IF5BC9AC" n="Otto, The Idea of the Holy, 1923">
+          <monogr>
+            <title level="m">The Idea of the Holy</title>
+            <author>
+              <forename>Rudolf</forename>
+              <surname>Otto</surname>
+            </author>
+            <imprint>
+              <pubPlace>London</pubPlace>
+              <publisher>Oxford University Press</publisher>
+              <date>1923</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__E4IKXAND" corresp="http://zotero.org/groups/5701116/items/E4IKXAND" n="Orwell, Nineteen Eighty-Four, 1949">
+          <monogr>
+            <title level="m">Nineteen Eighty-Four</title>
+            <author>
+              <forename>George</forename>
+              <surname>Orwell</surname>
+            </author>
+            <imprint>
+              <pubPlace>London</pubPlace>
+              <publisher>Secker &amp; Warburg</publisher>
+              <date>1949</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__T87JUPX5" corresp="http://zotero.org/groups/5701116/items/T87JUPX5" n="Ortega y Gasset, The Revolt of the Masses, 1932">
+          <monogr>
+            <title level="m">The Revolt of the Masses</title>
+            <author>
+              <forename>José</forename>
+              <surname>Ortega y Gasset</surname>
+            </author>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <publisher>W. W. Norton &amp; Company</publisher>
+              <date>1932</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__3KWEKX7I" corresp="http://zotero.org/groups/5701116/items/3KWEKX7I" n="Oppenheimer, Science and the Common Understanding, 1954">
+          <monogr>
+            <title level="m">Science and the Common Understanding</title>
+            <author>
+              <forename>J. Robert</forename>
+              <surname>Oppenheimer</surname>
+            </author>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <publisher>Simon and Schuster</publisher>
+              <date>1954</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__DZDRXEZM" corresp="http://zotero.org/groups/5701116/items/DZDRXEZM" n="Ogden, The Meaning of Meaning: A Study of the Influence of Language upon Thought a..., 1923">
+          <monogr>
+            <title level="m">The Meaning of Meaning: A Study of the Influence of Language upon Thought and of the Science of Symbolism.</title>
+            <author>
+              <forename>C. K.</forename>
+              <surname>Ogden</surname>
+            </author>
+            <author>
+              <forename>I. A.</forename>
+              <surname>Richards</surname>
+            </author>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <publisher>Harcourt, Brace &amp; Company</publisher>
+              <date>1923</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__GI7HDFE3" corresp="http://zotero.org/groups/5701116/items/GI7HDFE3" n="Nietzsche, The Antichrist, 1920">
+          <monogr>
+            <title level="m">The Antichrist</title>
+            <author>
+              <forename>Friedrich</forename>
+              <surname>Nietzsche</surname>
+            </author>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <publisher>Alfred A. Knopf</publisher>
+              <date>1920</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__FPDZTI4J" corresp="http://zotero.org/groups/5701116/items/FPDZTI4J" n="Nietzsche, The Will to Power, 1910">
+          <monogr>
+            <title level="m">The Will to Power</title>
+            <author>
+              <forename>Friedrich</forename>
+              <surname>Nietzsche</surname>
+            </author>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <publisher>Macmillan</publisher>
+              <date>1910</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__DHB9H8JG" corresp="http://zotero.org/groups/5701116/items/DHB9H8JG" n="Nietzsche, The Birth of Tragedy, 1927">
+          <monogr>
+            <title level="m">The Birth of Tragedy</title>
+            <author>
+              <forename>Friedrich</forename>
+              <surname>Nietzsche</surname>
+            </author>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <publisher>Modern Library</publisher>
+              <date>1927</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__9A7FR9R6" corresp="http://zotero.org/groups/5701116/items/9A7FR9R6" n="Niebuhr, The Interpretation of Christian Ethics, 1935">
+          <monogr>
+            <title level="m">The Interpretation of Christian Ethics</title>
+            <author>
+              <forename>Reinhold</forename>
+              <surname>Niebuhr</surname>
+            </author>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <publisher>Harper &amp; Brothers</publisher>
+              <date>1935</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__KBN325M5" corresp="http://zotero.org/groups/5701116/items/KBN325M5" n="Niebuhr, Faith and History: A Comparison of Christian and Modern Views of History., 1949">
+          <monogr>
+            <title level="m">Faith and History: A Comparison of Christian and Modern Views of History.</title>
+            <author>
+              <forename>Reinhold</forename>
+              <surname>Niebuhr</surname>
+            </author>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <publisher>Charles Scribner’s Sons</publisher>
+              <date>1949</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__VSUDH8I3" corresp="http://zotero.org/groups/5701116/items/VSUDH8I3" n="Niebuhr, Does Civilization Need Religion?, 1927">
+          <monogr>
+            <title level="m">Does Civilization Need Religion?</title>
+            <author>
+              <forename>Reinhold</forename>
+              <surname>Niebuhr</surname>
+            </author>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <publisher>Macmillan</publisher>
+              <date>1927</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__E68QQQ2Z" corresp="http://zotero.org/groups/5701116/items/E68QQQ2Z" n="Niebuhr, Christianity and Power Politics, 1940">
+          <monogr>
+            <title level="m">Christianity and Power Politics</title>
+            <author>
+              <forename>Reinhold</forename>
+              <surname>Niebuhr</surname>
+            </author>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <publisher>Charles Scribner’s Sons</publisher>
+              <date>1940</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__CMI3MB74" corresp="http://zotero.org/groups/5701116/items/CMI3MB74" n="Niebuhr, Christian Realism and Political Problems, 1953">
+          <monogr>
+            <title level="m">Christian Realism and Political Problems</title>
+            <author>
+              <forename>Reinhold</forename>
+              <surname>Niebuhr</surname>
+            </author>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <publisher>Charles Scribner’s Sons</publisher>
+              <date>1953</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__F246MP8N" corresp="http://zotero.org/groups/5701116/items/F246MP8N" n="Niebuhr, Christ and Culture, 1951">
+          <monogr>
+            <title level="m">Christ and Culture</title>
+            <author>
+              <forename>H. Richard</forename>
+              <surname>Niebuhr</surname>
+            </author>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <publisher>Harper &amp; Brothers</publisher>
+              <date>1951</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__HBKXZ3QZ" corresp="http://zotero.org/groups/5701116/items/HBKXZ3QZ" n="Nash, The University and the Modern World, 1943">
+          <monogr>
+            <title level="m">The University and the Modern World</title>
+            <author>
+              <forename>Arnold S.</forename>
+              <surname>Nash</surname>
+            </author>
+            <imprint>
+              <pubPlace>London</pubPlace>
+              <publisher>SCM Press</publisher>
+              <date>1943</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__JZK3V6G2" corresp="http://zotero.org/groups/5701116/items/JZK3V6G2" n="Mumford, The Culture of Cities, 1938">
+          <monogr>
+            <title level="m">The Culture of Cities</title>
+            <author>
+              <forename>Lewis</forename>
+              <surname>Mumford</surname>
+            </author>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <publisher>Harcourt, Brace &amp; Company</publisher>
+              <date>1938</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__PQIWCRPB" corresp="http://zotero.org/groups/5701116/items/PQIWCRPB" n="Mumford, Technics and Civilization, 1934">
+          <monogr>
+            <title level="m">Technics and Civilization</title>
+            <author>
+              <forename>Lewis</forename>
+              <surname>Mumford</surname>
+            </author>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <publisher>Harcourt, Brace &amp; Company</publisher>
+              <date>1934</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__BRKRIIKG" corresp="http://zotero.org/groups/5701116/items/BRKRIIKG" n="Montagu, The Meaning of Love, 1953">
+          <monogr>
+            <title level="m">The Meaning of Love</title>
+            <author>
+              <forename>M. F. Ashley</forename>
+              <surname>Montagu</surname>
+            </author>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <publisher>Julian Press</publisher>
+              <date>1953</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__FFMIINQK" corresp="http://zotero.org/groups/5701116/items/FFMIINQK" n="Moberly, The Crisis in the University, 1949">
+          <monogr>
+            <title level="m">The Crisis in the University</title>
+            <author>
+              <forename>Walter Hamilton</forename>
+              <surname>Moberly</surname>
+            </author>
+            <imprint>
+              <pubPlace>London</pubPlace>
+              <publisher>SCM Press</publisher>
+              <date>1949</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__GDAF8U9G" corresp="http://zotero.org/groups/5701116/items/GDAF8U9G" n="Miller, The Christian Significance of Karl Marx., 1934">
+          <monogr>
+            <title level="m">The Christian Significance of Karl Marx.</title>
+            <author>
+              <forename>Arthur</forename>
+              <surname>Miller</surname>
+            </author>
+            <imprint>
+              <pubPlace>London</pubPlace>
+              <publisher>Student Christian Movement Press</publisher>
+              <date>1934</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__Z84IPRJM" corresp="http://zotero.org/groups/5701116/items/Z84IPRJM" n="Menninger, Love Against Hate, 1942">
+          <monogr>
+            <title level="m">Love Against Hate</title>
+            <author>
+              <forename>Karl</forename>
+              <surname>Menninger</surname>
+            </author>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <publisher>Harcourt, Brace &amp; Company</publisher>
+              <date>1942</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__UBXZCX4R" corresp="http://zotero.org/groups/5701116/items/UBXZCX4R" n="May, Man’s Search for Himself, 1953">
+          <monogr>
+            <title level="m">Man’s Search for Himself</title>
+            <author>
+              <forename>Rollo</forename>
+              <surname>May</surname>
+            </author>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <publisher>W. W. Norton &amp; Company</publisher>
+              <date>1953</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__C3W42HH2" corresp="http://zotero.org/groups/5701116/items/C3W42HH2" n="Maritain, Creative Intuition in Art and Poetry., 1953">
+          <monogr>
+            <title level="m">Creative Intuition in Art and Poetry.</title>
+            <author>
+              <forename>Jacques</forename>
+              <surname>Maritain</surname>
+            </author>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <publisher>Pantheon Books</publisher>
+              <date>1953</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__CGBMZH7H" corresp="http://zotero.org/groups/5701116/items/CGBMZH7H" n="Marcuse, Eros and Civilization: A Philosophical Inquiry into Freud, 1955">
+          <monogr>
+            <title level="m">Eros and Civilization: A Philosophical Inquiry into Freud</title>
+            <author>
+              <forename>Herbert</forename>
+              <surname>Marcuse</surname>
+            </author>
+            <imprint>
+              <pubPlace>Boston</pubPlace>
+              <publisher>Beacon Press</publisher>
+              <date>1955</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__8XFAA5KP" corresp="http://zotero.org/groups/5701116/items/8XFAA5KP" n="Mannheim, Diagnosis of Our Time: Wartime Essays of a Sociologist, 1943">
+          <monogr>
+            <title level="m">Diagnosis of Our Time: Wartime Essays of a Sociologist</title>
+            <author>
+              <forename>Karl</forename>
+              <surname>Mannheim</surname>
+            </author>
+            <imprint>
+              <pubPlace>London</pubPlace>
+              <publisher>Routledge &amp; Kegan Paul</publisher>
+              <date>1943</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__WB4UGGX6" corresp="http://zotero.org/groups/5701116/items/WB4UGGX6" n="Malraux, The Twilight of the Absolute, 1934">
+          <monogr>
+            <title level="m">The Twilight of the Absolute</title>
+            <author>
+              <forename>André</forename>
+              <surname>Malraux</surname>
+            </author>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <publisher>Harrison Smith and Robert Haas</publisher>
+              <date>1934</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__GAJNK5DD" corresp="http://zotero.org/groups/5701116/items/GAJNK5DD" n="Loewe, The Price of Liberty, 1937">
+          <monogr>
+            <title level="m">The Price of Liberty</title>
+            <author>
+              <forename>Adolf</forename>
+              <surname>Loewe</surname>
+            </author>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <publisher>Harper &amp; Brothers</publisher>
+              <date>1937</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__ED3EW67M" corresp="http://zotero.org/groups/5701116/items/ED3EW67M" n="Kegley, The Theology of Paul Tillich, 1952">
+          <monogr>
+            <title level="m">The Theology of Paul Tillich</title>
+            <author>
+              <forename>Charles W.</forename>
+              <surname>Kegley</surname>
+            </author>
+            <author>
+              <forename>Robert W.</forename>
+              <surname>Bretall</surname>
+            </author>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <publisher>Macmillan</publisher>
+              <date>1952</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__SSFZFZXN" corresp="http://zotero.org/groups/5701116/items/SSFZFZXN" n="Kant, Critique of Practical Reason, 1949">
+          <monogr>
+            <title level="m">Critique of Practical Reason</title>
+            <author>
+              <forename>Immanuel</forename>
+              <surname>Kant</surname>
+            </author>
+            <imprint>
+              <pubPlace>Chicago</pubPlace>
+              <publisher>University of Chicago Press</publisher>
+              <date>1949</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__34CVZN62" corresp="http://zotero.org/groups/5701116/items/34CVZN62" n="Jung, Modern Man in Search of a Soul, 1933">
+          <monogr>
+            <title level="m">Modern Man in Search of a Soul</title>
+            <author>
+              <forename>C. G.</forename>
+              <surname>Jung</surname>
+            </author>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <publisher>Harcourt, Brace &amp; Company</publisher>
+              <date>1933</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__96THUXRP" corresp="http://zotero.org/groups/5701116/items/96THUXRP" n="Jaspers, Philosophical Faith, 1948">
+          <monogr>
+            <title level="m">Philosophical Faith</title>
+            <author>
+              <forename>Karl</forename>
+              <surname>Jaspers</surname>
+            </author>
+            <imprint>
+              <pubPlace>Boston</pubPlace>
+              <publisher>Beacon Press</publisher>
+              <date>1948</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__VK6QEFMX" corresp="http://zotero.org/groups/5701116/items/VK6QEFMX" n="Jaspers, The Idea of the University, 1959">
+          <monogr>
+            <title level="m">The Idea of the University</title>
+            <author>
+              <forename>Karl</forename>
+              <surname>Jaspers</surname>
+            </author>
+            <imprint>
+              <pubPlace>London</pubPlace>
+              <publisher>Peter Owen</publisher>
+              <date>1959</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__5B4STIA2" corresp="http://zotero.org/groups/5701116/items/5B4STIA2" n="Jaspers, Man in the Modern Age, 1951">
+          <monogr>
+            <title level="m">Man in the Modern Age</title>
+            <author>
+              <forename>Karl</forename>
+              <surname>Jaspers</surname>
+            </author>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <publisher>Doubleday &amp; Company,</publisher>
+              <date>1951</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__2MIM42A8" corresp="http://zotero.org/groups/5701116/items/2MIM42A8" n="Hutchison, Christian Faith and Social Action, 1953">
+          <monogr>
+            <title level="m">Christian Faith and Social Action</title>
+            <author>
+              <forename>John A.</forename>
+              <surname>Hutchison</surname>
+            </author>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <publisher>Charles Scribner’s Sons</publisher>
+              <date>1953</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__XVG9I5H4" corresp="http://zotero.org/groups/5701116/items/XVG9I5H4" n="Huxley, Brave New World, 1932">
+          <monogr>
+            <title level="m">Brave New World</title>
+            <author>
+              <forename>Aldous</forename>
+              <surname>Huxley</surname>
+            </author>
+            <imprint>
+              <pubPlace>London</pubPlace>
+              <publisher>Chatto &amp; Windus</publisher>
+              <date>1932</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__8FH78EZK" corresp="http://zotero.org/groups/5701116/items/8FH78EZK" n="Heimann, Communism, Fascism or Democracy?, 1939">
+          <monogr>
+            <title level="m">Communism, Fascism or Democracy?</title>
+            <author>
+              <forename>Eduard</forename>
+              <surname>Heimann</surname>
+            </author>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <publisher>Charles Scribner’s Sons</publisher>
+              <date>1939</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__QMV6PCHB" corresp="http://zotero.org/groups/5701116/items/QMV6PCHB" n="Heimann, Freedom and Order: A Christian Interpretation of the Social Crisis, 1947">
+          <monogr>
+            <title level="m">Freedom and Order: A Christian Interpretation of the Social Crisis</title>
+            <author>
+              <forename>Eduard</forename>
+              <surname>Heimann</surname>
+            </author>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <publisher>Harper &amp; Brothers</publisher>
+              <date>1947</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__EDG665XC" corresp="http://zotero.org/groups/5701116/items/EDG665XC" n="Heim, Christian Faith and Natural Science, 1953">
+          <monogr>
+            <title level="m">Christian Faith and Natural Science</title>
+            <author>
+              <forename>Karl</forename>
+              <surname>Heim</surname>
+            </author>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <publisher>Harper &amp; Brothers</publisher>
+              <date>1953</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__QNVEWVMU" corresp="http://zotero.org/groups/5701116/items/QNVEWVMU" n="Haroutunian, Lust for Power., 1949">
+          <monogr>
+            <title level="m">Lust for Power.</title>
+            <author>
+              <forename>Joseph</forename>
+              <surname>Haroutunian</surname>
+            </author>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <publisher>Charles Scribner’s Sons</publisher>
+              <date>1949</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__QHMNEWZU" corresp="http://zotero.org/groups/5701116/items/QHMNEWZU" n="Friedrich, Theological Dictionary of the New Testament, None">
+          <monogr>
+            <title level="m">Theological Dictionary of the New Testament</title>
+            <author>
+              <forename>Gerhard</forename>
+              <surname>Friedrich</surname>
+            </author>
+            <imprint>
+              <pubPlace>Grand Rapids</pubPlace>
+              <publisher>William B. Eerdmans</publisher>
+              <date/>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__BWDC7QTW" corresp="http://zotero.org/groups/5701116/items/BWDC7QTW" n="Eliot, Notes Towards the Definition of Culture, 1949">
+          <monogr>
+            <title level="m">Notes Towards the Definition of Culture</title>
+            <author>
+              <forename>T.S.</forename>
+              <surname>Eliot</surname>
+            </author>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <publisher>Harcourt, Brace &amp; Company</publisher>
+              <date>1949</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__CS93S5PB" corresp="http://zotero.org/groups/5701116/items/CS93S5PB" n="Eliot, The Idea of a Christian Society, 1940">
+          <monogr>
+            <title level="m">The Idea of a Christian Society</title>
+            <author>
+              <forename>T.S.</forename>
+              <surname>Eliot</surname>
+            </author>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <publisher>Harcourt, Brace &amp; Company</publisher>
+              <date>1940</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__K3SACQXN" corresp="http://zotero.org/groups/5701116/items/K3SACQXN" n="Edman, Arts and the Man, 1939">
+          <monogr>
+            <title level="m">Arts and the Man</title>
+            <author>
+              <forename>Irwin</forename>
+              <surname>Edman</surname>
+            </author>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <publisher>W. W. Norton &amp; Company</publisher>
+              <date>1939</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__WRKC27JC" corresp="http://zotero.org/groups/5701116/items/WRKC27JC" n="Fromm, Psychoanalysis and Religion, 1950">
+          <monogr>
+            <title level="m">Psychoanalysis and Religion</title>
+            <author>
+              <forename>Erich</forename>
+              <surname>Fromm</surname>
+            </author>
+            <imprint>
+              <pubPlace>New Haven</pubPlace>
+              <publisher>Yale University Press</publisher>
+              <date>1950</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__627D923R" corresp="http://zotero.org/groups/5701116/items/627D923R" n="Fromm, Man for Himself, 1947">
+          <monogr>
+            <title level="m">Man for Himself</title>
+            <author>
+              <forename>Erich</forename>
+              <surname>Fromm</surname>
+            </author>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <publisher>Rinehart &amp; Company</publisher>
+              <date>1947</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__952SJG8Q" corresp="http://zotero.org/groups/5701116/items/952SJG8Q" n="Fromm, Escape from Freedom, 1941">
+          <monogr>
+            <title level="m">Escape from Freedom</title>
+            <author>
+              <forename>Erich</forename>
+              <surname>Fromm</surname>
+            </author>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <publisher>Farrar &amp; Rinehart</publisher>
+              <date>1941</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__NP2UC9NF" corresp="http://zotero.org/groups/5701116/items/NP2UC9NF" n="Eastman, The Enjoyment of Poetry, 1913">
           <monogr>
             <title level="m">The Enjoyment of Poetry</title>
