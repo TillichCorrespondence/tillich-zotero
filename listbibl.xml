@@ -16,6 +16,66 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="journalArticle" xml:id="tillich__IFQUXBDI" corresp="http://zotero.org/groups/5701116/items/IFQUXBDI" n="Hirsch, Liebe und Persönlichkeit, 1918">
+          <analytic>
+            <title level="a">Liebe und Persönlichkeit</title>
+            <author>
+              <forename>Emanuel</forename>
+              <surname>Hirsch</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Der Geisteskampf der Gegenwart</title>
+            <imprint>
+              <biblScope unit="volume">54</biblScope>
+              <biblScope unit="issue">5</biblScope>
+              <biblScope unit="page">Sp. 167–169</biblScope>
+              <date>1918</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__DSDH7R8W" corresp="http://zotero.org/groups/5701116/items/DSDH7R8W" n="Hegel, Encyklopädie der Philosophischen Wissenschaften im Grundrisse, 1870">
+          <monogr>
+            <title level="m">Encyklopädie der Philosophischen Wissenschaften im Grundrisse</title>
+            <author>
+              <forename>Georg Wilhelm Friedrich</forename>
+              <surname>Hegel</surname>
+            </author>
+            <imprint>
+              <pubPlace>Berlin</pubPlace>
+              <publisher>L. Heimann</publisher>
+              <date>1870</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__92R2WYEZ" corresp="http://zotero.org/groups/5701116/items/92R2WYEZ" n="Hegel, System der Wissenschaft: Erster Theil, die Phänomenologie des Geistes, None">
+          <monogr>
+            <title level="m">System der Wissenschaft: Erster Theil, die Phänomenologie des Geistes</title>
+            <author>
+              <forename>Georg Wilhelm Friedrich</forename>
+              <surname>Hegel</surname>
+            </author>
+            <imprint>
+              <pubPlace>Berlin</pubPlace>
+              <publisher>Duncker &amp; Humblot</publisher>
+              <date/>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__NGXSH5ZJ" corresp="http://zotero.org/groups/5701116/items/NGXSH5ZJ" n="Hegel, Wissenschaft der Logik, 1833">
+          <monogr>
+            <title level="m">Wissenschaft der Logik</title>
+            <author>
+              <forename>Georg Wilhelm Friedrich</forename>
+              <surname>Hegel</surname>
+            </author>
+            <imprint>
+              <pubPlace>Berlin</pubPlace>
+              <publisher>Duncker &amp; Humblot</publisher>
+              <date>1833</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__CFS3S59G" corresp="http://zotero.org/groups/5701116/items/CFS3S59G" n="Wild, The Challenge of Existentialism, 1955">
           <monogr>
             <title level="m">The Challenge of Existentialism</title>
@@ -174,20 +234,6 @@
               <pubPlace>Chicago</pubPlace>
               <publisher>University of Chicago Press</publisher>
               <date>1948</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="tillich__92R2WYEZ" corresp="http://zotero.org/groups/5701116/items/92R2WYEZ" n="Hegel, System der Wissenschaft: Erster Theil, die Phänomenologie des Geistes, None">
-          <monogr>
-            <title level="m">System der Wissenschaft: Erster Theil, die Phänomenologie des Geistes</title>
-            <author>
-              <forename>Georg Wilhelm Friedrich</forename>
-              <surname>Hegel</surname>
-            </author>
-            <imprint>
-              <pubPlace>Bamberg und Würzburg</pubPlace>
-              <publisher>Joseph Anton Goebhardt</publisher>
-              <date/>
             </imprint>
           </monogr>
         </biblStruct>
@@ -9196,24 +9242,6 @@ GESAMMELTEN WERKEN VON PAUL TILLICH, Bd. X)</title>
             <title level="s">Sammlung gemeinverständlicher Vorträge und Schriften aus dem Gebiet der Theologie und Religionsgeschichte</title>
             <biblScope unit="volume">158</biblScope>
           </series>
-        </biblStruct>
-        <biblStruct type="journalArticle" xml:id="tillich__IFQUXBDI" corresp="http://zotero.org/groups/5701116/items/IFQUXBDI" n="Hirsch, Liebe und Persönlichkeit, 1910">
-          <analytic>
-            <title level="a">Liebe und Persönlichkeit</title>
-            <author>
-              <forename>Emanuel</forename>
-              <surname>Hirsch</surname>
-            </author>
-          </analytic>
-          <monogr>
-            <title level="j">Der Geisteskampf der Gegenwart</title>
-            <imprint>
-              <biblScope unit="volume">54</biblScope>
-              <biblScope unit="issue">5</biblScope>
-              <biblScope unit="page">Sp. 167–169</biblScope>
-              <date>1910</date>
-            </imprint>
-          </monogr>
         </biblStruct>
         <biblStruct type="book" xml:id="tillich__86QMW7BV" corresp="http://zotero.org/groups/5701116/items/86QMW7BV" n="Jaspers, Psychologie der Weltanschauung, 1919">
           <monogr>
