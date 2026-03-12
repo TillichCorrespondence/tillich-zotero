@@ -16,6 +16,23 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="journalArticle" xml:id="tillich__MHU3734F" corresp="http://zotero.org/groups/5701116/items/MHU3734F" n="Anonym, Ehetragödie in Friedenau, 1920">
+          <analytic>
+            <title level="a">Ehetragödie in Friedenau</title>
+            <author>
+              <name>Anonym</name>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Vossische Zeitung. Berlinische Zeitung von Staats- und gelehrten Sachen</title>
+            <imprint>
+              <pubPlace>Berlin</pubPlace>
+              <biblScope unit="issue">Morgen-Ausgabe</biblScope>
+              <biblScope unit="page">6</biblScope>
+              <date>1920</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="journalArticle" xml:id="tillich__IFQUXBDI" corresp="http://zotero.org/groups/5701116/items/IFQUXBDI" n="Hirsch, Liebe und Persönlichkeit, 1918">
           <analytic>
             <title level="a">Liebe und Persönlichkeit</title>
