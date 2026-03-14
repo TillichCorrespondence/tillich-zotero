@@ -16,6 +16,28 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__D3JDJAK4" corresp="http://zotero.org/groups/5701116/items/D3JDJAK4" n="Tillich, Dresdner Vorlesungen (1925–1927), 2017">
+          <monogr>
+            <title level="m">Dresdner Vorlesungen (1925–1927)</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+            <editor>
+              <forename>Erdmann</forename>
+              <surname>Sturm</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Berlin/Boston</pubPlace>
+              <biblScope unit="volume">20</biblScope>
+              <publisher>De Gruyter</publisher>
+              <date>2017</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Gesammelte Werke. Ergänzung- und Nachlassbände</title>
+          </series>
+        </biblStruct>
         <biblStruct type="journalArticle" xml:id="tillich__MHU3734F" corresp="http://zotero.org/groups/5701116/items/MHU3734F" n="Anonym, Ehetragödie in Friedenau, 1920">
           <analytic>
             <title level="a">Ehetragödie in Friedenau</title>
