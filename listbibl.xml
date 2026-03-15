@@ -16,6 +16,41 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__DEWQEL6Z" corresp="http://zotero.org/groups/5701116/items/DEWQEL6Z" n="Tillich, Vorlesungen über Geschichtsphilosophie und Sozialpädagogik (Frankfurt 1929/..., 2007">
+          <monogr>
+            <title level="m">Vorlesungen über Geschichtsphilosophie und Sozialpädagogik (Frankfurt 1929/30)</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+            <editor>
+              <forename>Erdmann</forename>
+              <surname>Sturm</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Berlin/New York; Stuttgart</pubPlace>
+              <biblScope unit="volume">15</biblScope>
+              <publisher>De Gruyter; Ev. Verlagswerk</publisher>
+              <date>2007</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Gesammelte Werke, Ergänzungs- und Nachlassbände</title>
+          </series>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__32F2DGQ6" corresp="http://zotero.org/groups/5701116/items/32F2DGQ6" n="Wiebel (Hg.), Rudolf Hermann – Erich Seeberg. Briefwechsel 1920-1945, 2003">
+          <monogr>
+            <title level="m">Rudolf Hermann – Erich Seeberg. Briefwechsel 1920-1945</title>
+            <editor>
+              <forename>Arnold</forename>
+              <surname>Wiebel</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Frankfurt/Main</pubPlace>
+              <date>2003</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__D3JDJAK4" corresp="http://zotero.org/groups/5701116/items/D3JDJAK4" n="Tillich, Dresdner Vorlesungen (1925–1927), 2017">
           <monogr>
             <title level="m">Dresdner Vorlesungen (1925–1927)</title>
@@ -10878,22 +10913,6 @@ GESAMMELTEN WERKEN VON PAUL TILLICH, Bd. X)</title>
             </imprint>
           </monogr>
         </biblStruct>
-        <biblStruct type="bookSection" xml:id="tillich__DEWQEL6Z" corresp="http://zotero.org/groups/5701116/items/DEWQEL6Z" n="Tillich, Vorlesung zur Geschichtsphilosophie, Frankfurt Wintersemester 1929/1930, None">
-          <analytic>
-            <title level="a">Vorlesung zur Geschichtsphilosophie, Frankfurt Wintersemester 1929/1930</title>
-            <author>
-              <forename>Paul</forename>
-              <surname>Tillich</surname>
-            </author>
-          </analytic>
-          <monogr>
-            <title level="m">EW XV</title>
-            <imprint>
-              <biblScope unit="page">1–118</biblScope>
-              <date/>
-            </imprint>
-          </monogr>
-        </biblStruct>
         <biblStruct type="bookSection" xml:id="tillich__BZJJQI86" corresp="http://zotero.org/groups/5701116/items/BZJJQI86" n="Tillich, Natur und Sakrament, 1930">
           <analytic>
             <title level="a">Natur und Sakrament</title>
@@ -10908,19 +10927,6 @@ GESAMMELTEN WERKEN VON PAUL TILLICH, Bd. X)</title>
               <pubPlace>Berlin</pubPlace>
               <biblScope unit="page">142–167, 293–295</biblScope>
               <date>1930</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="tillich__32F2DGQ6" corresp="http://zotero.org/groups/5701116/items/32F2DGQ6" n="Wiebel (Hg.), Rudolf Hermann - Erich Seeberg. Briefwechsel 1920-1945, 2003">
-          <monogr>
-            <title level="m">Rudolf Hermann - Erich Seeberg. Briefwechsel 1920-1945</title>
-            <editor>
-              <forename>Arnold</forename>
-              <surname>Wiebel</surname>
-            </editor>
-            <imprint>
-              <pubPlace>Frankfurt/Main</pubPlace>
-              <date>2003</date>
             </imprint>
           </monogr>
         </biblStruct>
