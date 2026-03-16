@@ -16,6 +16,27 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="bookSection" xml:id="tillich__I52T2VST" corresp="http://zotero.org/groups/5701116/items/I52T2VST" n="o.A., Die Berliner Theologische Fakultät 1933 bis 1945, 2005">
+          <analytic>
+            <title level="a">Die Berliner Theologische Fakultät 1933 bis 1945</title>
+            <respStmt>
+              <resp>contributor</resp>
+              <persName>
+                <forename>Hartmut</forename>
+                <surname>Ludwig</surname>
+              </persName>
+            </respStmt>
+          </analytic>
+          <monogr>
+            <title level="m">Die Berliner Universität in der NS-Zeit. Band II</title>
+            <imprint>
+              <pubPlace>Stuttgart</pubPlace>
+              <biblScope unit="page">93–121</biblScope>
+              <publisher>Franz Steiner</publisher>
+              <date>2005</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__DEWQEL6Z" corresp="http://zotero.org/groups/5701116/items/DEWQEL6Z" n="Tillich, Vorlesungen über Geschichtsphilosophie und Sozialpädagogik (Frankfurt 1929/..., 2007">
           <monogr>
             <title level="m">Vorlesungen über Geschichtsphilosophie und Sozialpädagogik (Frankfurt 1929/30)</title>
