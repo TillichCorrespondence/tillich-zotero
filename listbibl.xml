@@ -16,6 +16,20 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__8UBEEGPM" corresp="http://zotero.org/groups/5701116/items/8UBEEGPM" n="Warburg, Heidnisch-antike Weissagung in Wort und Bild zu Luthers Zeiten, 1920">
+          <monogr>
+            <title level="m">Heidnisch-antike Weissagung in Wort und Bild zu Luthers Zeiten</title>
+            <author>
+              <forename>Aby</forename>
+              <surname>Warburg</surname>
+            </author>
+            <imprint>
+              <pubPlace>Heidelberg</pubPlace>
+              <publisher>C. Winter,</publisher>
+              <date>1920</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="bookSection" xml:id="tillich__I52T2VST" corresp="http://zotero.org/groups/5701116/items/I52T2VST" n="o.A., Die Berliner Theologische Fakultät 1933 bis 1945, 2005">
           <analytic>
             <title level="a">Die Berliner Theologische Fakultät 1933 bis 1945</title>
