@@ -16,6 +16,26 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="journalArticle" xml:id="tillich__4QU6ATM4" corresp="http://zotero.org/groups/5701116/items/4QU6ATM4" n="Tillich, Kairos, 1922">
+          <analytic>
+            <title level="a">Kairos</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Die Tat, Monatszeitschrift für die Zukunft deutscher Kultur</title>
+            <imprint>
+              <pubPlace>Jena</pubPlace>
+              <biblScope unit="volume">15</biblScope>
+              <biblScope unit="issue">5</biblScope>
+              <biblScope unit="page">330-350</biblScope>
+              <publisher>Eugen Diederichs</publisher>
+              <date>1922</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__8UBEEGPM" corresp="http://zotero.org/groups/5701116/items/8UBEEGPM" n="Warburg, Heidnisch-antike Weissagung in Wort und Bild zu Luthers Zeiten, 1920">
           <monogr>
             <title level="m">Heidnisch-antike Weissagung in Wort und Bild zu Luthers Zeiten</title>
