@@ -16,6 +16,48 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="bookSection" xml:id="tillich__UU624G58" corresp="http://zotero.org/groups/5701116/items/UU624G58" n="o.A., Fedor Steppuhn in Heidelberg (1903–1955). Über Freundschafts- und Spätbürge..., 1995">
+          <analytic>
+            <title level="a">Fedor Steppuhn in Heidelberg (1903–1955). Über Freundschafts- und Spätbürgertreffen in einer deutschen Kleinstadt</title>
+            <respStmt>
+              <resp>contributor</resp>
+              <persName>
+                <forename>Hubert</forename>
+                <surname>Treiber</surname>
+              </persName>
+            </respStmt>
+          </analytic>
+          <monogr>
+            <title level="m">Heidelberg im Schnittpunkt intellektueller Kreise
+Zur Topographie der „geistigen Geselligkeit“ eines „Weltdorfes“: 1850–1950</title>
+            <imprint>
+              <pubPlace>Opladen</pubPlace>
+              <biblScope unit="page">70–118</biblScope>
+              <publisher>Westdeutscher Verlag</publisher>
+              <date>1995</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__IVS4G69U" corresp="http://zotero.org/groups/5701116/items/IVS4G69U" n="Tillich, Review: Emil Brunner: Revelation and Reason (1946), 1947">
+          <analytic>
+            <title level="a">Review: Emil Brunner: Revelation and Reason (1946)</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">The Westminster Bookman</title>
+            <imprint>
+              <pubPlace>Philadelphia, PA</pubPlace>
+              <biblScope unit="volume">6</biblScope>
+              <biblScope unit="issue">3</biblScope>
+              <biblScope unit="page">5–6</biblScope>
+              <publisher>The Westminster Press</publisher>
+              <date>1947</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="journalArticle" xml:id="tillich__C5UTEQ4H" corresp="http://zotero.org/groups/5701116/items/C5UTEQ4H" n="Kauder, Ideal history: remarks on the foundation of wave theory, 1946">
           <analytic>
             <title level="a">Ideal history: remarks on the foundation of wave theory</title>
