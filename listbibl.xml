@@ -16,6 +16,23 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="newspaperArticle" xml:id="tillich__HUSR46UD" corresp="http://zotero.org/groups/5701116/items/HUSR46UD" n="Lenz, Die internationalen Hochschulkurse in Davos, 1928">
+          <analytic>
+            <title level="a">Die internationalen Hochschulkurse in Davos</title>
+            <author>
+              <forename>G.</forename>
+              <surname>Lenz</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Stuttgarter neues Tagblatt. Südwestdeutsche Handels- und Wirtschafts-Zeitung</title>
+            <imprint>
+              <biblScope unit="issue">171</biblScope>
+              <biblScope unit="page">2</biblScope>
+              <date>1928</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="bookSection" xml:id="tillich__UU624G58" corresp="http://zotero.org/groups/5701116/items/UU624G58" n="o.A., Fedor Steppuhn in Heidelberg (1903–1955). Über Freundschafts- und Spätbürge..., 1995">
           <analytic>
             <title level="a">Fedor Steppuhn in Heidelberg (1903–1955). Über Freundschafts- und Spätbürgertreffen in einer deutschen Kleinstadt</title>
