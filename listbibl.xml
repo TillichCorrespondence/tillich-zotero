@@ -16,6 +16,21 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="artwork" xml:id="tillich__P84W5IQQ" corresp="http://zotero.org/groups/5701116/items/P84W5IQQ" n="o.A., Leben des Galilei, 1943">
+          <monogr>
+            <title level="m">Leben des Galilei</title>
+            <respStmt>
+              <resp>artist</resp>
+              <persName>
+                <forename>Bertolt</forename>
+                <surname>Brecht</surname>
+              </persName>
+            </respStmt>
+            <imprint>
+              <date>1943</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="newspaperArticle" xml:id="tillich__HUSR46UD" corresp="http://zotero.org/groups/5701116/items/HUSR46UD" n="Lenz, Die internationalen Hochschulkurse in Davos, 1928">
           <analytic>
             <title level="a">Die internationalen Hochschulkurse in Davos</title>
