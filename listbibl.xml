@@ -16,6 +16,112 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="bookSection" xml:id="tillich__6T478VK8" corresp="http://zotero.org/groups/5701116/items/6T478VK8" n="Medicus, Pestalozzi, 1946">
+          <analytic>
+            <title level="a">Pestalozzi</title>
+            <author>
+              <forename>Fritz</forename>
+              <surname>Medicus</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Pestalozzi: 2 Reden zu seinem 200. Geburtstag am 12. Januar 1946, gehalten an der Eidgenössischen Technischen Hochschule</title>
+            <imprint>
+              <pubPlace>Zürich</pubPlace>
+              <biblScope unit="volume">52</biblScope>
+              <publisher>Polygraphischer Verlag</publisher>
+              <date>1946</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Kultur- und staatswissenschaftliche Schriften</title>
+          </series>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__HZDGQGN7" corresp="http://zotero.org/groups/5701116/items/HZDGQGN7" n="o.A., Pestalozzi: 2 Reden zu seinem 200. Geburtstag am 12. Januar 1946, gehalten ..., 1946">
+          <monogr>
+            <title level="m">Pestalozzi: 2 Reden zu seinem 200. Geburtstag am 12. Januar 1946, gehalten an der Eidgenössischen Technischen Hochschule</title>
+            <respStmt>
+              <resp>contributor</resp>
+              <persName>
+                <forename>Fritz</forename>
+                <surname>Medicus</surname>
+              </persName>
+            </respStmt>
+            <respStmt>
+              <resp>contributor</resp>
+              <persName>
+                <forename>Charly</forename>
+                <surname>Clerc</surname>
+              </persName>
+            </respStmt>
+            <imprint>
+              <pubPlace>Zürich</pubPlace>
+              <biblScope unit="volume">52</biblScope>
+              <publisher>Polygraphischer Verlag</publisher>
+              <date>1946</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Kultur- und staatswissenschaftliche Schriften</title>
+          </series>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__Q2T3AQW7" corresp="http://zotero.org/groups/5701116/items/Q2T3AQW7" n="Barth (Hg.), Natur und Geist: Fritz Medicus zum 70. Geburtstag, 1946">
+          <monogr>
+            <title level="m">Natur und Geist: Fritz Medicus zum 70. Geburtstag</title>
+            <editor>
+              <forename>Hans</forename>
+              <surname>Barth</surname>
+            </editor>
+            <editor>
+              <forename>Walter</forename>
+              <surname>Rüegg</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Erlenbach-Zürich</pubPlace>
+              <publisher>Rentsch</publisher>
+              <date>1946</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__PRBGPNH9" corresp="http://zotero.org/groups/5701116/items/PRBGPNH9" n="Medicus, Von der doppelten Basis der menschlichen Dinge, 1943">
+          <monogr>
+            <title level="m">Von der doppelten Basis der menschlichen Dinge</title>
+            <author>
+              <forename>Fritz</forename>
+              <surname>Medicus</surname>
+            </author>
+            <imprint>
+              <pubPlace>Zürich</pubPlace>
+              <biblScope unit="volume">37</biblScope>
+              <publisher>Polygraphischer Verlag</publisher>
+              <date>1943</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Kultur- und staatswissenschaftliche Schriften</title>
+          </series>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="tillich__PUJIRMCZ" corresp="http://zotero.org/groups/5701116/items/PUJIRMCZ" n="o.A., Zwei Wege der Religionsphilosophie, 1946">
+          <analytic>
+            <title level="a">Zwei Wege der Religionsphilosophie</title>
+            <respStmt>
+              <resp>contributor</resp>
+              <persName>
+                <forename>Paul</forename>
+                <surname>Tillich</surname>
+              </persName>
+            </respStmt>
+          </analytic>
+          <monogr>
+            <title level="m">Natur und Geist: Fritz Medicus zum 70. Geburtstag</title>
+            <imprint>
+              <pubPlace>Erlenbach-Zürich</pubPlace>
+              <biblScope unit="page">210–230</biblScope>
+              <publisher>Rentsch</publisher>
+              <date>1946</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="artwork" xml:id="tillich__P84W5IQQ" corresp="http://zotero.org/groups/5701116/items/P84W5IQQ" n="o.A., Leben des Galilei, 1943">
           <monogr>
             <title level="m">Leben des Galilei</title>
