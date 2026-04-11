@@ -16,6 +16,39 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="journalArticle" xml:id="tillich__SFFJNAI2" corresp="http://zotero.org/groups/5701116/items/SFFJNAI2" n="Tillich, Christianity Without Paul, 1946">
+          <analytic>
+            <title level="a">Christianity Without Paul</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">The Nation</title>
+            <imprint>
+              <biblScope unit="volume">163</biblScope>
+              <biblScope unit="issue">15</biblScope>
+              <biblScope unit="page">412–413</biblScope>
+              <publisher>Freda Kirchwey</publisher>
+              <date>1946</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__7WZP2N3A" corresp="http://zotero.org/groups/5701116/items/7WZP2N3A" n="Santayana, The Idea of Christ in the Gospels, 1946">
+          <monogr>
+            <title level="m">The Idea of Christ in the Gospels</title>
+            <author>
+              <forename>George</forename>
+              <surname>Santayana</surname>
+            </author>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <publisher>Charles Scribner's Sons</publisher>
+              <date>1946</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__4TE36AQU" corresp="http://zotero.org/groups/5701116/items/4TE36AQU" n="Seeberg, Lehrbuch der Dogmengeschichte, vierter Band, erste Abteilung. Die Lehre Lut..., 1917">
           <monogr>
             <title level="m">Lehrbuch der Dogmengeschichte, vierter Band, erste Abteilung. Die Lehre Luthers.</title>
