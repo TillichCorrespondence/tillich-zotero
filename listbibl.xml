@@ -16,6 +16,36 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__QCZ8QL3U" corresp="http://zotero.org/groups/5701116/items/QCZ8QL3U" n="Ferber, Die Seidels : Geschichte einer bürgerlichen Familie 1811 - 1977, 1979">
+          <monogr>
+            <title level="m">Die Seidels : Geschichte einer bürgerlichen Familie 1811 - 1977</title>
+            <author>
+              <forename>Chrsitian</forename>
+              <surname>Ferber</surname>
+            </author>
+            <imprint>
+              <pubPlace>Stuttgart</pubPlace>
+              <publisher>Dt. Verl.-Anst.</publisher>
+              <date>1979</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__W5L7ZPFY" corresp="http://zotero.org/groups/5701116/items/W5L7ZPFY" n="o.A., o.T., 1907">
+          <analytic>
+            <title level="a"/>
+          </analytic>
+          <monogr>
+            <title level="j">General-Anzeiger für Kemberg, Bad Schmiedeberg und Umgegend</title>
+            <imprint>
+              <pubPlace>Kemberg</pubPlace>
+              <biblScope unit="volume">Jahrgang 9</biblScope>
+              <biblScope unit="issue">86</biblScope>
+              <date>1907</date>
+              <note type="accessed">2026-04-15</note>
+              <note type="url">https://nbn-resolving.de/urn:nbn:de:gbv:3:3-53721-p9063-8</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="newspaperArticle" xml:id="tillich__R928G6JI" corresp="http://zotero.org/groups/5701116/items/R928G6JI" n="o.A., DR. KARL MANNHEIM, LEADING SOCIOLOGIST, 1947">
           <analytic>
             <title level="a">DR. KARL MANNHEIM, LEADING SOCIOLOGIST</title>
@@ -497,6 +527,19 @@ Zur Topographie der „geistigen Geselligkeit“ eines „Weltdorfes“: 1850–
               <biblScope unit="issue">Morgen-Ausgabe</biblScope>
               <biblScope unit="page">6</biblScope>
               <date>1920</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__KTIX8RQN" corresp="http://zotero.org/groups/5701116/items/KTIX8RQN" n="Hartmann, Der Islam. Geschichte ‒ Glaube ‒ Recht: Ein Handbuch, 1909">
+          <monogr>
+            <title level="m">Der Islam. Geschichte ‒ Glaube ‒ Recht: Ein Handbuch</title>
+            <author>
+              <forename>Martin</forename>
+              <surname>Hartmann</surname>
+            </author>
+            <imprint>
+              <pubPlace>Leipzig</pubPlace>
+              <date>1909</date>
             </imprint>
           </monogr>
         </biblStruct>
@@ -10042,19 +10085,6 @@ GESAMMELTEN WERKEN VON PAUL TILLICH, Bd. X)</title>
             <imprint>
               <pubPlace>Tübingen</pubPlace>
               <date>1923</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="tillich__KTIX8RQN" corresp="http://zotero.org/groups/5701116/items/KTIX8RQN" n="Hartmann, Der Islam. Geschichte - Glaube - Recht: Ein Handbuch, 1909">
-          <monogr>
-            <title level="m">Der Islam. Geschichte - Glaube - Recht: Ein Handbuch</title>
-            <author>
-              <forename>Martin</forename>
-              <surname>Hartmann</surname>
-            </author>
-            <imprint>
-              <pubPlace>Leipzig</pubPlace>
-              <date>1909</date>
             </imprint>
           </monogr>
         </biblStruct>
