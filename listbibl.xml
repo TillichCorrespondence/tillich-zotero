@@ -16,16 +16,16 @@
   <text>
     <body>
       <listBibl>
-        <biblStruct type="book" xml:id="tillich__QCZ8QL3U" corresp="http://zotero.org/groups/5701116/items/QCZ8QL3U" n="Ferber, Die Seidels : Geschichte einer bürgerlichen Familie 1811 - 1977, 1979">
+        <biblStruct type="book" xml:id="tillich__QCZ8QL3U" corresp="http://zotero.org/groups/5701116/items/QCZ8QL3U" n="Ferber, Die Seidels: Geschichte einer bürgerlichen Familie 1811 - 1977, 1979">
           <monogr>
-            <title level="m">Die Seidels : Geschichte einer bürgerlichen Familie 1811 - 1977</title>
+            <title level="m">Die Seidels: Geschichte einer bürgerlichen Familie 1811 - 1977</title>
             <author>
-              <forename>Chrsitian</forename>
+              <forename>Christian</forename>
               <surname>Ferber</surname>
             </author>
             <imprint>
               <pubPlace>Stuttgart</pubPlace>
-              <publisher>Dt. Verl.-Anst.</publisher>
+              <publisher>Deutsche Verlags-Anstalt</publisher>
               <date>1979</date>
             </imprint>
           </monogr>
