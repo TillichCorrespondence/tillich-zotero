@@ -16,6 +16,40 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__D2I2Q9TH" corresp="http://zotero.org/groups/5701116/items/D2I2Q9TH" n="Hafkesbrink, Unknown Germany: An Inner Chronicle of the First World War based on Letters..., 1948">
+          <monogr>
+            <title level="m">Unknown Germany: An Inner Chronicle of the First World War based on Letters and Diaries</title>
+            <author>
+              <forename>Hanna</forename>
+              <surname>Hafkesbrink</surname>
+            </author>
+            <imprint>
+              <pubPlace>New Haven</pubPlace>
+              <publisher>Yale University Press</publisher>
+              <date>1948</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__IGG2446U" corresp="http://zotero.org/groups/5701116/items/IGG2446U" n="Tillich, Existential Philosophy, 1944">
+          <analytic>
+            <title level="a">Existential Philosophy</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Journal for the History of Ideas</title>
+            <imprint>
+              <pubPlace>Lancaster, Pa./New York, NY</pubPlace>
+              <biblScope unit="volume">5</biblScope>
+              <biblScope unit="issue">1</biblScope>
+              <biblScope unit="chapter">44–70</biblScope>
+              <publisher>Penn Press</publisher>
+              <date>1944</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__QCZ8QL3U" corresp="http://zotero.org/groups/5701116/items/QCZ8QL3U" n="Ferber, Die Seidels: Geschichte einer bürgerlichen Familie 1811 - 1977, 1979">
           <monogr>
             <title level="m">Die Seidels: Geschichte einer bürgerlichen Familie 1811 - 1977</title>
