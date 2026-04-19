@@ -16,6 +16,62 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__BMW3KHZE" corresp="http://zotero.org/groups/5701116/items/BMW3KHZE" n="Bloch, Thomas Münzer als Theologe der Revolution, 1921">
+          <monogr>
+            <title level="m">Thomas Münzer als Theologe der Revolution</title>
+            <author>
+              <forename>Ernst</forename>
+              <surname>Bloch</surname>
+            </author>
+            <imprint>
+              <pubPlace>München</pubPlace>
+              <publisher>Kurt Wolff Verlag</publisher>
+              <date>1921</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__TKAQIERZ" corresp="http://zotero.org/groups/5701116/items/TKAQIERZ" n="Bloch, Das Prinzip Hoffnung. Bd. 1, 1954">
+          <monogr>
+            <title level="m">Das Prinzip Hoffnung. Bd. 1</title>
+            <author>
+              <forename>Ernst</forename>
+              <surname>Bloch</surname>
+            </author>
+            <imprint>
+              <pubPlace>Berlin, DDR</pubPlace>
+              <publisher>Aufbau Verlag</publisher>
+              <date>1954</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__D6DSKU9M" corresp="http://zotero.org/groups/5701116/items/D6DSKU9M" n="Bloch, Das Prinzip Hoffnung. Bd. 2, 1955">
+          <monogr>
+            <title level="m">Das Prinzip Hoffnung. Bd. 2</title>
+            <author>
+              <forename>Ernst</forename>
+              <surname>Bloch</surname>
+            </author>
+            <imprint>
+              <pubPlace>Berlin, DDR</pubPlace>
+              <publisher>Aufbau Verlag</publisher>
+              <date>1955</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__RETA5UFI" corresp="http://zotero.org/groups/5701116/items/RETA5UFI" n="Bloch, Das Prinzip Hoffnung. Bd. 3, 1959">
+          <monogr>
+            <title level="m">Das Prinzip Hoffnung. Bd. 3</title>
+            <author>
+              <forename>Ernst</forename>
+              <surname>Bloch</surname>
+            </author>
+            <imprint>
+              <pubPlace>Berlin, DDR</pubPlace>
+              <publisher>Aufbau Verlag</publisher>
+              <date>1959</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__D2I2Q9TH" corresp="http://zotero.org/groups/5701116/items/D2I2Q9TH" n="Hafkesbrink, Unknown Germany: An Inner Chronicle of the First World War based on Letters..., 1948">
           <monogr>
             <title level="m">Unknown Germany: An Inner Chronicle of the First World War based on Letters and Diaries</title>
