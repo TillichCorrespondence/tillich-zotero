@@ -16,6 +16,265 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__B78CDDET" corresp="http://zotero.org/groups/5701116/items/B78CDDET" n="Leibniz, Monadologie, None">
+          <monogr>
+            <title level="m">Monadologie</title>
+            <author>
+              <forename>Gottfried Willhelm</forename>
+              <surname>Leibniz</surname>
+            </author>
+            <imprint>
+              <date/>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__UIXT9U5D" corresp="http://zotero.org/groups/5701116/items/UIXT9U5D" n="Rousseau, Emilé oder Über die Erziehung, None">
+          <monogr>
+            <title level="m">Emilé oder Über die Erziehung</title>
+            <author>
+              <forename>Jean-Jacques</forename>
+              <surname>Rousseau</surname>
+            </author>
+            <imprint>
+              <date/>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__C6GJWSMA" corresp="http://zotero.org/groups/5701116/items/C6GJWSMA" n="Miller, Death of a Salesman, 1949">
+          <monogr>
+            <title level="m">Death of a Salesman</title>
+            <author>
+              <forename>Arthur</forename>
+              <surname>Miller</surname>
+            </author>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <publisher>Viking Press</publisher>
+              <date>1949</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__E5A4E5HN" corresp="http://zotero.org/groups/5701116/items/E5A4E5HN" n="Marquand, Point of no return., 1949">
+          <monogr>
+            <title level="m">Point of no return.</title>
+            <author>
+              <forename>John P.</forename>
+              <surname>Marquand</surname>
+            </author>
+            <imprint>
+              <pubPlace>Boston</pubPlace>
+              <publisher>Little, Brown and Company</publisher>
+              <date>1949</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__ZQX7K8US" corresp="http://zotero.org/groups/5701116/items/ZQX7K8US" n="Kafka, Das Schloss, 1926">
+          <monogr>
+            <title level="m">Das Schloss</title>
+            <author>
+              <forename>Franz</forename>
+              <surname>Kafka</surname>
+            </author>
+            <imprint>
+              <pubPlace>München</pubPlace>
+              <publisher>Kurt Wolff</publisher>
+              <date>1926</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__GRZWX48S" corresp="http://zotero.org/groups/5701116/items/GRZWX48S" n="Marx, Das Manifest der kommunistischen Partei, None">
+          <monogr>
+            <title level="m">Das Manifest der kommunistischen Partei</title>
+            <author>
+              <forename>Karl</forename>
+              <surname>Marx</surname>
+            </author>
+            <author>
+              <forename>Friedrich</forename>
+              <surname>Engels</surname>
+            </author>
+            <imprint>
+              <date/>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__JGW5DQAZ" corresp="http://zotero.org/groups/5701116/items/JGW5DQAZ" n="Marx, Thesen über Feuerbach, None">
+          <monogr>
+            <title level="m">Thesen über Feuerbach</title>
+            <author>
+              <forename>Karl</forename>
+              <surname>Marx</surname>
+            </author>
+            <imprint>
+              <date/>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__8479SKQQ" corresp="http://zotero.org/groups/5701116/items/8479SKQQ" n="Kafka, Der Prozess, 1925">
+          <monogr>
+            <title level="m">Der Prozess</title>
+            <author>
+              <forename>Franz</forename>
+              <surname>Kafka</surname>
+            </author>
+            <imprint>
+              <pubPlace>Berlin</pubPlace>
+              <publisher>Die Schmiede</publisher>
+              <date>1925</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__NF9EDEPR" corresp="http://zotero.org/groups/5701116/items/NF9EDEPR" n="Goethe, Faust. Eine Tragödie, None">
+          <monogr>
+            <title level="m">Faust. Eine Tragödie</title>
+            <author>
+              <forename>Johann Wolfgang von</forename>
+              <surname>Goethe</surname>
+            </author>
+            <imprint>
+              <date/>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__8RJ82KFI" corresp="http://zotero.org/groups/5701116/items/8RJ82KFI" n="Homer, Odyssee, None">
+          <monogr>
+            <title level="m">Odyssee</title>
+            <author>
+              <name>Homer</name>
+            </author>
+            <imprint>
+              <date/>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__B6DQKQI5" corresp="http://zotero.org/groups/5701116/items/B6DQKQI5" n="Homer, Illias, None">
+          <monogr>
+            <title level="m">Illias</title>
+            <author>
+              <name>Homer</name>
+            </author>
+            <imprint>
+              <date/>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__7RCPN88F" corresp="http://zotero.org/groups/5701116/items/7RCPN88F" n="Shakespeare, Macbeth, None">
+          <monogr>
+            <title level="m">Macbeth</title>
+            <author>
+              <forename>William</forename>
+              <surname>Shakespeare</surname>
+            </author>
+            <imprint>
+              <date/>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__SI64HUHW" corresp="http://zotero.org/groups/5701116/items/SI64HUHW" n="Shakespeare, Hamlet, None">
+          <monogr>
+            <title level="m">Hamlet</title>
+            <author>
+              <forename>William</forename>
+              <surname>Shakespeare</surname>
+            </author>
+            <imprint>
+              <date/>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__I4W2WIZS" corresp="http://zotero.org/groups/5701116/items/I4W2WIZS" n="Shakespeare, King Lear, None">
+          <monogr>
+            <title level="m">King Lear</title>
+            <author>
+              <forename>William</forename>
+              <surname>Shakespeare</surname>
+            </author>
+            <imprint>
+              <date/>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__2C6JTFHE" corresp="http://zotero.org/groups/5701116/items/2C6JTFHE" n="Luther, [Katechismus], None">
+          <monogr>
+            <title level="m">[Katechismus]</title>
+            <author>
+              <forename>Martin</forename>
+              <surname>Luther</surname>
+            </author>
+            <imprint>
+              <date/>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__6ITPFDCM" corresp="http://zotero.org/groups/5701116/items/6ITPFDCM" n="Aristoteles, Politik, None">
+          <monogr>
+            <title level="m">Politik</title>
+            <author>
+              <name>Aristoteles</name>
+            </author>
+            <imprint>
+              <date/>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__25WFQR45" corresp="http://zotero.org/groups/5701116/items/25WFQR45" n="Platon, Menon, None">
+          <monogr>
+            <title level="m">Menon</title>
+            <author>
+              <name>Platon</name>
+            </author>
+            <imprint>
+              <date/>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="tillich__9BP2M3V5" corresp="http://zotero.org/groups/5701116/items/9BP2M3V5" n="Platon, Politeia (Der Staat), 2011">
+          <analytic>
+            <title level="a">Politeia (Der Staat)</title>
+            <author>
+              <name>Platon</name>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Werke in acht Bänden: Griech. /Dt. Die deutsche Übersetzung gemäss der Schleiermacherschen, teilweise der Hieronymus-Müllerschen und teilweise Neuübersetzung. Griechischer Text aus der Sammlung Budé (Les Belles Lettres, Paris). 4, Politeia (Der Staat)</title>
+            <imprint>
+              <pubPlace>Darmstadt</pubPlace>
+              <publisher>WBG (Wissenschaftliche Buchgesellschaft)</publisher>
+              <date>2011</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__5V76FTJB" corresp="http://zotero.org/groups/5701116/items/5V76FTJB" n="Nietzsche, Die fröhliche Wissenschaft, 1988">
+          <monogr>
+            <title level="m">Die fröhliche Wissenschaft</title>
+            <author>
+              <forename>Friedrich</forename>
+              <surname>Nietzsche</surname>
+            </author>
+            <imprint>
+              <pubPlace>Boston</pubPlace>
+              <biblScope unit="volume">3</biblScope>
+              <publisher>De Gruyter</publisher>
+              <date>1988</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Kritische Studienausgabe</title>
+          </series>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__VZ4GCPFU" corresp="http://zotero.org/groups/5701116/items/VZ4GCPFU" n="o.A., Die neue Lehrerbildung, 1925">
+          <analytic>
+            <title level="a">Die neue Lehrerbildung</title>
+          </analytic>
+          <monogr>
+            <title level="j">Allgemeine Deutsche Lehrerzeitung. Pädagogische Zeitung. Hauptblatt des Deutschen Lehrervereins</title>
+            <imprint>
+              <biblScope unit="page">963f.</biblScope>
+              <date>1925</date>
+              <note type="url">https://scripta.bbf.dipf.de/viewer/image/119421021X_5402/463/LOG_0031/</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__BMW3KHZE" corresp="http://zotero.org/groups/5701116/items/BMW3KHZE" n="Bloch, Thomas Münzer als Theologe der Revolution, 1921">
           <monogr>
             <title level="m">Thomas Münzer als Theologe der Revolution</title>
@@ -2296,33 +2555,6 @@ Zur Topographie der „geistigen Geselligkeit“ eines „Weltdorfes“: 1850–
           <series>
             <title level="s">Gesammelte Werke. Nachlass- und Ergänzungsbände</title>
           </series>
-        </biblStruct>
-        <biblStruct type="book" xml:id="tillich__5V76FTJB" corresp="http://zotero.org/groups/5701116/items/5V76FTJB" n="Nietzsche, Die fröhliche Wissenschaft, 1988">
-          <monogr>
-            <title level="m">Die fröhliche Wissenschaft</title>
-            <author>
-              <forename>Friedrich</forename>
-              <surname>Nietzsche</surname>
-            </author>
-            <imprint>
-              <biblScope unit="volume">3</biblScope>
-              <date>1988</date>
-            </imprint>
-          </monogr>
-          <series>
-            <title level="s">Kritische Studienausgabe</title>
-          </series>
-        </biblStruct>
-        <biblStruct type="book" xml:id="tillich__D5TR428G" corresp="http://zotero.org/groups/5701116/items/D5TR428G" n="Platon, Politeia, None">
-          <monogr>
-            <title level="m">Politeia</title>
-            <author>
-              <name>Platon</name>
-            </author>
-            <imprint>
-              <date/>
-            </imprint>
-          </monogr>
         </biblStruct>
         <biblStruct type="bookSection" xml:id="tillich__8TCXNFE2" corresp="http://zotero.org/groups/5701116/items/8TCXNFE2" n="Rickert, Das Urteil und sein Gegenstand, 1915">
           <analytic>
@@ -5710,20 +5942,6 @@ Gegenwart (Festschrift für Franz Oppenheimer zu seinem 60. Geburtstag)</title>
             </imprint>
           </monogr>
         </biblStruct>
-        <biblStruct type="newspaperArticle" xml:id="tillich__VZ4GCPFU" corresp="http://zotero.org/groups/5701116/items/VZ4GCPFU" n="o.A., Die neue Lehrerbildung, 1925">
-          <analytic>
-            <title level="a">Die neue Lehrerbildung</title>
-          </analytic>
-          <monogr>
-            <title level="m">Allgemeine Deutsche Lehrerzeitung. Pädagogische Zeitung. Hauptblatt des Deutschen Lehrervereins</title>
-            <edition>Nr. 45</edition>
-            <imprint>
-              <biblScope unit="page">963f.</biblScope>
-              <date>1925</date>
-              <note type="url">https://scripta.bbf.dipf.de/viewer/image/119421021X_5402/463/LOG_0031/</note>
-            </imprint>
-          </monogr>
-        </biblStruct>
         <biblStruct type="bookSection" xml:id="tillich__RP7BA9G4" corresp="http://zotero.org/groups/5701116/items/RP7BA9G4" n="Tillich, Editorischer Bericht, 2003">
           <analytic>
             <title level="a">Editorischer Bericht</title>
@@ -5742,39 +5960,6 @@ Gegenwart (Festschrift für Franz Oppenheimer zu seinem 60. Geburtstag)</title>
               <date>2003</date>
               <note type="accessed">2025-11-10</note>
               <note type="url">https://doi.org/10.1515/9783110906080-002</note>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="bookSection" xml:id="tillich__QAB7TWW3" corresp="http://zotero.org/groups/5701116/items/QAB7TWW3" n="Tillich, 1. Über die Idee einer Theologie der Kultur (1919), 2008">
-          <analytic>
-            <title level="a">1. Über die Idee einer Theologie der Kultur (1919)</title>
-            <author>
-              <forename>Paul</forename>
-              <surname>Tillich</surname>
-            </author>
-          </analytic>
-          <monogr>
-            <title level="m">Ausgewählte Texte</title>
-            <idno type="ISBN">978-3-11-021174-0</idno>
-            <editor>
-              <forename>Christian</forename>
-              <surname>Danz</surname>
-            </editor>
-            <editor>
-              <forename>Werner</forename>
-              <surname>Schüßler</surname>
-            </editor>
-            <editor>
-              <forename>Erdmann</forename>
-              <surname>Sturm</surname>
-            </editor>
-            <imprint>
-              <pubPlace>Berlin, New York</pubPlace>
-              <biblScope unit="page">25–42</biblScope>
-              <publisher>De Gruyter</publisher>
-              <date>2008</date>
-              <note type="accessed">2025-11-10</note>
-              <note type="url">https://doi.org/10.1515/9783110211740.25</note>
             </imprint>
           </monogr>
         </biblStruct>
