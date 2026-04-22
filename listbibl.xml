@@ -16,6 +16,89 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__N24B93EN" corresp="http://zotero.org/groups/5701116/items/N24B93EN" n="Plenge, Das Forschungs-Institut für Organisationslehre und allgemeine und vergleich..., None">
+          <monogr>
+            <title level="m">Das Forschungs-Institut für Organisationslehre und allgemeine und vergleichende Soziologie bei der Universität Münster</title>
+            <author>
+              <forename>Johann</forename>
+              <surname>Plenge</surname>
+            </author>
+            <imprint>
+              <pubPlace>Münster</pubPlace>
+              <date/>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__9845DJCI" corresp="http://zotero.org/groups/5701116/items/9845DJCI" n="Schumpeter, Zur Soziologie der Imperialismen, 1919">
+          <monogr>
+            <title level="m">Zur Soziologie der Imperialismen</title>
+            <author>
+              <forename>Joseph</forename>
+              <surname>Schumpeter</surname>
+            </author>
+            <imprint>
+              <pubPlace>Thübingen</pubPlace>
+              <publisher>J. C. B. Mohr</publisher>
+              <date>1919</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__TAPANJCU" corresp="http://zotero.org/groups/5701116/items/TAPANJCU" n="Weber, Die Protestantische Ethik und der Geist des Kapitalismus, 1934">
+          <monogr>
+            <title level="m">Die Protestantische Ethik und der Geist des Kapitalismus</title>
+            <author>
+              <forename>Max</forename>
+              <surname>Weber</surname>
+            </author>
+            <imprint>
+              <pubPlace>Thübingen</pubPlace>
+              <publisher>Mohr</publisher>
+              <date>1934</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__GKK3NPUQ" corresp="http://zotero.org/groups/5701116/items/GKK3NPUQ" n="Nietzsche, Der Wille zur Macht, 1922">
+          <monogr>
+            <title level="m">Der Wille zur Macht</title>
+            <author>
+              <forename>Friedrich</forename>
+              <surname>Nietzsche</surname>
+            </author>
+            <imprint>
+              <pubPlace>Leipzig</pubPlace>
+              <publisher>Alfred Körner Verlag</publisher>
+              <date>1922</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__WB2E6V9X" corresp="http://zotero.org/groups/5701116/items/WB2E6V9X" n="Nietzsche, Geburt der Tragödie aus dem Geiste der Musik, 1872">
+          <monogr>
+            <title level="m">Geburt der Tragödie aus dem Geiste der Musik</title>
+            <author>
+              <forename>Friedrich</forename>
+              <surname>Nietzsche</surname>
+            </author>
+            <imprint>
+              <pubPlace>Leipzig</pubPlace>
+              <publisher>E. W. Fritzsch</publisher>
+              <date>1872</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__26D83ZXR" corresp="http://zotero.org/groups/5701116/items/26D83ZXR" n="Nietzsche, Antichrist, 1922">
+          <monogr>
+            <title level="m">Antichrist</title>
+            <author>
+              <forename>Friedrich</forename>
+              <surname>Nietzsche</surname>
+            </author>
+            <imprint>
+              <pubPlace>Leipzig</pubPlace>
+              <publisher>Alfred Körner Verlag</publisher>
+              <date>1922</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__B78CDDET" corresp="http://zotero.org/groups/5701116/items/B78CDDET" n="Leibniz, Monadologie, None">
           <monogr>
             <title level="m">Monadologie</title>
