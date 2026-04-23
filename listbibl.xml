@@ -16,6 +16,196 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__KDD8SU5G" corresp="http://zotero.org/groups/5701116/items/KDD8SU5G" n="Jaspers, Der philosophische Glaube, 1948">
+          <monogr>
+            <title level="m">Der philosophische Glaube</title>
+            <author>
+              <forename>Karl</forename>
+              <surname>Jaspers</surname>
+            </author>
+            <imprint>
+              <pubPlace>München</pubPlace>
+              <publisher>Piper</publisher>
+              <date>1948</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__U9JDWMAS" corresp="http://zotero.org/groups/5701116/items/U9JDWMAS" n="Jaspers, Die Idee der Universität, 1923">
+          <monogr>
+            <title level="m">Die Idee der Universität</title>
+            <author>
+              <forename>Karl</forename>
+              <surname>Jaspers</surname>
+            </author>
+            <imprint>
+              <pubPlace>Berlin</pubPlace>
+              <publisher>Springer</publisher>
+              <date>1923</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__UP834P3X" corresp="http://zotero.org/groups/5701116/items/UP834P3X" n="Jaspers, Die geistige Situation der Zeit, 1931">
+          <monogr>
+            <title level="m">Die geistige Situation der Zeit</title>
+            <author>
+              <forename>Karl</forename>
+              <surname>Jaspers</surname>
+            </author>
+            <imprint>
+              <pubPlace>Berlin</pubPlace>
+              <publisher>Walter de Gruyter</publisher>
+              <date>1931</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__GP6TC843" corresp="http://zotero.org/groups/5701116/items/GP6TC843" n="Buber, Ich und Du, 1923">
+          <monogr>
+            <title level="m">Ich und Du</title>
+            <author>
+              <forename>Martin</forename>
+              <surname>Buber</surname>
+            </author>
+            <imprint>
+              <pubPlace>Leipzig</pubPlace>
+              <publisher>Insel-Verlag</publisher>
+              <date>1923</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__KQ97TGTA" corresp="http://zotero.org/groups/5701116/items/KQ97TGTA" n="Brunner, Glaube und Ethik, 1945">
+          <monogr>
+            <title level="m">Glaube und Ethik</title>
+            <author>
+              <forename>Emil</forename>
+              <surname>Brunner</surname>
+            </author>
+            <imprint>
+              <pubPlace>Zürich</pubPlace>
+              <publisher>Zwingli-Verlag</publisher>
+              <date>1945</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__KICEQ6BD" corresp="http://zotero.org/groups/5701116/items/KICEQ6BD" n="Brunner, Das Missverständnis der Kirche, 1951">
+          <monogr>
+            <title level="m">Das Missverständnis der Kirche</title>
+            <author>
+              <forename>Emil</forename>
+              <surname>Brunner</surname>
+            </author>
+            <imprint>
+              <pubPlace>Zürich</pubPlace>
+              <publisher>Zwingli-Verlag</publisher>
+              <date>1951</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__9U5K8UF4" corresp="http://zotero.org/groups/5701116/items/9U5K8UF4" n="Brunner, Gerechtigkeit: Eine Lehre von den Grundgesetzen der Gesellschaftsordnung, 1943">
+          <monogr>
+            <title level="m">Gerechtigkeit: Eine Lehre von den Grundgesetzen der Gesellschaftsordnung</title>
+            <author>
+              <forename>Emil</forename>
+              <surname>Brunner</surname>
+            </author>
+            <imprint>
+              <pubPlace>Tübingen</pubPlace>
+              <publisher>J. C. B. Mohr (Paul Siebeck)</publisher>
+              <date>1943</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__S8JS3V7W" corresp="http://zotero.org/groups/5701116/items/S8JS3V7W" n="Bonhoeffer, Ethik, 1949">
+          <monogr>
+            <title level="m">Ethik</title>
+            <author>
+              <forename>Dietrich</forename>
+              <surname>Bonhoeffer</surname>
+            </author>
+            <imprint>
+              <pubPlace>München</pubPlace>
+              <publisher>Chr. Kaiser Verlag</publisher>
+              <date>1949</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__SG6SCBWB" corresp="http://zotero.org/groups/5701116/items/SG6SCBWB" n="Barth, Das Wort Gottes und die Theologie, 1925">
+          <monogr>
+            <title level="m">Das Wort Gottes und die Theologie</title>
+            <author>
+              <forename>Karl</forename>
+              <surname>Barth</surname>
+            </author>
+            <imprint>
+              <pubPlace>München</pubPlace>
+              <publisher>Chr. Kaiser</publisher>
+              <date>1925</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="tillich__BVIJMA5A" corresp="http://zotero.org/groups/5701116/items/BVIJMA5A" n="Tillich, Philosophie der Macht (zwei Manuskripte), 1999">
+          <analytic>
+            <title level="a">Philosophie der Macht (zwei Manuskripte)</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Religion, Kultur, Gesellschaft. Unveröffentlichte Texte aus der deutschen Zeit (1908-1933)</title>
+            <imprint>
+              <pubPlace>Berlin/New York</pubPlace>
+              <biblScope unit="volume">XI/2</biblScope>
+              <biblScope unit="page">226–232, 233–247</biblScope>
+              <date>1999</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Ergänzungs- und Nachlassbände zu den Gesammelten Werken von Paul Tillich</title>
+          </series>
+        </biblStruct>
+        <biblStruct type="newspaperArticle" xml:id="tillich__6IHJUQVM" corresp="http://zotero.org/groups/5701116/items/6IHJUQVM" n="o.A., Hochschulnachrichten, 1929">
+          <analytic>
+            <title level="a">Hochschulnachrichten</title>
+          </analytic>
+          <monogr>
+            <title level="m">Das Unterhaltungsblatt der Vossischen Zeitung</title>
+            <imprint>
+              <biblScope unit="issue">Nr. 84</biblScope>
+              <biblScope unit="chapter">Kunst, Wissenschaft, Literatur</biblScope>
+              <date>1929</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="tillich__RDSBH8A5" corresp="http://zotero.org/groups/5701116/items/RDSBH8A5" n="Tillich, Die Formkräfte der abendländischen Geistesgeschichte, 2003">
+          <analytic>
+            <title level="a">Die Formkräfte der abendländischen Geistesgeschichte</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <imprint>
+              <biblScope unit="page">644-657</biblScope>
+              <date>2003</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">EW 13,II</title>
+          </series>
+        </biblStruct>
+        <biblStruct type="letter" xml:id="tillich__ACZCUPTD" corresp="http://zotero.org/groups/5701116/items/ACZCUPTD" n="Platzhoff, Walter Platzhoff an den Preußischen Minister für Wissenschaft, Kunst und Vo..., None">
+          <monogr>
+            <title level="m">Walter Platzhoff an den Preußischen Minister für Wissenschaft, Kunst und Volksbildung vom 28.5.1929</title>
+            <author>
+              <forename>Walter</forename>
+              <surname>Platzhoff</surname>
+            </author>
+            <imprint>
+              <date/>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__N24B93EN" corresp="http://zotero.org/groups/5701116/items/N24B93EN" n="Plenge, Das Forschungs-Institut für Organisationslehre und allgemeine und vergleich..., None">
           <monogr>
             <title level="m">Das Forschungs-Institut für Organisationslehre und allgemeine und vergleichende Soziologie bei der Universität Münster</title>
@@ -11679,22 +11869,6 @@ GESAMMELTEN WERKEN VON PAUL TILLICH, Bd. X)</title>
             <imprint>
               <pubPlace>Göttingen</pubPlace>
               <date>1929</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="bookSection" xml:id="tillich__BVIJMA5A" corresp="http://zotero.org/groups/5701116/items/BVIJMA5A" n="Tillich, Philosophie der Macht (zwei Manuskripte), None">
-          <analytic>
-            <title level="a">Philosophie der Macht (zwei Manuskripte)</title>
-            <author>
-              <forename>Paul</forename>
-              <surname>Tillich</surname>
-            </author>
-          </analytic>
-          <monogr>
-            <title level="m">EW XI/2</title>
-            <imprint>
-              <biblScope unit="page">226–232, 233–247</biblScope>
-              <date/>
             </imprint>
           </monogr>
         </biblStruct>
