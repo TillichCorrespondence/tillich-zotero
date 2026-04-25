@@ -16,6 +16,98 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="newspaperArticle" xml:id="tillich__ZIRZ4BGS" corresp="http://zotero.org/groups/5701116/items/ZIRZ4BGS" n="Tessner, Der Mensch – nicht das Kapital, 1947">
+          <analytic>
+            <title level="a">Der Mensch – nicht das Kapital</title>
+            <author>
+              <forename>Norbert</forename>
+              <surname>Tessner</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Badener Tagblatt</title>
+            <imprint>
+              <pubPlace>Baden-Baden</pubPlace>
+              <biblScope unit="volume">3</biblScope>
+              <biblScope unit="issue">20</biblScope>
+              <biblScope unit="page">1</biblScope>
+              <date>1947</date>
+              <note type="url">https://www.deutsche-digitale-bibliothek.de/newspaper/item/NWJ7T7BFOFDZJM75UHBIVU2W6IW4P3VF?issuepage=1</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="newspaperArticle" xml:id="tillich__W5RN7F3N" corresp="http://zotero.org/groups/5701116/items/W5RN7F3N" n="Geiler, Lebensrecht der Deutschen, 1947">
+          <analytic>
+            <title level="a">Lebensrecht der Deutschen</title>
+            <author>
+              <forename>H. F.</forename>
+              <surname>Geiler</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Badener Tagblatt</title>
+            <imprint>
+              <pubPlace>Baden-Baden</pubPlace>
+              <biblScope unit="volume">3</biblScope>
+              <biblScope unit="issue">20</biblScope>
+              <biblScope unit="page">1</biblScope>
+              <date>1947</date>
+              <note type="url">https://www.deutsche-digitale-bibliothek.de/newspaper/item/NWJ7T7BFOFDZJM75UHBIVU2W6IW4P3VF?issuepage=1</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="newspaperArticle" xml:id="tillich__FRGZ6D5N" corresp="http://zotero.org/groups/5701116/items/FRGZ6D5N" n="Elfes, Christ und Sozialist, 1947">
+          <analytic>
+            <title level="a">Christ und Sozialist</title>
+            <author>
+              <forename>Wilhelm</forename>
+              <surname>Elfes</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Südwest-Echo (Rastatt)</title>
+            <imprint>
+              <pubPlace>Rastatt</pubPlace>
+              <biblScope unit="volume">2</biblScope>
+              <biblScope unit="issue">12</biblScope>
+              <biblScope unit="page">1–2</biblScope>
+              <date>1947</date>
+              <note type="url">https://digital.blb-karlsruhe.de/blbz/periodical/pageview/8617164</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__ZR5SRAXS" corresp="http://zotero.org/groups/5701116/items/ZR5SRAXS" n="Tillich, Christentum Wirtschaft und Demokratie, 1946">
+          <analytic>
+            <title level="a">Christentum Wirtschaft und Demokratie</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Neue Auslese aus dem Schrifttum der Gegenwart.</title>
+            <imprint>
+              <biblScope unit="volume">1</biblScope>
+              <biblScope unit="issue">7</biblScope>
+              <biblScope unit="page">2–6</biblScope>
+              <date>1946</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="newspaperArticle" xml:id="tillich__UF92CVSW" corresp="http://zotero.org/groups/5701116/items/UF92CVSW" n="o.A., Lokales, 1913">
+          <analytic>
+            <title level="a">Lokales</title>
+          </analytic>
+          <monogr>
+            <title level="m">Jenaische Zeitung: Amts-, Gemeinde- und Tageblatt</title>
+            <imprint>
+              <pubPlace>Jena</pubPlace>
+              <biblScope unit="issue">138</biblScope>
+              <biblScope unit="chapter">Jahrgang 240</biblScope>
+              <date>1913</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__C8FYC6V2" corresp="http://zotero.org/groups/5701116/items/C8FYC6V2" n="Mirbach, Das deutsche Kaiserpaar im Heiligen Lande im Herbst 1898, 1899">
           <monogr>
             <title level="m">Das deutsche Kaiserpaar im Heiligen Lande im Herbst 1898</title>
@@ -7767,24 +7859,6 @@ GESAMMELTEN WERKEN VON PAUL TILLICH, Bd. X)</title>
           <series>
             <title level="s">Main Works/ Hauptwerke</title>
           </series>
-        </biblStruct>
-        <biblStruct type="journalArticle" xml:id="tillich__ZR5SRAXS" corresp="http://zotero.org/groups/5701116/items/ZR5SRAXS" n="Tillich, Christentum Wirtschaft und Demokratie, 1946">
-          <analytic>
-            <title level="a">Christentum Wirtschaft und Demokratie</title>
-            <author>
-              <forename>Paul</forename>
-              <surname>Tillich</surname>
-            </author>
-          </analytic>
-          <monogr>
-            <title level="j">Neue Auslese aus dem Schrifttum der Gegenwart.</title>
-            <imprint>
-              <biblScope unit="volume">1</biblScope>
-              <biblScope unit="issue">7</biblScope>
-              <biblScope unit="page">5</biblScope>
-              <date>1946</date>
-            </imprint>
-          </monogr>
         </biblStruct>
         <biblStruct type="audioRecording" xml:id="tillich__V7DJ73AM" corresp="http://zotero.org/groups/5701116/items/V7DJ73AM" n="o.A., 5. Sinfonie, None">
           <monogr>
