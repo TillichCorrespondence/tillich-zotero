@@ -16,6 +16,20 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__CB3JAUHT" corresp="http://zotero.org/groups/5701116/items/CB3JAUHT" n="Horkheimer, Eclipse of Reason, 1947">
+          <monogr>
+            <title level="m">Eclipse of Reason</title>
+            <author>
+              <forename>Max</forename>
+              <surname>Horkheimer</surname>
+            </author>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <publisher>Oxford University Press</publisher>
+              <date>1947</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="newspaperArticle" xml:id="tillich__ZIRZ4BGS" corresp="http://zotero.org/groups/5701116/items/ZIRZ4BGS" n="Tessner, Der Mensch – nicht das Kapital, 1947">
           <analytic>
             <title level="a">Der Mensch – nicht das Kapital</title>
