@@ -16,6 +16,28 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__72ISTRNG" corresp="http://zotero.org/groups/5701116/items/72ISTRNG" n="Augustinus, De civitatis Dei et terrenae, None">
+          <monogr>
+            <title level="m">De civitatis Dei et terrenae</title>
+            <author>
+              <name>Augustinus</name>
+            </author>
+            <imprint>
+              <date/>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__WG82NGNJ" corresp="http://zotero.org/groups/5701116/items/WG82NGNJ" n="Platon, Politeia, None">
+          <monogr>
+            <title level="m">Politeia</title>
+            <author>
+              <name>Platon</name>
+            </author>
+            <imprint>
+              <date/>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__CB3JAUHT" corresp="http://zotero.org/groups/5701116/items/CB3JAUHT" n="Horkheimer, Eclipse of Reason, 1947">
           <monogr>
             <title level="m">Eclipse of Reason</title>
