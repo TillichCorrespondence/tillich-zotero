@@ -16,6 +16,20 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__9C4WYQAG" corresp="http://zotero.org/groups/5701116/items/9C4WYQAG" n="Tillich, Religiöse Verwirklichung, 1929">
+          <monogr>
+            <title level="m">Religiöse Verwirklichung</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+            <imprint>
+              <pubPlace>Berlin</pubPlace>
+              <publisher>Furche Verlag</publisher>
+              <date>1929</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__72ISTRNG" corresp="http://zotero.org/groups/5701116/items/72ISTRNG" n="Augustinus, De civitatis Dei et terrenae, None">
           <monogr>
             <title level="m">De civitatis Dei et terrenae</title>
@@ -5864,20 +5878,6 @@ Gegenwart (Festschrift für Franz Oppenheimer zu seinem 60. Geburtstag)</title>
             <title level="s">Sammlung gemeinverständlicher Vorträge und Schriften aus dem Gebiet der Theologie und Religionsgeschichte</title>
             <biblScope unit="volume">119</biblScope>
           </series>
-        </biblStruct>
-        <biblStruct type="book" xml:id="tillich__9C4WYQAG" corresp="http://zotero.org/groups/5701116/items/9C4WYQAG" n="Tillich, Religiöse Verwirklichung, 1930">
-          <monogr>
-            <title level="m">Religiöse Verwirklichung</title>
-            <author>
-              <forename>Paul</forename>
-              <surname>Tillich</surname>
-            </author>
-            <imprint>
-              <pubPlace>Berlin</pubPlace>
-              <publisher>Furche Verlag</publisher>
-              <date>1930</date>
-            </imprint>
-          </monogr>
         </biblStruct>
         <biblStruct type="document" xml:id="tillich__EXMUJ3RJ" corresp="http://zotero.org/groups/5701116/items/EXMUJ3RJ" n="Wagner, Das Rheingold (WWV 86 A), None">
           <monogr>
