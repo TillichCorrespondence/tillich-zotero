@@ -16,6 +16,34 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__V38L6822" corresp="http://zotero.org/groups/5701116/items/V38L6822" n="Goltz, Kirche und Staat: Eine akademische Vorlesung, 1907">
+          <monogr>
+            <title level="m">Kirche und Staat: Eine akademische Vorlesung</title>
+            <author>
+              <forename>Hermann</forename>
+              <surname>Goltz</surname>
+            </author>
+            <imprint>
+              <pubPlace>Berlin</pubPlace>
+              <publisher>Ernst Siegfried Mittler und Sohn</publisher>
+              <date>1907</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__KJ3DFKFZ" corresp="http://zotero.org/groups/5701116/items/KJ3DFKFZ" n="Korner, The Primacy of Faith, 1943">
+          <monogr>
+            <title level="m">The Primacy of Faith</title>
+            <author>
+              <forename>Richard</forename>
+              <surname>Korner</surname>
+            </author>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <publisher>Macmillian</publisher>
+              <date>1943</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="journalArticle" xml:id="tillich__NSJFDP5N" corresp="http://zotero.org/groups/5701116/items/NSJFDP5N" n="Tillich, Gespräch mit den Kirchen?, 1947">
           <analytic>
             <title level="a">Gespräch mit den Kirchen?</title>
@@ -7606,21 +7634,6 @@ Gegenwart (Festschrift für Franz Oppenheimer zu seinem 60. Geburtstag)</title>
             <imprint>
               <publisher>De Gruyter</publisher>
               <date/>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="tillich__V38L6822" corresp="http://zotero.org/groups/5701116/items/V38L6822" n="Goltz, Kirche und Staat: Eine akademische Vorlesung, 1907">
-          <monogr>
-            <title level="m">Kirche und Staat: Eine akademische Vorlesung</title>
-            <author>
-              <forename>Hermann</forename>
-              <surname>Goltz</surname>
-            </author>
-            <imprint>
-              <pubPlace>Berlin</pubPlace>
-              <publisher>Ernst Siegfried Mittler und Sohn</publisher>
-              <date>1907</date>
-              <note type="url">https://catalog.hathitrust.org/Record/100439213</note>
             </imprint>
           </monogr>
         </biblStruct>
