@@ -16,6 +16,127 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__8ZJRBEM2" corresp="http://zotero.org/groups/5701116/items/8ZJRBEM2" n="Löwith, Von Hegel bis Nietzsche, 1941">
+          <monogr>
+            <title level="m">Von Hegel bis Nietzsche</title>
+            <author>
+              <forename>Karl</forename>
+              <surname>Löwith</surname>
+            </author>
+            <imprint>
+              <pubPlace>Zürich</pubPlace>
+              <publisher>Europa Verlag</publisher>
+              <date>1941</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__DJ37QT78" corresp="http://zotero.org/groups/5701116/items/DJ37QT78" n="Marcel, Being and Having, 1949">
+          <monogr>
+            <title level="m">Being and Having</title>
+            <author>
+              <forename>Gabriel</forename>
+              <surname>Marcel</surname>
+            </author>
+            <imprint>
+              <pubPlace>Glasgow</pubPlace>
+              <publisher>The University Press</publisher>
+              <date>1949</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__SBT9S492" corresp="http://zotero.org/groups/5701116/items/SBT9S492" n="Brunner, The Devine Imperative, 1947">
+          <monogr>
+            <title level="m">The Devine Imperative</title>
+            <author>
+              <forename>Emil</forename>
+              <surname>Brunner</surname>
+            </author>
+            <imprint>
+              <pubPlace>Philadelphia</pubPlace>
+              <publisher>The Westminster Press</publisher>
+              <date>1947</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__EU54UJMT" corresp="http://zotero.org/groups/5701116/items/EU54UJMT" n="Brunner, Das Gebot und die Ordnungen. Entwurf einer protestantisch-theologischen Eth..., 1932">
+          <monogr>
+            <title level="m">Das Gebot und die Ordnungen. Entwurf einer protestantisch-theologischen Ethik</title>
+            <author>
+              <forename>Emil</forename>
+              <surname>Brunner</surname>
+            </author>
+            <imprint>
+              <pubPlace>Thübingen</pubPlace>
+              <publisher>J.C.B. Mohr</publisher>
+              <date>1932</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__ZB7W22TS" corresp="http://zotero.org/groups/5701116/items/ZB7W22TS" n="Wundt, Die deutsche Schulmetaphysik des 17. Jahrhunderts, 1939">
+          <monogr>
+            <title level="m">Die deutsche Schulmetaphysik des 17. Jahrhunderts</title>
+            <author>
+              <forename>Max</forename>
+              <surname>Wundt</surname>
+            </author>
+            <imprint>
+              <pubPlace>Tübingen</pubPlace>
+              <biblScope unit="volume">29</biblScope>
+              <publisher>J. C. B. Mohr (Paul Siebeck)</publisher>
+              <date>1939</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Heidelberger Abhandlungen zur Philosophie und ihrer Geschichte</title>
+          </series>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__DM285N7A" corresp="http://zotero.org/groups/5701116/items/DM285N7A" n="Wundt, Geschichte der Metaphysik, 1931">
+          <monogr>
+            <title level="m">Geschichte der Metaphysik</title>
+            <author>
+              <forename>Max</forename>
+              <surname>Wundt</surname>
+            </author>
+            <imprint>
+              <pubPlace>Berlin</pubPlace>
+              <biblScope unit="volume">2</biblScope>
+              <publisher>Junker &amp; Dünnhaupt</publisher>
+              <date>1931</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Geschichte der Philosophie in Längsschnitten</title>
+          </series>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__FDJWEAQ3" corresp="http://zotero.org/groups/5701116/items/FDJWEAQ3" n="Heimsoeth, Die sechs großen Themen der abendländischen Metaphysik und der Ausgang des ..., 1922">
+          <monogr>
+            <title level="m">Die sechs großen Themen der abendländischen Metaphysik und der Ausgang des Mittelalters</title>
+            <author>
+              <forename>Heinz</forename>
+              <surname>Heimsoeth</surname>
+            </author>
+            <imprint>
+              <pubPlace>Berlin</pubPlace>
+              <publisher>G. Stilke</publisher>
+              <date>1922</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__IUGJQLWM" corresp="http://zotero.org/groups/5701116/items/IUGJQLWM" n="Tillich, Systematic Theology, Volume One, 1951">
+          <monogr>
+            <title level="m">Systematic Theology, Volume One</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+            <imprint>
+              <pubPlace>Chicago</pubPlace>
+              <biblScope unit="volume">1</biblScope>
+              <publisher>Chicago University Press</publisher>
+              <date>1951</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__V38L6822" corresp="http://zotero.org/groups/5701116/items/V38L6822" n="Goltz, Kirche und Staat: Eine akademische Vorlesung, 1907">
           <monogr>
             <title level="m">Kirche und Staat: Eine akademische Vorlesung</title>
@@ -12530,20 +12651,6 @@ GESAMMELTEN WERKEN VON PAUL TILLICH, Bd. X)</title>
               <biblScope unit="issue">1</biblScope>
               <biblScope unit="page">237–408</biblScope>
               <date>2011</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="tillich__IUGJQLWM" corresp="http://zotero.org/groups/5701116/items/IUGJQLWM" n="Tillich, Systematic Theology, 1951">
-          <monogr>
-            <title level="m">Systematic Theology</title>
-            <author>
-              <forename>Paul</forename>
-              <surname>Tillich</surname>
-            </author>
-            <imprint>
-              <pubPlace>Chicago</pubPlace>
-              <biblScope unit="volume">3</biblScope>
-              <date>1951</date>
             </imprint>
           </monogr>
         </biblStruct>
