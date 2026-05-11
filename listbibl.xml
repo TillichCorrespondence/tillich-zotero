@@ -16,6 +16,61 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__SKAGD3J5" corresp="http://zotero.org/groups/5701116/items/SKAGD3J5" n="Schumann, Paul Tillich und die Frankfurter Schule, 2025">
+          <monogr>
+            <title level="m">Paul Tillich und die Frankfurter Schule</title>
+            <author>
+              <forename>Friedrich Ludwig</forename>
+              <surname>Schumann</surname>
+            </author>
+            <imprint>
+              <pubPlace>Berlin/Boston</pubPlace>
+              <biblScope unit="volume">29</biblScope>
+              <publisher>De Gruyter</publisher>
+              <date>2025</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Tillich Research</title>
+          </series>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="tillich__AGKCMVAA" corresp="http://zotero.org/groups/5701116/items/AGKCMVAA" n="Oldham (Hg.), Report of the Section on Church, Community and State in Relation to the Eco..., 1937">
+          <analytic>
+            <title level="a">Report of the Section on Church, Community and State in Relation to the Economic Order</title>
+          </analytic>
+          <monogr>
+            <title level="m">The Oxford Conference</title>
+            <editor>
+              <forename>Joseph Houldsworth</forename>
+              <surname>Oldham</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Chicago/New York</pubPlace>
+              <biblScope unit="page">75–112</biblScope>
+              <publisher>Willett, Clark &amp; Company</publisher>
+              <date>1937</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__GNPFJ2B4" corresp="http://zotero.org/groups/5701116/items/GNPFJ2B4" n="Tillich, Vertical and Horizontal Thinking, 1945">
+          <analytic>
+            <title level="a">Vertical and Horizontal Thinking</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">The American Scholar</title>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <biblScope unit="volume">15</biblScope>
+              <biblScope unit="issue">1</biblScope>
+              <biblScope unit="page">102–105</biblScope>
+              <date>1945</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__8ZJRBEM2" corresp="http://zotero.org/groups/5701116/items/8ZJRBEM2" n="Löwith, Von Hegel bis Nietzsche, 1941">
           <monogr>
             <title level="m">Von Hegel bis Nietzsche</title>
