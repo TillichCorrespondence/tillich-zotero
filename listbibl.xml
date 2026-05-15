@@ -16,6 +16,20 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__4G7FANZP" corresp="http://zotero.org/groups/5701116/items/4G7FANZP" n="Stepun, The Russian Soul and Revolution, 1935">
+          <monogr>
+            <title level="m">The Russian Soul and Revolution</title>
+            <author>
+              <forename>Fedor</forename>
+              <surname>Stepun</surname>
+            </author>
+            <imprint>
+              <pubPlace>New York/London</pubPlace>
+              <publisher>C. Scribner's Sons</publisher>
+              <date>1935</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__SKAGD3J5" corresp="http://zotero.org/groups/5701116/items/SKAGD3J5" n="Schumann, Paul Tillich und die Frankfurter Schule, 2025">
           <monogr>
             <title level="m">Paul Tillich und die Frankfurter Schule</title>
