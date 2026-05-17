@@ -16,6 +16,52 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__SHC2E52P" corresp="http://zotero.org/groups/5701116/items/SHC2E52P" n="Tillich, Systematic Theology. Volume Three. Life and the Spirit: History and the Kin..., 1963">
+          <monogr>
+            <title level="m">Systematic Theology. Volume Three. Life and the Spirit: History and the Kingdom of God</title>
+            <extent>3</extent>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+            <imprint>
+              <pubPlace>Chicago</pubPlace>
+              <biblScope unit="volume">3</biblScope>
+              <publisher>University of Chicago Press</publisher>
+              <date>1963</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__BXKAXZQ2" corresp="http://zotero.org/groups/5701116/items/BXKAXZQ2" n="Tillich, Systematic Theology, Volume Two. Existence and the Christ, 1957">
+          <monogr>
+            <title level="m">Systematic Theology, Volume Two. Existence and the Christ</title>
+            <extent>3</extent>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+            <imprint>
+              <pubPlace>Chicago</pubPlace>
+              <biblScope unit="volume">2</biblScope>
+              <publisher>University of Chicago Press</publisher>
+              <date>1957</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__UVXDBVRP" corresp="http://zotero.org/groups/5701116/items/UVXDBVRP" n="Weaver, Ideas Have Consequences, 1948">
+          <monogr>
+            <title level="m">Ideas Have Consequences</title>
+            <author>
+              <forename>Richard M.</forename>
+              <surname>Weaver</surname>
+            </author>
+            <imprint>
+              <pubPlace>Chicago</pubPlace>
+              <publisher>University of Chicago Press</publisher>
+              <date>1948</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__4G7FANZP" corresp="http://zotero.org/groups/5701116/items/4G7FANZP" n="Stepun, The Russian Soul and Revolution, 1935">
           <monogr>
             <title level="m">The Russian Soul and Revolution</title>
