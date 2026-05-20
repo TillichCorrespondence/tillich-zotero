@@ -16,6 +16,39 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__NQXTNDCA" corresp="http://zotero.org/groups/5701116/items/NQXTNDCA" n="Anders, Kafka: Pro und Contra. Die Prozess-Unterlagen, 1951">
+          <monogr>
+            <title level="m">Kafka: Pro und Contra. Die Prozess-Unterlagen</title>
+            <author>
+              <forename>Günther</forename>
+              <surname>Anders</surname>
+            </author>
+            <imprint>
+              <pubPlace>München</pubPlace>
+              <publisher>C. H. Beck</publisher>
+              <date>1951</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__2RUWI5QA" corresp="http://zotero.org/groups/5701116/items/2RUWI5QA" n="Stern (Anders), On the Pseudo-Concreteness of Heidegger’s Philosophy, 1948">
+          <analytic>
+            <title level="a">On the Pseudo-Concreteness of Heidegger’s Philosophy</title>
+            <author>
+              <forename>Günther</forename>
+              <surname>Stern (Anders)</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Philosophy and Phenomenological Research</title>
+            <imprint>
+              <biblScope unit="volume">8</biblScope>
+              <biblScope unit="issue">3</biblScope>
+              <biblScope unit="page">337-371</biblScope>
+              <publisher>International Phenomenological Society</publisher>
+              <date>1948</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__SHC2E52P" corresp="http://zotero.org/groups/5701116/items/SHC2E52P" n="Tillich, Systematic Theology. Volume Three. Life and the Spirit: History and the Kin..., 1963">
           <monogr>
             <title level="m">Systematic Theology. Volume Three. Life and the Spirit: History and the Kingdom of God</title>
