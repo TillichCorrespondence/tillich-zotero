@@ -16,6 +16,25 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="journalArticle" xml:id="tillich__N8UVGBNP" corresp="http://zotero.org/groups/5701116/items/N8UVGBNP" n="Anders, Franz Kafka – pro und contra, 1947">
+          <analytic>
+            <title level="a">Franz Kafka – pro und contra</title>
+            <author>
+              <forename>Günther</forename>
+              <surname>Anders</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Die Neue Rundschau</title>
+            <imprint>
+              <pubPlace>Stockholm</pubPlace>
+              <biblScope unit="volume">58</biblScope>
+              <biblScope unit="page">119–157</biblScope>
+              <publisher>Bermann-Fischer Verlag</publisher>
+              <date>1947</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__NQXTNDCA" corresp="http://zotero.org/groups/5701116/items/NQXTNDCA" n="Anders, Kafka: Pro und Contra. Die Prozess-Unterlagen, 1951">
           <monogr>
             <title level="m">Kafka: Pro und Contra. Die Prozess-Unterlagen</title>
