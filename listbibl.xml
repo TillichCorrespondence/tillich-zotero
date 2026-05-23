@@ -16,6 +16,20 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__I2TNECX7" corresp="http://zotero.org/groups/5701116/items/I2TNECX7" n="Schleiermacher, On Religion: Speeches to its COltured Despisers, 1958">
+          <monogr>
+            <title level="m">On Religion: Speeches to its COltured Despisers</title>
+            <author>
+              <forename>Friedrich</forename>
+              <surname>Schleiermacher</surname>
+            </author>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <publisher>Harper &amp; Brothers</publisher>
+              <date>1958</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="journalArticle" xml:id="tillich__N8UVGBNP" corresp="http://zotero.org/groups/5701116/items/N8UVGBNP" n="Anders, Franz Kafka – pro und contra, 1947">
           <analytic>
             <title level="a">Franz Kafka – pro und contra</title>
