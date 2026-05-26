@@ -16,6 +16,118 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__ETZT7T5X" corresp="http://zotero.org/groups/5701116/items/ETZT7T5X" n="Thomas, Religion in an Age of Secularism, 1940">
+          <monogr>
+            <title level="m">Religion in an Age of Secularism</title>
+            <author>
+              <forename>George F.</forename>
+              <surname>Thomas</surname>
+            </author>
+            <imprint>
+              <pubPlace>Princeton</pubPlace>
+              <publisher>Princeton University Press</publisher>
+              <date>1940</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__BJVNHRGD" corresp="http://zotero.org/groups/5701116/items/BJVNHRGD" n="Ulich, Crisis and Hope in American Education, 1951">
+          <monogr>
+            <title level="m">Crisis and Hope in American Education</title>
+            <author>
+              <forename>Robert</forename>
+              <surname>Ulich</surname>
+            </author>
+            <imprint>
+              <pubPlace>Boston</pubPlace>
+              <publisher>Beacon Press</publisher>
+              <date>1951</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__AGD2WRN6" corresp="http://zotero.org/groups/5701116/items/AGD2WRN6" n="Ulich, The Meaning of Education, 1950">
+          <monogr>
+            <title level="m">The Meaning of Education</title>
+            <author>
+              <forename>Robert</forename>
+              <surname>Ulich</surname>
+            </author>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <publisher>American Book Company</publisher>
+              <date>1950</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__7NTHRF8X" corresp="http://zotero.org/groups/5701116/items/7NTHRF8X" n="Ulich, History of Educational Thought, 1945">
+          <monogr>
+            <title level="m">History of Educational Thought</title>
+            <author>
+              <forename>Robert</forename>
+              <surname>Ulich</surname>
+            </author>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <publisher>American Book Company</publisher>
+              <date>1945</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__9PPVH4FX" corresp="http://zotero.org/groups/5701116/items/9PPVH4FX" n="Schweitzer, Kulturphilosophie. Erster Teil: Verfall und Wiederaufbau der Kultur, 1923">
+          <monogr>
+            <title level="m">Kulturphilosophie. Erster Teil: Verfall und Wiederaufbau der Kultur</title>
+            <author>
+              <forename>Albert</forename>
+              <surname>Schweitzer</surname>
+            </author>
+            <imprint>
+              <pubPlace>Bern</pubPlace>
+              <publisher>Paul Haupt</publisher>
+              <date>1923</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__XWS84XP4" corresp="http://zotero.org/groups/5701116/items/XWS84XP4" n="Eastman, Modern Religious Dramas, 1928">
+          <monogr>
+            <title level="m">Modern Religious Dramas</title>
+            <author>
+              <forename>Fred</forename>
+              <surname>Eastman</surname>
+            </author>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <publisher>Henry Holt and Company</publisher>
+              <date>1928</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__C33H5ZZH" corresp="http://zotero.org/groups/5701116/items/C33H5ZZH" n="Wilder, The Spiritual Aspects of the New Poetry, 1940">
+          <monogr>
+            <title level="m">The Spiritual Aspects of the New Poetry</title>
+            <author>
+              <forename>Amos N.</forename>
+              <surname>Wilder</surname>
+            </author>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <publisher>Harper &amp; Brothers</publisher>
+              <date>1940</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__KB7SUAT8" corresp="http://zotero.org/groups/5701116/items/KB7SUAT8" n="Malraux, The Psychology of Art, 1949">
+          <monogr>
+            <title level="m">The Psychology of Art</title>
+            <author>
+              <forename>André</forename>
+              <surname>Malraux</surname>
+            </author>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <publisher>Pantheon</publisher>
+              <date>1949</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__GHSNCKVW" corresp="http://zotero.org/groups/5701116/items/GHSNCKVW" n="Nigg, Große Heilige, 1946">
           <monogr>
             <title level="m">Große Heilige</title>
