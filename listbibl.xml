@@ -16,6 +16,58 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="newspaperArticle" xml:id="tillich__BPCYDV29" corresp="http://zotero.org/groups/5701116/items/BPCYDV29" n="o.A., Natur und Christentum, 1906">
+          <analytic>
+            <title level="a">Natur und Christentum</title>
+          </analytic>
+          <monogr>
+            <title level="m">Der Reichsbote</title>
+            <imprint>
+              <pubPlace>Berlin</pubPlace>
+              <biblScope unit="issue">275</biblScope>
+              <date>1906</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__ILC8E459" corresp="http://zotero.org/groups/5701116/items/ILC8E459" n="o.A., Kirche und Schule, 1907">
+          <analytic>
+            <title level="a">Kirche und Schule</title>
+          </analytic>
+          <monogr>
+            <title level="j">Der Reichsbote</title>
+            <imprint>
+              <pubPlace>Berlin</pubPlace>
+              <biblScope unit="issue">148</biblScope>
+              <date>1907</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="newspaperArticle" xml:id="tillich__SKKXBUKE" corresp="http://zotero.org/groups/5701116/items/SKKXBUKE" n="o.A., o.T., 1906">
+          <analytic>
+            <title level="a"/>
+          </analytic>
+          <monogr>
+            <title level="m">Der Reichsbote</title>
+            <imprint>
+              <pubPlace>Berlin</pubPlace>
+              <biblScope unit="issue">275</biblScope>
+              <date>1906</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="newspaperArticle" xml:id="tillich__PBRIEQCI" corresp="http://zotero.org/groups/5701116/items/PBRIEQCI" n="o.A., o.T., 1906">
+          <analytic>
+            <title level="a"/>
+          </analytic>
+          <monogr>
+            <title level="m">Der Reichsbote</title>
+            <imprint>
+              <pubPlace>Berlin</pubPlace>
+              <biblScope unit="issue">253</biblScope>
+              <date>1906</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__ETZT7T5X" corresp="http://zotero.org/groups/5701116/items/ETZT7T5X" n="Thomas, Religion in an Age of Secularism, 1940">
           <monogr>
             <title level="m">Religion in an Age of Secularism</title>
