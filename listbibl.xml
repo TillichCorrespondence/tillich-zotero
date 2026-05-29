@@ -16,6 +16,57 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__UWBLDZS5" corresp="http://zotero.org/groups/5701116/items/UWBLDZS5" n="James, A Record of the Battles and Engagements of the British Armies in France and..., 1924">
+          <monogr>
+            <title level="m">A Record of the Battles and Engagements of the British Armies in France and Flanders 1914-1918</title>
+            <author>
+              <forename>E.A.</forename>
+              <surname>James</surname>
+            </author>
+            <imprint>
+              <pubPlace>Aldershot</pubPlace>
+              <publisher>Gale &amp; Polden</publisher>
+              <date>1924</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__R3ZDCQJA" corresp="http://zotero.org/groups/5701116/items/R3ZDCQJA" n="Cron, Geschichte des Deutschen Heeres im Weltkriege 1914-1918, 1937">
+          <monogr>
+            <title level="m">Geschichte des Deutschen Heeres im Weltkriege 1914-1918</title>
+            <author>
+              <forename>Hermann</forename>
+              <surname>Cron</surname>
+            </author>
+            <imprint>
+              <pubPlace>Berlin</pubPlace>
+              <biblScope unit="volume">Band V der "Geschichte der Königlichen Preußischen Armee und des Reichsheeres" von Curt Jany</biblScope>
+              <publisher>Siegismund</publisher>
+              <date>1937</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__7CNZ4DBG" corresp="http://zotero.org/groups/5701116/items/7CNZ4DBG" n="Tillich, Vorlesung über Hegel (Frankfurt 1931/32), 1995">
+          <monogr>
+            <title level="m">Vorlesung über Hegel (Frankfurt 1931/32)</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+            <editor>
+              <forename>Erdmann</forename>
+              <surname>Sturm</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Berlin/New York</pubPlace>
+              <publisher>Walter de Gruyter</publisher>
+              <date>1995</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Ergänzungs- und Nachlaßbände</title>
+            <biblScope unit="volume">VIII</biblScope>
+          </series>
+        </biblStruct>
         <biblStruct type="newspaperArticle" xml:id="tillich__BPCYDV29" corresp="http://zotero.org/groups/5701116/items/BPCYDV29" n="o.A., Natur und Christentum, 1906">
           <analytic>
             <title level="a">Natur und Christentum</title>
