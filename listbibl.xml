@@ -16,6 +16,75 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="bookSection" xml:id="tillich__5K3N3BS5" corresp="http://zotero.org/groups/5701116/items/5K3N3BS5" n="Tillich, Die Auflösung der Gesellschaft in den christlichen Ländern, 1962">
+          <analytic>
+            <title level="a">Die Auflösung der Gesellschaft in den christlichen Ländern</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Gesammelte Werke</title>
+            <imprint>
+              <pubPlace>Stuttgart</pubPlace>
+              <publisher>Evangelisches Verlagswerk</publisher>
+              <date>1962</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">X</title>
+          </series>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="tillich__DGCBDFUN" corresp="http://zotero.org/groups/5701116/items/DGCBDFUN" n="TIllich, &quot;The Disintegration of Society in Christian Countries.&quot;, 1949">
+          <analytic>
+            <title level="a">"The Disintegration of Society in Christian Countries."</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>TIllich</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">The Church's Witness to God's Design</title>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <publisher>Harper &amp; Brothers</publisher>
+              <date>1949</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Man's Disorder and God's Design</title>
+            <biblScope unit="volume">Vol. II.</biblScope>
+          </series>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__4VRF67QG" corresp="http://zotero.org/groups/5701116/items/4VRF67QG" n="Tillich, The Courage to Be, 1952">
+          <monogr>
+            <title level="m">The Courage to Be</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+            <imprint>
+              <pubPlace>New Haven</pubPlace>
+              <publisher>Yale University Press</publisher>
+              <date>1952</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="newspaperArticle" xml:id="tillich__83QNLHD3" corresp="http://zotero.org/groups/5701116/items/83QNLHD3" n="o.A., o.T., 1914">
+          <analytic>
+            <title level="a"/>
+          </analytic>
+          <monogr>
+            <title level="m">Vossische Zeitung</title>
+            <imprint>
+              <pubPlace>Berlin</pubPlace>
+              <publisher>Ullstein Verlag</publisher>
+              <date>1914</date>
+              <note type="url">https://dfg-viewer.de/show/?set%5Bmets%5D=https://content.staatsbibliothek-berlin.de/zefys/SNP27112366-19141109-1-0-0-0.xml</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__UWBLDZS5" corresp="http://zotero.org/groups/5701116/items/UWBLDZS5" n="James, A Record of the Battles and Engagements of the British Armies in France and..., 1924">
           <monogr>
             <title level="m">A Record of the Battles and Engagements of the British Armies in France and Flanders 1914-1918</title>
