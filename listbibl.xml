@@ -16,6 +16,20 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__U3DQJSPI" corresp="http://zotero.org/groups/5701116/items/U3DQJSPI" n="Ewing, The Definition of &quot;Good&quot;, 1947">
+          <monogr>
+            <title level="m">The Definition of "Good"</title>
+            <author>
+              <forename>Alfred Cyril</forename>
+              <surname>Ewing</surname>
+            </author>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <publisher>Macmillan</publisher>
+              <date>1947</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="newspaperArticle" xml:id="tillich__A7IEIUGD" corresp="http://zotero.org/groups/5701116/items/A7IEIUGD" n="o.A., Von den Hochschulen des In- und Auslanes, 1948">
           <analytic>
             <title level="a">Von den Hochschulen des In- und Auslanes</title>
