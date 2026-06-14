@@ -16,6 +16,78 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__UIG8EQX7" corresp="http://zotero.org/groups/5701116/items/UIG8EQX7" n="Hirsch, Kierkegaard-Studien:  H. 3., Der Denker : 2. u. 3. Studie: Das Werk des Den..., 1933">
+          <monogr>
+            <title level="m">Kierkegaard-Studien:  H. 3., Der Denker : 2. u. 3. Studie: Das Werk des Denkers</title>
+            <author>
+              <forename>Emanuel</forename>
+              <surname>Hirsch</surname>
+            </author>
+            <imprint>
+              <pubPlace>Gütersloh</pubPlace>
+              <biblScope unit="volume">36</biblScope>
+              <publisher>C. Bertelsmann</publisher>
+              <date>1933</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Studien des apologetischen Seminars</title>
+          </series>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__K2UFQBK5" corresp="http://zotero.org/groups/5701116/items/K2UFQBK5" n="Hirsch, Kierkegaard-Studien:  H. 3., Der Denker / 1. Studie., Der werdende Denker, 1931">
+          <monogr>
+            <title level="m">Kierkegaard-Studien:  H. 3., Der Denker / 1. Studie., Der werdende Denker</title>
+            <author>
+              <forename>Emanuel</forename>
+              <surname>Hirsch</surname>
+            </author>
+            <imprint>
+              <pubPlace>Gütersloh</pubPlace>
+              <biblScope unit="volume">32</biblScope>
+              <publisher>C. Bertelsmann</publisher>
+              <date>1931</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Studien des apologetischen Seminars</title>
+          </series>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__8N9246ZF" corresp="http://zotero.org/groups/5701116/items/8N9246ZF" n="Hirsch, Kierkegaard-Studien: H. 2., Der Dichter, 1930">
+          <monogr>
+            <title level="m">Kierkegaard-Studien: H. 2., Der Dichter</title>
+            <author>
+              <forename>Emanuel</forename>
+              <surname>Hirsch</surname>
+            </author>
+            <imprint>
+              <pubPlace>Gütersloh</pubPlace>
+              <biblScope unit="volume">31</biblScope>
+              <publisher>C. Bertelsmann</publisher>
+              <date>1930</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Studien des apologetischen Seminars</title>
+          </series>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__PIX8CKWZ" corresp="http://zotero.org/groups/5701116/items/PIX8CKWZ" n="Hirsch, Kierkegaard-Studien: H. 1., Zur inneren Geschichte 1835–1841, 1930">
+          <monogr>
+            <title level="m">Kierkegaard-Studien: H. 1., Zur inneren Geschichte 1835–1841</title>
+            <author>
+              <forename>Emanuel</forename>
+              <surname>Hirsch</surname>
+            </author>
+            <imprint>
+              <pubPlace>Gütersloh</pubPlace>
+              <biblScope unit="volume">29</biblScope>
+              <publisher>C. Bertelsmann</publisher>
+              <date>1930</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Studien des apologetischen Seminars</title>
+          </series>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__JAKRCEZL" corresp="http://zotero.org/groups/5701116/items/JAKRCEZL" n="Tillich, The Religious Situation, 1932">
           <monogr>
             <title level="m">The Religious Situation</title>
