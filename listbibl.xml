@@ -16,6 +16,38 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="journalArticle" xml:id="tillich__JTH8EI9N" corresp="http://zotero.org/groups/5701116/items/JTH8EI9N" n="Bailey, The Mystery of Love and Marriage; Homosexuality in the Western Christian Tr..., 1955">
+          <analytic>
+            <title level="a">The Mystery of Love and Marriage; Homosexuality in the Western Christian Tradition, special issue: Christianity and Sex.</title>
+            <author>
+              <forename>Derrick Sherwin</forename>
+              <surname>Bailey</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Student World</title>
+            <imprint>
+              <biblScope unit="volume">48</biblScope>
+              <biblScope unit="issue">4</biblScope>
+              <publisher>Student World</publisher>
+              <date>1955</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__XSIGF8ZJ" corresp="http://zotero.org/groups/5701116/items/XSIGF8ZJ" n="Bailey, Homosexuality and the Western Christian Tradition, 1955">
+          <monogr>
+            <title level="m">Homosexuality and the Western Christian Tradition</title>
+            <author>
+              <forename>Derrick Sherwin</forename>
+              <surname>Bailey</surname>
+            </author>
+            <imprint>
+              <pubPlace>London/New York</pubPlace>
+              <publisher>Longmans, Green and Co</publisher>
+              <date>1955</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="journalArticle" xml:id="tillich__AB6TMN6G" corresp="http://zotero.org/groups/5701116/items/AB6TMN6G" n="Tillich, Visit to Germany, 1948">
           <analytic>
             <title level="a">Visit to Germany</title>
