@@ -16,6 +16,34 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__C29QVI9J" corresp="http://zotero.org/groups/5701116/items/C29QVI9J" n="Tolstoy, The Law of Love and the Law of Violence, 1970">
+          <monogr>
+            <title level="m">The Law of Love and the Law of Violence</title>
+            <author>
+              <forename>Leo</forename>
+              <surname>Tolstoy</surname>
+            </author>
+            <imprint>
+              <pubPlace>London</pubPlace>
+              <publisher>Anthony Blond</publisher>
+              <date>1970</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__ZGXFC9ZH" corresp="http://zotero.org/groups/5701116/items/ZGXFC9ZH" n="Heimann, History of Economic Doctrines. An Introduction to Economic Theory, 1954">
+          <monogr>
+            <title level="m">History of Economic Doctrines. An Introduction to Economic Theory</title>
+            <author>
+              <forename>Eduard</forename>
+              <surname>Heimann</surname>
+            </author>
+            <imprint>
+              <pubPlace>London / New York</pubPlace>
+              <publisher>Oxford University Press</publisher>
+              <date>1954</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="journalArticle" xml:id="tillich__JTH8EI9N" corresp="http://zotero.org/groups/5701116/items/JTH8EI9N" n="Bailey, The Mystery of Love and Marriage; Homosexuality in the Western Christian Tr..., 1955">
           <analytic>
             <title level="a">The Mystery of Love and Marriage; Homosexuality in the Western Christian Tradition, special issue: Christianity and Sex.</title>
