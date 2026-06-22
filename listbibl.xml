@@ -16,6 +16,64 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__ZM3AVP6M" corresp="http://zotero.org/groups/5701116/items/ZM3AVP6M" n="Read, Icon and Idea: The Function of Art in the Development of Human Consciousnes..., 1955">
+          <monogr>
+            <title level="m">Icon and Idea: The Function of Art in the Development of Human Consciousness</title>
+            <author>
+              <forename>Herbert</forename>
+              <surname>Read</surname>
+            </author>
+            <imprint>
+              <pubPlace>Cambridge</pubPlace>
+              <publisher>Havard University Press</publisher>
+              <date>1955</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__C39WPGUS" corresp="http://zotero.org/groups/5701116/items/C39WPGUS" n="o.A., 1984, 1949">
+          <monogr>
+            <title level="m">1984</title>
+            <author>
+              <forename>George</forename>
+            </author>
+            <imprint>
+              <pubPlace>London</pubPlace>
+              <publisher>Secker &amp; Warburg</publisher>
+              <date>1949</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__ZMJR35A8" corresp="http://zotero.org/groups/5701116/items/ZMJR35A8" n="Rilke, Duineser Elegien, 1923">
+          <monogr>
+            <title level="m">Duineser Elegien</title>
+            <author>
+              <forename>Rainer Maria</forename>
+              <surname>Rilke</surname>
+            </author>
+            <imprint>
+              <pubPlace>Leipzig</pubPlace>
+              <publisher>Insel-Verlag</publisher>
+              <date>1923</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="tillich__BNFVGQEJ" corresp="http://zotero.org/groups/5701116/items/BNFVGQEJ" n="Fosdick, On Pacifism, 1951">
+          <analytic>
+            <title level="a">On Pacifism</title>
+            <author>
+              <forename>Harry</forename>
+              <surname>Fosdick</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Rufus Jones Speaks to Our Time: An Anthology</title>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <publisher>The Macmillan Company</publisher>
+              <date>1951</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__C29QVI9J" corresp="http://zotero.org/groups/5701116/items/C29QVI9J" n="Tolstoy, The Law of Love and the Law of Violence, 1970">
           <monogr>
             <title level="m">The Law of Love and the Law of Violence</title>
