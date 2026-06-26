@@ -16,6 +16,21 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__739KF4IW" corresp="http://zotero.org/groups/5701116/items/739KF4IW" n="Redslob, Goethes Leben, 1948">
+          <monogr>
+            <title level="m">Goethes Leben</title>
+            <author>
+              <forename>Edwin</forename>
+              <surname>Redslob</surname>
+            </author>
+            <edition>2. Auflage</edition>
+            <imprint>
+              <pubPlace>Stuttgart</pubPlace>
+              <publisher>Reclam</publisher>
+              <date>1948</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__ZM3AVP6M" corresp="http://zotero.org/groups/5701116/items/ZM3AVP6M" n="Read, Icon and Idea: The Function of Art in the Development of Human Consciousnes..., 1955">
           <monogr>
             <title level="m">Icon and Idea: The Function of Art in the Development of Human Consciousness</title>
