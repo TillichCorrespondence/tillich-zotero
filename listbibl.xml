@@ -16,6 +16,152 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="journalArticle" xml:id="tillich__F69V2IRN" corresp="http://zotero.org/groups/5701116/items/F69V2IRN" n="Frey, Über Rilkes Gedichte mit Beziehung auf den Deutsch-Unterricht der Oberstufe, None">
+          <analytic>
+            <title level="a">Über Rilkes Gedichte mit Beziehung auf den Deutsch-Unterricht der Oberstufe</title>
+            <author>
+              <forename>Emmy</forename>
+              <surname>Frey</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Der Deutschunterricht</title>
+            <imprint>
+              <pubPlace>Stuttgart</pubPlace>
+              <biblScope unit="volume">1</biblScope>
+              <biblScope unit="issue">2/3</biblScope>
+              <biblScope unit="page">73–101</biblScope>
+              <publisher>Ernst Klett Verlag</publisher>
+              <date/>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__UX6GWE72" corresp="http://zotero.org/groups/5701116/items/UX6GWE72" n="Tillich, 地の基ふるいうごく, 1951">
+          <monogr>
+            <title level="m">地の基ふるいうごく</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+            <respStmt>
+              <resp>translator</resp>
+              <persName>
+                <forename>Makoto</forename>
+                <surname>Goto</surname>
+              </persName>
+            </respStmt>
+            <imprint>
+              <pubPlace>Tokio</pubPlace>
+              <publisher>Protestantischer Verlag</publisher>
+              <date>1951</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__4CS7I922" corresp="http://zotero.org/groups/5701116/items/4CS7I922" n="Tillich, The Shaking of the Foundation, 1948">
+          <monogr>
+            <title level="m">The Shaking of the Foundation</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <publisher>Charles Scribner's Sons</publisher>
+              <date>1948</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__WB479NQU" corresp="http://zotero.org/groups/5701116/items/WB479NQU" n="Tillich, 現代の宗教的状況: 現代欧洲文化の宗教性, 1950">
+          <monogr>
+            <title level="m">現代の宗教的状況: 現代欧洲文化の宗教性</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+            <respStmt>
+              <resp>translator</resp>
+              <persName>
+                <forename>Makoto</forename>
+                <surname>Goto</surname>
+              </persName>
+            </respStmt>
+            <respStmt>
+              <resp>translator</resp>
+              <persName>
+                <forename>Enkichi</forename>
+                <surname>Suga</surname>
+              </persName>
+            </respStmt>
+            <imprint>
+              <pubPlace>Tokio</pubPlace>
+              <publisher>Verband der christlichen Jugendvereine Japans</publisher>
+              <date>1950</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__DJGWEW5J" corresp="http://zotero.org/groups/5701116/items/DJGWEW5J" n="Bouman, The Refugee Problem in Western Germany, 1950">
+          <monogr>
+            <title level="m">The Refugee Problem in Western Germany</title>
+            <author>
+              <forename>Pieter Jan</forename>
+              <surname>Bouman</surname>
+            </author>
+            <imprint>
+              <pubPlace>Den Haag</pubPlace>
+              <publisher>Nijhoff</publisher>
+              <date>1950</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__TEIPZGDH" corresp="http://zotero.org/groups/5701116/items/TEIPZGDH" n="Wilder, Christ and Time: The Primitive Christian Conception of Time and History by ..., 1950">
+          <analytic>
+            <title level="a">Christ and Time: The Primitive Christian Conception of Time and History by Oscar Cullmann. Translated from the German by Floyd V. Filson. Philadelphia: Westminster Press, 1950. 242 pages. $5.00.</title>
+            <author>
+              <forename>Amos N. Wilder</forename>
+              <surname>Wilder</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">The Journal of Religion</title>
+            <imprint>
+              <pubPlace>Chicago</pubPlace>
+              <biblScope unit="volume">30</biblScope>
+              <biblScope unit="issue">4</biblScope>
+              <biblScope unit="page">277–278</biblScope>
+              <publisher>The University of Chicago Press</publisher>
+              <date>1950</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__32RD3B9V" corresp="http://zotero.org/groups/5701116/items/32RD3B9V" n="Mehl, La Condition du Philosophe Chrétien, 1947">
+          <monogr>
+            <title level="m">La Condition du Philosophe Chrétien</title>
+            <author>
+              <forename>Roger</forename>
+              <surname>Mehl</surname>
+            </author>
+            <imprint>
+              <pubPlace>Neuchâtel/Paris</pubPlace>
+              <publisher>Delachaux et Nieste</publisher>
+              <date>1947</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__CG3UIZ3V" corresp="http://zotero.org/groups/5701116/items/CG3UIZ3V" n="Cullmann, Christus und die Zeit: Die urchristliche Zeit- und Geschichtsauffassung, 1948">
+          <monogr>
+            <title level="m">Christus und die Zeit: Die urchristliche Zeit- und Geschichtsauffassung</title>
+            <author>
+              <forename>Oscar</forename>
+              <surname>Cullmann</surname>
+            </author>
+            <edition>2</edition>
+            <imprint>
+              <pubPlace>Zollikon-Zürich</pubPlace>
+              <publisher>Evangelischer Verlag</publisher>
+              <date>1948</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__739KF4IW" corresp="http://zotero.org/groups/5701116/items/739KF4IW" n="Redslob, Goethes Leben, 1948">
           <monogr>
             <title level="m">Goethes Leben</title>
