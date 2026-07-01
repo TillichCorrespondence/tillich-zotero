@@ -16,6 +16,26 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="newspaperArticle" xml:id="tillich__HZQ992XA" corresp="http://zotero.org/groups/5701116/items/HZQ992XA" n="Pollock, PAUL TILLICH – 60 Jahre, 1946">
+          <analytic>
+            <title level="a">PAUL TILLICH – 60 Jahre</title>
+            <author>
+              <forename>Friedrich</forename>
+              <surname>Pollock</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Aufbau</title>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <biblScope unit="volume">12</biblScope>
+              <biblScope unit="issue">34</biblScope>
+              <biblScope unit="page">10</biblScope>
+              <publisher>New World Club, Inc.</publisher>
+              <date>1946</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="journalArticle" xml:id="tillich__F69V2IRN" corresp="http://zotero.org/groups/5701116/items/F69V2IRN" n="Frey, Über Rilkes Gedichte mit Beziehung auf den Deutsch-Unterricht der Oberstufe, None">
           <analytic>
             <title level="a">Über Rilkes Gedichte mit Beziehung auf den Deutsch-Unterricht der Oberstufe</title>
