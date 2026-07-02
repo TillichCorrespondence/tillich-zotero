@@ -16,6 +16,106 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="journalArticle" xml:id="tillich__GWATPB2G" corresp="http://zotero.org/groups/5701116/items/GWATPB2G" n="Kütemeyer, Deutschland – schuldig oder krank?, 1948">
+          <analytic>
+            <title level="a">Deutschland – schuldig oder krank?</title>
+            <author>
+              <forename>Wilhelm</forename>
+              <surname>Kütemeyer</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Die Wandlung</title>
+            <imprint>
+              <pubPlace>Heidelberg</pubPlace>
+              <biblScope unit="volume">3</biblScope>
+              <biblScope unit="issue">2</biblScope>
+              <biblScope unit="page">106–119</biblScope>
+              <publisher>Schneider</publisher>
+              <date>1948</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__KFD5ED62" corresp="http://zotero.org/groups/5701116/items/KFD5ED62" n="Sternberger, Tagebuch: Bürgerlichkeit, 1948">
+          <analytic>
+            <title level="a">Tagebuch: Bürgerlichkeit</title>
+            <author>
+              <forename>Dolf</forename>
+              <surname>Sternberger</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Die Wandlung</title>
+            <imprint>
+              <pubPlace>Heidelberg</pubPlace>
+              <biblScope unit="volume">3</biblScope>
+              <biblScope unit="issue">3</biblScope>
+              <biblScope unit="page">195–200</biblScope>
+              <publisher>Schneider</publisher>
+              <date>1948</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__F5EJM9CQ" corresp="http://zotero.org/groups/5701116/items/F5EJM9CQ" n="Naumann, Die politische Mattigkeit der Gebildeten, 1948">
+          <analytic>
+            <title level="a">Die politische Mattigkeit der Gebildeten</title>
+            <author>
+              <forename>Friedrich</forename>
+              <surname>Naumann</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Die Wandlung</title>
+            <imprint>
+              <pubPlace>Heidelberg</pubPlace>
+              <biblScope unit="volume">3</biblScope>
+              <biblScope unit="issue">3</biblScope>
+              <biblScope unit="page">201–205</biblScope>
+              <publisher>Schneider</publisher>
+              <date>1948</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__BNJ9QHZZ" corresp="http://zotero.org/groups/5701116/items/BNJ9QHZZ" n="Groß, Die unbekannte Schuld der Kirche, 1948">
+          <analytic>
+            <title level="a">Die unbekannte Schuld der Kirche</title>
+            <author>
+              <forename>Erwin</forename>
+              <surname>Groß</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Die Wandlung</title>
+            <imprint>
+              <pubPlace>Heidelberg</pubPlace>
+              <biblScope unit="volume">3</biblScope>
+              <biblScope unit="issue">1</biblScope>
+              <biblScope unit="page">28–39</biblScope>
+              <publisher>Schneider</publisher>
+              <date>1948</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__KGK4D3MV" corresp="http://zotero.org/groups/5701116/items/KGK4D3MV" n="Asmussen, Stuttgarter Erklärung, 1948">
+          <analytic>
+            <title level="a">Stuttgarter Erklärung</title>
+            <author>
+              <forename>Hans</forename>
+              <surname>Asmussen</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Die Wandlung</title>
+            <imprint>
+              <pubPlace>Heidelberg</pubPlace>
+              <biblScope unit="volume">3</biblScope>
+              <biblScope unit="issue">1</biblScope>
+              <biblScope unit="page">17–27</biblScope>
+              <publisher>Schneider</publisher>
+              <date>1948</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="newspaperArticle" xml:id="tillich__HZQ992XA" corresp="http://zotero.org/groups/5701116/items/HZQ992XA" n="Pollock, PAUL TILLICH – 60 Jahre, 1946">
           <analytic>
             <title level="a">PAUL TILLICH – 60 Jahre</title>
