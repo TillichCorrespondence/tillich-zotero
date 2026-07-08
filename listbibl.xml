@@ -16,6 +16,24 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__ED3EW67M" corresp="http://zotero.org/groups/5701116/items/ED3EW67M" n="Kegley (Hg.), The Theology of Paul Tillich, 1952">
+          <monogr>
+            <title level="m">The Theology of Paul Tillich</title>
+            <editor>
+              <forename>Charles W.</forename>
+              <surname>Kegley</surname>
+            </editor>
+            <editor>
+              <forename>Robert W.</forename>
+              <surname>Bretall</surname>
+            </editor>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <publisher>Macmillan</publisher>
+              <date>1952</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__GMS3JAHZ" corresp="http://zotero.org/groups/5701116/items/GMS3JAHZ" n="Stepun, Vergangenes und Unvergängliches: aus meinem Leben. Teil 1: 1884–1914, 1947">
           <monogr>
             <title level="m">Vergangenes und Unvergängliches: aus meinem Leben. Teil 1: 1884–1914</title>
@@ -3524,24 +3542,6 @@ Zur Topographie der „geistigen Geselligkeit“ eines „Weltdorfes“: 1850–
               <pubPlace>New York</pubPlace>
               <publisher>Harper &amp; Brothers</publisher>
               <date>1937</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="tillich__ED3EW67M" corresp="http://zotero.org/groups/5701116/items/ED3EW67M" n="Kegley, The Theology of Paul Tillich, 1952">
-          <monogr>
-            <title level="m">The Theology of Paul Tillich</title>
-            <author>
-              <forename>Charles W.</forename>
-              <surname>Kegley</surname>
-            </author>
-            <author>
-              <forename>Robert W.</forename>
-              <surname>Bretall</surname>
-            </author>
-            <imprint>
-              <pubPlace>New York</pubPlace>
-              <publisher>Macmillan</publisher>
-              <date>1952</date>
             </imprint>
           </monogr>
         </biblStruct>
