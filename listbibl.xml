@@ -16,6 +16,37 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="bookSection" xml:id="tillich__AN8UJ3SQ" corresp="http://zotero.org/groups/5701116/items/AN8UJ3SQ" n="Tillich, On the Boundary. An Autobiographical Sketch, 1936">
+          <analytic>
+            <title level="a">On the Boundary. An Autobiographical Sketch</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">The Interpretation of History</title>
+            <imprint>
+              <pubPlace>New York/London</pubPlace>
+              <biblScope unit="page">1–74</biblScope>
+              <publisher>Scribner</publisher>
+              <date>1936</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="newspaperArticle" xml:id="tillich__R928G6JI" corresp="http://zotero.org/groups/5701116/items/R928G6JI" n="o.A., DR. KARL MANNHEIM, LEADING SOCIOLOGIST, 1947">
+          <analytic>
+            <title level="a">DR. KARL MANNHEIM, LEADING SOCIOLOGIST</title>
+          </analytic>
+          <monogr>
+            <title level="m">The New York Times</title>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <biblScope unit="page">22</biblScope>
+              <date>1947</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__ED3EW67M" corresp="http://zotero.org/groups/5701116/items/ED3EW67M" n="Kegley (Hg.), The Theology of Paul Tillich, 1952">
           <monogr>
             <title level="m">The Theology of Paul Tillich</title>
@@ -2158,18 +2189,6 @@
               <date>1907</date>
               <note type="accessed">2026-04-15</note>
               <note type="url">https://nbn-resolving.de/urn:nbn:de:gbv:3:3-53721-p9063-8</note>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="newspaperArticle" xml:id="tillich__R928G6JI" corresp="http://zotero.org/groups/5701116/items/R928G6JI" n="o.A., DR. KARL MANNHEIM, LEADING SOCIOLOGIST, 1947">
-          <analytic>
-            <title level="a">DR. KARL MANNHEIM, LEADING SOCIOLOGIST</title>
-          </analytic>
-          <monogr>
-            <title level="m">The New York Times</title>
-            <imprint>
-              <biblScope unit="page">22</biblScope>
-              <date>1947</date>
             </imprint>
           </monogr>
         </biblStruct>
@@ -9622,20 +9641,6 @@ GESAMMELTEN WERKEN VON PAUL TILLICH, Bd. X)</title>
               <pubPlace>München</pubPlace>
               <publisher>Franz Eher Nachfolger</publisher>
               <date>1930</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="tillich__AN8UJ3SQ" corresp="http://zotero.org/groups/5701116/items/AN8UJ3SQ" n="Tillich, On the Boundary. An Autobiographical Sketch, 1936">
-          <monogr>
-            <title level="m">On the Boundary. An Autobiographical Sketch</title>
-            <author>
-              <forename>Paul</forename>
-              <surname>Tillich</surname>
-            </author>
-            <imprint>
-              <pubPlace>New York/London</pubPlace>
-              <publisher>Scribner</publisher>
-              <date>1936</date>
             </imprint>
           </monogr>
         </biblStruct>
