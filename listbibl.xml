@@ -16,6 +16,47 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__3ABLQTAX" corresp="http://zotero.org/groups/5701116/items/3ABLQTAX" n="Ibsen, Brand. Ein dramatisches Gedicht. Uebersetzt von L. Passarge., 1881">
+          <monogr>
+            <title level="m">Brand. Ein dramatisches Gedicht. Uebersetzt von L. Passarge.</title>
+            <author>
+              <forename>Henrik</forename>
+              <surname>Ibsen</surname>
+            </author>
+            <imprint>
+              <pubPlace>Leipzig</pubPlace>
+              <publisher>Verlag von Philipp Reclam jun.</publisher>
+              <date>1881</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__LBZK2FKT" corresp="http://zotero.org/groups/5701116/items/LBZK2FKT" n="Gorki, Nachtasyl, 1909">
+          <monogr>
+            <title level="m">Nachtasyl</title>
+            <author>
+              <forename>Maxim</forename>
+              <surname>Gorki</surname>
+            </author>
+            <imprint>
+              <publisher>Peter J. Oestergaard</publisher>
+              <date>1909</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__LVUM625C" corresp="http://zotero.org/groups/5701116/items/LVUM625C" n="Tolstoi, Der lebende Leichnam, 1911">
+          <monogr>
+            <title level="m">Der lebende Leichnam</title>
+            <author>
+              <forename>Leo Nikolajewitsch</forename>
+              <surname>Tolstoi</surname>
+            </author>
+            <imprint>
+              <pubPlace>Leipzig</pubPlace>
+              <publisher>Verlag von Philipp Reclam jun.</publisher>
+              <date>1911</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="bookSection" xml:id="tillich__AN8UJ3SQ" corresp="http://zotero.org/groups/5701116/items/AN8UJ3SQ" n="Tillich, On the Boundary. An Autobiographical Sketch, 1936">
           <analytic>
             <title level="a">On the Boundary. An Autobiographical Sketch</title>
@@ -717,6 +758,32 @@
               <date>1948</date>
             </imprint>
           </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__JL2KDCIX" corresp="http://zotero.org/groups/5701116/items/JL2KDCIX" n="Tillich, Band 5 Ein Lebensbild in Dokumenten, 1980">
+          <monogr>
+            <title level="m">Band 5 Ein Lebensbild in Dokumenten</title>
+            <idno type="ISBN">978-3-11-083291-4</idno>
+            <editor>
+              <forename>Renate</forename>
+              <surname>Albrecht</surname>
+            </editor>
+            <editor>
+              <forename>Margot</forename>
+              <surname>Hahl</surname>
+            </editor>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+            <imprint>
+              <publisher>De Gruyter</publisher>
+              <date>1980</date>
+              <note type="url">https://doi.org/10.1515/9783110832914</note>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Briefe, Tagebuch-Auszüge, Berichte</title>
+          </series>
         </biblStruct>
         <biblStruct type="bookSection" xml:id="tillich__5K3N3BS5" corresp="http://zotero.org/groups/5701116/items/5K3N3BS5" n="Tillich, Die Auflösung der Gesellschaft in den christlichen Ländern, 1962">
           <analytic>
@@ -5613,28 +5680,6 @@ Zur Topographie der „geistigen Geselligkeit“ eines „Weltdorfes“: 1850–
               <date>1929</date>
             </imprint>
           </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="tillich__JL2KDCIX" corresp="http://zotero.org/groups/5701116/items/JL2KDCIX" n="Albrecht (Hg.), Band 5 Ein Lebensbild in Dokumenten, 1980">
-          <monogr>
-            <title level="m">Band 5 Ein Lebensbild in Dokumenten</title>
-            <idno type="ISBN">978-3-11-083291-4</idno>
-            <editor>
-              <forename>Renate</forename>
-              <surname>Albrecht</surname>
-            </editor>
-            <editor>
-              <forename>Margot</forename>
-              <surname>Hahl</surname>
-            </editor>
-            <imprint>
-              <publisher>De Gruyter</publisher>
-              <date>1980</date>
-              <note type="url">https://doi.org/10.1515/9783110832914</note>
-            </imprint>
-          </monogr>
-          <series>
-            <title level="s">Briefe, Tagebuch-Auszüge, Berichte</title>
-          </series>
         </biblStruct>
         <biblStruct type="bookSection" xml:id="tillich__ZRSAF37N" corresp="http://zotero.org/groups/5701116/items/ZRSAF37N" n="Tillich, Rezension zu Hendrik de Man: Zur Psychologie des Sozialismus, 2023">
           <analytic>
