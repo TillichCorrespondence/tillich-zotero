@@ -16,6 +16,25 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__FZ8PG7IT" corresp="http://zotero.org/groups/5701116/items/FZ8PG7IT" n="Reichsarchiv Potsdam (Hg.), Ruhmeshalle unserer alten Armee, 1934">
+          <monogr>
+            <title level="m">Ruhmeshalle unserer alten Armee</title>
+            <extent>2</extent>
+            <editor>
+              <name>Reichsarchiv Potsdam</name>
+            </editor>
+            <editor>
+              <name>Bayrisches Kriegsarchiv München</name>
+            </editor>
+            <edition>5.</edition>
+            <imprint>
+              <pubPlace>Berlin/Fürstenwalde</pubPlace>
+              <biblScope unit="volume">1</biblScope>
+              <publisher>Verlag für Militärgeschichte und deutsches Schrifttum</publisher>
+              <date>1934</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__JL2KDCIX" corresp="http://zotero.org/groups/5701116/items/JL2KDCIX" n="Tillich, Ein Lebensbild in Dokumenten: Briefe, Tagebuch-Auszüge, Berichte, 1980">
           <monogr>
             <title level="m">Ein Lebensbild in Dokumenten: Briefe, Tagebuch-Auszüge, Berichte</title>
