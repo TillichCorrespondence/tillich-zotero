@@ -16,6 +16,20 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__MJ6E9RIR" corresp="http://zotero.org/groups/5701116/items/MJ6E9RIR" n="Nietzsche, Zur Genealogie der Moral, 1887">
+          <monogr>
+            <title level="m">Zur Genealogie der Moral</title>
+            <author>
+              <forename>Friedrich</forename>
+              <surname>Nietzsche</surname>
+            </author>
+            <imprint>
+              <pubPlace>Leipzig</pubPlace>
+              <publisher>C. G. Naumann</publisher>
+              <date>1887</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__FZ8PG7IT" corresp="http://zotero.org/groups/5701116/items/FZ8PG7IT" n="Reichsarchiv Potsdam (Hg.), Ruhmeshalle unserer alten Armee, 1934">
           <monogr>
             <title level="m">Ruhmeshalle unserer alten Armee</title>
