@@ -16,6 +16,325 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="journalArticle" xml:id="tillich__DRTZ3BJW" corresp="http://zotero.org/groups/5701116/items/DRTZ3BJW" n="Husserl, Philosophie als strenge Wissenschaft, 1911">
+          <analytic>
+            <title level="a">Philosophie als strenge Wissenschaft</title>
+            <author>
+              <forename>Edmund</forename>
+              <surname>Husserl</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Logos. Internationale Zeitschrift für Philosophie der Kultur</title>
+            <imprint>
+              <pubPlace>Tübingen</pubPlace>
+              <biblScope unit="volume">1 (1910/1911)</biblScope>
+              <biblScope unit="issue">3</biblScope>
+              <publisher>J. C. B. Mohr (Paul Siebeck)</publisher>
+              <date>1911</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__E8DBQHJB" corresp="http://zotero.org/groups/5701116/items/E8DBQHJB" n="Rickert, Der Gegenstand der Erkenntnis: Ein Beitrag zum Problem der philosophischen ..., 1892">
+          <monogr>
+            <title level="m">Der Gegenstand der Erkenntnis: Ein Beitrag zum Problem der philosophischen Transcendenz</title>
+            <author>
+              <forename>Heinrich</forename>
+              <surname>Rickert</surname>
+            </author>
+            <edition>1</edition>
+            <imprint>
+              <pubPlace>Freiburg i. B.</pubPlace>
+              <publisher>Verlag von J.C.B. Mohr (Paul Siebeck)</publisher>
+              <date>1892</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__8TCXNFE2" corresp="http://zotero.org/groups/5701116/items/8TCXNFE2" n="Rickert, Der Gegenstand der Erkenntnis. Einführung in die Transzendentalphilosophie, 1915">
+          <monogr>
+            <title level="m">Der Gegenstand der Erkenntnis. Einführung in die Transzendentalphilosophie</title>
+            <author>
+              <forename>Heinrich</forename>
+              <surname>Rickert</surname>
+            </author>
+            <edition>3. völlig umgearb. u. erw. Auflage</edition>
+            <imprint>
+              <pubPlace>Tübingen</pubPlace>
+              <publisher>Verlag von J.C.B. Mohr (Paul Siebeck)</publisher>
+              <date>1915</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__T8URG9U8" corresp="http://zotero.org/groups/5701116/items/T8URG9U8" n="Husserl, Logische Untersuchungen. Prolegomena zur reinen Logik, 1913">
+          <monogr>
+            <title level="m">Logische Untersuchungen. Prolegomena zur reinen Logik</title>
+            <extent>2</extent>
+            <author>
+              <forename>Edmund</forename>
+              <surname>Husserl</surname>
+            </author>
+            <edition>2. umgearb. Auflage</edition>
+            <imprint>
+              <pubPlace>Halle a. S.</pubPlace>
+              <biblScope unit="volume">1</biblScope>
+              <publisher>Max Niemeyer</publisher>
+              <date>1913</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__EVJ94HAA" corresp="http://zotero.org/groups/5701116/items/EVJ94HAA" n="Husserl, Logische Untersuchungen. Prolegomena zur reinen Logik, 1900">
+          <monogr>
+            <title level="m">Logische Untersuchungen. Prolegomena zur reinen Logik</title>
+            <extent>2</extent>
+            <author>
+              <forename>Edmund</forename>
+              <surname>Husserl</surname>
+            </author>
+            <imprint>
+              <pubPlace>Halle a. S.</pubPlace>
+              <biblScope unit="volume">1</biblScope>
+              <publisher>Max Niemeyer</publisher>
+              <date>1900</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__SHHJEQQ4" corresp="http://zotero.org/groups/5701116/items/SHHJEQQ4" n="Husserl, Logische Untersuchungen. Untersuchungen zur Phänomenologie und Theorie der ..., 1901">
+          <monogr>
+            <title level="m">Logische Untersuchungen. Untersuchungen zur Phänomenologie und Theorie der Erkenntnis</title>
+            <extent>2</extent>
+            <author>
+              <forename>Edmund</forename>
+              <surname>Husserl</surname>
+            </author>
+            <imprint>
+              <pubPlace>Halle a. S.</pubPlace>
+              <biblScope unit="volume">2</biblScope>
+              <publisher>Max Niemeyer</publisher>
+              <date>1901</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__F5JBQ6L7" corresp="http://zotero.org/groups/5701116/items/F5JBQ6L7" n="Husserl, Logische Untersuchungen. Prolegomena zur reinen Logik, 1900">
+          <monogr>
+            <title level="m">Logische Untersuchungen. Prolegomena zur reinen Logik</title>
+            <extent>2</extent>
+            <author>
+              <forename>Edmund</forename>
+              <surname>Husserl</surname>
+            </author>
+            <imprint>
+              <pubPlace>Halle a. S.</pubPlace>
+              <biblScope unit="volume">1</biblScope>
+              <publisher>Max Niemeyer</publisher>
+              <date>1900</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__TSK27PS5" corresp="http://zotero.org/groups/5701116/items/TSK27PS5" n="Lipps, Ästhetik: Psychologie des Schönen und der Kunst. 2, Die ästhetische Betrach..., 1906">
+          <monogr>
+            <title level="m">Ästhetik: Psychologie des Schönen und der Kunst. 2, Die ästhetische Betrachtung und die bildende Kunst</title>
+            <extent>2</extent>
+            <author>
+              <forename>Theodor</forename>
+              <surname>Lipps</surname>
+            </author>
+            <imprint>
+              <pubPlace>Hamburg/Leipzig</pubPlace>
+              <biblScope unit="volume">2</biblScope>
+              <publisher>Voss</publisher>
+              <date>1906</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Ästhetik: Psychologie des Schönen und der Kunst</title>
+          </series>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__V8WJ333S" corresp="http://zotero.org/groups/5701116/items/V8WJ333S" n="Lipps, Ästhetik: Psychologie des Schönen und der Kunst. 1, Grundlegung der Ästheti..., 1903">
+          <monogr>
+            <title level="m">Ästhetik: Psychologie des Schönen und der Kunst. 1, Grundlegung der Ästhetik</title>
+            <extent>2</extent>
+            <author>
+              <forename>Theodor</forename>
+              <surname>Lipps</surname>
+            </author>
+            <imprint>
+              <pubPlace>Hamburg/Leipzig</pubPlace>
+              <biblScope unit="volume">1</biblScope>
+              <publisher>Voss</publisher>
+              <date>1903</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Ästhetik: Psychologie des Schönen und der Kunst</title>
+          </series>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__PUR8V8RE" corresp="http://zotero.org/groups/5701116/items/PUR8V8RE" n="Hartmann, Ästhetik II: Philosophie des Schönen, 1887">
+          <monogr>
+            <title level="m">Ästhetik II: Philosophie des Schönen</title>
+            <extent>2</extent>
+            <author>
+              <forename>Eduard von</forename>
+              <surname>Hartmann</surname>
+            </author>
+            <imprint>
+              <pubPlace>Berlin</pubPlace>
+              <biblScope unit="volume">2</biblScope>
+              <publisher>Carl Duncker</publisher>
+              <date>1887</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Ästhetik</title>
+          </series>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__R55UAK29" corresp="http://zotero.org/groups/5701116/items/R55UAK29" n="Hartmann, Ästhetik I: Die deutsche Ästhetik seit Kant, 1886">
+          <monogr>
+            <title level="m">Ästhetik I: Die deutsche Ästhetik seit Kant</title>
+            <extent>2</extent>
+            <author>
+              <forename>Eduard von</forename>
+              <surname>Hartmann</surname>
+            </author>
+            <imprint>
+              <pubPlace>Berlin</pubPlace>
+              <biblScope unit="volume">1</biblScope>
+              <publisher>Carl Duncker</publisher>
+              <date>1886</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Ästhetik</title>
+          </series>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__3B2MBUZD" corresp="http://zotero.org/groups/5701116/items/3B2MBUZD" n="Lask, Die Logik der Philosophie und die Kategorienlehre: Eine Studie über den Her..., 1911">
+          <monogr>
+            <title level="m">Die Logik der Philosophie und die Kategorienlehre: Eine Studie über den Herrschaftsbereich der logischen Form</title>
+            <author>
+              <forename>Emil</forename>
+              <surname>Lask</surname>
+            </author>
+            <imprint>
+              <pubPlace>Tübingen</pubPlace>
+              <publisher>J. C. B. Mohr (Paul Siebeck)</publisher>
+              <date>1911</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__J5CHQHKT" corresp="http://zotero.org/groups/5701116/items/J5CHQHKT" n="Lask, Die Lehre vom Urteil, 1912">
+          <monogr>
+            <title level="m">Die Lehre vom Urteil</title>
+            <author>
+              <forename>Emil</forename>
+              <surname>Lask</surname>
+            </author>
+            <imprint>
+              <pubPlace>Tübingen</pubPlace>
+              <publisher>J. C. B. Mohr (Paul Siebeck)</publisher>
+              <date>1912</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__AQQ65NKK" corresp="http://zotero.org/groups/5701116/items/AQQ65NKK" n="Windelband, Logik, 1912">
+          <monogr>
+            <title level="m">Logik</title>
+            <author>
+              <forename>Wilhelm</forename>
+              <surname>Windelband</surname>
+            </author>
+            <imprint>
+              <pubPlace>Tübingen</pubPlace>
+              <biblScope unit="volume">1.1</biblScope>
+              <publisher>J. C. B. Mohr (Paul Siebeck)</publisher>
+              <date>1912</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Encyclopädie der philosophischen Wissenschaften</title>
+          </series>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__Z8CSVVII" corresp="http://zotero.org/groups/5701116/items/Z8CSVVII" n="Windelband, Die Prinzipien der Logik, 1913">
+          <monogr>
+            <title level="m">Die Prinzipien der Logik</title>
+            <author>
+              <forename>Wilhelm</forename>
+              <surname>Windelband</surname>
+            </author>
+            <imprint>
+              <pubPlace>Tübingen</pubPlace>
+              <biblScope unit="volume">1.2</biblScope>
+              <publisher>J. C. B. Mohr (Paul Siebeck)</publisher>
+              <date>1913</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Encyclopädie der philosophischen Wissenschaften</title>
+          </series>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__GMIZVN9D" corresp="http://zotero.org/groups/5701116/items/GMIZVN9D" n="Lotze, Logik: drei Bücher vom Denken, vom Untersuchen und vom Erkennen, 1874">
+          <monogr>
+            <title level="m">Logik: drei Bücher vom Denken, vom Untersuchen und vom Erkennen</title>
+            <extent>2 (3)</extent>
+            <author>
+              <forename>Hermann</forename>
+              <surname>Lotze</surname>
+            </author>
+            <imprint>
+              <pubPlace>Leipzig</pubPlace>
+              <biblScope unit="volume">1</biblScope>
+              <publisher>S. Hirzel</publisher>
+              <date>1874</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">System der Philosophie</title>
+          </series>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__XEX6EW9N" corresp="http://zotero.org/groups/5701116/items/XEX6EW9N" n="Lotze, Logik, 1843">
+          <monogr>
+            <title level="m">Logik</title>
+            <author>
+              <forename>Hermann</forename>
+              <surname>Lotze</surname>
+            </author>
+            <imprint>
+              <pubPlace>Leipzig</pubPlace>
+              <publisher>Weidmann</publisher>
+              <date>1843</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__HHFKXNMK" corresp="http://zotero.org/groups/5701116/items/HHFKXNMK" n="Sigwart, Logik: 2 Die Methodenlehre, 1878">
+          <monogr>
+            <title level="m">Logik: 2 Die Methodenlehre</title>
+            <extent>2</extent>
+            <author>
+              <forename>Christoph von</forename>
+              <surname>Sigwart</surname>
+            </author>
+            <imprint>
+              <pubPlace>Tübingen</pubPlace>
+              <biblScope unit="volume">2</biblScope>
+              <publisher>Laupp</publisher>
+              <date>1878</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__KZ9JR8HM" corresp="http://zotero.org/groups/5701116/items/KZ9JR8HM" n="Sigwart, Logik: 1 Die Lehre vom Urtheil, vom Begriff und vom Schluss, 1873">
+          <monogr>
+            <title level="m">Logik: 1 Die Lehre vom Urtheil, vom Begriff und vom Schluss</title>
+            <extent>2</extent>
+            <author>
+              <forename>Christoph von</forename>
+              <surname>Sigwart</surname>
+            </author>
+            <imprint>
+              <pubPlace>Tübingen</pubPlace>
+              <biblScope unit="volume">1</biblScope>
+              <publisher>Laupp</publisher>
+              <date>1873</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="document" xml:id="tillich__MTSZH5QC" corresp="http://zotero.org/groups/5701116/items/MTSZH5QC" n="Tillich, Handschriftliches Itinerar zum Ersten Weltkrieg, None">
           <monogr>
             <title level="m">Handschriftliches Itinerar zum Ersten Weltkrieg</title>
@@ -4438,24 +4757,6 @@ Zur Topographie der „geistigen Geselligkeit“ eines „Weltdorfes“: 1850–
             <title level="s">Gesammelte Werke. Nachlass- und Ergänzungsbände</title>
           </series>
         </biblStruct>
-        <biblStruct type="bookSection" xml:id="tillich__8TCXNFE2" corresp="http://zotero.org/groups/5701116/items/8TCXNFE2" n="Rickert, Das Urteil und sein Gegenstand, 1915">
-          <analytic>
-            <title level="a">Das Urteil und sein Gegenstand</title>
-            <author>
-              <forename>Heinrich</forename>
-              <surname>Rickert</surname>
-            </author>
-          </analytic>
-          <monogr>
-            <title level="m">Der Gegenstand der Erkenntnis. Einführung in die Transzendentalphilosophie</title>
-            <edition>3</edition>
-            <imprint>
-              <pubPlace>Tübingen</pubPlace>
-              <publisher>Verlag von J.C.B. Mohr (Paul Siebeck)</publisher>
-              <date>1915</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
         <biblStruct type="book" xml:id="tillich__PDM3XRGS" corresp="http://zotero.org/groups/5701116/items/PDM3XRGS" n="Tillich, Berliner Vorlesungen II (1920–1924). Hg. und mit einer historischen Einleit..., 2003">
           <monogr>
             <title level="m">Berliner Vorlesungen II (1920–1924). Hg. und mit einer historischen Einleitung versehen von Erdmann Sturm</title>
@@ -4499,25 +4800,6 @@ Zur Topographie der „geistigen Geselligkeit“ eines „Weltdorfes“: 1850–
           <series>
             <title level="s">GW XIII</title>
           </series>
-        </biblStruct>
-        <biblStruct type="journalArticle" xml:id="tillich__DRTZ3BJW" corresp="http://zotero.org/groups/5701116/items/DRTZ3BJW" n="Husserl, Philosophie als strenge Wissenschaft, 1911">
-          <analytic>
-            <title level="a">Philosophie als strenge Wissenschaft</title>
-            <author>
-              <forename>Edmund</forename>
-              <surname>Husserl</surname>
-            </author>
-          </analytic>
-          <monogr>
-            <title level="j">Logos. Internationale Zeitschrift für Philosophie der Kultur</title>
-            <imprint>
-              <pubPlace>Tübingen</pubPlace>
-              <biblScope unit="volume">1 (1910/1911)</biblScope>
-              <biblScope unit="issue">3</biblScope>
-              <publisher>Verlag von J.C.B. Mohr (Paul Siebeck)</publisher>
-              <date>1911</date>
-            </imprint>
-          </monogr>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="tillich__DEB6ZCBS" corresp="http://zotero.org/groups/5701116/items/DEB6ZCBS" n="Hirsch, Rezension zu: Tillich, Prof. D. Dr. Paul: Religionsphilosophie. (Sonderdruc..., 1926">
           <analytic>
@@ -13006,20 +13288,6 @@ GESAMMELTEN WERKEN VON PAUL TILLICH, Bd. X)</title>
             <biblScope unit="volume">6</biblScope>
           </series>
         </biblStruct>
-        <biblStruct type="book" xml:id="tillich__VXCXSYGJ" corresp="http://zotero.org/groups/5701116/items/VXCXSYGJ" n="Husserl, Logische Untersuchungen. Elemente einer phänomenologischen Aufklärung der E..., 1901">
-          <monogr>
-            <title level="m">Logische Untersuchungen. Elemente einer phänomenologischen Aufklärung der Erkenntnis</title>
-            <author>
-              <forename>Edmund</forename>
-              <surname>Husserl</surname>
-            </author>
-            <imprint>
-              <pubPlace>Halle a.S.</pubPlace>
-              <biblScope unit="volume">2/2</biblScope>
-              <date>1901</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
         <biblStruct type="bookSection" xml:id="tillich__XYSIHYS3" corresp="http://zotero.org/groups/5701116/items/XYSIHYS3" n="Tillich, Das Religiöse als kritisches Prinzip. Die protestantische Verkündigung und ..., 1930">
           <analytic>
             <title level="a">Das Religiöse als kritisches Prinzip. Die protestantische Verkündigung und der Mensch der Gegenwart</title>
@@ -13073,34 +13341,6 @@ GESAMMELTEN WERKEN VON PAUL TILLICH, Bd. X)</title>
             <imprint>
               <pubPlace>Kiel</pubPlace>
               <date>1941</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="tillich__SHHJEQQ4" corresp="http://zotero.org/groups/5701116/items/SHHJEQQ4" n="Husserl, Logische Untersuchungen. Untersuchungen zur Phänomenologie und Theorie der ..., 1901">
-          <monogr>
-            <title level="m">Logische Untersuchungen. Untersuchungen zur Phänomenologie und Theorie der Erkenntnis</title>
-            <author>
-              <forename>Edmund</forename>
-              <surname>Husserl</surname>
-            </author>
-            <imprint>
-              <pubPlace>Halle a.S.</pubPlace>
-              <biblScope unit="volume">2/1</biblScope>
-              <date>1901</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="tillich__F5JBQ6L7" corresp="http://zotero.org/groups/5701116/items/F5JBQ6L7" n="Husserl, Logische Untersuchungen. Prolegomena zur reinen Logik, 1900">
-          <monogr>
-            <title level="m">Logische Untersuchungen. Prolegomena zur reinen Logik</title>
-            <author>
-              <forename>Edmund</forename>
-              <surname>Husserl</surname>
-            </author>
-            <imprint>
-              <pubPlace>Halle a.S.</pubPlace>
-              <biblScope unit="volume">1</biblScope>
-              <date>1900</date>
             </imprint>
           </monogr>
         </biblStruct>
