@@ -16,6 +16,22 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="webpage" xml:id="tillich__WUZ4K2UI" corresp="http://zotero.org/groups/5701116/items/WUZ4K2UI" n="Bundesarchiv, Frieden von Brest-Litowsk&#10;Ausgewählte Dokumente und Fotos des Bundesarchivs..., 2023">
+          <analytic>
+            <title level="a">Frieden von Brest-Litowsk
+Ausgewählte Dokumente und Fotos des Bundesarchivs zur Unterzeichnung des Friedensvertrags von Brest-Litowsk am 3. März 1918</title>
+            <author>
+              <name>Bundesarchiv</name>
+            </author>
+          </analytic>
+          <monogr>
+            <imprint>
+              <publisher>Das Bundesarchiv</publisher>
+              <date>2023</date>
+              <note type="url">https://weimar.bundesarchiv.de/WEIMAR/DE/Content/Virtuelle-Ausstellungen/Die-besiegte-Nation/2018-03-02_frieden-brest-litowsk.html</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="journalArticle" xml:id="tillich__DRTZ3BJW" corresp="http://zotero.org/groups/5701116/items/DRTZ3BJW" n="Husserl, Philosophie als strenge Wissenschaft, 1911">
           <analytic>
             <title level="a">Philosophie als strenge Wissenschaft</title>
