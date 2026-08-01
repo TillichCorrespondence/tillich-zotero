@@ -16,6 +16,35 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__66W6NJ6D" corresp="http://zotero.org/groups/5701116/items/66W6NJ6D" n="Kämper-van den Boogaart, Abitur und Abituraufsätze zwischen 1882 und 1972, 2023">
+          <monogr>
+            <title level="m">Abitur und Abituraufsätze zwischen 1882 und 1972</title>
+            <idno type="DOI">10.18452/28350</idno>
+            <idno type="ISBN">978-3-7815-2609-9</idno>
+            <author>
+              <forename>Michael</forename>
+              <surname>Kämper-van den Boogaart</surname>
+            </author>
+            <author>
+              <forename>Sabine</forename>
+              <surname>Reh</surname>
+            </author>
+            <author>
+              <forename>Christoph</forename>
+              <surname>Schindler</surname>
+            </author>
+            <author>
+              <forename>Joachim</forename>
+              <surname>Scholz</surname>
+            </author>
+            <imprint>
+              <publisher>Humboldt-Universität zu Berlin</publisher>
+              <date>2023</date>
+              <note type="accessed">2026-07-29T09:46:13Z</note>
+              <note type="url">https://edoc.hu-berlin.de/18452/28984</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="webpage" xml:id="tillich__WUZ4K2UI" corresp="http://zotero.org/groups/5701116/items/WUZ4K2UI" n="Bundesarchiv, Frieden von Brest-Litowsk&#10;Ausgewählte Dokumente und Fotos des Bundesarchivs..., 2023">
           <analytic>
             <title level="a">Frieden von Brest-Litowsk
