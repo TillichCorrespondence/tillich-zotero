@@ -16,6 +16,28 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__GMIZVN9D" corresp="http://zotero.org/groups/5701116/items/GMIZVN9D" n="Lotze, System der Philosophie. 1, Logik: Drei Bücher vom Denken, vom Untersuchen u..., 1912">
+          <monogr>
+            <title level="m">System der Philosophie. 1, Logik: Drei Bücher vom Denken, vom Untersuchen und vom Erkennen</title>
+            <author>
+              <forename>Hermann</forename>
+              <surname>Lotze</surname>
+            </author>
+            <editor>
+              <forename>Georg</forename>
+              <surname>Misch</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Leipzig</pubPlace>
+              <biblScope unit="volume">141</biblScope>
+              <publisher>Felix Meiner</publisher>
+              <date>1912</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Philosophische Bibliothek</title>
+          </series>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__H7KTEMR9" corresp="http://zotero.org/groups/5701116/items/H7KTEMR9" n="Simmel, Rembrandt: Ein kunstphilosophischer Versuch, 1916">
           <monogr>
             <title level="m">Rembrandt: Ein kunstphilosophischer Versuch</title>
@@ -343,25 +365,6 @@ Ausgewählte Dokumente und Fotos des Bundesarchivs zur Unterzeichnung des Friede
           </monogr>
           <series>
             <title level="s">Encyclopädie der philosophischen Wissenschaften</title>
-          </series>
-        </biblStruct>
-        <biblStruct type="book" xml:id="tillich__GMIZVN9D" corresp="http://zotero.org/groups/5701116/items/GMIZVN9D" n="Lotze, Logik: drei Bücher vom Denken, vom Untersuchen und vom Erkennen, 1874">
-          <monogr>
-            <title level="m">Logik: drei Bücher vom Denken, vom Untersuchen und vom Erkennen</title>
-            <extent>2 (3)</extent>
-            <author>
-              <forename>Hermann</forename>
-              <surname>Lotze</surname>
-            </author>
-            <imprint>
-              <pubPlace>Leipzig</pubPlace>
-              <biblScope unit="volume">1</biblScope>
-              <publisher>S. Hirzel</publisher>
-              <date>1874</date>
-            </imprint>
-          </monogr>
-          <series>
-            <title level="s">System der Philosophie</title>
           </series>
         </biblStruct>
         <biblStruct type="book" xml:id="tillich__XEX6EW9N" corresp="http://zotero.org/groups/5701116/items/XEX6EW9N" n="Lotze, Logik, 1843">
