@@ -16,6 +16,24 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="bookSection" xml:id="tillich__PTKBMB7C" corresp="http://zotero.org/groups/5701116/items/PTKBMB7C" n="Wundt, Psychologismus und Logizismus, 1910">
+          <analytic>
+            <title level="a">Psychologismus und Logizismus</title>
+            <author>
+              <forename>Wilhelm</forename>
+              <surname>Wundt</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Kleine Schriften, Bd. 1</title>
+            <imprint>
+              <pubPlace>Leipzig</pubPlace>
+              <biblScope unit="page">511–634</biblScope>
+              <publisher>Engelmann</publisher>
+              <date>1910</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__4K2WI428" corresp="http://zotero.org/groups/5701116/items/4K2WI428" n="Husserl, Logische Untersuchungen. Untersuchungen zur Phänomenologie und Theorie der ..., 1913">
           <monogr>
             <title level="m">Logische Untersuchungen. Untersuchungen zur Phänomenologie und Theorie der Erkenntnis</title>
