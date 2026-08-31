@@ -16,6 +16,27 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__7UNW49KA" corresp="http://zotero.org/groups/5701116/items/7UNW49KA" n="Brandenburgischer Provinzialsynodalverband (Hg.), Evangelisches Pfarrerbuch für die Mark Brandenburg. 2. Band, 2. Teil, 1941">
+          <monogr>
+            <title level="m">Evangelisches Pfarrerbuch für die Mark Brandenburg. 2. Band, 2. Teil</title>
+            <editor>
+              <name>Brandenburgischer Provinzialsynodalverband</name>
+            </editor>
+            <editor>
+              <forename>Otto</forename>
+              <surname>Fischer</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Berlin</pubPlace>
+              <biblScope unit="volume">2.2</biblScope>
+              <publisher>E. S. Mittler &amp; Sohn</publisher>
+              <date>1941</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Evangelisches Pfarrerbuch für die Mark Brandenburg</title>
+          </series>
+        </biblStruct>
         <biblStruct type="bookSection" xml:id="tillich__PTKBMB7C" corresp="http://zotero.org/groups/5701116/items/PTKBMB7C" n="Wundt, Psychologismus und Logizismus, 1910">
           <analytic>
             <title level="a">Psychologismus und Logizismus</title>
