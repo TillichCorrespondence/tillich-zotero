@@ -16,6 +16,40 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__8TCXNFE2" corresp="http://zotero.org/groups/5701116/items/8TCXNFE2" n="Rickert, Der Gegenstand der Erkenntnis. Einführung in die Transzendentalphilosophie, 1904">
+          <monogr>
+            <title level="m">Der Gegenstand der Erkenntnis. Einführung in die Transzendentalphilosophie</title>
+            <author>
+              <forename>Heinrich</forename>
+              <surname>Rickert</surname>
+            </author>
+            <edition>2. verbesserte und erweiterte Auflage</edition>
+            <imprint>
+              <pubPlace>Freiburg im Breisgau</pubPlace>
+              <publisher>Verlag von J.C.B. Mohr (Paul Siebeck)</publisher>
+              <date>1904</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__J9T4DSKJ" corresp="http://zotero.org/groups/5701116/items/J9T4DSKJ" n="Husserl, Briefwechsel, Teil 6: Philosophenbriefe, 1994">
+          <monogr>
+            <title level="m">Briefwechsel, Teil 6: Philosophenbriefe</title>
+            <extent>10</extent>
+            <author>
+              <forename>Edmund</forename>
+              <surname>Husserl</surname>
+            </author>
+            <imprint>
+              <pubPlace>Dodrecht, Boston, London</pubPlace>
+              <biblScope unit="volume">6</biblScope>
+              <publisher>Klewer Academic Publishers</publisher>
+              <date>1994</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Husserliana, Dokumente, Band III</title>
+          </series>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__7UNW49KA" corresp="http://zotero.org/groups/5701116/items/7UNW49KA" n="Brandenburgischer Provinzialsynodalverband (Hg.), Evangelisches Pfarrerbuch für die Mark Brandenburg. 2. Band, 2. Teil, 1941">
           <monogr>
             <title level="m">Evangelisches Pfarrerbuch für die Mark Brandenburg. 2. Band, 2. Teil</title>
@@ -291,21 +325,6 @@ Ausgewählte Dokumente und Fotos des Bundesarchivs zur Unterzeichnung des Friede
               <pubPlace>Freiburg i. B.</pubPlace>
               <publisher>Verlag von J.C.B. Mohr (Paul Siebeck)</publisher>
               <date>1892</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="tillich__8TCXNFE2" corresp="http://zotero.org/groups/5701116/items/8TCXNFE2" n="Rickert, Der Gegenstand der Erkenntnis. Einführung in die Transzendentalphilosophie, 1915">
-          <monogr>
-            <title level="m">Der Gegenstand der Erkenntnis. Einführung in die Transzendentalphilosophie</title>
-            <author>
-              <forename>Heinrich</forename>
-              <surname>Rickert</surname>
-            </author>
-            <edition>3. völlig umgearb. u. erw. Auflage</edition>
-            <imprint>
-              <pubPlace>Tübingen</pubPlace>
-              <publisher>Verlag von J.C.B. Mohr (Paul Siebeck)</publisher>
-              <date>1915</date>
             </imprint>
           </monogr>
         </biblStruct>
