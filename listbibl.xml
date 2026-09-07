@@ -16,6 +16,34 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__GBVRLWQM" corresp="http://zotero.org/groups/5701116/items/GBVRLWQM" n="Tillich, Ein Lebensbild in Dokumenten: Briefe, Tagebuch-Auszüge, Berichte, 1980">
+          <monogr>
+            <title level="m">Ein Lebensbild in Dokumenten: Briefe, Tagebuch-Auszüge, Berichte</title>
+            <idno type="DOI">https://doi.org/10.1515/9783110832914</idno>
+            <idno type="ISBN">978-3-11-083291-4</idno>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+            <editor>
+              <forename>Renate</forename>
+              <surname>Albrecht</surname>
+            </editor>
+            <editor>
+              <forename>Margot</forename>
+              <surname>Hahl</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Stuttgart</pubPlace>
+              <biblScope unit="volume">V</biblScope>
+              <publisher>Evangelisches Verlagswerk</publisher>
+              <date>1980</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Gesammelte Werke, Ergänzungs- und Nachlassbände</title>
+          </series>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__8TCXNFE2" corresp="http://zotero.org/groups/5701116/items/8TCXNFE2" n="Rickert, Der Gegenstand der Erkenntnis. Einführung in die Transzendentalphilosophie, 1904">
           <monogr>
             <title level="m">Der Gegenstand der Erkenntnis. Einführung in die Transzendentalphilosophie</title>
@@ -607,35 +635,6 @@ Ausgewählte Dokumente und Fotos des Bundesarchivs zur Unterzeichnung des Friede
               <date>1934</date>
             </imprint>
           </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="tillich__JL2KDCIX" corresp="http://zotero.org/groups/5701116/items/JL2KDCIX" n="Tillich, Ein Lebensbild in Dokumenten: Briefe, Tagebuch-Auszüge, Berichte, 1980">
-          <monogr>
-            <title level="m">Ein Lebensbild in Dokumenten: Briefe, Tagebuch-Auszüge, Berichte</title>
-            <title type="short">EW V</title>
-            <idno type="ISBN">978-3-11-083291-4</idno>
-            <editor>
-              <forename>Renate</forename>
-              <surname>Albrecht</surname>
-            </editor>
-            <editor>
-              <forename>Margot</forename>
-              <surname>Hahl</surname>
-            </editor>
-            <author>
-              <forename>Paul</forename>
-              <surname>Tillich</surname>
-            </author>
-            <imprint>
-              <pubPlace>Stuttgart</pubPlace>
-              <biblScope unit="volume">V</biblScope>
-              <publisher>Evangelisches Verlagswerk</publisher>
-              <date>1980</date>
-              <note type="url">https://doi.org/10.1515/9783110832914</note>
-            </imprint>
-          </monogr>
-          <series>
-            <title level="s">Gesammelte Werke, Ergänzungs- und Nachlassbände</title>
-          </series>
         </biblStruct>
         <biblStruct type="book" xml:id="tillich__3ABLQTAX" corresp="http://zotero.org/groups/5701116/items/3ABLQTAX" n="Ibsen, Brand. Ein dramatisches Gedicht. Uebersetzt von L. Passarge., 1881">
           <monogr>
@@ -13857,30 +13856,6 @@ GESAMMELTEN WERKEN VON PAUL TILLICH, Bd. X)</title>
               <date>2016</date>
             </imprint>
           </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="tillich__GBVRLWQM" corresp="http://zotero.org/groups/5701116/items/GBVRLWQM" n="Tillich, Ein Lebensbild in Dokumenten: Briefe, Tagebuch-Auszüge, Berichte, 1980">
-          <monogr>
-            <title level="m">Ein Lebensbild in Dokumenten: Briefe, Tagebuch-Auszüge, Berichte</title>
-            <author>
-              <forename>Paul</forename>
-              <surname>Tillich</surname>
-            </author>
-            <editor>
-              <forename>Renate</forename>
-              <surname>Albrecht</surname>
-            </editor>
-            <editor>
-              <forename>Margot</forename>
-              <surname>Hahl</surname>
-            </editor>
-            <imprint>
-              <pubPlace>Stuttgart</pubPlace>
-              <date>1980</date>
-            </imprint>
-          </monogr>
-          <series>
-            <title level="s">EW V</title>
-          </series>
         </biblStruct>
         <biblStruct type="book" xml:id="tillich__YSLPTMNR" corresp="http://zotero.org/groups/5701116/items/YSLPTMNR" n="Seeberg, Die Kirche Deutschlands im neunzehnten Jahrhundert. Eine Einführung in die ..., 1903">
           <monogr>
