@@ -16,6 +16,27 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__VCEFIT5D" corresp="http://zotero.org/groups/5701116/items/VCEFIT5D" n="Brandenburgischer Provinzialsynodalverband (Hg.), Evangelisches Pfarrerbuch für die Mark Brandenburg. 2. Band, 1. Teil, 1941">
+          <monogr>
+            <title level="m">Evangelisches Pfarrerbuch für die Mark Brandenburg. 2. Band, 1. Teil</title>
+            <editor>
+              <name>Brandenburgischer Provinzialsynodalverband</name>
+            </editor>
+            <editor>
+              <forename>Otto</forename>
+              <surname>Fischer</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Berlin</pubPlace>
+              <biblScope unit="volume">2.1</biblScope>
+              <publisher>E. S. Mittler &amp; Sohn</publisher>
+              <date>1941</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Evangelisches Pfarrerbuch für die Mark Brandenburg</title>
+          </series>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__GBVRLWQM" corresp="http://zotero.org/groups/5701116/items/GBVRLWQM" n="Tillich, Ein Lebensbild in Dokumenten: Briefe, Tagebuch-Auszüge, Berichte, 1980">
           <monogr>
             <title level="m">Ein Lebensbild in Dokumenten: Briefe, Tagebuch-Auszüge, Berichte</title>
