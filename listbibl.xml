@@ -16,6 +16,24 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__7AZKI4QI" corresp="http://zotero.org/groups/5701116/items/7AZKI4QI" n="Schafft, Hermann Schafft: Ein Lebenswerk, 1960">
+          <monogr>
+            <title level="m">Hermann Schafft: Ein Lebenswerk</title>
+            <author>
+              <forename>Herrmann</forename>
+              <surname>Schafft</surname>
+            </author>
+            <author>
+              <forename>Werner</forename>
+              <surname>Kindt</surname>
+            </author>
+            <imprint>
+              <pubPlace>Kassel</pubPlace>
+              <publisher>Johannes Stauda-Verlag</publisher>
+              <date>1960</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__VCEFIT5D" corresp="http://zotero.org/groups/5701116/items/VCEFIT5D" n="Brandenburgischer Provinzialsynodalverband (Hg.), Evangelisches Pfarrerbuch für die Mark Brandenburg. 2. Band, 1. Teil, 1941">
           <monogr>
             <title level="m">Evangelisches Pfarrerbuch für die Mark Brandenburg. 2. Band, 1. Teil</title>
@@ -10319,24 +10337,6 @@ GESAMMELTEN WERKEN VON PAUL TILLICH, Bd. X)</title>
             <title level="s">EW</title>
             <biblScope unit="volume">XVII</biblScope>
           </series>
-        </biblStruct>
-        <biblStruct type="book" xml:id="tillich__7AZKI4QI" corresp="http://zotero.org/groups/5701116/items/7AZKI4QI" n="Schafft, Hermann Schafft: Ein Lebenswerk, None">
-          <monogr>
-            <title level="m">Hermann Schafft: Ein Lebenswerk</title>
-            <author>
-              <forename>Herrmann</forename>
-              <surname>Schafft</surname>
-            </author>
-            <author>
-              <forename>Werner</forename>
-              <surname>Kindt</surname>
-            </author>
-            <imprint>
-              <pubPlace>Kassel</pubPlace>
-              <publisher>Johannes Stauda-Verlag</publisher>
-              <date/>
-            </imprint>
-          </monogr>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="tillich__P4CV646K" corresp="http://zotero.org/groups/5701116/items/P4CV646K" n="Tillich, The Religious Situation in Germany To-day, 1934">
           <analytic>
