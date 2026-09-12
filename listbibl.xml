@@ -16,6 +16,60 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__7MWF2T9W" corresp="http://zotero.org/groups/5701116/items/7MWF2T9W" n="Meyer, Gedichte, 1906">
+          <monogr>
+            <title level="m">Gedichte</title>
+            <author>
+              <forename>Conrad Ferdinand</forename>
+              <surname>Meyer</surname>
+            </author>
+            <edition>33</edition>
+            <imprint>
+              <pubPlace>Leipzig</pubPlace>
+              <publisher>H. Haessel</publisher>
+              <date>1906</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__L6J5T9DF" corresp="http://zotero.org/groups/5701116/items/L6J5T9DF" n="o.A., Adreß- und Geschäfts-Handbuch für Stettin für 1907, 1907">
+          <monogr>
+            <title level="m">Adreß- und Geschäfts-Handbuch für Stettin für 1907</title>
+            <imprint>
+              <pubPlace>Stettin</pubPlace>
+              <biblScope unit="volume">Einundfünfzigster Jahrgang</biblScope>
+              <publisher>Verlag von Paul Niekammer</publisher>
+              <date>1907</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__6TRH6A73" corresp="http://zotero.org/groups/5701116/items/6TRH6A73" n="Sydow, Der Gedanke des Ideal-Reichs in der idealistischen Philosophie von Kant bis..., 1914">
+          <monogr>
+            <title level="m">Der Gedanke des Ideal-Reichs in der idealistischen Philosophie von Kant bis Hegel im Zusammenhange der geschichtsphilosophischen Entwicklung</title>
+            <author>
+              <forename>Eckart von</forename>
+              <surname>Sydow</surname>
+            </author>
+            <imprint>
+              <pubPlace>Leipzig</pubPlace>
+              <publisher>F. Meiner</publisher>
+              <date>1914</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__U5FS7TMF" corresp="http://zotero.org/groups/5701116/items/U5FS7TMF" n="Stammler, Wirtschaft und Recht nach der materialistischen Geschichtsauffassung. Eine ..., 1896">
+          <monogr>
+            <title level="m">Wirtschaft und Recht nach der materialistischen Geschichtsauffassung. Eine sozialphilosophische Untersuchung</title>
+            <author>
+              <forename>Rudolf</forename>
+              <surname>Stammler</surname>
+            </author>
+            <imprint>
+              <pubPlace>Leipzig</pubPlace>
+              <publisher>Veit</publisher>
+              <date>1896</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__M79367QH" corresp="http://zotero.org/groups/5701116/items/M79367QH" n="Homer, Odyssee. Erster bis zwölfter Gesang, 1914">
           <monogr>
             <title level="m">Odyssee. Erster bis zwölfter Gesang</title>
@@ -361,6 +415,32 @@
             <title level="s">Evangelisches Pfarrerbuch für die Mark Brandenburg</title>
           </series>
         </biblStruct>
+        <biblStruct type="book" xml:id="tillich__9UXF7BDY" corresp="http://zotero.org/groups/5701116/items/9UXF7BDY" n="Tillich, Frühe Predigten (1909–1918), 1993">
+          <monogr>
+            <title level="m">Frühe Predigten (1909–1918)</title>
+            <title type="short">EW VII</title>
+            <idno type="ISBN">978-3-11-088816-4</idno>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+            <editor>
+              <forename>Erdmann</forename>
+              <surname>Sturm</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Berlin, Boston</pubPlace>
+              <biblScope unit="volume">7</biblScope>
+              <publisher>De Gruyter</publisher>
+              <date>1993</date>
+              <note type="accessed">2025-10-20</note>
+              <note type="url">doi.org/10.1515/9783110888164</note>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Gesammelte Werke. Nachlass- und Ergänzungsbände</title>
+          </series>
+        </biblStruct>
         <biblStruct type="bookSection" xml:id="tillich__PTKBMB7C" corresp="http://zotero.org/groups/5701116/items/PTKBMB7C" n="Wundt, Psychologismus und Logizismus, 1910">
           <analytic>
             <title level="a">Psychologismus und Logizismus</title>
@@ -410,32 +490,6 @@
               <date>1913</date>
             </imprint>
           </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="tillich__9UXF7BDY" corresp="http://zotero.org/groups/5701116/items/9UXF7BDY" n="Tillich, Frühe Predigten (1909–1918), 1994">
-          <monogr>
-            <title level="m">Frühe Predigten (1909–1918)</title>
-            <title type="short">EW VII</title>
-            <idno type="ISBN">978-3-11-088816-4</idno>
-            <author>
-              <forename>Paul</forename>
-              <surname>Tillich</surname>
-            </author>
-            <editor>
-              <forename>Erdmann</forename>
-              <surname>Sturm</surname>
-            </editor>
-            <imprint>
-              <pubPlace>Berlin, Boston</pubPlace>
-              <biblScope unit="volume">7</biblScope>
-              <publisher>De Gruyter</publisher>
-              <date>1994</date>
-              <note type="accessed">2025-10-20</note>
-              <note type="url">doi.org/10.1515/9783110888164</note>
-            </imprint>
-          </monogr>
-          <series>
-            <title level="s">Gesammelte Werke. Nachlass- und Ergänzungsbände</title>
-          </series>
         </biblStruct>
         <biblStruct type="book" xml:id="tillich__FBGWHJVD" corresp="http://zotero.org/groups/5701116/items/FBGWHJVD" n="Mill, System der deduktiven und induktiven Logik, 1877">
           <monogr>
@@ -9669,20 +9723,6 @@ Gegenwart (Festschrift für Franz Oppenheimer zu seinem 60. Geburtstag)</title>
             </imprint>
           </monogr>
         </biblStruct>
-        <biblStruct type="book" xml:id="tillich__6TRH6A73" corresp="http://zotero.org/groups/5701116/items/6TRH6A73" n="Sydow, Der Gedanke des Ideal-Reichs in der idealistischen Philosophie von Kant bis..., 1914">
-          <monogr>
-            <title level="m">Der Gedanke des Ideal-Reichs in der idealistischen Philosophie von Kant bis Hegel im Zusammenhange der geschichtsphilosphischen Entwicklung</title>
-            <author>
-              <forename>Eckart von</forename>
-              <surname>Sydow</surname>
-            </author>
-            <imprint>
-              <pubPlace>Leipzig</pubPlace>
-              <publisher>F. Meiner</publisher>
-              <date>1914</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
         <biblStruct type="bookSection" xml:id="tillich__XE5RGI9I" corresp="http://zotero.org/groups/5701116/items/XE5RGI9I" n="Rosenstock Huessy, Protestantismus und Seelenführung, 1929">
           <analytic>
             <title level="a">Protestantismus und Seelenführung</title>
@@ -11040,20 +11080,6 @@ GESAMMELTEN WERKEN VON PAUL TILLICH, Bd. X)</title>
           <series>
             <title level="s">Ergänzungs- und Nachlassbände zu den Gesammelten Werken von Paul Tillich</title>
           </series>
-        </biblStruct>
-        <biblStruct type="book" xml:id="tillich__U5FS7TMF" corresp="http://zotero.org/groups/5701116/items/U5FS7TMF" n="Stammler, Wirtschaft und Recht nach der materialistischen Geschichtsauffassung. Eine ..., 1896">
-          <monogr>
-            <title level="m">Wirtschaft und Recht nach der materialistischen Geschichtsauffassung. Eine sozialphilosophische Untersuchung</title>
-            <author>
-              <forename>Rudolph</forename>
-              <surname>Stammler</surname>
-            </author>
-            <imprint>
-              <pubPlace>Leipzig</pubPlace>
-              <publisher>Veit</publisher>
-              <date>1896</date>
-            </imprint>
-          </monogr>
         </biblStruct>
         <biblStruct type="book" xml:id="tillich__YCT86RMW" corresp="http://zotero.org/groups/5701116/items/YCT86RMW" n="Spinoza, Die Ethik des Spinoza im Urtexte, 1875">
           <monogr>
