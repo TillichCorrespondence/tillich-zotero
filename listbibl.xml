@@ -16,6 +16,37 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__2VJUPFH8" corresp="http://zotero.org/groups/5701116/items/2VJUPFH8" n="Tillich, Band 12: Begegnungen, 1971">
+          <monogr>
+            <title level="m">Band 12: Begegnungen</title>
+            <idno type="DOI">doi:10.1515/9783110814071</idno>
+            <idno type="ISBN">978-3-11-081407-1</idno>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+            <imprint>
+              <pubPlace>Berlin, New York</pubPlace>
+              <publisher>De Gruyter</publisher>
+              <date>1971</date>
+              <note type="accessed">2026-09-17</note>
+              <note type="url">https://doi.org/10.1515/9783110814071</note>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Gesammelte Werke</title>
+          </series>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__CVW9STMX" corresp="http://zotero.org/groups/5701116/items/CVW9STMX" n="o.A., Möckel's Adreß- und Auskunftsbücher. Königsberg, N.-M. Provinz Brandenburg...., 1897">
+          <monogr>
+            <title level="m">Möckel's Adreß- und Auskunftsbücher. Königsberg, N.-M. Provinz Brandenburg. Bearbeitet auf Grund amtlicher Unterlagen.</title>
+            <imprint>
+              <pubPlace>Leipzig</pubPlace>
+              <publisher>Emil Reiß, Welt-Adressen-Verlag</publisher>
+              <date>1897</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__7MWF2T9W" corresp="http://zotero.org/groups/5701116/items/7MWF2T9W" n="Meyer, Gedichte, 1906">
           <monogr>
             <title level="m">Gedichte</title>
