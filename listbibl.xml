@@ -16,6 +16,20 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__3GUK39J3" corresp="http://zotero.org/groups/5701116/items/3GUK39J3" n="Oesau, 300 Jahre Buchdrucker in Glückstadt: Festschrift, 1932">
+          <monogr>
+            <title level="m">300 Jahre Buchdrucker in Glückstadt: Festschrift</title>
+            <author>
+              <forename>Wanda</forename>
+              <surname>Oesau</surname>
+            </author>
+            <imprint>
+              <pubPlace>Glückstadt</pubPlace>
+              <publisher>J. J. Augustin</publisher>
+              <date>1932</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="journalArticle" xml:id="tillich__DKX343HW" corresp="http://zotero.org/groups/5701116/items/DKX343HW" n="o.A., o.T., None">
           <analytic>
             <title level="a"/>
@@ -9334,20 +9348,6 @@ Gegenwart (Festschrift für Franz Oppenheimer zu seinem 60. Geburtstag)</title>
               <biblScope unit="volume">1</biblScope>
               <publisher>Bruno Cassirer Verlag</publisher>
               <date>1923</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="tillich__3GUK39J3" corresp="http://zotero.org/groups/5701116/items/3GUK39J3" n="Oesau, 300 Jahre Buchdrucker in Glückstand: Festschrift, 1932">
-          <monogr>
-            <title level="m">300 Jahre Buchdrucker in Glückstand: Festschrift</title>
-            <author>
-              <forename>Wanda</forename>
-              <surname>Oesau</surname>
-            </author>
-            <imprint>
-              <pubPlace>Glückstadt</pubPlace>
-              <publisher>J. J. Augustin</publisher>
-              <date>1932</date>
             </imprint>
           </monogr>
         </biblStruct>
