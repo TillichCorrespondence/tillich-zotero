@@ -16,6 +16,80 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__SUDM8XG3" corresp="http://zotero.org/groups/5701116/items/SUDM8XG3" n="Tillich, Der Begriff des Übernatürlichen, sein dialektischer Charakter und das Princ..., 1915">
+          <monogr>
+            <title level="m">Der Begriff des Übernatürlichen, sein dialektischer Charakter und das Princip der Identität, dargestellt an der supranaturalistischen Theologie vor Schleiermacher</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+            <imprint>
+              <pubPlace>Königsberg</pubPlace>
+              <publisher>Druck von H. Madrasch</publisher>
+              <date>1915</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__JAT8DHHU" corresp="http://zotero.org/groups/5701116/items/JAT8DHHU" n="Mann, Die Geschichten Jaakobs, 1933">
+          <monogr>
+            <title level="m">Die Geschichten Jaakobs</title>
+            <extent>4</extent>
+            <author>
+              <forename>Thomas</forename>
+              <surname>Mann</surname>
+            </author>
+            <imprint>
+              <pubPlace>Berlin</pubPlace>
+              <biblScope unit="volume">1</biblScope>
+              <publisher>S. Fischer</publisher>
+              <date>1933</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__9FRCE4W6" corresp="http://zotero.org/groups/5701116/items/9FRCE4W6" n="Mann, Der junge Joseph, 1934">
+          <monogr>
+            <title level="m">Der junge Joseph</title>
+            <extent>4</extent>
+            <author>
+              <forename>Thomas</forename>
+              <surname>Mann</surname>
+            </author>
+            <imprint>
+              <pubPlace>Berlin</pubPlace>
+              <biblScope unit="volume">2</biblScope>
+              <publisher>Fischer</publisher>
+              <date>1934</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__8S4CSI2W" corresp="http://zotero.org/groups/5701116/items/8S4CSI2W" n="o.A., Joseph in Ägypten, 1936">
+          <monogr>
+            <title level="m">Joseph in Ägypten</title>
+            <extent>4</extent>
+            <imprint>
+              <pubPlace>Wien</pubPlace>
+              <biblScope unit="volume">3</biblScope>
+              <publisher>Bermann-Fischer Verlag</publisher>
+              <date>1936</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__DC83M7N7" corresp="http://zotero.org/groups/5701116/items/DC83M7N7" n="Mann, Joseph, der Ernährer, None">
+          <monogr>
+            <title level="m">Joseph, der Ernährer</title>
+            <extent>4</extent>
+            <author>
+              <forename>Thomas</forename>
+              <surname>Mann</surname>
+            </author>
+            <imprint>
+              <pubPlace>Wien</pubPlace>
+              <biblScope unit="volume">4</biblScope>
+              <publisher>Bermann-Fischer Verlag</publisher>
+              <date/>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__4CS7I922" corresp="http://zotero.org/groups/5701116/items/4CS7I922" n="Tillich, The Shaking of the Foundations, 1948">
           <monogr>
             <title level="m">The Shaking of the Foundations</title>
@@ -9351,20 +9425,6 @@ Gegenwart (Festschrift für Franz Oppenheimer zu seinem 60. Geburtstag)</title>
             </imprint>
           </monogr>
         </biblStruct>
-        <biblStruct type="book" xml:id="tillich__9FRCE4W6" corresp="http://zotero.org/groups/5701116/items/9FRCE4W6" n="Mann, Der junge Joseph, 1934">
-          <monogr>
-            <title level="m">Der junge Joseph</title>
-            <author>
-              <forename>Thomas</forename>
-              <surname>Mann</surname>
-            </author>
-            <imprint>
-              <pubPlace>Berlin</pubPlace>
-              <publisher>Fischer</publisher>
-              <date>1934</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
         <biblStruct type="film" xml:id="tillich__TG79N2SP" corresp="http://zotero.org/groups/5701116/items/TG79N2SP" n="o.A., The Little Minister, 1934">
           <monogr>
             <title level="m">The Little Minister</title>
@@ -14963,19 +15023,6 @@ GESAMMELTEN WERKEN VON PAUL TILLICH, Bd. X)</title>
             <imprint>
               <pubPlace>Königsberg</pubPlace>
               <date>1795</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="tillich__SUDM8XG3" corresp="http://zotero.org/groups/5701116/items/SUDM8XG3" n="Tillich, Der Begriff des übernatürlichen, sein dialektischer Charakter und das Prinz..., 1915">
-          <monogr>
-            <title level="m">Der Begriff des übernatürlichen, sein dialektischer Charakter und das Prinzip der Identität, dargestellt an der supranaturalistischen Theologie vor Schleiermacher</title>
-            <author>
-              <forename>Paul</forename>
-              <surname>Tillich</surname>
-            </author>
-            <imprint>
-              <pubPlace>Königsberg</pubPlace>
-              <date>1915</date>
             </imprint>
           </monogr>
         </biblStruct>
