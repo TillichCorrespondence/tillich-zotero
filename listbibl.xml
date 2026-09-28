@@ -16,6 +16,23 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="newspaperArticle" xml:id="tillich__ERJ565QT" corresp="http://zotero.org/groups/5701116/items/ERJ565QT" n="o.A., Ein französischer Schlachtbericht, 1914">
+          <analytic>
+            <title level="a">Ein französischer Schlachtbericht</title>
+          </analytic>
+          <monogr>
+            <title level="m">Vossische Zeitung. Berlinische Zeitung von Staats- und gelehrten Sachen</title>
+            <imprint>
+              <pubPlace>Berlin</pubPlace>
+              <biblScope unit="volume">1914</biblScope>
+              <biblScope unit="issue">571</biblScope>
+              <biblScope unit="page">2</biblScope>
+              <publisher>Ullstein &amp; Co</publisher>
+              <date>1914</date>
+              <note type="url">https://dfg-viewer.de/show/?set%5Bmets%5D=https://content.staatsbibliothek-berlin.de/zefys/SNP27112366-19141109-1-0-0-0.xml</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__SUDM8XG3" corresp="http://zotero.org/groups/5701116/items/SUDM8XG3" n="Tillich, Der Begriff des Übernatürlichen, sein dialektischer Charakter und das Princ..., 1915">
           <monogr>
             <title level="m">Der Begriff des Übernatürlichen, sein dialektischer Charakter und das Princip der Identität, dargestellt an der supranaturalistischen Theologie vor Schleiermacher</title>
