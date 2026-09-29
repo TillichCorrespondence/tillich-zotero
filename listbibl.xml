@@ -16,6 +16,93 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__F5BQYJ8F" corresp="http://zotero.org/groups/5701116/items/F5BQYJ8F" n="Steuernagel, Hebräische Grammatik mit Paradigmen, Literatur, Übungsstücken und Wortverze..., 1905">
+          <monogr>
+            <title level="m">Hebräische Grammatik mit Paradigmen, Literatur, Übungsstücken und Wortverzeichnis</title>
+            <author>
+              <forename>Carl</forename>
+              <surname>Steuernagel</surname>
+            </author>
+            <edition>2. überarbeitete Auflage</edition>
+            <imprint>
+              <pubPlace>Berlin</pubPlace>
+              <publisher>Reuther &amp; Reichard</publisher>
+              <date>1905</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__FCBFDKY8" corresp="http://zotero.org/groups/5701116/items/FCBFDKY8" n="o.A., Christliche Welt, 1905">
+          <analytic>
+            <title level="a">Christliche Welt</title>
+          </analytic>
+          <monogr>
+            <idno type="callNumber">0100/ZS 18900</idno>
+            <imprint>
+              <biblScope unit="volume">19</biblScope>
+              <date>1905</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__9UXF7BDY" corresp="http://zotero.org/groups/5701116/items/9UXF7BDY" n="Tillich, Frühe Predigten (1909–1918), 1994">
+          <monogr>
+            <title level="m">Frühe Predigten (1909–1918)</title>
+            <title type="short">EW VII</title>
+            <idno type="ISBN">978-3-11-088816-4</idno>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+            <editor>
+              <forename>Erdmann</forename>
+              <surname>Sturm</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Berlin, Boston</pubPlace>
+              <biblScope unit="volume">7</biblScope>
+              <publisher>De Gruyter</publisher>
+              <date>1994</date>
+              <note type="accessed">2025-10-20</note>
+              <note type="url">doi.org/10.1515/9783110888164</note>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Gesammelte Werke. Nachlass- und Ergänzungsbände</title>
+          </series>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__YCT86RMW" corresp="http://zotero.org/groups/5701116/items/YCT86RMW" n="Spinoza, Die Ethik des Spinoza im Urtexte, 1875">
+          <monogr>
+            <title level="m">Die Ethik des Spinoza im Urtexte</title>
+            <author>
+              <forename>B.</forename>
+              <surname>Spinoza</surname>
+            </author>
+            <editor>
+              <forename>H.</forename>
+              <surname>Ginsberg</surname>
+            </editor>
+            <imprint>
+              <publisher>Koschny</publisher>
+              <date>1875</date>
+              <note type="url">https://books.google.at/books?id=0hFGhZlxeekC</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="newspaperArticle" xml:id="tillich__J3CYSYUL" corresp="http://zotero.org/groups/5701116/items/J3CYSYUL" n="Anonym, Lokales, 1907">
+          <analytic>
+            <title level="a">Lokales</title>
+            <author>
+              <name>Anonym</name>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Düsseldorfer General-Anzeiger</title>
+            <edition>Nr. 94, 1. Beilage</edition>
+            <imprint>
+              <biblScope unit="page">3</biblScope>
+              <date>1907</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="newspaperArticle" xml:id="tillich__ERJ565QT" corresp="http://zotero.org/groups/5701116/items/ERJ565QT" n="o.A., Ein französischer Schlachtbericht, 1914">
           <analytic>
             <title level="a">Ein französischer Schlachtbericht</title>
@@ -573,32 +660,6 @@
           </monogr>
           <series>
             <title level="s">Evangelisches Pfarrerbuch für die Mark Brandenburg</title>
-          </series>
-        </biblStruct>
-        <biblStruct type="book" xml:id="tillich__9UXF7BDY" corresp="http://zotero.org/groups/5701116/items/9UXF7BDY" n="Tillich, Frühe Predigten (1909–1918), 1993">
-          <monogr>
-            <title level="m">Frühe Predigten (1909–1918)</title>
-            <title type="short">EW VII</title>
-            <idno type="ISBN">978-3-11-088816-4</idno>
-            <author>
-              <forename>Paul</forename>
-              <surname>Tillich</surname>
-            </author>
-            <editor>
-              <forename>Erdmann</forename>
-              <surname>Sturm</surname>
-            </editor>
-            <imprint>
-              <pubPlace>Berlin, Boston</pubPlace>
-              <biblScope unit="volume">7</biblScope>
-              <publisher>De Gruyter</publisher>
-              <date>1993</date>
-              <note type="accessed">2025-10-20</note>
-              <note type="url">doi.org/10.1515/9783110888164</note>
-            </imprint>
-          </monogr>
-          <series>
-            <title level="s">Gesammelte Werke. Nachlass- und Ergänzungsbände</title>
           </series>
         </biblStruct>
         <biblStruct type="bookSection" xml:id="tillich__PTKBMB7C" corresp="http://zotero.org/groups/5701116/items/PTKBMB7C" n="Wundt, Psychologismus und Logizismus, 1910">
@@ -6859,22 +6920,6 @@ Zur Topographie der „geistigen Geselligkeit“ eines „Weltdorfes“: 1850–
             </imprint>
           </monogr>
         </biblStruct>
-        <biblStruct type="newspaperArticle" xml:id="tillich__J3CYSYUL" corresp="http://zotero.org/groups/5701116/items/J3CYSYUL" n="[Anonym], Lokales, 1907">
-          <analytic>
-            <title level="a">Lokales</title>
-            <author>
-              <name>[Anonym]</name>
-            </author>
-          </analytic>
-          <monogr>
-            <title level="m">Düsseldorfer General-Anzeiger</title>
-            <edition>Nr. 94, 1. Beilage</edition>
-            <imprint>
-              <biblScope unit="page">3</biblScope>
-              <date>1907</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
         <biblStruct type="journalArticle" xml:id="tillich__SSN4VITH" corresp="http://zotero.org/groups/5701116/items/SSN4VITH" n="Wagner, Protokoll des Generalkonvents des 27. Wartburgfestes am 15. Juni 1905 im Fe..., 1905">
           <analytic>
             <title level="a">Protokoll des Generalkonvents des 27. Wartburgfestes am 15. Juni 1905 im Festsaale des Fürstenhofes zu Eisenach</title>
@@ -9542,18 +9587,6 @@ Gegenwart (Festschrift für Franz Oppenheimer zu seinem 60. Geburtstag)</title>
             </imprint>
           </monogr>
         </biblStruct>
-        <biblStruct type="journalArticle" xml:id="tillich__FCBFDKY8" corresp="http://zotero.org/groups/5701116/items/FCBFDKY8" n="o.A., Christliche Welt 1905, 1905">
-          <analytic>
-            <title level="a">Christliche Welt 1905</title>
-          </analytic>
-          <monogr>
-            <idno type="callNumber">0100/ZS 18900</idno>
-            <imprint>
-              <biblScope unit="volume">19</biblScope>
-              <date>1905</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
         <biblStruct type="newspaperArticle" xml:id="tillich__2Q8J72BF" corresp="http://zotero.org/groups/5701116/items/2Q8J72BF" n="Medicus, Zum 150. Geburtstag Fichtes, 1912">
           <analytic>
             <title level="a">Zum 150. Geburtstag Fichtes</title>
@@ -11198,24 +11231,6 @@ GESAMMELTEN WERKEN VON PAUL TILLICH, Bd. X)</title>
           <series>
             <title level="s">Ergänzungs- und Nachlassbände zu den Gesammelten Werken von Paul Tillich</title>
           </series>
-        </biblStruct>
-        <biblStruct type="book" xml:id="tillich__YCT86RMW" corresp="http://zotero.org/groups/5701116/items/YCT86RMW" n="Spinoza, Die Ethik des Spinoza im Urtexte, 1875">
-          <monogr>
-            <title level="m">Die Ethik des Spinoza im Urtexte</title>
-            <author>
-              <forename>B.</forename>
-              <surname>Spinoza</surname>
-            </author>
-            <author>
-              <forename>H.</forename>
-              <surname>Ginsberg</surname>
-            </author>
-            <imprint>
-              <publisher>Koschny</publisher>
-              <date>1875</date>
-              <note type="url">https://books.google.at/books?id=0hFGhZlxeekC</note>
-            </imprint>
-          </monogr>
         </biblStruct>
         <biblStruct type="book" xml:id="tillich__KMCRV2SQ" corresp="http://zotero.org/groups/5701116/items/KMCRV2SQ" n="Juvenal, Satiere VI, None">
           <monogr>
@@ -13058,21 +13073,6 @@ GESAMMELTEN WERKEN VON PAUL TILLICH, Bd. X)</title>
               <pubPlace>Stuttgart</pubPlace>
               <publisher>J. G. Cotta</publisher>
               <date>1886</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="tillich__F5BQYJ8F" corresp="http://zotero.org/groups/5701116/items/F5BQYJ8F" n="Steuernagl, Hebräische Grammatik mit Paradigmen, Literatur, Übungsstücken und Wortverze..., 1905">
-          <monogr>
-            <title level="m">Hebräische Grammatik mit Paradigmen, Literatur, Übungsstücken und Wortverzeichnis</title>
-            <author>
-              <forename>Carl</forename>
-              <surname>Steuernagl</surname>
-            </author>
-            <edition>2. überarbeitete Auflage</edition>
-            <imprint>
-              <pubPlace>Berlin</pubPlace>
-              <publisher>Reuther &amp; Reichard</publisher>
-              <date>1905</date>
             </imprint>
           </monogr>
         </biblStruct>
