@@ -16,6 +16,46 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__K2UFQBK5" corresp="http://zotero.org/groups/5701116/items/K2UFQBK5" n="Hirsch, Kierkegaard-Studien:  H. 3., Der Denker: 1. Studie: Der werdende Denker, 1931">
+          <monogr>
+            <title level="m">Kierkegaard-Studien:  H. 3., Der Denker: 1. Studie: Der werdende Denker</title>
+            <author>
+              <forename>Emanuel</forename>
+              <surname>Hirsch</surname>
+            </author>
+            <imprint>
+              <pubPlace>Gütersloh</pubPlace>
+              <biblScope unit="volume">32</biblScope>
+              <publisher>C. Bertelsmann</publisher>
+              <date>1931</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Studien des apologetischen Seminars</title>
+          </series>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="tillich__HR7VN8BU" corresp="http://zotero.org/groups/5701116/items/HR7VN8BU" n="Tillich, Rechtfertigung und Zweifel, 1999">
+          <analytic>
+            <title level="a">Rechtfertigung und Zweifel</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Religion, Kultur, Gesellschaft. Unveröffentlichte Texte aus der deutschen Zeit (1908-1933). Hg. von Erdmann Sturm</title>
+            <imprint>
+              <pubPlace>Berlin/Boston</pubPlace>
+              <biblScope unit="volume">10.1</biblScope>
+              <biblScope unit="page">127–230</biblScope>
+              <publisher>De Gruyter</publisher>
+              <date>1999</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Ergänzung- und Nachlaßbände</title>
+          </series>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__F5BQYJ8F" corresp="http://zotero.org/groups/5701116/items/F5BQYJ8F" n="Steuernagel, Hebräische Grammatik mit Paradigmen, Literatur, Übungsstücken und Wortverze..., 1905">
           <monogr>
             <title level="m">Hebräische Grammatik mit Paradigmen, Literatur, Übungsstücken und Wortverzeichnis</title>
@@ -1721,24 +1761,6 @@ Ausgewählte Dokumente und Fotos des Bundesarchivs zur Unterzeichnung des Friede
               <biblScope unit="volume">36</biblScope>
               <publisher>C. Bertelsmann</publisher>
               <date>1933</date>
-            </imprint>
-          </monogr>
-          <series>
-            <title level="s">Studien des apologetischen Seminars</title>
-          </series>
-        </biblStruct>
-        <biblStruct type="book" xml:id="tillich__K2UFQBK5" corresp="http://zotero.org/groups/5701116/items/K2UFQBK5" n="Hirsch, Kierkegaard-Studien:  H. 3., Der Denker / 1. Studie., Der werdende Denker, 1931">
-          <monogr>
-            <title level="m">Kierkegaard-Studien:  H. 3., Der Denker / 1. Studie., Der werdende Denker</title>
-            <author>
-              <forename>Emanuel</forename>
-              <surname>Hirsch</surname>
-            </author>
-            <imprint>
-              <pubPlace>Gütersloh</pubPlace>
-              <biblScope unit="volume">32</biblScope>
-              <publisher>C. Bertelsmann</publisher>
-              <date>1931</date>
             </imprint>
           </monogr>
           <series>
