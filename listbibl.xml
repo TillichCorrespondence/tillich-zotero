@@ -16,6 +16,21 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="newspaperArticle" xml:id="tillich__EIB6K6EN" corresp="http://zotero.org/groups/5701116/items/EIB6K6EN" n="o.A., Brandenburgische Provinzialsynode, 1914">
+          <analytic>
+            <title level="a">Brandenburgische Provinzialsynode</title>
+          </analytic>
+          <monogr>
+            <title level="m">Berliner Tageblatt und Handels-Zeitung. Morgen-Ausgabe</title>
+            <imprint>
+              <pubPlace>Berlin</pubPlace>
+              <biblScope unit="volume">43</biblScope>
+              <biblScope unit="issue">636</biblScope>
+              <biblScope unit="page">3</biblScope>
+              <date>1914</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__K2UFQBK5" corresp="http://zotero.org/groups/5701116/items/K2UFQBK5" n="Hirsch, Kierkegaard-Studien:  H. 3., Der Denker: 1. Studie: Der werdende Denker, 1931">
           <monogr>
             <title level="m">Kierkegaard-Studien:  H. 3., Der Denker: 1. Studie: Der werdende Denker</title>
