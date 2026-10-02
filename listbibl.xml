@@ -16,6 +16,42 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="journalArticle" xml:id="tillich__8BIIYRR2" corresp="http://zotero.org/groups/5701116/items/8BIIYRR2" n="Tillich, Die Bundesentwicklung der letzten drei Semester, ihre Ursachen und ihr Resu..., 1907">
+          <analytic>
+            <title level="a">Die Bundesentwicklung der letzten drei Semester, ihre Ursachen und ihr Resultat. Ein Appell an die Philister</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Wingolfs-Blätter (1906/07)</title>
+            <imprint>
+              <biblScope unit="volume">36</biblScope>
+              <biblScope unit="issue">10</biblScope>
+              <biblScope unit="page">83–85</biblScope>
+              <date>1907</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__SSN4VITH" corresp="http://zotero.org/groups/5701116/items/SSN4VITH" n="Wagner, Protokoll des Generalkonvents des 27. Wartburgfestes am 15. Juni 1905 im Fe..., 1905">
+          <analytic>
+            <title level="a">Protokoll des Generalkonvents des 27. Wartburgfestes am 15. Juni 1905 im Festsaale des Fürstenhofes zu Eisenach</title>
+            <author>
+              <forename>Richard</forename>
+              <surname>Wagner</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Wingolfs-Blätter (1904/05)</title>
+            <imprint>
+              <biblScope unit="volume">34</biblScope>
+              <biblScope unit="issue">21</biblScope>
+              <biblScope unit="page">186–188</biblScope>
+              <date>1905</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="newspaperArticle" xml:id="tillich__EIB6K6EN" corresp="http://zotero.org/groups/5701116/items/EIB6K6EN" n="o.A., Brandenburgische Provinzialsynode, 1914">
           <analytic>
             <title level="a">Brandenburgische Provinzialsynode</title>
@@ -6957,24 +6993,6 @@ Zur Topographie der „geistigen Geselligkeit“ eines „Weltdorfes“: 1850–
             </imprint>
           </monogr>
         </biblStruct>
-        <biblStruct type="journalArticle" xml:id="tillich__SSN4VITH" corresp="http://zotero.org/groups/5701116/items/SSN4VITH" n="Wagner, Protokoll des Generalkonvents des 27. Wartburgfestes am 15. Juni 1905 im Fe..., 1905">
-          <analytic>
-            <title level="a">Protokoll des Generalkonvents des 27. Wartburgfestes am 15. Juni 1905 im Festsaale des Fürstenhofes zu Eisenach</title>
-            <author>
-              <forename>Richard</forename>
-              <surname>Wagner</surname>
-            </author>
-          </analytic>
-          <monogr>
-            <title level="j">Wingolfs-Blätter (1904/05)</title>
-            <imprint>
-              <biblScope unit="volume">34</biblScope>
-              <biblScope unit="issue">21</biblScope>
-              <biblScope unit="page">186-188</biblScope>
-              <date>1905</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
         <biblStruct type="journalArticle" xml:id="tillich__BXEJLXW5" corresp="http://zotero.org/groups/5701116/items/BXEJLXW5" n="Nast, Auch ein Appell an die Philister, 1907">
           <analytic>
             <title level="a">Auch ein Appell an die Philister</title>
@@ -7271,24 +7289,6 @@ Zur Topographie der „geistigen Geselligkeit“ eines „Weltdorfes“: 1850–
               <biblScope unit="issue">12b</biblScope>
               <biblScope unit="page">1 f.</biblScope>
               <date>1906</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="journalArticle" xml:id="tillich__8BIIYRR2" corresp="http://zotero.org/groups/5701116/items/8BIIYRR2" n="Tillich, Die Bundesentwicklung der letzten drei Semester, ihre Ursachen und ihr Resu..., 1907">
-          <analytic>
-            <title level="a">Die Bundesentwicklung der letzten drei Semester, ihre Ursachen und ihr Resultat. Ein Appell an die Philister</title>
-            <author>
-              <forename>Paul</forename>
-              <surname>Tillich</surname>
-            </author>
-          </analytic>
-          <monogr>
-            <title level="j">Wingolfs-Blätter (1906/07)</title>
-            <imprint>
-              <biblScope unit="volume">36</biblScope>
-              <biblScope unit="issue">10</biblScope>
-              <biblScope unit="page">83-85</biblScope>
-              <date>1907</date>
             </imprint>
           </monogr>
         </biblStruct>
