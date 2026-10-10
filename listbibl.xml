@@ -16,6 +16,24 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="journalArticle" xml:id="tillich__ZR5SRAXS" corresp="http://zotero.org/groups/5701116/items/ZR5SRAXS" n="Tillich, Christentum, Wirtschaft und Demokratie, 1946">
+          <analytic>
+            <title level="a">Christentum, Wirtschaft und Demokratie</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Tillich</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Neue Auslese aus dem Schrifttum der Gegenwart.</title>
+            <imprint>
+              <biblScope unit="volume">1</biblScope>
+              <biblScope unit="issue">7</biblScope>
+              <biblScope unit="page">2–6</biblScope>
+              <date>1946</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="journalArticle" xml:id="tillich__8BIIYRR2" corresp="http://zotero.org/groups/5701116/items/8BIIYRR2" n="Tillich, Die Bundesentwicklung der letzten drei Semester, ihre Ursachen und ihr Resu..., 1907">
           <analytic>
             <title level="a">Die Bundesentwicklung der letzten drei Semester, ihre Ursachen und ihr Resultat. Ein Appell an die Philister</title>
@@ -2744,24 +2762,6 @@ Ausgewählte Dokumente und Fotos des Bundesarchivs zur Unterzeichnung des Friede
               <biblScope unit="page">1–2</biblScope>
               <date>1947</date>
               <note type="url">https://digital.blb-karlsruhe.de/blbz/periodical/pageview/8617164</note>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="journalArticle" xml:id="tillich__ZR5SRAXS" corresp="http://zotero.org/groups/5701116/items/ZR5SRAXS" n="Tillich, Christentum Wirtschaft und Demokratie, 1946">
-          <analytic>
-            <title level="a">Christentum Wirtschaft und Demokratie</title>
-            <author>
-              <forename>Paul</forename>
-              <surname>Tillich</surname>
-            </author>
-          </analytic>
-          <monogr>
-            <title level="j">Neue Auslese aus dem Schrifttum der Gegenwart.</title>
-            <imprint>
-              <biblScope unit="volume">1</biblScope>
-              <biblScope unit="issue">7</biblScope>
-              <biblScope unit="page">2–6</biblScope>
-              <date>1946</date>
             </imprint>
           </monogr>
         </biblStruct>
