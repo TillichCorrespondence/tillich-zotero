@@ -16,6 +16,63 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__L7XEIS4F" corresp="http://zotero.org/groups/5701116/items/L7XEIS4F" n="Zahn, Albin Indergand, 1901">
+          <monogr>
+            <title level="m">Albin Indergand</title>
+            <author>
+              <forename>Ernst</forename>
+              <surname>Zahn</surname>
+            </author>
+            <imprint>
+              <pubPlace>Frauenfeld</pubPlace>
+              <publisher>Huber</publisher>
+              <date>1901</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__53UPYYAP" corresp="http://zotero.org/groups/5701116/items/53UPYYAP" n="Lepsius, Verhandlungen der Vierten Eisenacher Konferenz. 13. 14. 15. 16. Juni 1905, 1905">
+          <monogr>
+            <title level="m">Verhandlungen der Vierten Eisenacher Konferenz. 13. 14. 15. 16. Juni 1905</title>
+            <author>
+              <forename>Johannes</forename>
+              <surname>Lepsius</surname>
+            </author>
+            <imprint>
+              <pubPlace>Großlichterfelde</pubPlace>
+              <date>1905</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__KY94NUDX" corresp="http://zotero.org/groups/5701116/items/KY94NUDX" n="Dickens, Unser gemeinsamer Freund. Aus dem Englischen von L. Dubois, 1866">
+          <monogr>
+            <title level="m">Unser gemeinsamer Freund. Aus dem Englischen von L. Dubois</title>
+            <author>
+              <forename>Boz</forename>
+              <surname>Dickens</surname>
+            </author>
+            <imprint>
+              <pubPlace>Stuttgart</pubPlace>
+              <biblScope unit="volume">Bd. 1/2</biblScope>
+              <publisher>Hoffmann'sche Verlags-Buchhandlung</publisher>
+              <date>1866</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Boz's (Dickens) sämmtliche Werke</title>
+            <biblScope unit="volume">Bd. 24/25</biblScope>
+          </series>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__RN48D3WG" corresp="http://zotero.org/groups/5701116/items/RN48D3WG" n="Anonym, Landeskirchliche Versammlung. (Eigener Bericht.), 1905">
+          <monogr>
+            <title level="m">Landeskirchliche Versammlung. (Eigener Bericht.)</title>
+            <author>
+              <name>Anonym</name>
+            </author>
+            <imprint>
+              <date>1905</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="journalArticle" xml:id="tillich__ZR5SRAXS" corresp="http://zotero.org/groups/5701116/items/ZR5SRAXS" n="Tillich, Christentum, Wirtschaft und Demokratie, 1946">
           <analytic>
             <title level="a">Christentum, Wirtschaft und Demokratie</title>
@@ -543,18 +600,6 @@
               <pubPlace>Wien</pubPlace>
               <publisher>Daberkow</publisher>
               <date>1903</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="tillich__53UPYYAP" corresp="http://zotero.org/groups/5701116/items/53UPYYAP" n="Vorstand des Eisenacher Bundes, Verhandlungen der Vierten Eisenacher Konferenz. 13. 14. 15. 16. Juni 1905, 1905">
-          <monogr>
-            <title level="m">Verhandlungen der Vierten Eisenacher Konferenz. 13. 14. 15. 16. Juni 1905</title>
-            <author>
-              <name>Vorstand des Eisenacher Bundes</name>
-            </author>
-            <imprint>
-              <pubPlace>Großlichterfelde</pubPlace>
-              <date>1905</date>
             </imprint>
           </monogr>
         </biblStruct>
@@ -6483,24 +6528,6 @@ Zur Topographie der „geistigen Geselligkeit“ eines „Weltdorfes“: 1850–
               <date>1885</date>
             </imprint>
           </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="tillich__KY94NUDX" corresp="http://zotero.org/groups/5701116/items/KY94NUDX" n="Boz (Dickens), Unser gemeinsamer Freund. Aus dem Englischen von L. Dubois, 1866">
-          <monogr>
-            <title level="m">Unser gemeinsamer Freund. Aus dem Englischen von L. Dubois</title>
-            <author>
-              <name>Boz (Dickens)</name>
-            </author>
-            <imprint>
-              <pubPlace>Stuttgart</pubPlace>
-              <biblScope unit="volume">Bd. 1/2</biblScope>
-              <publisher>Hoffmann'sche Verlags-Buchhandlung</publisher>
-              <date>1866</date>
-            </imprint>
-          </monogr>
-          <series>
-            <title level="s">Boz's (Dickens) sämmtliche Werke</title>
-            <biblScope unit="volume">Bd. 24/25</biblScope>
-          </series>
         </biblStruct>
         <biblStruct type="book" xml:id="tillich__C2M2DQMN" corresp="http://zotero.org/groups/5701116/items/C2M2DQMN" n="Schlatter, Predigten in der Stiftskirche zu Tübingen, None">
           <monogr>
@@ -13237,20 +13264,6 @@ GESAMMELTEN WERKEN VON PAUL TILLICH, Bd. X)</title>
             </imprint>
           </monogr>
         </biblStruct>
-        <biblStruct type="book" xml:id="tillich__L7XEIS4F" corresp="http://zotero.org/groups/5701116/items/L7XEIS4F" n="Zahn, Albin Indergang, 1901">
-          <monogr>
-            <title level="m">Albin Indergang</title>
-            <author>
-              <forename>Ernst</forename>
-              <surname>Zahn</surname>
-            </author>
-            <imprint>
-              <pubPlace>Frauenfeld</pubPlace>
-              <publisher>Huber</publisher>
-              <date>1901</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
         <biblStruct type="journalArticle" xml:id="tillich__KPFCQCGS" corresp="http://zotero.org/groups/5701116/items/KPFCQCGS" n="Tillich, Eschatologie und Geschichte, 1927">
           <analytic>
             <title level="a">Eschatologie und Geschichte</title>
@@ -13978,17 +13991,6 @@ GESAMMELTEN WERKEN VON PAUL TILLICH, Bd. X)</title>
               <biblScope unit="issue">17</biblScope>
               <biblScope unit="page">769–773</biblScope>
               <date>1930</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="document" xml:id="tillich__RN48D3WG" corresp="http://zotero.org/groups/5701116/items/RN48D3WG" n="Anonym, Landeskirchliche Versammlung. (Eigener Bericht.), 1905">
-          <monogr>
-            <title level="m">Landeskirchliche Versammlung. (Eigener Bericht.)</title>
-            <author>
-              <name>Anonym</name>
-            </author>
-            <imprint>
-              <date>1905</date>
             </imprint>
           </monogr>
         </biblStruct>
