@@ -16,6 +16,20 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__ZAQRHXSM" corresp="http://zotero.org/groups/5701116/items/ZAQRHXSM" n="Brandenburgische Provinzial-Synode (Hg.), Verhandlungen der 14. ordentlichen Brandenburgischen Provinzialsynode im Ja..., 1915">
+          <monogr>
+            <title level="m">Verhandlungen der 14. ordentlichen Brandenburgischen Provinzialsynode im Jahre 1914</title>
+            <editor>
+              <name>Brandenburgische Provinzial-Synode</name>
+            </editor>
+            <imprint>
+              <pubPlace>Berlin</pubPlace>
+              <biblScope unit="volume">14</biblScope>
+              <publisher>Brandenburgische Provinzialsynode</publisher>
+              <date>1915</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__L7XEIS4F" corresp="http://zotero.org/groups/5701116/items/L7XEIS4F" n="Zahn, Albin Indergand, 1901">
           <monogr>
             <title level="m">Albin Indergand</title>
