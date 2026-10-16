@@ -16,6 +16,49 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__5BXSXI66" corresp="http://zotero.org/groups/5701116/items/5BXSXI66" n="Ibsen, Nora oder Ein Puppenheim: Schauspiel in drei Aufzügen, 1880">
+          <monogr>
+            <title level="m">Nora oder Ein Puppenheim: Schauspiel in drei Aufzügen</title>
+            <author>
+              <forename>Henrik</forename>
+              <surname>Ibsen</surname>
+            </author>
+            <respStmt>
+              <resp>translator</resp>
+              <persName>
+                <forename>Wilhelm</forename>
+                <surname>Lange</surname>
+              </persName>
+            </respStmt>
+            <imprint>
+              <pubPlace>Leipzig</pubPlace>
+              <publisher>Reclam</publisher>
+              <date>1880</date>
+              <note type="url">https://books.google.at/books?id=b_N9ivuAxAgC</note>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Reclams Universal-Bibliothek</title>
+          </series>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__UWQCSKGA" corresp="http://zotero.org/groups/5701116/items/UWQCSKGA" n="Rilke, Das Stunden-Buch: enthaltend die drei Bücher: Vom moenchischen Leben, Von d..., 1899">
+          <monogr>
+            <title level="m">Das Stunden-Buch: enthaltend die drei Bücher: Vom moenchischen Leben, Von der Pilgerschaft, Von der Armuth und vom Tode</title>
+            <author>
+              <forename>R.M.</forename>
+              <surname>Rilke</surname>
+            </author>
+            <author>
+              <forename>W.</forename>
+              <surname>Tiemann</surname>
+            </author>
+            <imprint>
+              <publisher>Insel-Verlag</publisher>
+              <date>1899</date>
+              <note type="url">https://books.google.at/books?id=xYlvDz28q-QC</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__ZAQRHXSM" corresp="http://zotero.org/groups/5701116/items/ZAQRHXSM" n="Brandenburgische Provinzial-Synode (Hg.), Verhandlungen der 14. ordentlichen Brandenburgischen Provinzialsynode im Ja..., 1915">
           <monogr>
             <title level="m">Verhandlungen der 14. ordentlichen Brandenburgischen Provinzialsynode im Jahre 1914</title>
@@ -614,28 +657,6 @@
               <pubPlace>Wien</pubPlace>
               <publisher>Daberkow</publisher>
               <date>1903</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="tillich__UWQCSKGA" corresp="http://zotero.org/groups/5701116/items/UWQCSKGA" n="Rilke, Das Stunden-Buch: enthaltend die drei Bücher: Vom moenchischen Leben, Von d..., 1899">
-          <monogr>
-            <title level="m">Das Stunden-Buch: enthaltend die drei Bücher: Vom moenchischen Leben, Von der Pilgerschaft, Von der Armuth und vom Tode</title>
-            <author>
-              <forename>R.M.</forename>
-              <surname>Rilke</surname>
-            </author>
-            <author>
-              <forename>W.</forename>
-              <surname>Tiemann</surname>
-            </author>
-            <author>
-              <forename>W.</forename>
-              <surname>Drugulin (Firm)</surname>
-            </author>
-            <imprint>
-              <publisher>Insel-Verlag</publisher>
-              <date>1899</date>
-              <note type="url">https://books.google.at/books?id=xYlvDz28q-QC</note>
             </imprint>
           </monogr>
         </biblStruct>
@@ -11438,28 +11459,6 @@ GESAMMELTEN WERKEN VON PAUL TILLICH, Bd. X)</title>
               <date>1934</date>
             </imprint>
           </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="tillich__5BXSXI66" corresp="http://zotero.org/groups/5701116/items/5BXSXI66" n="Ibsen, Nora oder Ein Puppenheim: Schauspiel in drei Aufzügen, 1880">
-          <monogr>
-            <title level="m">Nora oder Ein Puppenheim: Schauspiel in drei Aufzügen</title>
-            <author>
-              <forename>Henrik</forename>
-              <surname>Ibsen</surname>
-            </author>
-            <author>
-              <forename>Wilhelm</forename>
-              <surname>Lange</surname>
-            </author>
-            <imprint>
-              <pubPlace>Leipzig</pubPlace>
-              <publisher>Reclam</publisher>
-              <date>1880</date>
-              <note type="url">https://books.google.at/books?id=b_N9ivuAxAgC</note>
-            </imprint>
-          </monogr>
-          <series>
-            <title level="s">Reclams Universal-Bibliothek</title>
-          </series>
         </biblStruct>
         <biblStruct type="book" xml:id="tillich__VTE2LHGA" corresp="http://zotero.org/groups/5701116/items/VTE2LHGA" n="Windelband, Präludien. Aufsätze und Reden zur Einleitung in die Philosophie, 1884">
           <monogr>
