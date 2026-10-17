@@ -16,6 +16,110 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__JAST8PP4" corresp="http://zotero.org/groups/5701116/items/JAST8PP4" n="Sarges (Hg.), Vademecum Wingolfiticum. Jahrbuch des Wingolfs. Im Auftrage des &quot;Wingolfsbu..., 1908">
+          <monogr>
+            <title level="m">Vademecum Wingolfiticum. Jahrbuch des Wingolfs. Im Auftrage des "Wingolfsbundes"</title>
+            <editor>
+              <forename>Wilhelm</forename>
+              <surname>Sarges</surname>
+            </editor>
+            <respStmt>
+              <resp>contributor</resp>
+              <persName>
+                <forename>Otto</forename>
+                <surname>Doebber</surname>
+              </persName>
+            </respStmt>
+            <respStmt>
+              <resp>contributor</resp>
+              <persName>
+                <forename>Friedrich</forename>
+                <surname>Voemel</surname>
+              </persName>
+            </respStmt>
+            <respStmt>
+              <resp>contributor</resp>
+              <persName>
+                <forename>August</forename>
+                <surname>Winkler</surname>
+              </persName>
+            </respStmt>
+            <edition>Siebente bedeutend vermehrte und umgearbeitete Auflage des geographisch geordneten Verzeichnisses der Mitglieder des Wingolf</edition>
+            <imprint>
+              <pubPlace>Mühlhausen i. Thüringen</pubPlace>
+              <publisher>Selbstverlag des Verfassers</publisher>
+              <date>1908</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__C2M2DQMN" corresp="http://zotero.org/groups/5701116/items/C2M2DQMN" n="Schlatter, Predigten in der Stiftskirche zu Tübingen, 1902">
+          <monogr>
+            <title level="m">Predigten in der Stiftskirche zu Tübingen</title>
+            <extent>10</extent>
+            <author>
+              <forename>Adolf</forename>
+              <surname>Schlatter</surname>
+            </author>
+            <imprint>
+              <pubPlace>Tübingen</pubPlace>
+              <biblScope unit="volume">Jahrgang I-X</biblScope>
+              <publisher>Druck und Verlag von Gg. Schnürlen</publisher>
+              <date>1902</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__2Q556BM4" corresp="http://zotero.org/groups/5701116/items/2Q556BM4" n="Sturm (Hg.), &quot;Vielleicht kommen wir nun doch zu einer gemeinsamen Arbeit in Berlin&quot;. Pau..., 2012">
+          <analytic>
+            <title level="a">"Vielleicht kommen wir nun doch zu einer gemeinsamen Arbeit in Berlin". Paul Tillichs Briefe an Reinhold und Erich Seeberg (1924-1935)</title>
+          </analytic>
+          <monogr>
+            <title level="j">Theology and Natural Science</title>
+            <editor>
+              <forename>Erdmann</forename>
+              <surname>Sturm</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Berlin/Boston</pubPlace>
+              <biblScope unit="volume">7</biblScope>
+              <biblScope unit="issue">1</biblScope>
+              <biblScope unit="page">211–253</biblScope>
+              <date>2012</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">International Yearbook for Tillich Research</title>
+          </series>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__J85DXCGT" corresp="http://zotero.org/groups/5701116/items/J85DXCGT" n="al (Hg.), Atlas Africanus. Belege zur Morphologie der afrikanischen Kulturen, 1921">
+          <monogr>
+            <title level="m">Atlas Africanus. Belege zur Morphologie der afrikanischen Kulturen</title>
+            <editor>
+              <forename>Leo Frobenius et</forename>
+              <surname>al</surname>
+            </editor>
+            <imprint>
+              <date>1921</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="tillich__JGIV267D" corresp="http://zotero.org/groups/5701116/items/JGIV267D" n="Sturm, An der engen Pforte der historischen Methode vorbei... Paul Tillichs Habili..., 2015">
+          <analytic>
+            <title level="a">An der engen Pforte der historischen Methode vorbei... Paul Tillichs Habilitation in Halle (1916) und seine Umhabilitierungen nach Berlin (1919) und Marburg (1924)</title>
+            <author>
+              <forename>Erdmann</forename>
+              <surname>Sturm</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">International Yearbook for Tillich Research</title>
+            <imprint>
+              <biblScope unit="volume">10</biblScope>
+              <biblScope unit="issue">Heft 1</biblScope>
+              <biblScope unit="page">273–332</biblScope>
+              <date>2015</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__5BXSXI66" corresp="http://zotero.org/groups/5701116/items/5BXSXI66" n="Ibsen, Nora oder Ein Puppenheim: Schauspiel in drei Aufzügen, 1880">
           <monogr>
             <title level="m">Nora oder Ein Puppenheim: Schauspiel in drei Aufzügen</title>
@@ -585,23 +689,6 @@
               <pubPlace>Deutschland</pubPlace>
               <publisher>Verlag der Vereinsbuchhandlung</publisher>
               <date>1906</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="journalArticle" xml:id="tillich__JGIV267D" corresp="http://zotero.org/groups/5701116/items/JGIV267D" n="Sturm, An der engen Pforte der historischen Methode vorbei... Paul Tillichs Habili..., 2015">
-          <analytic>
-            <title level="a">An der engen Pforte der historischen Methode vorbei... Paul Tillichs Habilitation in Halle (1916) und seine Umhabilitierungen nach Berlin (1919) und Marburg (1924)</title>
-            <author>
-              <forename>Erdmann</forename>
-              <surname>Sturm</surname>
-            </author>
-          </analytic>
-          <monogr>
-            <title level="j">International Yearbook for Tillich Research</title>
-            <imprint>
-              <biblScope unit="volume">10 Heft 1</biblScope>
-              <biblScope unit="page">273–332</biblScope>
-              <date>2015</date>
             </imprint>
           </monogr>
         </biblStruct>
@@ -6564,21 +6651,6 @@ Zur Topographie der „geistigen Geselligkeit“ eines „Weltdorfes“: 1850–
             </imprint>
           </monogr>
         </biblStruct>
-        <biblStruct type="book" xml:id="tillich__C2M2DQMN" corresp="http://zotero.org/groups/5701116/items/C2M2DQMN" n="Schlatter, Predigten in der Stiftskirche zu Tübingen, None">
-          <monogr>
-            <title level="m">Predigten in der Stiftskirche zu Tübingen</title>
-            <author>
-              <forename>Adolf</forename>
-              <surname>Schlatter</surname>
-            </author>
-            <imprint>
-              <pubPlace>Tübingen</pubPlace>
-              <biblScope unit="volume">Elf Jahrgänge, 1902-1912</biblScope>
-              <publisher>Druck und Verlag von Gg. Schnürlen</publisher>
-              <date/>
-            </imprint>
-          </monogr>
-        </biblStruct>
         <biblStruct type="book" xml:id="tillich__QETUFZVA" corresp="http://zotero.org/groups/5701116/items/QETUFZVA" n="Ungnad, Die Religion der Babylonier und Assyrer, 1921">
           <monogr>
             <title level="m">Die Religion der Babylonier und Assyrer</title>
@@ -11973,27 +12045,6 @@ GESAMMELTEN WERKEN VON PAUL TILLICH, Bd. X)</title>
             </imprint>
           </monogr>
         </biblStruct>
-        <biblStruct type="bookSection" xml:id="tillich__2Q556BM4" corresp="http://zotero.org/groups/5701116/items/2Q556BM4" n="Sturm (Hg.), &quot;Vielleicht kommen wir nun doch zu einer gemeinsamen Arbeit in Berlin&quot;. Pau..., 2012">
-          <analytic>
-            <title level="a">"Vielleicht kommen wir nun doch zu einer gemeinsamen Arbeit in Berlin". Paul Tillichs Briefe an Reinhold und Erich Seeberg (1924-1935)</title>
-          </analytic>
-          <monogr>
-            <title level="m">Theology and Natural Science</title>
-            <editor>
-              <forename>Erdmann</forename>
-              <surname>Sturm</surname>
-            </editor>
-            <imprint>
-              <pubPlace>Berlin/Boston</pubPlace>
-              <biblScope unit="volume">7</biblScope>
-              <biblScope unit="page">211–253</biblScope>
-              <date>2012</date>
-            </imprint>
-          </monogr>
-          <series>
-            <title level="s">International Yearbook for Tillich Research</title>
-          </series>
-        </biblStruct>
         <biblStruct type="book" xml:id="tillich__GDZ8A7XV" corresp="http://zotero.org/groups/5701116/items/GDZ8A7XV" n="Ovid, Metamorphosen, None">
           <monogr>
             <title level="m">Metamorphosen</title>
@@ -12091,18 +12142,6 @@ GESAMMELTEN WERKEN VON PAUL TILLICH, Bd. X)</title>
               <pubPlace>Deutschland</pubPlace>
               <publisher>Nicolovius</publisher>
               <date>1798</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="tillich__J85DXCGT" corresp="http://zotero.org/groups/5701116/items/J85DXCGT" n="al (Hg.), Atlas Africanus. Belege zur Morphologie der afrikanischen Kulturen, 1921">
-          <monogr>
-            <title level="m">Atlas Africanus. Belege zur Morphologie der afrikanischen Kulturen</title>
-            <editor>
-              <forename>Leo Frobenius et</forename>
-              <surname>al</surname>
-            </editor>
-            <imprint>
-              <date>1921</date>
             </imprint>
           </monogr>
         </biblStruct>
