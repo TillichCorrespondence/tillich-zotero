@@ -16,6 +16,45 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__KMCRV2SQ" corresp="http://zotero.org/groups/5701116/items/KMCRV2SQ" n="Juvenal, Satiere VI, None">
+          <monogr>
+            <title level="m">Satiere VI</title>
+            <author>
+              <name>Juvenal</name>
+            </author>
+            <imprint>
+              <date/>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__3ABLQTAX" corresp="http://zotero.org/groups/5701116/items/3ABLQTAX" n="Ibsen, Brand. Ein dramatisches Gedicht. Uebersetzt von L. Passarge, 1881">
+          <monogr>
+            <title level="m">Brand. Ein dramatisches Gedicht. Uebersetzt von L. Passarge</title>
+            <author>
+              <forename>Henrik</forename>
+              <surname>Ibsen</surname>
+            </author>
+            <imprint>
+              <pubPlace>Leipzig</pubPlace>
+              <publisher>Verlag von Philipp Reclam jun.</publisher>
+              <date>1881</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__BGIXEJJY" corresp="http://zotero.org/groups/5701116/items/BGIXEJJY" n="Strindberg, Rausch – Totentanz, 1912">
+          <monogr>
+            <title level="m">Rausch – Totentanz</title>
+            <author>
+              <forename>August</forename>
+              <surname>Strindberg</surname>
+            </author>
+            <imprint>
+              <pubPlace>München/Leipzig</pubPlace>
+              <publisher>Georg Müller</publisher>
+              <date>1912</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__JAST8PP4" corresp="http://zotero.org/groups/5701116/items/JAST8PP4" n="Sarges (Hg.), Vademecum Wingolfiticum. Jahrbuch des Wingolfs. Im Auftrage des &quot;Wingolfsbu..., 1908">
           <monogr>
             <title level="m">Vademecum Wingolfiticum. Jahrbuch des Wingolfs. Im Auftrage des "Wingolfsbundes"</title>
@@ -1446,20 +1485,6 @@ Ausgewählte Dokumente und Fotos des Bundesarchivs zur Unterzeichnung des Friede
               <biblScope unit="volume">1</biblScope>
               <publisher>Verlag für Militärgeschichte und deutsches Schrifttum</publisher>
               <date>1934</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="tillich__3ABLQTAX" corresp="http://zotero.org/groups/5701116/items/3ABLQTAX" n="Ibsen, Brand. Ein dramatisches Gedicht. Uebersetzt von L. Passarge., 1881">
-          <monogr>
-            <title level="m">Brand. Ein dramatisches Gedicht. Uebersetzt von L. Passarge.</title>
-            <author>
-              <forename>Henrik</forename>
-              <surname>Ibsen</surname>
-            </author>
-            <imprint>
-              <pubPlace>Leipzig</pubPlace>
-              <publisher>Verlag von Philipp Reclam jun.</publisher>
-              <date>1881</date>
             </imprint>
           </monogr>
         </biblStruct>
@@ -8328,20 +8353,6 @@ Gegenwart (Festschrift für Franz Oppenheimer zu seinem 60. Geburtstag)</title>
             </imprint>
           </monogr>
         </biblStruct>
-        <biblStruct type="book" xml:id="tillich__BGIXEJJY" corresp="http://zotero.org/groups/5701116/items/BGIXEJJY" n="Strindberg, Rausch Totentanz, 1912">
-          <monogr>
-            <title level="m">Rausch Totentanz</title>
-            <author>
-              <forename>August</forename>
-              <surname>Strindberg</surname>
-            </author>
-            <imprint>
-              <pubPlace>München/Leipzig</pubPlace>
-              <publisher>Georg Müller</publisher>
-              <date>1912</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
         <biblStruct type="book" xml:id="tillich__87S4BCUS" corresp="http://zotero.org/groups/5701116/items/87S4BCUS" n="Schleiermacher, Schleiermachers vertraute Briefe über die Lucinde, 1835">
           <monogr>
             <title level="m">Schleiermachers vertraute Briefe über die Lucinde</title>
@@ -11402,17 +11413,6 @@ GESAMMELTEN WERKEN VON PAUL TILLICH, Bd. X)</title>
           <series>
             <title level="s">Ergänzungs- und Nachlassbände zu den Gesammelten Werken von Paul Tillich</title>
           </series>
-        </biblStruct>
-        <biblStruct type="book" xml:id="tillich__KMCRV2SQ" corresp="http://zotero.org/groups/5701116/items/KMCRV2SQ" n="Juvenal, Satiere VI, None">
-          <monogr>
-            <title level="m">Satiere VI</title>
-            <author>
-              <name>Juvenal</name>
-            </author>
-            <imprint>
-              <date/>
-            </imprint>
-          </monogr>
         </biblStruct>
         <biblStruct type="book" xml:id="tillich__CCA3U7KD" corresp="http://zotero.org/groups/5701116/items/CCA3U7KD" n="Reyer, Einführung in die Phänomenologie, 1926">
           <monogr>
