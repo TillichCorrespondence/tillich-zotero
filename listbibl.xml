@@ -16,6 +16,38 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="newspaperArticle" xml:id="tillich__BPCYDV29" corresp="http://zotero.org/groups/5701116/items/BPCYDV29" n="[Anonym], Natur und Christentum, 1906">
+          <analytic>
+            <title level="a">Natur und Christentum</title>
+            <author>
+              <name>[Anonym]</name>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Der Reichsbote</title>
+            <imprint>
+              <pubPlace>Berlin</pubPlace>
+              <biblScope unit="issue">275</biblScope>
+              <date>1906</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="newspaperArticle" xml:id="tillich__PBRIEQCI" corresp="http://zotero.org/groups/5701116/items/PBRIEQCI" n="[Anonym], o.T., 1906">
+          <analytic>
+            <title level="a">o.T.</title>
+            <author>
+              <name>[Anonym]</name>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Der Reichsbote</title>
+            <imprint>
+              <pubPlace>Berlin</pubPlace>
+              <biblScope unit="issue">253</biblScope>
+              <date>1906</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__KMCRV2SQ" corresp="http://zotero.org/groups/5701116/items/KMCRV2SQ" n="Juvenal, Satiere VI, None">
           <monogr>
             <title level="m">Satiere VI</title>
@@ -2305,19 +2337,6 @@ Ausgewählte Dokumente und Fotos des Bundesarchivs zur Unterzeichnung des Friede
             <biblScope unit="volume">VIII</biblScope>
           </series>
         </biblStruct>
-        <biblStruct type="newspaperArticle" xml:id="tillich__BPCYDV29" corresp="http://zotero.org/groups/5701116/items/BPCYDV29" n="o.A., Natur und Christentum, 1906">
-          <analytic>
-            <title level="a">Natur und Christentum</title>
-          </analytic>
-          <monogr>
-            <title level="m">Der Reichsbote</title>
-            <imprint>
-              <pubPlace>Berlin</pubPlace>
-              <biblScope unit="issue">275</biblScope>
-              <date>1906</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
         <biblStruct type="journalArticle" xml:id="tillich__ILC8E459" corresp="http://zotero.org/groups/5701116/items/ILC8E459" n="o.A., Kirche und Schule, 1907">
           <analytic>
             <title level="a">Kirche und Schule</title>
@@ -2340,19 +2359,6 @@ Ausgewählte Dokumente und Fotos des Bundesarchivs zur Unterzeichnung des Friede
             <imprint>
               <pubPlace>Berlin</pubPlace>
               <biblScope unit="issue">275</biblScope>
-              <date>1906</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="newspaperArticle" xml:id="tillich__PBRIEQCI" corresp="http://zotero.org/groups/5701116/items/PBRIEQCI" n="o.A., o.T., 1906">
-          <analytic>
-            <title level="a"/>
-          </analytic>
-          <monogr>
-            <title level="m">Der Reichsbote</title>
-            <imprint>
-              <pubPlace>Berlin</pubPlace>
-              <biblScope unit="issue">253</biblScope>
               <date>1906</date>
             </imprint>
           </monogr>
@@ -7483,24 +7489,6 @@ Zur Topographie der „geistigen Geselligkeit“ eines „Weltdorfes“: 1850–
               <biblScope unit="issue">19</biblScope>
               <biblScope unit="page">177 f.</biblScope>
               <date>1906</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="journalArticle" xml:id="tillich__A4NXC6CY" corresp="http://zotero.org/groups/5701116/items/A4NXC6CY" n="Kunsemüller, Protokoll des Generalkonvents des 27. Wartburgfestes am 15. Juli 1905 im Fe..., 1905">
-          <analytic>
-            <title level="a">Protokoll des Generalkonvents des 27. Wartburgfestes am 15. Juli 1905 im Festsaal des Fürstenhofes zu Eisenach</title>
-            <author>
-              <forename>Ernst</forename>
-              <surname>Kunsemüller</surname>
-            </author>
-          </analytic>
-          <monogr>
-            <title level="j">Wingolfs-Blätter (1904/05)</title>
-            <imprint>
-              <biblScope unit="volume">34</biblScope>
-              <biblScope unit="issue">21</biblScope>
-              <biblScope unit="page">187 f.</biblScope>
-              <date>1905</date>
             </imprint>
           </monogr>
         </biblStruct>
