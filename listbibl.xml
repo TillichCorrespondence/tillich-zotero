@@ -16,6 +16,75 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__J9T4DSKJ" corresp="http://zotero.org/groups/5701116/items/J9T4DSKJ" n="Husserl, Briefwechsel, Teil 6: Philosophenbriefe, 1994">
+          <monogr>
+            <title level="m">Briefwechsel, Teil 6: Philosophenbriefe</title>
+            <extent>10</extent>
+            <author>
+              <forename>Edmund</forename>
+              <surname>Husserl</surname>
+            </author>
+            <imprint>
+              <pubPlace>Dodrecht, Boston, London</pubPlace>
+              <biblScope unit="volume">6</biblScope>
+              <publisher>Kluwer Academic Publishers</publisher>
+              <date>1994</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Husserliana, Dokumente, Band III</title>
+          </series>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__NGXSH5ZJ" corresp="http://zotero.org/groups/5701116/items/NGXSH5ZJ" n="Hegel, Wissenschaft der Logik, 1834">
+          <monogr>
+            <title level="m">Wissenschaft der Logik</title>
+            <author>
+              <forename>Georg Wilhelm Friedrich</forename>
+              <surname>Hegel</surname>
+            </author>
+            <imprint>
+              <pubPlace>Berlin</pubPlace>
+              <biblScope unit="volume">Zweiter Theil: Die subjektive Logik, oder: Die Lehre vom Begriff</biblScope>
+              <publisher>Duncker &amp; Humblot</publisher>
+              <date>1834</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Georg Friedrich Wilhelm Hegel's Werke. Vollständige Ausgabe durch einen Verein von Freunden des Verewigten</title>
+            <biblScope unit="volume">5</biblScope>
+          </series>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__KUP7N66I" corresp="http://zotero.org/groups/5701116/items/KUP7N66I" n="[Martin Luther], Die Deutsche Bibel, 1931">
+          <monogr>
+            <title level="m">Die Deutsche Bibel</title>
+            <author>
+              <name>[Martin Luther]</name>
+            </author>
+            <imprint>
+              <pubPlace>Weimar</pubPlace>
+              <biblScope unit="volume">7. Band</biblScope>
+              <publisher>Hermann Böhlaus Nachfolger</publisher>
+              <date>1931</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">D. Martin Luthers Werke. Kritische Gesamtausgabe</title>
+          </series>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__7AZKI4QI" corresp="http://zotero.org/groups/5701116/items/7AZKI4QI" n="Kindt (Hg.), Hermann Schafft: Ein Lebenswerk, 1960">
+          <monogr>
+            <title level="m">Hermann Schafft: Ein Lebenswerk</title>
+            <editor>
+              <forename>Werner</forename>
+              <surname>Kindt</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Kassel</pubPlace>
+              <publisher>Johannes Stauda-Verlag</publisher>
+              <date>1960</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="newspaperArticle" xml:id="tillich__BPCYDV29" corresp="http://zotero.org/groups/5701116/items/BPCYDV29" n="[Anonym], Natur und Christentum, 1906">
           <analytic>
             <title level="a">Natur und Christentum</title>
@@ -887,24 +956,6 @@
             <title level="s">Reclams Universal-Bibliothek</title>
           </series>
         </biblStruct>
-        <biblStruct type="book" xml:id="tillich__7AZKI4QI" corresp="http://zotero.org/groups/5701116/items/7AZKI4QI" n="Schafft, Hermann Schafft: Ein Lebenswerk, 1960">
-          <monogr>
-            <title level="m">Hermann Schafft: Ein Lebenswerk</title>
-            <author>
-              <forename>Herrmann</forename>
-              <surname>Schafft</surname>
-            </author>
-            <author>
-              <forename>Werner</forename>
-              <surname>Kindt</surname>
-            </author>
-            <imprint>
-              <pubPlace>Kassel</pubPlace>
-              <publisher>Johannes Stauda-Verlag</publisher>
-              <date>1960</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
         <biblStruct type="book" xml:id="tillich__VCEFIT5D" corresp="http://zotero.org/groups/5701116/items/VCEFIT5D" n="Brandenburgischer Provinzialsynodalverband (Hg.), Evangelisches Pfarrerbuch für die Mark Brandenburg. 2. Band, 1. Teil, 1941">
           <monogr>
             <title level="m">Evangelisches Pfarrerbuch für die Mark Brandenburg. 2. Band, 1. Teil</title>
@@ -968,25 +1019,6 @@
               <date>1904</date>
             </imprint>
           </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="tillich__J9T4DSKJ" corresp="http://zotero.org/groups/5701116/items/J9T4DSKJ" n="Husserl, Briefwechsel, Teil 6: Philosophenbriefe, 1994">
-          <monogr>
-            <title level="m">Briefwechsel, Teil 6: Philosophenbriefe</title>
-            <extent>10</extent>
-            <author>
-              <forename>Edmund</forename>
-              <surname>Husserl</surname>
-            </author>
-            <imprint>
-              <pubPlace>Dodrecht, Boston, London</pubPlace>
-              <biblScope unit="volume">6</biblScope>
-              <publisher>Klewer Academic Publishers</publisher>
-              <date>1994</date>
-            </imprint>
-          </monogr>
-          <series>
-            <title level="s">Husserliana, Dokumente, Band III</title>
-          </series>
         </biblStruct>
         <biblStruct type="book" xml:id="tillich__7UNW49KA" corresp="http://zotero.org/groups/5701116/items/7UNW49KA" n="Brandenburgischer Provinzialsynodalverband (Hg.), Evangelisches Pfarrerbuch für die Mark Brandenburg. 2. Band, 2. Teil, 1941">
           <monogr>
@@ -4175,20 +4207,6 @@ Zur Topographie der „geistigen Geselligkeit“ eines „Weltdorfes“: 1850–
               <pubPlace>Berlin</pubPlace>
               <publisher>Duncker &amp; Humblot</publisher>
               <date/>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="tillich__NGXSH5ZJ" corresp="http://zotero.org/groups/5701116/items/NGXSH5ZJ" n="Hegel, Wissenschaft der Logik, 1833">
-          <monogr>
-            <title level="m">Wissenschaft der Logik</title>
-            <author>
-              <forename>Georg Wilhelm Friedrich</forename>
-              <surname>Hegel</surname>
-            </author>
-            <imprint>
-              <pubPlace>Berlin</pubPlace>
-              <publisher>Duncker &amp; Humblot</publisher>
-              <date>1833</date>
             </imprint>
           </monogr>
         </biblStruct>
@@ -7692,23 +7710,6 @@ Gegenwart (Festschrift für Franz Oppenheimer zu seinem 60. Geburtstag)</title>
               <date/>
             </imprint>
           </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="tillich__KUP7N66I" corresp="http://zotero.org/groups/5701116/items/KUP7N66I" n="[Luther, Martin], Die Deutsche Bibel, 1931">
-          <monogr>
-            <title level="m">Die Deutsche Bibel</title>
-            <author>
-              <name>[Luther, Martin]</name>
-            </author>
-            <imprint>
-              <pubPlace>Weimar</pubPlace>
-              <biblScope unit="volume">7. Band</biblScope>
-              <publisher>Hermann Böhlaus Nachfolger</publisher>
-              <date>1931</date>
-            </imprint>
-          </monogr>
-          <series>
-            <title level="s">D. Martin Luthers Werke. Kritische Gesamtausgabe</title>
-          </series>
         </biblStruct>
         <biblStruct type="book" xml:id="tillich__MK5WQ2WA" corresp="http://zotero.org/groups/5701116/items/MK5WQ2WA" n="Schmidt, Die Thronfahrt Jahves am Fest der Jahreswende im alten Israel, 1927">
           <monogr>
