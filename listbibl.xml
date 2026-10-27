@@ -16,6 +16,75 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__KUP7N66I" corresp="http://zotero.org/groups/5701116/items/KUP7N66I" n="o.A., Die Deutsche Bibel, 1931">
+          <monogr>
+            <title level="m">Die Deutsche Bibel</title>
+            <author>
+              <forename>[Martin Luther]</forename>
+            </author>
+            <imprint>
+              <pubPlace>Weimar</pubPlace>
+              <biblScope unit="volume">7. Band</biblScope>
+              <publisher>Hermann Böhlaus Nachfolger</publisher>
+              <date>1931</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">D. Martin Luthers Werke. Kritische Gesamtausgabe</title>
+          </series>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__M79367QH" corresp="http://zotero.org/groups/5701116/items/M79367QH" n="o.A., Odyssee. Erster bis zwölfter Gesang, 1914">
+          <monogr>
+            <title level="m">Odyssee. Erster bis zwölfter Gesang</title>
+            <respStmt>
+              <resp>translator</resp>
+              <persName>
+                <forename>Johann Heinrich</forename>
+                <surname>Voß</surname>
+              </persName>
+            </respStmt>
+            <author>
+              <forename>Homer</forename>
+            </author>
+            <imprint>
+              <pubPlace>Leipzig</pubPlace>
+              <publisher>Der Tempel</publisher>
+              <date>1914</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="tillich__CRFS4FJS" corresp="http://zotero.org/groups/5701116/items/CRFS4FJS" n="Dorner, Das Princip unserer Kirche nach dem inneren Verhältniß der materialen und f..., 1883">
+          <analytic>
+            <title level="a">Das Princip unserer Kirche nach dem inneren Verhältniß der materialen und formalen Seite desselben zu einander</title>
+            <author>
+              <forename>Isaak August</forename>
+              <surname>Dorner</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Gesammelte Schriften aus dem Gebiet der systematischen Theologie, Exegese und Geschichte</title>
+            <idno type="callNumber">BV-Nummer: BV009095528, RVK-Notation: BW 32504</idno>
+            <imprint>
+              <pubPlace>Berlin</pubPlace>
+              <biblScope unit="page">48-152</biblScope>
+              <publisher>Wilhelm Hertz</publisher>
+              <date>1883</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__KTIX8RQN" corresp="http://zotero.org/groups/5701116/items/KTIX8RQN" n="Hartmann, Der Islam. Geschichte – Glaube – Recht: Ein Handbuch, 1909">
+          <monogr>
+            <title level="m">Der Islam. Geschichte – Glaube – Recht: Ein Handbuch</title>
+            <author>
+              <forename>Martin</forename>
+              <surname>Hartmann</surname>
+            </author>
+            <imprint>
+              <pubPlace>Leipzig</pubPlace>
+              <date>1909</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="bookSection" xml:id="tillich__GPUNKARH" corresp="http://zotero.org/groups/5701116/items/GPUNKARH" n="Tillich, 2. Kor 4,17f – Auf das Unsichtbare und Ewige sehen, 1994">
           <analytic>
             <title level="a">2. Kor 4,17f – Auf das Unsichtbare und Ewige sehen</title>
@@ -73,23 +142,6 @@
           <series>
             <title level="s">Georg Friedrich Wilhelm Hegel's Werke. Vollständige Ausgabe durch einen Verein von Freunden des Verewigten</title>
             <biblScope unit="volume">5</biblScope>
-          </series>
-        </biblStruct>
-        <biblStruct type="book" xml:id="tillich__KUP7N66I" corresp="http://zotero.org/groups/5701116/items/KUP7N66I" n="[Martin Luther], Die Deutsche Bibel, 1931">
-          <monogr>
-            <title level="m">Die Deutsche Bibel</title>
-            <author>
-              <name>[Martin Luther]</name>
-            </author>
-            <imprint>
-              <pubPlace>Weimar</pubPlace>
-              <biblScope unit="volume">7. Band</biblScope>
-              <publisher>Hermann Böhlaus Nachfolger</publisher>
-              <date>1931</date>
-            </imprint>
-          </monogr>
-          <series>
-            <title level="s">D. Martin Luthers Werke. Kritische Gesamtausgabe</title>
           </series>
         </biblStruct>
         <biblStruct type="book" xml:id="tillich__7AZKI4QI" corresp="http://zotero.org/groups/5701116/items/7AZKI4QI" n="Kindt (Hg.), Hermann Schafft: Ein Lebenswerk, 1960">
@@ -802,26 +854,6 @@
               <pubPlace>Leipzig</pubPlace>
               <publisher>Veit</publisher>
               <date>1896</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="tillich__M79367QH" corresp="http://zotero.org/groups/5701116/items/M79367QH" n="Homer, Odyssee. Erster bis zwölfter Gesang, 1914">
-          <monogr>
-            <title level="m">Odyssee. Erster bis zwölfter Gesang</title>
-            <author>
-              <name>Homer</name>
-            </author>
-            <respStmt>
-              <resp>translator</resp>
-              <persName>
-                <forename>Johann Heinrich</forename>
-                <surname>Voß</surname>
-              </persName>
-            </respStmt>
-            <imprint>
-              <pubPlace>Leipzig</pubPlace>
-              <publisher>Der Tempel</publisher>
-              <date>1914</date>
             </imprint>
           </monogr>
         </biblStruct>
@@ -4172,19 +4204,6 @@ Zur Topographie der „geistigen Geselligkeit“ eines „Weltdorfes“: 1850–
             </imprint>
           </monogr>
         </biblStruct>
-        <biblStruct type="book" xml:id="tillich__KTIX8RQN" corresp="http://zotero.org/groups/5701116/items/KTIX8RQN" n="Hartmann, Der Islam. Geschichte ‒ Glaube ‒ Recht: Ein Handbuch, 1909">
-          <monogr>
-            <title level="m">Der Islam. Geschichte ‒ Glaube ‒ Recht: Ein Handbuch</title>
-            <author>
-              <forename>Martin</forename>
-              <surname>Hartmann</surname>
-            </author>
-            <imprint>
-              <pubPlace>Leipzig</pubPlace>
-              <date>1909</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
         <biblStruct type="journalArticle" xml:id="tillich__IFQUXBDI" corresp="http://zotero.org/groups/5701116/items/IFQUXBDI" n="Hirsch, Liebe und Persönlichkeit, 1918">
           <analytic>
             <title level="a">Liebe und Persönlichkeit</title>
@@ -5853,24 +5872,6 @@ Zur Topographie der „geistigen Geselligkeit“ eines „Weltdorfes“: 1850–
           <series>
             <title level="s">Lehrbuch der Philosophie</title>
           </series>
-        </biblStruct>
-        <biblStruct type="bookSection" xml:id="tillich__CRFS4FJS" corresp="http://zotero.org/groups/5701116/items/CRFS4FJS" n="Dorner, Das Prinzip unserer Kirche nach dem inneren Verhältniß der materialen und f..., 1883">
-          <analytic>
-            <title level="a">Das Prinzip unserer Kirche nach dem inneren Verhältniß der materialen und formalen Seite desselben zu einander</title>
-            <author>
-              <forename>Isaak August</forename>
-              <surname>Dorner</surname>
-            </author>
-          </analytic>
-          <monogr>
-            <title level="m">Gesammelte Schriften aus dem Gebiet der systematischen Theologie, Exegese und Geschichte</title>
-            <idno type="callNumber">BV-Nummer: BV009095528, RVK-Notation: BW 32504</idno>
-            <imprint>
-              <pubPlace>Berlin</pubPlace>
-              <publisher>Hertz</publisher>
-              <date>1883</date>
-            </imprint>
-          </monogr>
         </biblStruct>
         <biblStruct type="newspaperArticle" xml:id="tillich__EDTM9B9P" corresp="http://zotero.org/groups/5701116/items/EDTM9B9P" n="o.A., Der deutschen Jugend. Beilage der Deutschen Allgemeinen Zeitung. Weihnachte..., 1923">
           <analytic>
