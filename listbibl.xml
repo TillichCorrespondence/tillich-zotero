@@ -16,6 +16,16 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="tillich__928TJQII" corresp="http://zotero.org/groups/5701116/items/928TJQII" n="o.A., Jahres-Verzeichniss der an den Deutschen Universitäten erschienenen Schrift..., 1906">
+          <monogr>
+            <title level="m">Jahres-Verzeichniss der an den Deutschen Universitäten erschienenen Schriften</title>
+            <imprint>
+              <pubPlace>Berlin</pubPlace>
+              <biblScope unit="volume">XX</biblScope>
+              <date>1906</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="tillich__KUP7N66I" corresp="http://zotero.org/groups/5701116/items/KUP7N66I" n="o.A., Die Deutsche Bibel, 1931">
           <monogr>
             <title level="m">Die Deutsche Bibel</title>
