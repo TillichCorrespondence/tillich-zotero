@@ -16,12 +16,29 @@
   <text>
     <body>
       <listBibl>
-        <biblStruct type="book" xml:id="tillich__928TJQII" corresp="http://zotero.org/groups/5701116/items/928TJQII" n="o.A., Jahres-Verzeichniss der an den Deutschen Universitäten erschienenen Schrift..., 1906">
+        <biblStruct type="thesis" xml:id="tillich__NVR7MQYS" corresp="http://zotero.org/groups/5701116/items/NVR7MQYS" n="Dürselen, Thesen ... zur Erlangung des Grades eines Licentiaten der Theologie, 1905">
           <monogr>
-            <title level="m">Jahres-Verzeichniss der an den Deutschen Universitäten erschienenen Schriften</title>
+            <title level="m">Thesen ... zur Erlangung des Grades eines Licentiaten der Theologie</title>
+            <author>
+              <forename>Paul Rudolf</forename>
+              <surname>Dürselen</surname>
+            </author>
+            <imprint>
+              <pubPlace>Greifswald</pubPlace>
+              <date>1905</date>
+              <note type="thesisType">Thesen</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="tillich__928TJQII" corresp="http://zotero.org/groups/5701116/items/928TJQII" n="Königliche Bibliothek zu Berlin (Hg.), Jahres-Verzeichnis der an den Deutschen Universitäten erschienenen Schrifte..., 1906">
+          <monogr>
+            <title level="m">Jahres-Verzeichnis der an den Deutschen Universitäten erschienenen Schriften XX: 15. August 1904 bis 14. August 1905</title>
+            <editor>
+              <name>Königliche Bibliothek zu Berlin</name>
+            </editor>
             <imprint>
               <pubPlace>Berlin</pubPlace>
-              <biblScope unit="volume">XX</biblScope>
+              <publisher>Behrend &amp; Co.</publisher>
               <date>1906</date>
             </imprint>
           </monogr>
